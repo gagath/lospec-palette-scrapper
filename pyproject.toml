@@ -1,16 +1,14 @@
 [tool.poetry]
-name = "lospec-color-palette-rip"
+name = "lospec-palette-scrapper"
 version = "0.1.0"
-description = ""
+description = "A web scrapper for the LOSPEC color palettes. "
 authors = ["Agathe Porte <microjoe@microjoe.org>"]
 readme = "README.md"
-packages = [{include = "lospec_color_palette_rip"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
 aiohttp = "^3.8.1"
 SQLAlchemy = "^1.4.31"
-
 
 [tool.poetry.group.dev.dependencies]
 black = "^22.1.0"
