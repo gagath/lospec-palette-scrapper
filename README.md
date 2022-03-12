@@ -47,3 +47,5 @@ The implementation has been written in a fully-[async](https://docs.python.org/3
 ## License
 
 This software is licensed under the [MIT license](LICENSES/MIT.txt).
+
+The provided scrapped data is placed under [CC0-1.0 license](LICENSES/CC0-1.0.txt)
