@@ -1,0 +1,74 @@
+{
+    "_id": "6081fe59c6560d16b883388e",
+    "tags": [
+        "blue",
+        "pink",
+        "gray"
+    ],
+    "colors": [
+        "282d3c",
+        "5b5d70",
+        "74838c",
+        "ffc4b8",
+        "f69197"
+    ],
+    "downloads": "1,411",
+    "featured": false,
+    "likes": 158,
+    "comments": 2,
+    "slug": "late-night-bath",
+    "publishedAt": "2021-04-25T05:05:00.036Z",
+    "user": {
+        "name": "sukinapan",
+        "slug": "sukinapan"
+    },
+    "title": "late night bath",
+    "hashtag": "latenightbathpalette",
+    "description": "a somewhat gloomy, low saturation palette",
+    "creator": true,
+    "createdAt": "2021-04-22T22:53:13.590Z",
+    "numberOfColors": 5,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60820011c6560d16b88338a7",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "late night bath Palette Example by sukinapan",
+            "slug": "late-night-bath-palette-example-by-sukinapan",
+            "publishedAt": "2021-04-23T18:25:00.016Z",
+            "user": {
+                "name": "sukinapan",
+                "slug": "sukinapan"
+            },
+            "parent": "6081fe59c6560d16b883388e",
+            "image": "palette-examples/late-night-bath-palette-example-by-sukinapan-608200.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-04-22T23:00:33.366Z",
+            "updatedAt": "2021-04-23T18:25:00.017Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "282d3c",
+        "5b5d70",
+        "74838c",
+        "ffc4b8",
+        "f69197"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "6081fe59c6560d16b883388e",
+        "type": "palettes",
+        "count": 158,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

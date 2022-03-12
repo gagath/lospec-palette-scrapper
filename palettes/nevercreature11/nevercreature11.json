@@ -1,0 +1,57 @@
+{
+    "_id": "59d80e2f0323c15352a71ab8",
+    "createdAt": "2017-10-06T23:13:51.807Z",
+    "slug": "nevercreature-11",
+    "description": "Entry for the <a href=\"http://http://pixeljoint.com/2016/05/06/4962/11_Color_Comp_Winners.htm\">PixelJoint 11 color palette competition</a> (2016). Created by <a href=\"http://pixeljoint.com/p/36467.htm\r\n\">Nevercreature</a>.",
+    "colors": [
+        "3a3746",
+        "99d9ea",
+        "c06170",
+        "a98b3d",
+        "446499",
+        "933c2d",
+        "3c6738",
+        "e9fabc",
+        "6194c7",
+        "f88878",
+        "f4d055"
+    ],
+    "tags": [
+        "artist",
+        "pjcolorcomp11",
+        "pjcolorcomp"
+    ],
+    "downloads": "97",
+    "numberOfColors": 11,
+    "comments": 0,
+    "hashtag": "nevercreature11",
+    "title": "Nevercreature 11",
+    "publishedAt": "2017-10-06T23:13:51.807Z",
+    "likes": 2,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "3a3746",
+        "99d9ea",
+        "c06170",
+        "a98b3d",
+        "446499",
+        "933c2d",
+        "3c6738",
+        "e9fabc",
+        "6194c7",
+        "f88878",
+        "f4d055"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "59d80e2f0323c15352a71ab8",
+        "type": "palettes",
+        "count": 2,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

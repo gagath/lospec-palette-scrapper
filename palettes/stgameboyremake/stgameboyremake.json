@@ -1,0 +1,76 @@
+{
+    "_id": "61783b4ba13f3b169bcea0cf",
+    "tags": [
+        "artist",
+        "gameboy",
+        "gb",
+        "2bit",
+        "thest1076",
+        "remake",
+        "purple"
+    ],
+    "colors": [
+        "0a0a1a",
+        "210f66",
+        "5d3eb3",
+        "cb91f2"
+    ],
+    "downloads": "268",
+    "featured": false,
+    "likes": 13,
+    "comments": 0,
+    "slug": "st-gameboy-remake",
+    "publishedAt": "2021-10-27T13:35:00.026Z",
+    "user": {
+        "name": "Skiller Thomson",
+        "slug": "thest1076"
+    },
+    "title": "ST GameBoy Remake",
+    "hashtag": "stgameboyremake",
+    "description": "I redid my\u00a0first palette, because it seems to me that it is kind of dark.\r\nWell, it seems to me that you will have to redo your palettes further? (It's a joke).",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-10-26T17:30:51.005Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61783bc8a13f3b169bcea0e1",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "ST GameBoy Remake Palette Example by Skiller Thomson",
+            "slug": "st-gameboy-remake-palette-example-by-skiller-thomson",
+            "publishedAt": "2021-10-26T18:35:00.013Z",
+            "user": {
+                "name": "Skiller Thomson",
+                "slug": "thest1076"
+            },
+            "parent": "61783b4ba13f3b169bcea0cf",
+            "image": "palette-examples/st-gameboy-remake-palette-example-by-skiller-thomson-61783b.png",
+            "creator": true,
+            "description": "My first example, is remastered!",
+            "createdAt": "2021-10-26T17:32:56.140Z",
+            "updatedAt": "2021-10-26T18:35:00.013Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "My first example, is remastered!"
+        }
+    ],
+    "colorsArray": [
+        "0a0a1a",
+        "210f66",
+        "5d3eb3",
+        "cb91f2"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61783b4ba13f3b169bcea0cf",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

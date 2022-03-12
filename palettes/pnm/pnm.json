@@ -1,0 +1,71 @@
+{
+    "_id": "5fb6ff292005144adafd4d33",
+    "tags": [
+        "three",
+        "blood",
+        "dark",
+        "mystery"
+    ],
+    "colors": [
+        "101323",
+        "d6d4cb",
+        "711919"
+    ],
+    "downloads": "393",
+    "featured": false,
+    "likes": 31,
+    "comments": 0,
+    "title": "Pepe No More",
+    "hashtag": "pnm",
+    "description": "Time was up. All that was left; his visaged in the night. An almost pitch dark, blue tinted night, and his pale white body. Accented by the crimson dripping. The dawn is rising, but he shall never again rise with it.",
+    "creator": true,
+    "slug": "pepe-no-more",
+    "publishedAt": "2020-11-22T13:45:00.024Z",
+    "user": {
+        "name": "Cheeseismysoul",
+        "slug": "nomz-toes-420"
+    },
+    "numberOfColors": 3,
+    "createdAt": "2020-11-19T23:26:33.269Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fb707392005144adafd4da8",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/pepe-no-more-palette-example-by-cheeseismysoul-2-5fb707.png",
+            "creator": true,
+            "description": "F for Pepe2.0",
+            "title": "Pepe No More Palette Example by Cheeseismysoul",
+            "slug": "pepe-no-more-palette-example-by-cheeseismysoul-2",
+            "publishedAt": "2020-11-20T16:45:00.025Z",
+            "user": {
+                "name": "Cheeseismysoul",
+                "slug": "nomz-toes-420"
+            },
+            "parent": "5fb6ff292005144adafd4d33",
+            "createdAt": "2020-11-20T00:00:57.275Z",
+            "updatedAt": "2020-11-20T16:45:00.025Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "F for Pepe2.0"
+        }
+    ],
+    "colorsArray": [
+        "101323",
+        "d6d4cb",
+        "711919"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 33.333333333333336,
+    "height": 32,
+    "likebutton": {
+        "content": "5fb6ff292005144adafd4d33",
+        "type": "palettes",
+        "count": 31,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

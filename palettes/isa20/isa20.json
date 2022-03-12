@@ -1,0 +1,102 @@
+{
+    "_id": "61257cfc681a6a0a9bcbc3df",
+    "tags": [
+        "isasstudio"
+    ],
+    "colors": [
+        "14131c",
+        "903c4a",
+        "8a388a",
+        "814641",
+        "296233",
+        "5f5347",
+        "7b41b5",
+        "4a5957",
+        "2d5f78",
+        "3c5b87",
+        "525772",
+        "3fc2ce",
+        "76c251",
+        "ed8ff6",
+        "e99f85",
+        "dda66f",
+        "c8b34b",
+        "aeb2a1",
+        "9cb8c2",
+        "f9f9eb"
+    ],
+    "downloads": "81",
+    "featured": false,
+    "likes": 14,
+    "comments": 1,
+    "slug": "isas-20",
+    "publishedAt": "2021-09-22T19:55:00.038Z",
+    "user": {
+        "name": "Isa",
+        "slug": "isas-studio"
+    },
+    "title": "Isa's 20",
+    "hashtag": "isa20",
+    "description": "A palette with 20 colours and 12, 4 colour ramps",
+    "creator": true,
+    "numberOfColors": 20,
+    "createdAt": "2021-08-24T23:13:00.430Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61257d11681a6a0a9bcbc3e5",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Isa's 20 Palette Example by Isa",
+            "slug": "isas-20-palette-example-by-isa",
+            "publishedAt": "2021-08-25T13:35:00.010Z",
+            "user": {
+                "name": "Isa",
+                "slug": "isas-studio"
+            },
+            "parent": "61257cfc681a6a0a9bcbc3df",
+            "image": "palette-examples/isas-20-palette-example-by-isa-61257d.png",
+            "creator": true,
+            "description": "no",
+            "createdAt": "2021-08-24T23:13:21.255Z",
+            "updatedAt": "2021-08-25T13:35:00.010Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "no"
+        }
+    ],
+    "colorsArray": [
+        "14131c",
+        "903c4a",
+        "8a388a",
+        "814641",
+        "296233",
+        "5f5347",
+        "7b41b5",
+        "4a5957",
+        "2d5f78",
+        "3c5b87",
+        "525772",
+        "3fc2ce",
+        "76c251",
+        "ed8ff6",
+        "e99f85",
+        "dda66f",
+        "c8b34b",
+        "aeb2a1",
+        "9cb8c2",
+        "f9f9eb"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 10,
+    "height": 32,
+    "likebutton": {
+        "content": "61257cfc681a6a0a9bcbc3df",
+        "type": "palettes",
+        "count": 14,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

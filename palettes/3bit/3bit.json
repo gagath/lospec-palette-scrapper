@@ -1,0 +1,53 @@
+{
+    "_id": "60cfc4bc69b4cd3702943b95",
+    "tags": [],
+    "colors": [
+        "000000",
+        "000063",
+        "850000",
+        "b500b5",
+        "00a300",
+        "00c7c7",
+        "e0e000",
+        "ffffff"
+    ],
+    "downloads": "43",
+    "featured": false,
+    "likes": 5,
+    "comments": 2,
+    "slug": "3-bit-rgb-perceptually-linear",
+    "publishedAt": "2021-09-09T21:20:00.032Z",
+    "user": {
+        "name": "P-Tux7",
+        "slug": "p-tux7"
+    },
+    "title": "3-Bit RGB - Perceptually Linear",
+    "hashtag": "3bit",
+    "description": "The\u00a03-Bit RGB\u00a0palette, but with the colours adjusted to be perceptually linear at a gamma of 2.4 (A gamma of 2.2 works better with the lights on, and a gamma of 2.4 with the lights off... like night mode). This lends it a shiny, chrome-like effect similar to art you'd see on the Atari ST/Amiga, makes the colours less fluorescent, allows for good dark/background/low-contrast details (that's always been a pain on EGA games, as you can see), and makes for better colour ramping/gradient usage - especially in modern \"limited truecolour\" art instead of art that uses attribute blocks/tiles, ASCII, or sprites. If you like this and want to see more hardware palettes converted to look like this, write me a comment.",
+    "creator": true,
+    "createdAt": "2021-06-20T22:44:12.695Z",
+    "numberOfColors": 8,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "000063",
+        "850000",
+        "b500b5",
+        "00a300",
+        "00c7c7",
+        "e0e000",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60cfc4bc69b4cd3702943b95",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

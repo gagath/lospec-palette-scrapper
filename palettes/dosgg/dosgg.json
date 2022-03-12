@@ -1,0 +1,72 @@
+{
+    "_id": "5f9a047bda708c0444295773",
+    "tags": [
+        "dos",
+        " cga"
+    ],
+    "colors": [
+        "242424",
+        "005555",
+        "008888",
+        "55bbbb",
+        "cccccc",
+        "cc9999",
+        "bb5555",
+        "aa0000",
+        "770077",
+        "aa00aa",
+        "cc22cc",
+        "cc88aa",
+        "cccc88",
+        "55cc55",
+        "00aa00",
+        "008800"
+    ],
+    "downloads": "63",
+    "featured": false,
+    "likes": 2,
+    "comments": 0,
+    "title": "DOS's Gloomy Gloss",
+    "hashtag": "dosgg",
+    "description": "This is my take on the CGA/EGA colors (Though mainly inspired by the primitive 4 color palettes that everyone knows)",
+    "creator": true,
+    "slug": "doss-gloomy-gloss",
+    "publishedAt": "2021-03-22T06:10:00.064Z",
+    "user": {
+        "name": "Cubby Crazes",
+        "slug": "cubby-crazes"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-10-28T23:53:31.733Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "242424",
+        "005555",
+        "008888",
+        "55bbbb",
+        "cccccc",
+        "cc9999",
+        "bb5555",
+        "aa0000",
+        "770077",
+        "aa00aa",
+        "cc22cc",
+        "cc88aa",
+        "cccc88",
+        "55cc55",
+        "00aa00",
+        "008800"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5f9a047bda708c0444295773",
+        "type": "palettes",
+        "count": 2,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

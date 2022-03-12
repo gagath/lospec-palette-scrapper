@@ -1,0 +1,58 @@
+{
+    "_id": "61cde316704d2423225f1d7c",
+    "tags": [
+        "pastel",
+        "pink",
+        "blue",
+        "pale"
+    ],
+    "colors": [
+        "8f677b",
+        "ee797d",
+        "ac8df0",
+        "f99eac",
+        "b1d4f0",
+        "fcd0e2",
+        "d6f2fa",
+        "fbfbf8"
+    ],
+    "downloads": "132",
+    "featured": false,
+    "likes": 15,
+    "comments": 0,
+    "slug": "bloom",
+    "publishedAt": "2021-12-31T02:10:00.045Z",
+    "user": {
+        "name": "maine",
+        "slug": "maine"
+    },
+    "title": "bloom",
+    "hashtag": "bloom8",
+    "description": "first time making a more pastel palette :)",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-12-30T16:49:26.500Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "8f677b",
+        "ee797d",
+        "ac8df0",
+        "f99eac",
+        "b1d4f0",
+        "fcd0e2",
+        "d6f2fa",
+        "fbfbf8"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61cde316704d2423225f1d7c",
+        "type": "palettes",
+        "count": 15,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

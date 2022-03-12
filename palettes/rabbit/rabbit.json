@@ -1,0 +1,67 @@
+{
+    "_id": "58ffec2b1827ac5c128149f3",
+    "createdAt": "2017-04-26T00:39:07.552Z",
+    "slug": "rabbit",
+    "description": "Palette created by <a href=\"http://grafxkid.tumblr.com/palettes\" target=\"_blank\">GrafxKid</a>.",
+    "colors": [
+        "d47564",
+        "e8c498",
+        "ecece0",
+        "4fa4a5",
+        "aad395",
+        "3b324a",
+        "5c6182"
+    ],
+    "tags": [
+        "artist",
+        "grafxkid"
+    ],
+    "downloads": "1,617",
+    "numberOfColors": 7,
+    "likes": 60,
+    "comments": 3,
+    "hashtag": "rabbit",
+    "title": "Rabbit",
+    "publishedAt": "2017-04-26T00:39:07.552Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "58ffec981827ac5c128149f4",
+            "description": " Palette example by <a href=\"http://grafxkid.tumblr.com/grafxkidpalettes\">GrafxKid</a> ",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.055Z",
+            "creator": false,
+            "image": "palette-examples/rabbit-palette-example-palette-example-by-grafxkid-58ffec.png",
+            "likes": 0,
+            "parent": "58ffec2b1827ac5c128149f3",
+            "slug": "rabbit-palette-example-palette-example-by-grafxkid",
+            "title": "rabbit palette example palette example by grafxkid",
+            "updatedAt": "2020-07-31T03:56:11.055Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": " Palette example by GrafxKid "
+        }
+    ],
+    "colorsArray": [
+        "d47564",
+        "e8c498",
+        "ecece0",
+        "4fa4a5",
+        "aad395",
+        "3b324a",
+        "5c6182"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "58ffec2b1827ac5c128149f3",
+        "type": "palettes",
+        "count": 60,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

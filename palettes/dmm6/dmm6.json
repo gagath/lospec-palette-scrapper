@@ -1,0 +1,80 @@
+{
+    "_id": "5f1205bbf9544b677fa1e3da",
+    "tags": [
+        "monocrome",
+        " cold",
+        " small",
+        " metallic",
+        " lowsaturation",
+        " metal",
+        " reflect"
+    ],
+    "colors": [
+        "ece6df",
+        "cebdb0",
+        "ac9098",
+        "6a6997",
+        "585783",
+        "2c2851"
+    ],
+    "downloads": "1,147",
+    "featured": false,
+    "likes": 90,
+    "comments": 2,
+    "title": "MonoMetalic",
+    "hashtag": "dmm6",
+    "description": "A cold and simple palette to include to your lowly saturated ensemble. Usually used for texturing of metallic surfaces.<br />",
+    "creator": true,
+    "slug": "monometalic",
+    "publishedAt": "2020-07-18T23:30:00.014Z",
+    "user": {
+        "name": "Darkeyed-Commission Open",
+        "slug": "darkeyed19"
+    },
+    "numberOfColors": 6,
+    "createdAt": "2020-07-17T20:10:35.864Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f859eaf015bb03a8d7027d5",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/monometalic-palette-example-by-darkeyed-commission-open-5f859e.png",
+            "creator": true,
+            "description": "",
+            "title": "MonoMetalic Palette Example by Darkeyed-Commission Open",
+            "slug": "monometalic-palette-example-by-darkeyed-commission-open",
+            "publishedAt": "2020-10-14T16:30:00.113Z",
+            "user": {
+                "name": "Darkeyed-Commission Open",
+                "slug": "darkeyed19"
+            },
+            "parent": "5f1205bbf9544b677fa1e3da",
+            "createdAt": "2020-10-13T12:33:51.361Z",
+            "updatedAt": "2020-10-14T16:30:00.114Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "ece6df",
+        "cebdb0",
+        "ac9098",
+        "6a6997",
+        "585783",
+        "2c2851"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5f1205bbf9544b677fa1e3da",
+        "type": "palettes",
+        "count": 90,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

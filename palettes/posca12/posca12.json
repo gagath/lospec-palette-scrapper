@@ -1,0 +1,64 @@
+{
+    "_id": "610583192b2c813e9f073fec",
+    "tags": [
+        "retro",
+        "smallpalette"
+    ],
+    "colors": [
+        "ffffff",
+        "959298",
+        "000001",
+        "fed288",
+        "80471f",
+        "ffed00",
+        "9f0000",
+        "62c314",
+        "024001",
+        "4bb4ff",
+        "1827e6",
+        "ff77f7"
+    ],
+    "downloads": "36",
+    "featured": false,
+    "likes": 2,
+    "comments": 1,
+    "slug": "posca-12",
+    "publishedAt": "2021-09-15T15:20:00.044Z",
+    "user": {
+        "name": "lonelyfloat",
+        "slug": "lonelyfloat"
+    },
+    "title": "Posca-12",
+    "hashtag": "posca12",
+    "description": "A palette inspired by 12 different Posca paint markers.",
+    "creator": true,
+    "numberOfColors": 12,
+    "createdAt": "2021-07-31T17:06:33.249Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffffff",
+        "959298",
+        "000001",
+        "fed288",
+        "80471f",
+        "ffed00",
+        "9f0000",
+        "62c314",
+        "024001",
+        "4bb4ff",
+        "1827e6",
+        "ff77f7"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "610583192b2c813e9f073fec",
+        "type": "palettes",
+        "count": 2,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

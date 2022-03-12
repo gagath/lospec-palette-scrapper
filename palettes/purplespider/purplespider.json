@@ -1,0 +1,51 @@
+{
+    "_id": "5fc25361d3eeec693954bc87",
+    "tags": [],
+    "colors": [
+        "1b1a29",
+        "393a4d",
+        "574b62",
+        "b94080",
+        "9f2c60",
+        "8a1e40",
+        "6a0d24"
+    ],
+    "downloads": "174",
+    "featured": false,
+    "likes": 10,
+    "comments": 0,
+    "title": "Purple Spider",
+    "hashtag": "purplespider",
+    "description": "PurpleSpider",
+    "creator": true,
+    "slug": "purple-spider",
+    "publishedAt": "2020-12-10T13:45:00.034Z",
+    "user": {
+        "name": "Herbert Richard",
+        "slug": "herbert-richard"
+    },
+    "numberOfColors": 7,
+    "createdAt": "2020-11-28T13:40:49.549Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "1b1a29",
+        "393a4d",
+        "574b62",
+        "b94080",
+        "9f2c60",
+        "8a1e40",
+        "6a0d24"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5fc25361d3eeec693954bc87",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

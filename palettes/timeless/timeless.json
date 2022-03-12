@@ -1,0 +1,74 @@
+{
+    "_id": "5f5e9e82be895740e6877482",
+    "tags": [
+        "timeless",
+        "time",
+        "blue"
+    ],
+    "colors": [
+        "212124",
+        "464c54",
+        "5b8087",
+        "76add8",
+        "a3e7f0"
+    ],
+    "downloads": "252",
+    "featured": false,
+    "likes": 20,
+    "comments": 2,
+    "title": "timeless",
+    "hashtag": "timeless",
+    "description": "colors i made on pixilart.com/palettes/archer-a",
+    "creator": true,
+    "slug": "timeless",
+    "publishedAt": "2020-09-23T10:05:00.022Z",
+    "user": {
+        "name": "archer",
+        "slug": "archer-a"
+    },
+    "numberOfColors": 5,
+    "createdAt": "2020-09-13T22:34:42.647Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f6953207687b443e983d3eb",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/timeless-palette-example-by-archer-a-5f6953.png",
+            "creator": true,
+            "description": "",
+            "title": "timeless Palette Example by archer-a",
+            "slug": "timeless-palette-example-by-archer-a",
+            "publishedAt": "2020-09-23T10:05:00.011Z",
+            "user": {
+                "name": "archer",
+                "slug": "archer-a"
+            },
+            "parent": "5f5e9e82be895740e6877482",
+            "createdAt": "2020-09-22T01:28:00.482Z",
+            "updatedAt": "2020-09-23T10:05:00.011Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "212124",
+        "464c54",
+        "5b8087",
+        "76add8",
+        "a3e7f0"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5f5e9e82be895740e6877482",
+        "type": "palettes",
+        "count": 20,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

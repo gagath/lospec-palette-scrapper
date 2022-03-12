@@ -1,0 +1,103 @@
+{
+    "_id": "5ed932766d5e490ee4d21447",
+    "tags": [
+        "software",
+        "windows"
+    ],
+    "colors": [
+        "000000",
+        "7f7f7f",
+        "c3c3c3",
+        "ffffff",
+        "880015",
+        "ed1c24",
+        "b97a57",
+        "ff7f27",
+        "ffc90e",
+        "fff200",
+        "efe4b0",
+        "b5e61d",
+        "22b14c",
+        "99d9ea",
+        "7092be",
+        "00a2e8",
+        "3f48cc",
+        "a349a4",
+        "ffaec9",
+        "c8bfe7"
+    ],
+    "downloads": "307",
+    "featured": false,
+    "likes": 10,
+    "comments": 1,
+    "title": "MSPaint Windows 7",
+    "hashtag": "mspaintwindows7palette",
+    "description": "Default palette used in\u00a0<a href=\"https://en.wikipedia.org/wiki/Microsoft_Paint\" target=\"_blank\">Microsoft Paint</a>\u00a0since Windows 7.",
+    "creator": false,
+    "slug": "mspaint-windows-7",
+    "publishedAt": "2020-06-09T10:45:00.014Z",
+    "user": {
+        "name": "CalmRadish",
+        "slug": "calmradish"
+    },
+    "numberOfColors": 20,
+    "createdAt": "2020-06-04T17:42:14.232Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "62062b3b68d44718827373b6",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "MSPaint Windows 7 Palette Example by cornwhaley",
+            "slug": "mspaint-windows-7-palette-example-by-cornwhaleym3vhiz",
+            "publishedAt": "2022-02-26T16:30:00.043Z",
+            "user": {
+                "name": "cornwhaley",
+                "slug": "cornelius-l"
+            },
+            "parent": "5ed932766d5e490ee4d21447",
+            "image": "palette-examples/mspaint-windows-7-palette-example-by-cornwhaleym3vhiz.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-02-11T09:24:11.562Z",
+            "updatedAt": "2022-02-26T16:30:00.044Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "7f7f7f",
+        "c3c3c3",
+        "ffffff",
+        "880015",
+        "ed1c24",
+        "b97a57",
+        "ff7f27",
+        "ffc90e",
+        "fff200",
+        "efe4b0",
+        "b5e61d",
+        "22b14c",
+        "99d9ea",
+        "7092be",
+        "00a2e8",
+        "3f48cc",
+        "a349a4",
+        "ffaec9",
+        "c8bfe7"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 10,
+    "height": 32,
+    "likebutton": {
+        "content": "5ed932766d5e490ee4d21447",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

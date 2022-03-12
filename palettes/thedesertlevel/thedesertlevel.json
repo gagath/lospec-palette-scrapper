@@ -1,0 +1,75 @@
+{
+    "_id": "58d1ba9342669f70e3c2293c",
+    "createdAt": "2017-03-21T23:43:15.691Z",
+    "slug": "the-desert-level",
+    "description": "Created by pixel joint user <a href=\"http://pixeljoint.com/p/10442.htm\">skamocore</a> for the <a href=\"http://pixeljoint.com/2013/11/25/4176/Pixel_Art_Challenge-_The_Desert_Level.htm\">desert level weekly challenge</a> on PixelJoint",
+    "colors": [
+        "f4faaf",
+        "e3d88f",
+        "ccb690",
+        "74aec6",
+        "ae8d78",
+        "8c7d66",
+        "6d7073",
+        "287051",
+        "635751",
+        "61444a",
+        "3a383c"
+    ],
+    "downloads": "648",
+    "numberOfColors": 11,
+    "tags": [
+        "artist",
+        "weeklychallenge"
+    ],
+    "likes": 10,
+    "comments": 0,
+    "hashtag": "thedesertlevel",
+    "title": "The Desert Level",
+    "publishedAt": "2017-03-21T23:43:15.691Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "58d2ac10cee291530ad91a66",
+            "description": "<a href=\"http://pixeljoint.com/pixelart/82402.htm\">Level 5 - Desert</a> by Vierbit created for desert ",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.025Z",
+            "creator": false,
+            "image": "palette-examples/the-desert-level-palette-example-level-5-desert-by-vierbit-created-for-desert-58d2ac.png",
+            "likes": 0,
+            "parent": "58d1ba9342669f70e3c2293c",
+            "slug": "the-desert-level-palette-example-level-5-desert-by-vierbit-created-for-desert",
+            "title": "the desert level palette example level 5 desert by vierbit created for desert",
+            "updatedAt": "2020-07-31T03:56:11.025Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Level 5 - Desert by Vierbit created for desert "
+        }
+    ],
+    "colorsArray": [
+        "f4faaf",
+        "e3d88f",
+        "ccb690",
+        "74aec6",
+        "ae8d78",
+        "8c7d66",
+        "6d7073",
+        "287051",
+        "635751",
+        "61444a",
+        "3a383c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "58d1ba9342669f70e3c2293c",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

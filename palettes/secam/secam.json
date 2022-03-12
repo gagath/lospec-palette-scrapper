@@ -1,0 +1,96 @@
+{
+    "_id": "5ccdce26763a4a5e61845fb7",
+    "createdAt": "2019-05-04T17:38:46.614Z",
+    "slug": "secam",
+    "description": "<a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/SECAM\">SECAM</a> was a color television released in France, 1967. The palette is a 3-bit RGB made by mapping the luminance to color and ignoring the hue.",
+    "colors": [
+        "000000",
+        "2121ff",
+        "f03c79",
+        "ff50ff",
+        "7fff00",
+        "7fffff",
+        "ffff3f",
+        "ffffff"
+    ],
+    "featured": false,
+    "tags": [
+        "hardware",
+        "television"
+    ],
+    "downloads": "632",
+    "numberOfColors": 8,
+    "likes": 48,
+    "comments": 4,
+    "hashtag": "secam",
+    "title": "SECAM",
+    "publishedAt": "2019-05-04T17:38:46.614Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fbe6021ed55de1ec460d76f",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/secam-palette-example-by-sk3ll-sk3ll-5fbe60.png",
+            "creator": false,
+            "description": "https://fy.do/quilt/159 Lospec: The Lab quilt Collab with lospec discord people",
+            "title": "SECAM Palette Example by Sk3ll Sk3ll",
+            "slug": "secam-palette-example-by-sk3ll-sk3ll",
+            "publishedAt": "2020-11-26T05:20:00.019Z",
+            "user": {
+                "name": "Sk3ll Sk3ll",
+                "slug": "sk3ll2"
+            },
+            "parent": "5ccdce26763a4a5e61845fb7",
+            "createdAt": "2020-11-25T13:46:09.752Z",
+            "updatedAt": "2020-11-26T05:20:00.019Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "https://fy.do/quilt/159 Lospec: The Lab quilt Collab with lospec discord people"
+        },
+        {
+            "_id": "613aa9eca32dca1987ad2043",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "SECAM Palette Example by Anonim",
+            "slug": "secam-palette-example-by-anonim",
+            "publishedAt": "2021-09-13T11:50:00.025Z",
+            "user": {
+                "name": "Anonim",
+                "slug": "anonim"
+            },
+            "parent": "5ccdce26763a4a5e61845fb7",
+            "image": "palette-examples/secam-palette-example-by-anonim-613aa9.png",
+            "creator": true,
+            "description": "Isometric Windows 95",
+            "createdAt": "2021-09-10T00:42:20.462Z",
+            "updatedAt": "2021-09-13T11:50:00.026Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": "Isometric Windows 95"
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "2121ff",
+        "f03c79",
+        "ff50ff",
+        "7fff00",
+        "7fffff",
+        "ffff3f",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5ccdce26763a4a5e61845fb7",
+        "type": "palettes",
+        "count": 48,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

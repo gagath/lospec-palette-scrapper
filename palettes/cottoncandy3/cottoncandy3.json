@@ -1,0 +1,47 @@
+{
+    "_id": "61469ba0c96c0e4341157fc5",
+    "tags": [
+        "candy",
+        "bright",
+        "three"
+    ],
+    "colors": [
+        "ffffdc",
+        "54dc93",
+        "ff3369"
+    ],
+    "downloads": "34",
+    "featured": false,
+    "likes": 6,
+    "comments": 0,
+    "slug": "cottoncandy3",
+    "publishedAt": "2021-10-11T05:45:00.031Z",
+    "user": {
+        "name": "Snowy Owl",
+        "slug": "snowy-owl"
+    },
+    "title": "cottoncandy3",
+    "hashtag": "cottoncandy3",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 3,
+    "createdAt": "2021-09-19T02:08:32.468Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffffdc",
+        "54dc93",
+        "ff3369"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 33.333333333333336,
+    "height": 32,
+    "likebutton": {
+        "content": "61469ba0c96c0e4341157fc5",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

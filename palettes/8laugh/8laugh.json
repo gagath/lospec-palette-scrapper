@@ -1,0 +1,103 @@
+{
+    "_id": "6162264473121f0defe8735d",
+    "tags": [
+        "laugh",
+        "spaff"
+    ],
+    "colors": [
+        "765f56",
+        "4f6666",
+        "4f48e6",
+        "d94170",
+        "c147dd",
+        "b3a63f",
+        "7ccc4a",
+        "e3b563",
+        "bbbbfa"
+    ],
+    "downloads": "35",
+    "featured": false,
+    "likes": 6,
+    "comments": 2,
+    "slug": "laugh-8",
+    "publishedAt": "2021-10-16T15:45:00.031Z",
+    "user": {
+        "name": "CasualJoe",
+        "slug": "casual-joe-3905"
+    },
+    "title": "laugh. 8",
+    "hashtag": "8laugh",
+    "description": "A modified SPAFF-8 in an attempt to be even more unsightly, meant to rival it as a challenge. Sensitive eyes, be warned!",
+    "creator": true,
+    "numberOfColors": 9,
+    "createdAt": "2021-10-09T23:31:16.874Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6162265773121f0defe87360",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "laugh. 8 Palette Example by CasualJoe",
+            "slug": "laugh-8-palette-example-by-casualjoe",
+            "publishedAt": "2021-10-10T10:45:00.028Z",
+            "user": {
+                "name": "CasualJoe",
+                "slug": "casual-joe-3905"
+            },
+            "parent": "6162264473121f0defe8735d",
+            "image": "palette-examples/laugh-8-palette-example-by-casualjoe-616226.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-10-09T23:31:35.169Z",
+            "updatedAt": "2021-10-10T10:45:00.028Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "616e87be68f52b4e01795349",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "laugh. 8 Palette Example by LostInIndigo",
+            "slug": "laugh-8-palette-example-by-lostinindigo",
+            "publishedAt": "2021-10-19T19:20:00.029Z",
+            "user": {
+                "name": "LostInIndigo",
+                "slug": "lostinindigo"
+            },
+            "parent": "6162264473121f0defe8735d",
+            "image": "palette-examples/laugh-8-palette-example-by-lostinindigo-616e87.png",
+            "creator": true,
+            "description": "This palette made my eyeballs bleed, so I thought it would be fun to try to make an image with it.\u00a0 What's as awkward as this palette? Bad classical paintings of cats - I figured the only logical thing to do was combine them. I 1000% recommend playing with this palette - it's fun if you can ignore the fact that you smell burnt toast constantly while working with it.",
+            "createdAt": "2021-10-19T08:54:22.363Z",
+            "updatedAt": "2021-10-19T19:20:00.029Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": "This palette made my eyeballs bleed, so I thought it would be fun to try to make an image with it.\u00a0 What's as awkward as this palette? Bad classical paintings of cats - I figured the only logical thing to do was combine them. I 1000% recommend playing with this palette - it's fun if you can ignore the fact that you smell burnt toast constantly while working with it."
+        }
+    ],
+    "colorsArray": [
+        "765f56",
+        "4f6666",
+        "4f48e6",
+        "d94170",
+        "c147dd",
+        "b3a63f",
+        "7ccc4a",
+        "e3b563",
+        "bbbbfa"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "6162264473121f0defe8735d",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

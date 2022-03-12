@@ -1,0 +1,59 @@
+{
+    "_id": "61228da5eaa0c93b39035c0e",
+    "tags": [],
+    "colors": [
+        "354f5a",
+        "54929e",
+        "5bc5a6",
+        "b1ffad",
+        "dbffc4",
+        "121212",
+        "ffffff",
+        "9ef53b",
+        "63c930",
+        "7c4d3b",
+        "552d2d"
+    ],
+    "downloads": "43",
+    "featured": false,
+    "likes": 5,
+    "comments": 0,
+    "slug": "wizards-breath-34",
+    "publishedAt": "2021-08-26T12:15:00.040Z",
+    "user": {
+        "name": "PixelPanda",
+        "slug": "pixel-panda"
+    },
+    "title": "Wizards Breath-34",
+    "hashtag": "wizardsbreath34",
+    "description": "",
+    "creator": false,
+    "numberOfColors": 11,
+    "createdAt": "2021-08-22T17:47:17.571Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "354f5a",
+        "54929e",
+        "5bc5a6",
+        "b1ffad",
+        "dbffc4",
+        "121212",
+        "ffffff",
+        "9ef53b",
+        "63c930",
+        "7c4d3b",
+        "552d2d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "61228da5eaa0c93b39035c0e",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

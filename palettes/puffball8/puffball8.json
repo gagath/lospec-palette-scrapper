@@ -1,0 +1,74 @@
+{
+    "_id": "6209011f3215cf426417f4fa",
+    "tags": [
+        "polyphrog"
+    ],
+    "colors": [
+        "eedbc8",
+        "e0bb68",
+        "97b34e",
+        "d58353",
+        "548b71",
+        "5a473e"
+    ],
+    "downloads": "377",
+    "featured": false,
+    "likes": 48,
+    "comments": 4,
+    "slug": "puffball-8",
+    "publishedAt": "2022-02-14T01:50:00.058Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "puffball-8",
+    "hashtag": "puffball8",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2022-02-13T13:01:19.326Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "62091e635d384d57136203c5",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "puffball-8 Palette Example by polyphrog",
+            "slug": "puffball-8-palette-example-by-polyphrogfqgjne",
+            "publishedAt": "2022-02-14T01:50:00.039Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "6209011f3215cf426417f4fa",
+            "image": "palette-examples/puffball-8-palette-example-by-polyphrogfqgjne.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-02-13T15:06:11.794Z",
+            "updatedAt": "2022-02-14T01:50:00.040Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "eedbc8",
+        "e0bb68",
+        "97b34e",
+        "d58353",
+        "548b71",
+        "5a473e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "6209011f3215cf426417f4fa",
+        "type": "palettes",
+        "count": 48,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

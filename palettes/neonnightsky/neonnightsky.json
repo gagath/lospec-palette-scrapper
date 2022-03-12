@@ -1,0 +1,74 @@
+{
+    "_id": "61ad41b02781780ae52ac914",
+    "tags": [
+        "neon",
+        "night",
+        "sky",
+        "2bit",
+        "soundsdotzip"
+    ],
+    "colors": [
+        "131626",
+        "4d4d80",
+        "e6a1cf",
+        "ffe6ea"
+    ],
+    "downloads": "534",
+    "featured": false,
+    "likes": 34,
+    "comments": 2,
+    "slug": "neon-night-sky",
+    "publishedAt": "2021-12-10T09:00:00.067Z",
+    "user": {
+        "name": "SoundsDotZip",
+        "slug": "soundsdotzip"
+    },
+    "title": "Neon Night Sky",
+    "hashtag": "neonnightsky",
+    "description": "I was listening to LoFi music when making this palette, which is pretty clear from the example image. Hope you like it!",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-12-05T22:48:16.787Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61ad41dc2781780ae52ac917",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Neon Night Sky Palette Example by SoundsDotZip",
+            "slug": "neon-night-sky-palette-example-by-soundsdotzip",
+            "publishedAt": "2021-12-06T03:35:00.021Z",
+            "user": {
+                "name": "SoundsDotZip",
+                "slug": "soundsdotzip"
+            },
+            "parent": "61ad41b02781780ae52ac914",
+            "image": "palette-examples/neon-night-sky-palette-example-by-soundsdotzip-61ad41.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-12-05T22:49:00.579Z",
+            "updatedAt": "2021-12-06T03:35:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "131626",
+        "4d4d80",
+        "e6a1cf",
+        "ffe6ea"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61ad41b02781780ae52ac914",
+        "type": "palettes",
+        "count": 34,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

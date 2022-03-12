@@ -1,0 +1,71 @@
+{
+    "_id": "61ce1fc05e434254e0b91a37",
+    "tags": [
+        "fourcolor",
+        "gameboy"
+    ],
+    "colors": [
+        "aea691",
+        "887b6a",
+        "605444",
+        "4e3f2a"
+    ],
+    "downloads": "473",
+    "featured": false,
+    "likes": 19,
+    "comments": 0,
+    "slug": "pocketgb",
+    "publishedAt": "2021-12-31T17:20:00.053Z",
+    "user": {
+        "name": "retroadamshow",
+        "slug": "retroadamshow"
+    },
+    "title": "PocketGB",
+    "hashtag": "pocketgb",
+    "description": "A four-color palette meant to mimic the color palette used by the Game Boy Pocket's LCD screen as accurately as possible. (Colors sourced from photography from my working unit.)",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-12-30T21:08:16.710Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61ce21465e434254e0b91a44",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "PocketGB Palette Example by retroadamshow",
+            "slug": "pocketgb-palette-example-by-retroadamshowkzxvxq",
+            "publishedAt": "2021-12-31T17:20:00.032Z",
+            "user": {
+                "name": "retroadamshow",
+                "slug": "retroadamshow"
+            },
+            "parent": "61ce1fc05e434254e0b91a37",
+            "image": "palette-examples/pocketgb-palette-example-by-retroadamshowkzxvxq.png",
+            "creator": false,
+            "description": "Kirby's Dream Land for Game Boy (content made and owned by Nintendo/HAL Labratory)",
+            "createdAt": "2021-12-30T21:14:46.617Z",
+            "updatedAt": "2021-12-31T17:20:00.033Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Kirby's Dream Land for Game Boy (content made and owned by Nintendo/HAL Labratory)"
+        }
+    ],
+    "colorsArray": [
+        "aea691",
+        "887b6a",
+        "605444",
+        "4e3f2a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61ce1fc05e434254e0b91a37",
+        "type": "palettes",
+        "count": 19,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

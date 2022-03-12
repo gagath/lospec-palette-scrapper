@@ -1,0 +1,92 @@
+{
+    "_id": "5fc2300bd3eeec693954bae3",
+    "tags": [],
+    "colors": [
+        "1b1a1a",
+        "4e3846",
+        "7f3837",
+        "1f6c37",
+        "625c4c",
+        "0a8a69",
+        "ba554e",
+        "609238",
+        "7e7b71",
+        "ab852e",
+        "3bb2b8",
+        "bd8b67",
+        "bfb24c",
+        "c9b49c",
+        "8ef6c4",
+        "e9d7bd"
+    ],
+    "downloads": "173",
+    "featured": false,
+    "likes": 31,
+    "comments": 3,
+    "title": "Cookiebox-16",
+    "hashtag": "cookie16",
+    "description": "",
+    "creator": true,
+    "slug": "cookiebox-16",
+    "publishedAt": "2020-12-05T19:45:00.036Z",
+    "user": {
+        "name": "Joao Vasconcelos",
+        "slug": "joaovasconcelos"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-11-28T11:10:03.517Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fc23101d3eeec693954baed",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/cookiebox-16-palette-example-by-joao-vasconcelos-5fc231.png",
+            "creator": true,
+            "description": "A soft all-purpose 16 color palette that features a beautiful autumn-ish range of pastel colors.",
+            "title": "Cookiebox-16 Palette Example",
+            "slug": "cookiebox-16-palette-example-by-joao-vasconcelos",
+            "publishedAt": "2020-12-03T20:30:00.031Z",
+            "user": {
+                "name": "Joao Vasconcelos",
+                "slug": "joaovasconcelos"
+            },
+            "parent": "5fc2300bd3eeec693954bae3",
+            "createdAt": "2020-11-28T11:14:09.664Z",
+            "updatedAt": "2020-12-04T12:53:38.131Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A soft all-purpose 16 color palette that features a beautiful autumn-ish range of pastel colors."
+        }
+    ],
+    "colorsArray": [
+        "1b1a1a",
+        "4e3846",
+        "7f3837",
+        "1f6c37",
+        "625c4c",
+        "0a8a69",
+        "ba554e",
+        "609238",
+        "7e7b71",
+        "ab852e",
+        "3bb2b8",
+        "bd8b67",
+        "bfb24c",
+        "c9b49c",
+        "8ef6c4",
+        "e9d7bd"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fc2300bd3eeec693954bae3",
+        "type": "palettes",
+        "count": 31,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

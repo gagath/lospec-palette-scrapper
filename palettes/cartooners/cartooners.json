@@ -1,0 +1,97 @@
+{
+    "_id": "5f80f1c78d074c661e872f2a",
+    "tags": [
+        "cartooners",
+        " dos",
+        " ea",
+        " electronic arts"
+    ],
+    "colors": [
+        "000000",
+        "777777",
+        "cc8855",
+        "001111",
+        "4455ff",
+        "008800",
+        "bb5500",
+        "dd0000",
+        "ff9900",
+        "ffee00",
+        "00ee00",
+        "ffbbaa",
+        "ff22aa",
+        "7788ff",
+        "cccccc",
+        "ffffff"
+    ],
+    "downloads": "53",
+    "featured": false,
+    "likes": 4,
+    "comments": 0,
+    "title": "Cartooners",
+    "hashtag": "cartooners",
+    "description": "Palette from Electronic Arts' Cartooners, an animated movie maker aimed at kids.Palette from original LBM file.Two \"blacks\" as first index is used as transparent.",
+    "creator": false,
+    "slug": "cartooners",
+    "publishedAt": "2020-10-12T22:30:00.031Z",
+    "user": {
+        "name": "surt",
+        "slug": "surt"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-10-09T23:27:03.864Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f80f9298d074c661e872f79",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/cartooners-palette-palette-example-by-surt-5f80f9.png",
+            "creator": false,
+            "description": "Captured from Cartooners with DOSBox.",
+            "title": "Cartooners Palette Palette Example by surt",
+            "slug": "cartooners-palette-palette-example-by-surt",
+            "publishedAt": "2020-10-12T17:05:00.023Z",
+            "user": {
+                "name": "surt",
+                "slug": "surt"
+            },
+            "parent": "5f80f1c78d074c661e872f2a",
+            "createdAt": "2020-10-09T23:58:33.547Z",
+            "updatedAt": "2020-10-12T17:05:00.023Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Captured from Cartooners with DOSBox."
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "777777",
+        "cc8855",
+        "001111",
+        "4455ff",
+        "008800",
+        "bb5500",
+        "dd0000",
+        "ff9900",
+        "ffee00",
+        "00ee00",
+        "ffbbaa",
+        "ff22aa",
+        "7788ff",
+        "cccccc",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5f80f1c78d074c661e872f2a",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,74 @@
+{
+    "_id": "5fbdd4956ad6297925f8d9e1",
+    "tags": [
+        "palette",
+        "enzogray",
+        "dark"
+    ],
+    "colors": [
+        "45344a",
+        "657a85",
+        "8ca67f",
+        "5e9d6a",
+        "d3bf77"
+    ],
+    "downloads": "261",
+    "featured": false,
+    "likes": 26,
+    "comments": 1,
+    "title": "empty night",
+    "hashtag": "emptynightpalette",
+    "description": "",
+    "creator": true,
+    "slug": "empty-night",
+    "publishedAt": "2020-11-25T22:20:00.018Z",
+    "user": {
+        "name": "Enzo Gray",
+        "slug": "enzo-gray"
+    },
+    "numberOfColors": 5,
+    "createdAt": "2020-11-25T03:50:45.923Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fbddda06ad6297925f8da43",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/empty-night-palette-example-by-enzo-gray-5fbddd.png",
+            "creator": true,
+            "description": "",
+            "title": "empty night Palette Example by Enzo Gray",
+            "slug": "empty-night-palette-example-by-enzo-gray",
+            "publishedAt": "2020-11-25T16:25:00.025Z",
+            "user": {
+                "name": "Enzo Gray",
+                "slug": "enzo-gray"
+            },
+            "parent": "5fbdd4956ad6297925f8d9e1",
+            "createdAt": "2020-11-25T04:29:20.203Z",
+            "updatedAt": "2020-11-25T16:25:00.025Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "45344a",
+        "657a85",
+        "8ca67f",
+        "5e9d6a",
+        "d3bf77"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5fbdd4956ad6297925f8d9e1",
+        "type": "palettes",
+        "count": 26,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

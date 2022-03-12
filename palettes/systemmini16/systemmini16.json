@@ -1,0 +1,99 @@
+{
+    "_id": "6101697bbbac2c6e6bb2e43a",
+    "tags": [
+        "computer",
+        "fantasy",
+        "system",
+        "os",
+        "hardware",
+        "software"
+    ],
+    "colors": [
+        "000000",
+        "68605c",
+        "b0b0b8",
+        "fcfcfc",
+        "1c38ac",
+        "7070fc",
+        "a82814",
+        "fc4848",
+        "208800",
+        "70f828",
+        "b82cd0",
+        "fc74ec",
+        "ac581c",
+        "f8a850",
+        "3cd4e4",
+        "f8ec20"
+    ],
+    "downloads": "374",
+    "featured": false,
+    "likes": 32,
+    "comments": 4,
+    "slug": "system-mini-16",
+    "publishedAt": "2021-08-01T11:20:00.018Z",
+    "user": {
+        "name": "Space Sandwich",
+        "slug": "spacesandwich"
+    },
+    "title": "System Mini 16",
+    "hashtag": "systemmini16",
+    "description": "My take on a standard classic computer 16 colour palette. Takes influence from Windows and CGA",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2021-07-28T14:28:11.545Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61016986bbac2c6e6bb2e44f",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "System Mini 16 Palette Example by Space Sandwich",
+            "slug": "system-mini-16-palette-example-by-space-sandwich",
+            "publishedAt": "2021-07-29T21:45:00.020Z",
+            "user": {
+                "name": "Space Sandwich",
+                "slug": "spacesandwich"
+            },
+            "parent": "6101697bbbac2c6e6bb2e43a",
+            "image": "palette-examples/system-mini-16-palette-example-by-space-sandwich-610169.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-07-28T14:28:22.831Z",
+            "updatedAt": "2021-07-29T21:45:00.020Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "68605c",
+        "b0b0b8",
+        "fcfcfc",
+        "1c38ac",
+        "7070fc",
+        "a82814",
+        "fc4848",
+        "208800",
+        "70f828",
+        "b82cd0",
+        "fc74ec",
+        "ac581c",
+        "f8a850",
+        "3cd4e4",
+        "f8ec20"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6101697bbbac2c6e6bb2e43a",
+        "type": "palettes",
+        "count": 32,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

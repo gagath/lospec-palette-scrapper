@@ -1,0 +1,52 @@
+{
+    "_id": "615736b52cf3e52105cc54f9",
+    "tags": [
+        "lava",
+        "orange",
+        "red",
+        "yelow",
+        "4color",
+        "fire"
+    ],
+    "colors": [
+        "850101",
+        "b63402",
+        "e78304",
+        "eafe54"
+    ],
+    "downloads": "143",
+    "featured": false,
+    "likes": 4,
+    "comments": 0,
+    "slug": "lava",
+    "publishedAt": "2021-10-14T01:45:00.028Z",
+    "user": {
+        "name": "helperman",
+        "slug": "helperman"
+    },
+    "title": "lava",
+    "hashtag": "lava",
+    "description": "a firy palette i made",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-10-01T16:26:29.446Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "850101",
+        "b63402",
+        "e78304",
+        "eafe54"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "615736b52cf3e52105cc54f9",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

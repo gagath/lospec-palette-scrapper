@@ -1,0 +1,53 @@
+{
+    "_id": "5e09c752253d99642ae0aebf",
+    "slug": "oxenfreenite",
+    "description": "Wholly inspired by the atmospheric nature of Night School Studio's game <i>Oxenfree. </i>Useful for depicting dark environments, especially during nighttime.",
+    "colors": [
+        "111a24",
+        "102e58",
+        "a02342",
+        "11767f",
+        "83b5b5"
+    ],
+    "creator": true,
+    "hashtag": "oxenfreenite",
+    "comments": 0,
+    "likes": 20,
+    "createdAt": "2019-12-30T09:45:54.845Z",
+    "featured": false,
+    "tags": [
+        "oxenfree",
+        "horror",
+        "dark",
+        "night",
+        "thejwphter88"
+    ],
+    "downloads": "386",
+    "numberOfColors": 5,
+    "title": "Oxenfreenite",
+    "user": {
+        "name": "JWPH",
+        "slug": "thejwphter88"
+    },
+    "publishedAt": "2020-04-15T05:20:00.024Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "111a24",
+        "102e58",
+        "a02342",
+        "11767f",
+        "83b5b5"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5e09c752253d99642ae0aebf",
+        "type": "palettes",
+        "count": 20,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

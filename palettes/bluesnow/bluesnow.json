@@ -1,0 +1,70 @@
+{
+    "_id": "613e497145e890114081c571",
+    "tags": [
+        "blue",
+        "grey",
+        "gabs"
+    ],
+    "colors": [
+        "a4a4a4",
+        "4b4b4b",
+        "8080ff"
+    ],
+    "downloads": "169",
+    "featured": false,
+    "likes": 23,
+    "comments": 2,
+    "slug": "blue-snow",
+    "publishedAt": "2021-09-13T15:20:00.070Z",
+    "user": {
+        "name": "gabs",
+        "slug": "gabs"
+    },
+    "title": "Blue Snow",
+    "hashtag": "bluesnow",
+    "description": "Brrrrrrr",
+    "creator": true,
+    "numberOfColors": 3,
+    "createdAt": "2021-09-12T18:39:45.991Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "613e498c45e890114081c577",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Blue Snow Palette Example by gabs",
+            "slug": "blue-snow-palette-example-by-gabs",
+            "publishedAt": "2021-09-13T11:35:00.020Z",
+            "user": {
+                "name": "gabs",
+                "slug": "gabs"
+            },
+            "parent": "613e497145e890114081c571",
+            "image": "palette-examples/blue-snow-palette-example-by-gabs-613e49.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-09-12T18:40:12.703Z",
+            "updatedAt": "2021-09-13T11:35:00.020Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "a4a4a4",
+        "4b4b4b",
+        "8080ff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 33.333333333333336,
+    "height": 32,
+    "likebutton": {
+        "content": "613e497145e890114081c571",
+        "type": "palettes",
+        "count": 23,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

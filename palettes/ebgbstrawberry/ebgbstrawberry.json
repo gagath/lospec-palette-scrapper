@@ -1,0 +1,72 @@
+{
+    "_id": "5fba7cf3eb0630284bc7c884",
+    "tags": [
+        "earthbound",
+        " gameboy",
+        " spacesandwich"
+    ],
+    "colors": [
+        "f6edc1",
+        "f890a8",
+        "8b506d",
+        "381a3e"
+    ],
+    "downloads": "518",
+    "featured": false,
+    "likes": 54,
+    "comments": 0,
+    "title": "EB GB Strawberry Flavour",
+    "hashtag": "ebgbstrawberry",
+    "description": "A GameBoy compatible palette based on EarthBound's strawberry window flavour.",
+    "creator": true,
+    "slug": "eb-gb-strawberry-flavour",
+    "publishedAt": "2020-11-24T02:35:00.027Z",
+    "user": {
+        "name": "Space Sandwich",
+        "slug": "spacesandwich"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-11-22T15:00:03.342Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fba7d09eb0630284bc7c889",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/eb-gb-strawberry-flavour-palette-example-by-space-sandwich-5fba7d.png",
+            "creator": true,
+            "description": "",
+            "title": "EB GB Strawberry Flavour Palette Example by Space Sandwich",
+            "slug": "eb-gb-strawberry-flavour-palette-example-by-space-sandwich",
+            "publishedAt": "2020-11-23T20:40:00.017Z",
+            "user": {
+                "name": "Space Sandwich",
+                "slug": "spacesandwich"
+            },
+            "parent": "5fba7cf3eb0630284bc7c884",
+            "createdAt": "2020-11-22T15:00:25.017Z",
+            "updatedAt": "2020-11-23T20:40:00.017Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "f6edc1",
+        "f890a8",
+        "8b506d",
+        "381a3e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5fba7cf3eb0630284bc7c884",
+        "type": "palettes",
+        "count": 54,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

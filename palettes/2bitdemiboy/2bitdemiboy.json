@@ -1,0 +1,72 @@
+{
+    "_id": "608135a3f4b0e77c1eb5f6b6",
+    "tags": [
+        "gb",
+        "gameboy",
+        "2bit"
+    ],
+    "colors": [
+        "252525",
+        "4b564d",
+        "9aa57c",
+        "e0e9c4"
+    ],
+    "downloads": "488",
+    "featured": false,
+    "likes": 34,
+    "comments": 1,
+    "slug": "2bit-demiboy",
+    "publishedAt": "2021-04-24T11:05:00.045Z",
+    "user": {
+        "name": "Space Sandwich",
+        "slug": "spacesandwich"
+    },
+    "title": "2BIT DEMIBOY",
+    "hashtag": "2bitdemiboy",
+    "description": "A palette in a similar style to my\u00a02Bit Demichrome\u00a0but with desaturated greens.",
+    "creator": true,
+    "createdAt": "2021-04-22T08:36:51.757Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60813dbef4b0e77c1eb5f6fd",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "2BIT DEMIBOY Palette Example by Space Sandwich",
+            "slug": "2bit-demiboy-palette-example-by-space-sandwich",
+            "publishedAt": "2021-04-22T09:20:00.020Z",
+            "user": {
+                "name": "Space Sandwich",
+                "slug": "spacesandwich"
+            },
+            "parent": "608135a3f4b0e77c1eb5f6b6",
+            "image": "palette-examples/2bit-demiboy-palette-example-by-space-sandwich-60813d.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-04-22T09:11:26.477Z",
+            "updatedAt": "2021-04-22T09:20:00.020Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "252525",
+        "4b564d",
+        "9aa57c",
+        "e0e9c4"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "608135a3f4b0e77c1eb5f6b6",
+        "type": "palettes",
+        "count": 34,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

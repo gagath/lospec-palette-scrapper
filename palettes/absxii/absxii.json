@@ -1,0 +1,88 @@
+{
+    "_id": "61d0ba41a4b2d64cd721f655",
+    "tags": [
+        "artist",
+        "musthbly",
+        "abstract"
+    ],
+    "colors": [
+        "1c0903",
+        "433655",
+        "7e2738",
+        "495989",
+        "a23d2a",
+        "5f6468",
+        "4b6b68",
+        "7a5e6e",
+        "9e5738",
+        "d2935b",
+        "a1a6a6",
+        "d7c9c1"
+    ],
+    "downloads": "173",
+    "featured": false,
+    "likes": 22,
+    "comments": 0,
+    "slug": "absxii",
+    "publishedAt": "2022-01-02T02:10:00.030Z",
+    "user": {
+        "name": "musthbly",
+        "slug": "musthbly"
+    },
+    "title": "absxii",
+    "hashtag": "absxii",
+    "description": "Colors sampled from\u00a0https://wikipedia.org/wiki/Abstract_art",
+    "creator": true,
+    "numberOfColors": 12,
+    "createdAt": "2022-01-01T20:32:01.690Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61d0ba7aa4b2d64cd721f657",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "absxii Palette Example by musthbly",
+            "slug": "absxii-palette-example-by-musthblytksieh",
+            "publishedAt": "2022-01-01T21:50:00.038Z",
+            "user": {
+                "name": "musthbly",
+                "slug": "musthbly"
+            },
+            "parent": "61d0ba41a4b2d64cd721f655",
+            "image": "palette-examples/absxii-palette-example-by-musthblytksieh.png",
+            "creator": true,
+            "description": "Reduced versions of some of the art from\u00a0<a href=\"https://wikipedia.org/wiki/Abstract_art\" target=\"_blank\">https://wikipedia.org/wiki/Abstract_art</a>",
+            "createdAt": "2022-01-01T20:32:58.013Z",
+            "updatedAt": "2022-01-01T21:50:00.039Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Reduced versions of some of the art from\u00a0https://wikipedia.org/wiki/Abstract_art"
+        }
+    ],
+    "colorsArray": [
+        "1c0903",
+        "433655",
+        "7e2738",
+        "495989",
+        "a23d2a",
+        "5f6468",
+        "4b6b68",
+        "7a5e6e",
+        "9e5738",
+        "d2935b",
+        "a1a6a6",
+        "d7c9c1"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "61d0ba41a4b2d64cd721f655",
+        "type": "palettes",
+        "count": 22,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

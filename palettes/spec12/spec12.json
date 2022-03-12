@@ -1,0 +1,77 @@
+{
+    "_id": "5ba80b27d8f5345a507022a9",
+    "slug": "spec12",
+    "description": "Created by <a target=\"_blank\" href=\"https://twitter.com/Smallpryv\">Smalls</a>.",
+    "colors": [
+        "0f0808",
+        "918c89",
+        "d6d9d0",
+        "d9d15d",
+        "db6e3b",
+        "a82d2d",
+        "781c26",
+        "8ed959",
+        "32ba3b",
+        "2f63bd",
+        "30188f",
+        "d9be93"
+    ],
+    "tags": [
+        "artist",
+        "smalls"
+    ],
+    "downloads": "248",
+    "numberOfColors": 12,
+    "createdAt": "2018-09-23T21:52:39.644Z",
+    "comments": 0,
+    "hashtag": "spec12",
+    "title": "Spec12",
+    "publishedAt": "2018-09-23T21:52:39.644Z",
+    "likes": 6,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5ba80b3ad8f5345a507022aa",
+            "description": "Palette usage example by <a target=\"_blank\" href=\"https://twitter.com/Smallpryv\">Smalls</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.142Z",
+            "creator": false,
+            "image": "palette-examples/spec12-palette-example-palette-usage-example-by-smalls-5ba80b.png",
+            "likes": 0,
+            "parent": "5ba80b27d8f5345a507022a9",
+            "slug": "spec12-palette-example-palette-usage-example-by-smalls",
+            "title": "spec12 palette example palette usage example by smalls",
+            "updatedAt": "2020-07-31T03:56:11.142Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Smalls"
+        }
+    ],
+    "colorsArray": [
+        "0f0808",
+        "918c89",
+        "d6d9d0",
+        "d9d15d",
+        "db6e3b",
+        "a82d2d",
+        "781c26",
+        "8ed959",
+        "32ba3b",
+        "2f63bd",
+        "30188f",
+        "d9be93"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5ba80b27d8f5345a507022a9",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

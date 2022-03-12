@@ -1,0 +1,80 @@
+{
+    "_id": "5ec2b2e0cf4f74069365d8f8",
+    "tags": [
+        "sunset",
+        " sky",
+        " clouds",
+        " calm",
+        " harmony"
+    ],
+    "colors": [
+        "684971",
+        "a06389",
+        "cb7ca2",
+        "e1aea4",
+        "f9d8a1",
+        "ffecb2",
+        "fffcf1"
+    ],
+    "downloads": "2,001",
+    "featured": false,
+    "likes": 172,
+    "comments": 7,
+    "title": "Calm Sunset",
+    "hashtag": "sunc",
+    "description": "\r\nWarm color palette ideal for sunsets",
+    "creator": true,
+    "slug": "calm-sunset",
+    "publishedAt": "2020-05-19T09:50:00.006Z",
+    "user": {
+        "name": "Paulina Riva",
+        "slug": "paulina-riva"
+    },
+    "numberOfColors": 7,
+    "createdAt": "2020-05-18T16:08:00.855Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f35d5ffe0a05747ebb9b6af",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/calm-sunset-palette-example-by-paulina-riva-5f35d5.png",
+            "creator": false,
+            "description": "Pixel art made by jupitertheplanet (lospec profile) or davitafyan (instagram)",
+            "title": "Calm Sunset Palette Example by Paulina Riva",
+            "slug": "calm-sunset-palette-example-by-paulina-riva",
+            "publishedAt": "2020-08-14T00:40:00.026Z",
+            "user": {
+                "name": "Paulina Riva",
+                "slug": "paulina-riva"
+            },
+            "parent": "5ec2b2e0cf4f74069365d8f8",
+            "createdAt": "2020-08-14T00:08:31.302Z",
+            "updatedAt": "2020-08-14T00:40:00.027Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Pixel art made by jupitertheplanet (lospec profile) or davitafyan (instagram)"
+        }
+    ],
+    "colorsArray": [
+        "684971",
+        "a06389",
+        "cb7ca2",
+        "e1aea4",
+        "f9d8a1",
+        "ffecb2",
+        "fffcf1"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5ec2b2e0cf4f74069365d8f8",
+        "type": "palettes",
+        "count": 172,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,98 @@
+{
+    "_id": "6066531822de9454015abbbf",
+    "tags": [
+        "sketch",
+        "aa",
+        "pink",
+        "red",
+        "shading"
+    ],
+    "colors": [
+        "480a30",
+        "b41360",
+        "ff327c",
+        "ff80ae",
+        "ffdae8"
+    ],
+    "downloads": "661",
+    "featured": false,
+    "likes": 49,
+    "comments": 0,
+    "slug": "5-sheep",
+    "publishedAt": "2021-04-05T23:30:00.045Z",
+    "user": {
+        "name": "Lavenfurr",
+        "slug": "lavendertgreat"
+    },
+    "title": "5 SHEEP",
+    "hashtag": "5sheep",
+    "description": "AA and values palette for sketches to give a warm feel to the most mundane of tasks.",
+    "creator": true,
+    "createdAt": "2021-04-01T23:11:20.443Z",
+    "numberOfColors": 5,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6066539c22de9454015abbc2",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "5 SHEEP Palette Example by Lavenfurr",
+            "slug": "5-sheep-palette-example-by-lavenfurr",
+            "publishedAt": "2021-04-03T19:15:00.011Z",
+            "user": {
+                "name": "Lavenfurr",
+                "slug": "lavendertgreat"
+            },
+            "parent": "6066531822de9454015abbbf",
+            "image": "palette-examples/5-sheep-palette-example-by-lavenfurr-606653.png",
+            "creator": true,
+            "description": "Palette example featuring Hai Hai the lantern spirit from my Twitter.",
+            "createdAt": "2021-04-01T23:13:32.399Z",
+            "updatedAt": "2021-04-03T19:15:00.011Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette example featuring Hai Hai the lantern spirit from my Twitter."
+        },
+        {
+            "_id": "6136865055c9fd17b72ecc4e",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "5 SHEEP Palette Example by nkoder",
+            "slug": "5-sheep-palette-example-by-nkoder",
+            "publishedAt": "2021-09-07T09:45:00.018Z",
+            "user": {
+                "name": "Beetroot Paul",
+                "slug": "beetrootpaul"
+            },
+            "parent": "6066531822de9454015abbbf",
+            "image": "palette-examples/5-sheep-palette-example-by-nkoder-613686.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-09-06T21:21:20.005Z",
+            "updatedAt": "2021-09-07T09:45:00.018Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "480a30",
+        "b41360",
+        "ff327c",
+        "ff80ae",
+        "ffdae8"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "6066531822de9454015abbbf",
+        "type": "palettes",
+        "count": 49,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

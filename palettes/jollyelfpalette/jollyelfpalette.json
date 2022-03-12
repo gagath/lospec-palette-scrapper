@@ -1,0 +1,83 @@
+{
+    "_id": "5fc1596654224e34589f1cf3",
+    "tags": [
+        "holidays",
+        "enzogray"
+    ],
+    "colors": [
+        "a64848",
+        "e96464",
+        "cdb195",
+        "ebccae",
+        "c6c9bd",
+        "ecf0da",
+        "383857",
+        "5254b1",
+        "5b6ee1",
+        "639bff"
+    ],
+    "downloads": "94",
+    "featured": false,
+    "likes": 11,
+    "comments": 0,
+    "title": "Jolly Elf",
+    "hashtag": "jollyelfpalette",
+    "description": "",
+    "creator": true,
+    "slug": "jolly-elf",
+    "publishedAt": "2020-12-06T13:45:00.027Z",
+    "user": {
+        "name": "Enzo Gray",
+        "slug": "enzo-gray"
+    },
+    "numberOfColors": 10,
+    "createdAt": "2020-11-27T19:54:14.861Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fc15a0454224e34589f1cfc",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/jolly-elf-palette-example-by-enzo-gray-5fc15a.png",
+            "creator": true,
+            "description": "",
+            "title": "Jolly Elf Palette Example by Enzo Gray",
+            "slug": "jolly-elf-palette-example-by-enzo-gray",
+            "publishedAt": "2020-12-03T20:45:00.015Z",
+            "user": {
+                "name": "Enzo Gray",
+                "slug": "enzo-gray"
+            },
+            "parent": "5fc1596654224e34589f1cf3",
+            "createdAt": "2020-11-27T19:56:52.284Z",
+            "updatedAt": "2020-12-03T20:45:00.015Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "a64848",
+        "e96464",
+        "cdb195",
+        "ebccae",
+        "c6c9bd",
+        "ecf0da",
+        "383857",
+        "5254b1",
+        "5b6ee1",
+        "639bff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5fc1596654224e34589f1cf3",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,45 @@
+{
+    "_id": "5eeda02758c8f519bfce1841",
+    "tags": [],
+    "colors": [
+        "639bff",
+        "d32f35",
+        "373b40",
+        "131416"
+    ],
+    "downloads": "76",
+    "featured": false,
+    "likes": 5,
+    "comments": 0,
+    "title": "switch",
+    "hashtag": "nintendo",
+    "description": "nitendo switch common colour",
+    "creator": true,
+    "slug": "switch",
+    "publishedAt": "2020-07-09T12:50:00.015Z",
+    "user": {
+        "name": "ill.iarrelos",
+        "slug": "ill-ness"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-06-20T05:35:35.376Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "639bff",
+        "d32f35",
+        "373b40",
+        "131416"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5eeda02758c8f519bfce1841",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

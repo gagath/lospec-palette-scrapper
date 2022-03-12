@@ -1,0 +1,57 @@
+{
+    "_id": "5dc37ab78a877d15ee28b946",
+    "slug": "acronym-8",
+    "description": "A palette made by reducing all 8 colour palettes hosted on lospec",
+    "colors": [
+        "2d2c3b",
+        "f3f2e8",
+        "3368dc",
+        "40a07c",
+        "70ddd7",
+        "b73241",
+        "b06f6b",
+        "dcc484"
+    ],
+    "creator": false,
+    "comments": 1,
+    "likes": 7,
+    "createdAt": "2019-11-07T02:00:23.657Z",
+    "featured": false,
+    "tags": [
+        "calculated",
+        "hybrid",
+        "leconbasin"
+    ],
+    "downloads": "131",
+    "numberOfColors": 8,
+    "hashtag": "acronym8",
+    "title": "Acronym 8",
+    "user": {
+        "name": "Lecon Basin",
+        "slug": "leconbasin"
+    },
+    "publishedAt": "2019-11-07T02:00:23.657Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "2d2c3b",
+        "f3f2e8",
+        "3368dc",
+        "40a07c",
+        "70ddd7",
+        "b73241",
+        "b06f6b",
+        "dcc484"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5dc37ab78a877d15ee28b946",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

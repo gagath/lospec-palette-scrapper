@@ -1,0 +1,49 @@
+{
+    "_id": "5f5be38122cccf3d837146eb",
+    "tags": [
+        "sk3ll"
+    ],
+    "colors": [
+        "000501",
+        "424f86",
+        "e71c20",
+        "feb336",
+        "fefefe"
+    ],
+    "downloads": "117",
+    "featured": false,
+    "likes": 18,
+    "comments": 0,
+    "title": "5 crowns",
+    "hashtag": "5crowns",
+    "description": "",
+    "creator": false,
+    "slug": "5-crowns",
+    "publishedAt": "2020-09-12T17:05:00.022Z",
+    "user": {
+        "name": "Sk3ll Sk3ll",
+        "slug": "sk3ll2"
+    },
+    "numberOfColors": 5,
+    "createdAt": "2020-09-11T20:52:17.595Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000501",
+        "424f86",
+        "e71c20",
+        "feb336",
+        "fefefe"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5f5be38122cccf3d837146eb",
+        "type": "palettes",
+        "count": 18,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

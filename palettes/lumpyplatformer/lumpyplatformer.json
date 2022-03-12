@@ -1,0 +1,47 @@
+{
+    "_id": "5e4b1e0beb80bd32ac8542d4",
+    "slug": "lumpy-platformer",
+    "description": "A palette created for the\u00a0<a href=\"https://fy.do/quilt/8\" target=\"_blank\">Lumpy Platformer</a>\u00a0fydoTiles quilt.",
+    "colors": [
+        "36253b",
+        "5b4b61",
+        "816166",
+        "bca67e",
+        "eadd96"
+    ],
+    "creator": false,
+    "hashtag": "lumpyplatformer",
+    "comments": 0,
+    "likes": 17,
+    "createdAt": "2020-02-17T23:13:15.371Z",
+    "featured": false,
+    "tags": [],
+    "downloads": "271",
+    "numberOfColors": 5,
+    "title": "Lumpy Platformer",
+    "user": {
+        "name": "P-Tux7",
+        "slug": "p-tux7"
+    },
+    "publishedAt": "2020-04-15T17:20:00.014Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "36253b",
+        "5b4b61",
+        "816166",
+        "bca67e",
+        "eadd96"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5e4b1e0beb80bd32ac8542d4",
+        "type": "palettes",
+        "count": 17,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

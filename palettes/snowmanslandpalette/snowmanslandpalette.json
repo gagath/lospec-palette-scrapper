@@ -1,0 +1,87 @@
+{
+    "_id": "61ae4d0da0f929616f652d2d",
+    "tags": [
+        "snow",
+        "winter",
+        "blue",
+        "white"
+    ],
+    "colors": [
+        "fdfaf3",
+        "d9d5d3",
+        "b7bac2",
+        "8599b6",
+        "5e7ba3",
+        "2e3440",
+        "893631",
+        "ca3739",
+        "dc703f",
+        "3a93de",
+        "3b7851"
+    ],
+    "downloads": "170",
+    "featured": false,
+    "likes": 11,
+    "comments": 3,
+    "slug": "snowmans-land",
+    "publishedAt": "2021-12-23T08:30:00.051Z",
+    "user": {
+        "name": "skeddles",
+        "slug": "skeddles"
+    },
+    "title": "Snowman's Land",
+    "hashtag": "snowmanslandpalette",
+    "description": "Hastily created for a snowman creating collaboration",
+    "creator": true,
+    "numberOfColors": 11,
+    "createdAt": "2021-12-06T17:49:01.766Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61c21249fe1a1d5a440cf4ec",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Snowman's Land Palette Example by skeddles",
+            "slug": "snowmans-land-palette-example-by-skeddleshjfy1n",
+            "publishedAt": "2021-12-21T17:45:00.050Z",
+            "user": {
+                "name": "skeddles",
+                "slug": "skeddles"
+            },
+            "parent": "61ae4d0da0f929616f652d2d",
+            "image": "palette-examples/snowmans-land-palette-example-by-skeddleshjfy1n.png",
+            "creator": false,
+            "description": "Collection of snowmen created by various Lospec users, submitted to the snowman collaboration for which this palette was created.",
+            "createdAt": "2021-12-21T17:43:37.800Z",
+            "updatedAt": "2021-12-21T17:45:00.052Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Collection of snowmen created by various Lospec users, submitted to the snowman collaboration for which this palette was created."
+        }
+    ],
+    "colorsArray": [
+        "fdfaf3",
+        "d9d5d3",
+        "b7bac2",
+        "8599b6",
+        "5e7ba3",
+        "2e3440",
+        "893631",
+        "ca3739",
+        "dc703f",
+        "3a93de",
+        "3b7851"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "61ae4d0da0f929616f652d2d",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

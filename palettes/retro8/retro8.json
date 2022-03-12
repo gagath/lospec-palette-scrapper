@@ -1,0 +1,63 @@
+{
+    "_id": "5daa462066d90950301701f1",
+    "slug": "retro-8",
+    "description": "Futuristic retro-ish 80s color palette; recommended for text, buttons, and sprites",
+    "colors": [
+        "041026",
+        "051a44",
+        "1f0398",
+        "5000c3",
+        "7521ee",
+        "0099c3",
+        "00c38f",
+        "3ee3b7"
+    ],
+    "creator": true,
+    "comments": 0,
+    "likes": 36,
+    "createdAt": "2019-10-18T23:09:20.491Z",
+    "featured": false,
+    "tags": [
+        "space",
+        "retro",
+        "80s",
+        "colors",
+        "shading",
+        "sprites",
+        "future",
+        "buttons",
+        "text"
+    ],
+    "downloads": "986",
+    "numberOfColors": 8,
+    "hashtag": "retro8",
+    "title": "Retro 8",
+    "user": {
+        "name": "Bixbyte",
+        "slug": "error404"
+    },
+    "publishedAt": "2020-04-15T11:20:00.032Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "041026",
+        "051a44",
+        "1f0398",
+        "5000c3",
+        "7521ee",
+        "0099c3",
+        "00c38f",
+        "3ee3b7"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5daa462066d90950301701f1",
+        "type": "palettes",
+        "count": 36,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

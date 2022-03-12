@@ -1,0 +1,53 @@
+{
+    "_id": "5fbf8397ed55de1ec460e55a",
+    "tags": [
+        "eclipse89"
+    ],
+    "colors": [
+        "38284b",
+        "999999",
+        "6f6a89",
+        "add9d7",
+        "ffffff",
+        "faee96",
+        "fcc65b"
+    ],
+    "downloads": "108",
+    "featured": false,
+    "likes": 10,
+    "comments": 3,
+    "title": "Energy7",
+    "hashtag": "energy7",
+    "description": "A small palette i made for a project of mine, somewhat versatile with a main gray ramp starting with a dark outline color and ending in pure white, and accents of yellow.",
+    "creator": true,
+    "slug": "energy7",
+    "publishedAt": "2021-03-22T18:10:00.018Z",
+    "user": {
+        "name": "Eclipse89",
+        "slug": "eclipse89"
+    },
+    "numberOfColors": 7,
+    "createdAt": "2020-11-26T10:29:43.516Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "38284b",
+        "999999",
+        "6f6a89",
+        "add9d7",
+        "ffffff",
+        "faee96",
+        "fcc65b"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5fbf8397ed55de1ec460e55a",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,86 @@
+{
+    "_id": "616b6e1203074c611a2d7df8",
+    "tags": [],
+    "colors": [
+        "000f17",
+        "003844",
+        "1c836c",
+        "70ac7f",
+        "eefcc5",
+        "3d0b37",
+        "762d58",
+        "ae557a",
+        "974736",
+        "f0a868",
+        "ffe8c2",
+        "9888b3",
+        "d8d8f6"
+    ],
+    "downloads": "200",
+    "featured": false,
+    "likes": 10,
+    "comments": 0,
+    "slug": "space-tree",
+    "publishedAt": "2021-10-19T03:45:00.023Z",
+    "user": {
+        "name": "sugarcube (*\u0277\u25e1\u0277)\u309e",
+        "slug": "baronxwasteland"
+    },
+    "title": "space tree",
+    "hashtag": "mushroomtree",
+    "description": "a cute 13 color palette",
+    "creator": true,
+    "numberOfColors": 13,
+    "createdAt": "2021-10-17T00:28:02.681Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "616b79bae37a6d62132baf8e",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "space tree Palette Example by sugarcube (*\u0277\u25e1\u0277)\u309e",
+            "slug": "space-tree-palette-example-by-sugarcube",
+            "publishedAt": "2021-10-17T16:25:00.016Z",
+            "user": {
+                "name": "sugarcube (*\u0277\u25e1\u0277)\u309e",
+                "slug": "baronxwasteland"
+            },
+            "parent": "616b6e1203074c611a2d7df8",
+            "image": "palette-examples/space-tree-palette-example-by-sugarcube-616b79.png",
+            "creator": true,
+            "description": "a banner I made to demonstrate the palette",
+            "createdAt": "2021-10-17T01:17:46.567Z",
+            "updatedAt": "2021-10-17T16:25:00.016Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "a banner I made to demonstrate the palette"
+        }
+    ],
+    "colorsArray": [
+        "000f17",
+        "003844",
+        "1c836c",
+        "70ac7f",
+        "eefcc5",
+        "3d0b37",
+        "762d58",
+        "ae557a",
+        "974736",
+        "f0a868",
+        "ffe8c2",
+        "9888b3",
+        "d8d8f6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "616b6e1203074c611a2d7df8",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,54 @@
+{
+    "_id": "61e14889d38d302d41956dcc",
+    "tags": [
+        "sahara",
+        "pastell"
+    ],
+    "colors": [
+        "1a1236",
+        "1c598c",
+        "a16666",
+        "dae8a0",
+        "fffee3",
+        "ffffff",
+        "c8bb70"
+    ],
+    "downloads": "34",
+    "featured": false,
+    "likes": 7,
+    "comments": 0,
+    "slug": "sahara-pastell",
+    "publishedAt": "2022-01-16T17:55:00.050Z",
+    "user": {
+        "name": "wermz",
+        "slug": "thor-erland-sluik"
+    },
+    "title": "sahara pastell",
+    "hashtag": "sahara",
+    "description": "a warm pastel palette, for you.",
+    "creator": true,
+    "numberOfColors": 7,
+    "createdAt": "2022-01-14T09:55:21.910Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "1a1236",
+        "1c598c",
+        "a16666",
+        "dae8a0",
+        "fffee3",
+        "ffffff",
+        "c8bb70"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "61e14889d38d302d41956dcc",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

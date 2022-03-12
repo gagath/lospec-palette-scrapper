@@ -1,0 +1,117 @@
+{
+    "_id": "606b4900a1123f71115becc4",
+    "tags": [
+        "rad13",
+        "13",
+        "subdued",
+        "radioactive",
+        "desaturated",
+        "simple",
+        "space",
+        "gameboy"
+    ],
+    "colors": [
+        "422c33",
+        "73514d",
+        "ac8a71",
+        "decb9f",
+        "52615d",
+        "7f8f81",
+        "bfc7af",
+        "eeecde",
+        "2a3a42",
+        "4d6476",
+        "7895ab",
+        "a8cfda",
+        "1f1a24"
+    ],
+    "downloads": "700",
+    "featured": false,
+    "likes": 45,
+    "comments": 0,
+    "slug": "radioactive13",
+    "publishedAt": "2021-04-09T11:30:00.055Z",
+    "user": {
+        "name": "Miguel Lucero",
+        "slug": "miguel-lucero"
+    },
+    "title": "RADIOACTIVE13",
+    "hashtag": "rad13",
+    "description": "This palette is a simple 13 color palette. All the colors are more desaturated and work well together. It's my favorite palette I've made! I'm going to use it for a game!",
+    "creator": true,
+    "createdAt": "2021-04-05T17:29:36.081Z",
+    "numberOfColors": 13,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "606b56bfa1123f71115bed73",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "RADIOCATIVE13 Palette Example by Miguel Lucero",
+            "slug": "radiocative13-palette-example-by-miguel-lucero-2",
+            "publishedAt": "2021-04-08T17:10:00.031Z",
+            "user": {
+                "name": "Miguel Lucero",
+                "slug": "miguel-lucero"
+            },
+            "parent": "606b4900a1123f71115becc4",
+            "image": "palette-examples/radiocative13-palette-example-by-miguel-lucero-2-606b56.png",
+            "creator": false,
+            "description": "The two most left images are sprites and tiles for my game mockup. The last image is simply a checken and an egg.",
+            "createdAt": "2021-04-05T18:28:15.838Z",
+            "updatedAt": "2021-04-08T17:10:00.032Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "The two most left images are sprites and tiles for my game mockup. The last image is simply a checken and an egg."
+        },
+        {
+            "_id": "606b5a8ea1123f71115bedc1",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "RADIOCATIVE13 Palette Example by Miguel Lucero",
+            "slug": "radiocative13-palette-example-by-miguel-lucero-3",
+            "publishedAt": "2021-04-06T18:55:00.016Z",
+            "user": {
+                "name": "Miguel Lucero",
+                "slug": "miguel-lucero"
+            },
+            "parent": "606b4900a1123f71115becc4",
+            "image": "palette-examples/radiocative13-palette-example-by-miguel-lucero-3-606b5a.png",
+            "creator": false,
+            "description": "This gives a better view of my game mockup with the colors.",
+            "createdAt": "2021-04-05T18:44:30.861Z",
+            "updatedAt": "2021-04-06T18:55:00.016Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": "This gives a better view of my game mockup with the colors."
+        }
+    ],
+    "colorsArray": [
+        "422c33",
+        "73514d",
+        "ac8a71",
+        "decb9f",
+        "52615d",
+        "7f8f81",
+        "bfc7af",
+        "eeecde",
+        "2a3a42",
+        "4d6476",
+        "7895ab",
+        "a8cfda",
+        "1f1a24"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "606b4900a1123f71115becc4",
+        "type": "palettes",
+        "count": 45,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

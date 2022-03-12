@@ -1,0 +1,79 @@
+{
+    "_id": "5fe6778928739278720cc5e9",
+    "tags": [
+        "jungle",
+        "polyphrog"
+    ],
+    "colors": [
+        "054047",
+        "228e44",
+        "85e142",
+        "efff7c",
+        "fb7230",
+        "b8272d",
+        "40173a",
+        "9d402b"
+    ],
+    "downloads": "346",
+    "featured": false,
+    "likes": 13,
+    "comments": 3,
+    "title": "jungle-8",
+    "hashtag": "jungle8",
+    "description": "",
+    "creator": true,
+    "slug": "jungle-8",
+    "publishedAt": "2020-12-26T18:50:00.032Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2020-12-25T23:36:41.961Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fe6779828739278720cc5ec",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/jungle-16-palette-example-by-polyphorge-5fe677.png",
+            "creator": true,
+            "description": "",
+            "title": "jungle-16 Palette Example by polyphorge",
+            "slug": "jungle-16-palette-example-by-polyphorge",
+            "publishedAt": "2020-12-26T18:50:00.016Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "5fe6778928739278720cc5e9",
+            "createdAt": "2020-12-25T23:36:56.863Z",
+            "updatedAt": "2020-12-26T18:50:00.016Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "054047",
+        "228e44",
+        "85e142",
+        "efff7c",
+        "fb7230",
+        "b8272d",
+        "40173a",
+        "9d402b"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fe6778928739278720cc5e9",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

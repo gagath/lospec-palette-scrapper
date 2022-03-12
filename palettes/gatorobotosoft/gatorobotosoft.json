@@ -1,0 +1,69 @@
+{
+    "_id": "5dc864ebe8b5507637cc75ec",
+    "slug": "gato-roboto-soft",
+    "description": "A palette from the game <i><a href=\"https://gatoroboto.com/\" target=\"_blank\">Gato Roboto</a>.</i><br />",
+    "colors": [
+        "363636",
+        "ececec"
+    ],
+    "creator": false,
+    "comments": 0,
+    "likes": 32,
+    "createdAt": "2019-11-10T19:28:43.385Z",
+    "featured": false,
+    "tags": [
+        "game",
+        "gatoroboto",
+        "software",
+        "1bit"
+    ],
+    "downloads": "286",
+    "numberOfColors": 2,
+    "hashtag": "gatorobotosoft",
+    "title": "Gato Roboto - Soft",
+    "user": {
+        "name": "PureAsbestos",
+        "slug": "pureasbestos"
+    },
+    "publishedAt": "2019-11-10T19:28:43.385Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6076472e04e19427839730da",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Gato Roboto - Soft Palette Example by Casei Solus",
+            "slug": "gato-roboto-soft-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-17T00:45:00.037Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5dc864ebe8b5507637cc75ec",
+            "image": "palette-examples/gato-roboto-soft-palette-example-by-casei-solus-607647.png",
+            "creator": true,
+            "description": "A fat cat.",
+            "createdAt": "2021-04-14T01:36:46.536Z",
+            "updatedAt": "2021-04-17T00:45:00.037Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A fat cat."
+        }
+    ],
+    "colorsArray": [
+        "363636",
+        "ececec"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "5dc864ebe8b5507637cc75ec",
+        "type": "palettes",
+        "count": 32,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

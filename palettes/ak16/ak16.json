@@ -1,0 +1,72 @@
+{
+    "_id": "610541b52b2c813e9f06c1c9",
+    "tags": [
+        "calculated",
+        "andrewkensler"
+    ],
+    "colors": [
+        "3f32ae",
+        "e30ec2",
+        "baaaff",
+        "ffffff",
+        "ff949d",
+        "e80200",
+        "7a243d",
+        "000000",
+        "195648",
+        "6a8927",
+        "16ed75",
+        "32c1c3",
+        "057fc1",
+        "6e4e23",
+        "c98f4c",
+        "efe305"
+    ],
+    "downloads": "51",
+    "featured": false,
+    "likes": 3,
+    "comments": 4,
+    "slug": "andrew-kenslers-16",
+    "publishedAt": "2021-09-05T00:25:00.039Z",
+    "user": {
+        "name": "mije nasa",
+        "slug": "mije-nasa"
+    },
+    "title": "Andrew Kensler's 16",
+    "hashtag": "ak16",
+    "description": "This palette was created by Andrew Kensler with an algorith he designed for choosing the most separated/different colors from each other using a bunch of color math and stuff I do not understand. Here's the source and a explanation from him.",
+    "creator": false,
+    "numberOfColors": 16,
+    "createdAt": "2021-07-31T12:27:33.399Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "3f32ae",
+        "e30ec2",
+        "baaaff",
+        "ffffff",
+        "ff949d",
+        "e80200",
+        "7a243d",
+        "000000",
+        "195648",
+        "6a8927",
+        "16ed75",
+        "32c1c3",
+        "057fc1",
+        "6e4e23",
+        "c98f4c",
+        "efe305"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "610541b52b2c813e9f06c1c9",
+        "type": "palettes",
+        "count": 3,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

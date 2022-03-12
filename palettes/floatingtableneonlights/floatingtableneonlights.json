@@ -1,0 +1,68 @@
+{
+    "_id": "5fed91a2f012f54894e8fce9",
+    "tags": [],
+    "colors": [
+        "001328",
+        "fe40ea",
+        "54fe40",
+        "016de7"
+    ],
+    "downloads": "141",
+    "featured": false,
+    "likes": 11,
+    "comments": 0,
+    "title": "Neon LIghts - Floatingtable",
+    "hashtag": "floatingtableneonlights",
+    "description": "A cyberpunk neon city type color palette",
+    "creator": true,
+    "slug": "neon-lights-floatingtable",
+    "publishedAt": "2021-01-05T05:35:00.020Z",
+    "user": {
+        "name": "Floatingtable Studios",
+        "slug": "floatingtable-studios"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-12-31T08:53:54.873Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5ff149630eecbe1b3b9973d6",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/neon-lights-floatingtable-palette-example-by-floatingtable-studios-2-5ff149.png",
+            "creator": true,
+            "description": "",
+            "title": "Neon LIghts - Floatingtable Palette Example by Floatingtable Studios",
+            "slug": "neon-lights-floatingtable-palette-example-by-floatingtable-studios-2",
+            "publishedAt": "2021-01-04T17:45:00.020Z",
+            "user": {
+                "name": "Floatingtable Studios",
+                "slug": "floatingtable-studios"
+            },
+            "parent": "5fed91a2f012f54894e8fce9",
+            "createdAt": "2021-01-03T04:34:43.251Z",
+            "updatedAt": "2021-01-04T17:45:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "001328",
+        "fe40ea",
+        "54fe40",
+        "016de7"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5fed91a2f012f54894e8fce9",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

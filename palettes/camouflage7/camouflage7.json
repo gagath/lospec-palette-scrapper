@@ -1,0 +1,79 @@
+{
+    "_id": "5ff39a0ab9119364c22e14c7",
+    "tags": [
+        "camouflage",
+        "monochrome",
+        "orbitron",
+        "orbee"
+    ],
+    "colors": [
+        "14060f",
+        "2a2f23",
+        "4c5638",
+        "616a4e",
+        "728055",
+        "9aaa7b",
+        "bec4ab"
+    ],
+    "downloads": "192",
+    "featured": false,
+    "likes": 10,
+    "comments": 0,
+    "title": "Camouflage-7",
+    "hashtag": "camouflage7",
+    "description": "eat it",
+    "creator": true,
+    "slug": "camouflage-7",
+    "publishedAt": "2021-04-01T17:30:00.063Z",
+    "user": {
+        "name": "Orbitron",
+        "slug": "orbitron"
+    },
+    "numberOfColors": 7,
+    "createdAt": "2021-01-04T22:43:22.428Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "606bad7bacd0d97964f7ab8b",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Camouflage-7 Palette Example by Casei Solus",
+            "slug": "camouflage-7-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-06T18:40:00.035Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5ff39a0ab9119364c22e14c7",
+            "image": "palette-examples/camouflage-7-palette-example-by-casei-solus-606bad.png",
+            "creator": true,
+            "description": "A chameleon on a twig.",
+            "createdAt": "2021-04-06T00:38:19.584Z",
+            "updatedAt": "2021-04-06T18:40:00.035Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A chameleon on a twig."
+        }
+    ],
+    "colorsArray": [
+        "14060f",
+        "2a2f23",
+        "4c5638",
+        "616a4e",
+        "728055",
+        "9aaa7b",
+        "bec4ab"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5ff39a0ab9119364c22e14c7",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

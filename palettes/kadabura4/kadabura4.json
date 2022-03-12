@@ -1,0 +1,52 @@
+{
+    "_id": "5e7a5ea1956e225de6c213c4",
+    "title": "Kadabura4",
+    "slug": "kadabura4",
+    "description": "A 2-bit palette by <a href=\"https://twitter.com/KadaburaDraws\" target=\"_blank\">Kadabura</a>.",
+    "colors": [
+        "000000",
+        "575757",
+        "db000c",
+        "ffffff"
+    ],
+    "user": {
+        "name": "PureAsbestos",
+        "slug": "pureasbestos"
+    },
+    "creator": false,
+    "hashtag": "kadabura4",
+    "publishedAt": "2020-03-24T19:46:21.036Z",
+    "createdAt": "2020-03-24T19:25:21.975Z",
+    "comments": 2,
+    "likes": 22,
+    "featured": false,
+    "tags": [
+        "kadabura",
+        "kadaburadraws",
+        "2bit",
+        "red",
+        "gray",
+        "grey"
+    ],
+    "downloads": "314",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "575757",
+        "db000c",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5e7a5ea1956e225de6c213c4",
+        "type": "palettes",
+        "count": 22,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

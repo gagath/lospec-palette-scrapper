@@ -1,0 +1,87 @@
+{
+    "_id": "6090264ecf82266bed8a2877",
+    "tags": [
+        "neon",
+        "cyberpunk",
+        "cyber",
+        "bna"
+    ],
+    "colors": [
+        "53ebe4",
+        "0f9595",
+        "084f64",
+        "03274c",
+        "08173d",
+        "0b001b",
+        "4d004f",
+        "c1115a",
+        "e13a6a",
+        "e46a87",
+        "eca6c0"
+    ],
+    "downloads": "1,026",
+    "featured": false,
+    "likes": 40,
+    "comments": 5,
+    "slug": "cyberpunk-neons",
+    "publishedAt": "2021-05-06T21:45:00.021Z",
+    "user": {
+        "name": "Chippix",
+        "slug": "chippix"
+    },
+    "title": "Cyberpunk Neons",
+    "hashtag": "cyberpunkneons",
+    "description": "A palette that was inspired by the great colour choices of the anime BNA.\u00a0 Please note the that this has been renamed to Cyberpunk Neons after settling on a different name with Shidoengie.",
+    "creator": true,
+    "createdAt": "2021-05-03T16:35:26.714Z",
+    "numberOfColors": 11,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60959534be9f8e4903383125",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Cyber Neons Palette Example by Rednbloo",
+            "slug": "cyber-neons-palette-example-by-rednbloo",
+            "publishedAt": "2021-05-09T00:40:00.025Z",
+            "user": {
+                "name": "Rednbloo",
+                "slug": "rednbloo"
+            },
+            "parent": "6090264ecf82266bed8a2877",
+            "image": "palette-examples/cyber-neons-palette-example-by-rednbloo-609595.png",
+            "creator": true,
+            "description": "a font i made based off the cyberpunk logo to make a pallette logo and a flamingo knife i made with it earlier",
+            "createdAt": "2021-05-07T19:29:56.725Z",
+            "updatedAt": "2021-05-09T00:40:00.025Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "a font i made based off the cyberpunk logo to make a pallette logo and a flamingo knife i made with it earlier"
+        }
+    ],
+    "colorsArray": [
+        "53ebe4",
+        "0f9595",
+        "084f64",
+        "03274c",
+        "08173d",
+        "0b001b",
+        "4d004f",
+        "c1115a",
+        "e13a6a",
+        "e46a87",
+        "eca6c0"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "6090264ecf82266bed8a2877",
+        "type": "palettes",
+        "count": 40,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

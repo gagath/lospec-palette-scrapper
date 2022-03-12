@@ -1,0 +1,70 @@
+{
+    "_id": "5f3b44e1046e623357b7da20",
+    "tags": [
+        "gameboy"
+    ],
+    "colors": [
+        "dad3af",
+        "d58863",
+        "c23a73",
+        "2c1e74"
+    ],
+    "downloads": "1,148",
+    "featured": false,
+    "likes": 111,
+    "comments": 0,
+    "title": "Autumn Chill",
+    "hashtag": "autumnchill",
+    "description": "A nostalgic Gameboy palette inspired by sunsets. I wanted to make the most of the 4 color limit by making each color a different hue, yet still be cohesive.",
+    "creator": true,
+    "slug": "autumn-chill",
+    "publishedAt": "2020-08-19T17:05:00.038Z",
+    "user": {
+        "name": "Doph",
+        "slug": "dophsart"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-08-18T03:02:57.078Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f3c95afcced5214a7b19983",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/autumn-chill-palette-example-by-doph-3-5f3c95.png",
+            "creator": true,
+            "description": "I tried to liven up the image per your comment. But perhaps you'd like something more varied?",
+            "title": "Autumn Chill Palette Example by Doph",
+            "slug": "autumn-chill-palette-example-by-doph-3",
+            "publishedAt": "2020-08-19T15:40:00.025Z",
+            "user": {
+                "name": "Doph",
+                "slug": "dophsart"
+            },
+            "parent": "5f3b44e1046e623357b7da20",
+            "createdAt": "2020-08-19T02:59:59.906Z",
+            "updatedAt": "2020-08-19T15:40:00.025Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "I tried to liven up the image per your comment. But perhaps you'd like something more varied?"
+        }
+    ],
+    "colorsArray": [
+        "dad3af",
+        "d58863",
+        "c23a73",
+        "2c1e74"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f3b44e1046e623357b7da20",
+        "type": "palettes",
+        "count": 111,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

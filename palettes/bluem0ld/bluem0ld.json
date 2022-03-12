@@ -1,0 +1,95 @@
+{
+    "_id": "5ff33671cae7d4410987b3eb",
+    "tags": [
+        "mold",
+        " blue",
+        " blue mold",
+        " green"
+    ],
+    "colors": [
+        "191b1a",
+        "294257",
+        "579c9a",
+        "99c9b3"
+    ],
+    "downloads": "1,401",
+    "featured": false,
+    "likes": 114,
+    "comments": 4,
+    "title": "bluem0ld",
+    "hashtag": "bluem0ld",
+    "description": "Based on actual blue mold. A little desaturated for nastiness.",
+    "creator": true,
+    "slug": "bluem0ld",
+    "publishedAt": "2021-02-01T00:25:00.073Z",
+    "user": {
+        "name": "warpixel",
+        "slug": "warpixel"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-01-04T15:38:25.560Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "600d72bfffe26d178e361236",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/bluem0ld-palette-example-by-warpixel-600d72.png",
+            "creator": true,
+            "description": "",
+            "title": "bluem0ld Palette Example by warpixel",
+            "slug": "bluem0ld-palette-example-by-warpixel",
+            "publishedAt": "2021-01-28T17:55:00.024Z",
+            "user": {
+                "name": "warpixel",
+                "slug": "warpixel"
+            },
+            "parent": "5ff33671cae7d4410987b3eb",
+            "createdAt": "2021-01-24T13:14:39.110Z",
+            "updatedAt": "2021-01-28T17:55:00.025Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "611c5c67364dd4143260f435",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "bluem0ld Palette Example by tazzan",
+            "slug": "bluem0ld-palette-example-by-tazzan",
+            "publishedAt": "2021-08-22T21:05:00.038Z",
+            "user": {
+                "name": "tazzan",
+                "slug": "tazzan"
+            },
+            "parent": "5ff33671cae7d4410987b3eb",
+            "image": "palette-examples/bluem0ld-palette-example-by-tazzan-611c5c.png",
+            "creator": true,
+            "description": "A part of a larger piece (On the Edge of Everywhere &amp; Nowhere) using the bluem0ld",
+            "createdAt": "2021-08-18T01:03:35.920Z",
+            "updatedAt": "2021-08-22T21:05:00.038Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": "A part of a larger piece (On the Edge of Everywhere &amp; Nowhere) using the bluem0ld"
+        }
+    ],
+    "colorsArray": [
+        "191b1a",
+        "294257",
+        "579c9a",
+        "99c9b3"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5ff33671cae7d4410987b3eb",
+        "type": "palettes",
+        "count": 114,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

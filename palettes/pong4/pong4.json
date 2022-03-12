@@ -1,0 +1,73 @@
+{
+    "_id": "61f7e35c46f8471b0038a6d9",
+    "tags": [
+        "pastel",
+        "4colors",
+        "2bits",
+        "pong"
+    ],
+    "colors": [
+        "5c4bff",
+        "fdfff2",
+        "14e1ff",
+        "ff7ad6"
+    ],
+    "downloads": "216",
+    "featured": false,
+    "likes": 39,
+    "comments": 0,
+    "slug": "pong4",
+    "publishedAt": "2022-02-01T01:15:00.046Z",
+    "user": {
+        "name": "BitBits",
+        "slug": "bbttan"
+    },
+    "title": "pong4",
+    "hashtag": "pong4",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2022-01-31T13:25:48.012Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61f7e40f46f8471b0038a6e8",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "pong4 Palette Example by BitBits",
+            "slug": "pong4-palette-example-by-bitbitsxiytby",
+            "publishedAt": "2022-01-31T15:05:00.044Z",
+            "user": {
+                "name": "BitBits",
+                "slug": "bbttan"
+            },
+            "parent": "61f7e35c46f8471b0038a6d9",
+            "image": "palette-examples/pong4-palette-example-by-bitbitsxiytby.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-01-31T13:28:47.251Z",
+            "updatedAt": "2022-01-31T15:05:00.045Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "5c4bff",
+        "fdfff2",
+        "14e1ff",
+        "ff7ad6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61f7e35c46f8471b0038a6d9",
+        "type": "palettes",
+        "count": 39,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

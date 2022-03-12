@@ -1,0 +1,72 @@
+{
+    "_id": "617879d399a9095602210bd5",
+    "tags": [
+        "2bit",
+        "yellow",
+        "artist"
+    ],
+    "colors": [
+        "1c1412",
+        "635650",
+        "d3ae21",
+        "d4c9c3"
+    ],
+    "downloads": "328",
+    "featured": false,
+    "likes": 34,
+    "comments": 1,
+    "slug": "voltage-warning",
+    "publishedAt": "2021-10-27T21:35:00.024Z",
+    "user": {
+        "name": "Wuchta",
+        "slug": "wuchta7"
+    },
+    "title": "Voltage Warning",
+    "hashtag": "voltagewarning",
+    "description": "Sampled from a sign that said: \"Do not touch! Eletrical device\"",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-10-26T21:57:39.164Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6179c175ba65587daba1a432",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Voltage Warning Palette Example by Wuchta",
+            "slug": "voltage-warning-palette-example-by-wuchta",
+            "publishedAt": "2021-10-28T14:35:00.062Z",
+            "user": {
+                "name": "Wuchta",
+                "slug": "wuchta7"
+            },
+            "parent": "617879d399a9095602210bd5",
+            "image": "palette-examples/voltage-warning-palette-example-by-wuchta-6179c1.png",
+            "creator": true,
+            "description": "examples of palette use",
+            "createdAt": "2021-10-27T21:15:33.316Z",
+            "updatedAt": "2021-10-28T14:35:00.062Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "examples of palette use"
+        }
+    ],
+    "colorsArray": [
+        "1c1412",
+        "635650",
+        "d3ae21",
+        "d4c9c3"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "617879d399a9095602210bd5",
+        "type": "palettes",
+        "count": 34,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

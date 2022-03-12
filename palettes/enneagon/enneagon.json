@@ -1,0 +1,93 @@
+{
+    "_id": "615b64afaca3485f1959dfc8",
+    "tags": [
+        "enneagon",
+        "geometric"
+    ],
+    "colors": [
+        "1a1d1e",
+        "251e2f",
+        "5a332a",
+        "4a5981"
+    ],
+    "downloads": "113",
+    "featured": false,
+    "likes": 20,
+    "comments": 0,
+    "slug": "enneagon",
+    "publishedAt": "2021-12-11T17:00:00.066Z",
+    "user": {
+        "name": "Gors",
+        "slug": "spritergors"
+    },
+    "title": "Enneagon",
+    "hashtag": "enneagon",
+    "description": "Four colors carefully chosen to invoke a nighttime, moody and geometric pieces.",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-10-04T20:31:43.151Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6160b46ddedcd25f40c20d12",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Enneagon Palette Example by CasualJoe",
+            "slug": "enneagon-palette-example-by-casualjoe",
+            "publishedAt": "2021-12-06T17:05:00.103Z",
+            "user": {
+                "name": "CasualJoe",
+                "slug": "casual-joe-3905"
+            },
+            "parent": "615b64afaca3485f1959dfc8",
+            "image": "palette-examples/enneagon-palette-example-by-casualjoe-6160b4.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-10-08T21:13:17.261Z",
+            "updatedAt": "2021-12-06T17:05:00.104Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "616d75dc3cb5392767124564",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Enneagon Palette Example by Gors",
+            "slug": "enneagon-palette-example-by-gors",
+            "publishedAt": "2021-12-06T17:00:00.131Z",
+            "user": {
+                "name": "Gors",
+                "slug": "spritergors"
+            },
+            "parent": "615b64afaca3485f1959dfc8",
+            "image": "palette-examples/enneagon-palette-example-by-gors-616d75.png",
+            "creator": true,
+            "description": "Example of how the palette can be used.",
+            "createdAt": "2021-10-18T13:25:48.040Z",
+            "updatedAt": "2021-12-06T17:00:00.131Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": "Example of how the palette can be used."
+        }
+    ],
+    "colorsArray": [
+        "1a1d1e",
+        "251e2f",
+        "5a332a",
+        "4a5981"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "615b64afaca3485f1959dfc8",
+        "type": "palettes",
+        "count": 20,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

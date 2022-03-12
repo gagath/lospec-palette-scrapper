@@ -1,0 +1,67 @@
+{
+    "_id": "5bbf9c8bb725972c04ba039b",
+    "slug": "hallowpumpkin",
+    "description": "Part of the <a target=\"_blank\" href=\"https://lospec.com/palette-list/tag/wildleoknightgameboy\">WildLeoKnight Gameboy Palettes Set</a>",
+    "colors": [
+        "300030",
+        "602878",
+        "f89020",
+        "f8f088"
+    ],
+    "tags": [
+        "artist",
+        "wildleoknight"
+    ],
+    "downloads": "3,025",
+    "numberOfColors": 4,
+    "createdAt": "2018-10-11T18:55:07.343Z",
+    "featured": false,
+    "likes": 201,
+    "comments": 5,
+    "creator": true,
+    "hashtag": "hallowpumpkin",
+    "title": "HallowPumpkin",
+    "user": {
+        "name": "WildLeoKnight",
+        "slug": "wildleoknight"
+    },
+    "publishedAt": "2018-10-11T18:55:07.343Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5bbf9dbfb725972c04ba039c",
+            "description": "Palette usage example by <a target=\"_blank\" href=\"https://twitter.com/WildLeoKnight\">WildLeoKnight</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.145Z",
+            "creator": false,
+            "image": "palette-examples/halloween-palette-example-palette-usage-example-by-wildleoknight-5bbf9d.png",
+            "likes": 0,
+            "parent": "5bbf9c8bb725972c04ba039b",
+            "slug": "halloween-palette-example-palette-usage-example-by-wildleoknight",
+            "title": "halloween palette example palette usage example by wildleoknight",
+            "updatedAt": "2020-07-31T03:56:11.145Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by WildLeoKnight"
+        }
+    ],
+    "colorsArray": [
+        "300030",
+        "602878",
+        "f89020",
+        "f8f088"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5bbf9c8bb725972c04ba039b",
+        "type": "palettes",
+        "count": 201,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

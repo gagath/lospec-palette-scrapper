@@ -1,0 +1,92 @@
+{
+    "_id": "60d216cd51dfcc33ad7f9138",
+    "tags": [
+        "moody",
+        "game",
+        "dark",
+        "nostalgia",
+        "colorful"
+    ],
+    "colors": [
+        "1b2147",
+        "172c5c",
+        "165a91",
+        "7bb3c9",
+        "a7cfc3",
+        "381819",
+        "571d1e",
+        "96572c",
+        "c4a074",
+        "ffedcf",
+        "1a1a1a",
+        "2e2d2c",
+        "3b362e"
+    ],
+    "downloads": "88",
+    "featured": false,
+    "likes": 5,
+    "comments": 0,
+    "slug": "nostalgia-color-palette",
+    "publishedAt": "2021-07-11T16:05:00.028Z",
+    "user": {
+        "name": "Anonymous Person",
+        "slug": "anonymous-person"
+    },
+    "title": "Nostalgia Color Palette",
+    "hashtag": "nostalgiacolorpalette",
+    "description": "First color palette that I made.",
+    "creator": true,
+    "createdAt": "2021-06-22T16:58:53.004Z",
+    "numberOfColors": 13,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "612de846e04e2b08b4d1e062",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Nostalgia Color Palette Palette Example by Kartheek raj",
+            "slug": "nostalgia-color-palette-palette-example-by-kartheek-raj",
+            "publishedAt": "2021-08-31T09:15:00.013Z",
+            "user": {
+                "name": "Kartheek raj",
+                "slug": "karrthik77"
+            },
+            "parent": "60d216cd51dfcc33ad7f9138",
+            "image": "palette-examples/nostalgia-color-palette-palette-example-by-kartheek-raj-612de8.png",
+            "creator": true,
+            "description": "I used this color palette to create Krishnastami 2021 gif greetings an Indian festival\u00a0 \u0c36\u0c4d\u0c30\u0c40\u0c15\u0c43\u0c37\u0c4d\u0c23\u0c3e\u0c37\u0c4d\u0c1f\u0c2e\u0c3f \u0c36\u0c41\u0c2d\u0c3e\u0c15\u0c3e\u0c02\u0c15\u0c4d\u0c37\u0c32\u0c41)\u00a0 (\u091c\u0928\u094d\u092e\u093e\u0937\u094d\u091f\u092e\u0940 \u0915\u0940 \u092c\u0927\u093e\u0908), Animated only with 13 colors and 8 frames.",
+            "createdAt": "2021-08-31T08:28:54.128Z",
+            "updatedAt": "2021-08-31T09:15:00.013Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "I used this color palette to create Krishnastami 2021 gif greetings an Indian festival\u00a0 \u0c36\u0c4d\u0c30\u0c40\u0c15\u0c43\u0c37\u0c4d\u0c23\u0c3e\u0c37\u0c4d\u0c1f\u0c2e\u0c3f \u0c36\u0c41\u0c2d\u0c3e\u0c15\u0c3e\u0c02\u0c15\u0c4d\u0c37\u0c32\u0c41)\u00a0 (\u091c\u0928\u094d\u092e\u093e\u0937\u094d\u091f\u092e\u0940 \u0915\u0940 \u092c\u0927\u093e\u0908), Animated only with 13 colors and 8 frames."
+        }
+    ],
+    "colorsArray": [
+        "1b2147",
+        "172c5c",
+        "165a91",
+        "7bb3c9",
+        "a7cfc3",
+        "381819",
+        "571d1e",
+        "96572c",
+        "c4a074",
+        "ffedcf",
+        "1a1a1a",
+        "2e2d2c",
+        "3b362e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "60d216cd51dfcc33ad7f9138",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,51 @@
+{
+    "_id": "6096c7a3e9720c656975fd47",
+    "tags": [
+        "gameboy",
+        "2bit",
+        "kirby",
+        "pink",
+        "bright"
+    ],
+    "colors": [
+        "8e1438",
+        "e84b6a",
+        "fc92a3",
+        "f7d7db"
+    ],
+    "downloads": "221",
+    "featured": false,
+    "likes": 20,
+    "comments": 0,
+    "slug": "pink-puff-gb",
+    "publishedAt": "2021-05-13T16:45:00.049Z",
+    "user": {
+        "name": "Marty Starkiller",
+        "slug": "marty-starkiller"
+    },
+    "title": "Pink Puff GB",
+    "hashtag": "pinkpuffgb",
+    "description": "A pink 2-bit palette, intended for game boy style pixel art\u00a0",
+    "creator": true,
+    "createdAt": "2021-05-08T17:17:23.508Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "8e1438",
+        "e84b6a",
+        "fc92a3",
+        "f7d7db"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6096c7a3e9720c656975fd47",
+        "type": "palettes",
+        "count": 20,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

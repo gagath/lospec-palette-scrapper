@@ -1,0 +1,76 @@
+{
+    "_id": "61ef7086c09a6d26c26d0f91",
+    "tags": [
+        "retro",
+        "gameboy",
+        "lk"
+    ],
+    "colors": [
+        "000000",
+        "310063",
+        "63359c",
+        "9c65ce",
+        "ce9ace",
+        "ffffff"
+    ],
+    "downloads": "174",
+    "featured": false,
+    "likes": 20,
+    "comments": 0,
+    "slug": "ice-cream-land",
+    "publishedAt": "2022-01-26T09:20:00.051Z",
+    "user": {
+        "name": "Gabizu46512",
+        "slug": "gabz"
+    },
+    "title": "Ice Cream Land",
+    "hashtag": "icecreamland",
+    "description": "Created for the game with the same name by LucasLukin ;-;, all credits goes for him",
+    "creator": false,
+    "numberOfColors": 6,
+    "createdAt": "2022-01-25T03:37:42.358Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61ef7097c09a6d26c26d0f96",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Ice Cream Land Palette Example by Gabizu46512",
+            "slug": "ice-cream-land-palette-example-by-gabizu46512g7hhbv",
+            "publishedAt": "2022-01-26T01:05:00.159Z",
+            "user": {
+                "name": "Gabizu46512",
+                "slug": "gabz"
+            },
+            "parent": "61ef7086c09a6d26c26d0f91",
+            "image": "palette-examples/ice-cream-land-palette-example-by-gabizu46512g7hhbv.png",
+            "creator": false,
+            "description": "",
+            "createdAt": "2022-01-25T03:37:59.964Z",
+            "updatedAt": "2022-01-26T01:05:00.160Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "310063",
+        "63359c",
+        "9c65ce",
+        "ce9ace",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "61ef7086c09a6d26c26d0f91",
+        "type": "palettes",
+        "count": 20,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

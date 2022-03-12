@@ -1,0 +1,83 @@
+{
+    "_id": "617d08cc8a5084648de4ffba",
+    "tags": [
+        "artist",
+        "blue",
+        "sapphire",
+        "thest1076",
+        "st8",
+        "aqua"
+    ],
+    "colors": [
+        "141433",
+        "17174d",
+        "1a1f80",
+        "2932a6",
+        "3347cc",
+        "5064e5",
+        "6d88f2",
+        "9db4f2"
+    ],
+    "downloads": "228",
+    "featured": false,
+    "likes": 16,
+    "comments": 0,
+    "slug": "st-8-sapphire",
+    "publishedAt": "2021-11-02T15:00:00.053Z",
+    "user": {
+        "name": "Skiller Thomson",
+        "slug": "thest1076"
+    },
+    "title": "ST 8 Sapphire",
+    "hashtag": "st8sapphire",
+    "description": "Sapphire, Diamond, Ice or whatever you want...",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-10-30T08:56:44.072Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "617d09d68a5084648de4ffcb",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "ST 8 Sapphire Palette Example by Skiller Thomson",
+            "slug": "st-8-sapphire-palette-example-by-skiller-thomson",
+            "publishedAt": "2021-10-30T18:00:00.066Z",
+            "user": {
+                "name": "Skiller Thomson",
+                "slug": "thest1076"
+            },
+            "parent": "617d08cc8a5084648de4ffba",
+            "image": "palette-examples/st-8-sapphire-palette-example-by-skiller-thomson-617d09.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-10-30T09:01:10.375Z",
+            "updatedAt": "2021-10-30T18:00:00.067Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "141433",
+        "17174d",
+        "1a1f80",
+        "2932a6",
+        "3347cc",
+        "5064e5",
+        "6d88f2",
+        "9db4f2"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "617d08cc8a5084648de4ffba",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

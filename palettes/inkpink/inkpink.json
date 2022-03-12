@@ -1,0 +1,78 @@
+{
+    "_id": "601311454310c2050eb15df4",
+    "tags": [
+        "pink",
+        " purple",
+        " rosado",
+        " rosa",
+        " "
+    ],
+    "colors": [
+        "ffffff",
+        "fe6c90",
+        "d03791",
+        "87286a",
+        "452459",
+        "260d34"
+    ],
+    "downloads": "2,803",
+    "featured": false,
+    "likes": 215,
+    "comments": 4,
+    "title": "INKPINK",
+    "hashtag": "inkpink",
+    "description": "",
+    "creator": true,
+    "slug": "inkpink",
+    "publishedAt": "2021-02-15T20:40:00.024Z",
+    "user": {
+        "name": "Inkpendude ",
+        "slug": "inkpendude"
+    },
+    "numberOfColors": 6,
+    "createdAt": "2021-01-28T19:32:21.118Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6013130c4310c2050eb15e0e",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/inkpink-palette-example-by-inkpendude-601313.png",
+            "creator": true,
+            "description": "",
+            "title": "INKPINK Palette Example by Inkpendude ",
+            "slug": "inkpink-palette-example-by-inkpendude",
+            "publishedAt": "2021-02-08T19:45:00.017Z",
+            "user": {
+                "name": "Inkpendude ",
+                "slug": "inkpendude"
+            },
+            "parent": "601311454310c2050eb15df4",
+            "createdAt": "2021-01-28T19:39:56.857Z",
+            "updatedAt": "2021-02-08T19:45:00.017Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "ffffff",
+        "fe6c90",
+        "d03791",
+        "87286a",
+        "452459",
+        "260d34"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "601311454310c2050eb15df4",
+        "type": "palettes",
+        "count": 215,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

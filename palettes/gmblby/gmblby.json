@@ -1,0 +1,48 @@
+{
+    "_id": "615668268bdf451d4d3ea35a",
+    "tags": [
+        "gameboy",
+        "2bit"
+    ],
+    "colors": [
+        "193c3e",
+        "ff0044",
+        "2ce8f5",
+        "ffffff"
+    ],
+    "downloads": "68",
+    "featured": false,
+    "likes": 7,
+    "comments": 0,
+    "slug": "gumball-boy-gb",
+    "publishedAt": "2021-10-13T23:45:00.034Z",
+    "user": {
+        "name": "Do_Nendo",
+        "slug": "shay-phillips"
+    },
+    "title": "Gumball Boy GB",
+    "hashtag": "gmblby",
+    "description": "A 2 Bit Pallete. Great For Clouds, Gumball/Candy, Characters Or Retro Shops!",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-10-01T01:45:10.573Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "193c3e",
+        "ff0044",
+        "2ce8f5",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "615668268bdf451d4d3ea35a",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

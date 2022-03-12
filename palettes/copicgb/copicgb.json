@@ -1,0 +1,47 @@
+{
+    "_id": "60ac3a83b8ef4f638c5cdcb5",
+    "tags": [
+        "gameboy"
+    ],
+    "colors": [
+        "001a1c",
+        "565461",
+        "9ba0a1",
+        "edf2f1"
+    ],
+    "downloads": "94",
+    "featured": false,
+    "likes": 11,
+    "comments": 1,
+    "slug": "copic-gb",
+    "publishedAt": "2021-09-07T00:25:00.049Z",
+    "user": {
+        "name": "Kuroi",
+        "slug": "kuroi"
+    },
+    "title": "copic gb",
+    "hashtag": "copicgb",
+    "description": "compic multiliner\u00a0",
+    "creator": true,
+    "createdAt": "2021-05-24T23:45:07.410Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "001a1c",
+        "565461",
+        "9ba0a1",
+        "edf2f1"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60ac3a83b8ef4f638c5cdcb5",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,105 @@
+{
+    "_id": "60b3db3efe3a0a30066438b0",
+    "tags": [
+        "artist",
+        "skeddles",
+        "pastel",
+        "paper"
+    ],
+    "colors": [
+        "dda963",
+        "c9814b",
+        "25272a",
+        "dbc1af",
+        "cf6a4f",
+        "e0b94a",
+        "b2af5c",
+        "a7a79e",
+        "9b6970"
+    ],
+    "downloads": "499",
+    "featured": false,
+    "likes": 56,
+    "comments": 1,
+    "slug": "painted-parchment-9",
+    "publishedAt": "2021-05-30T18:38:03.264Z",
+    "user": {
+        "name": "skeddles",
+        "slug": "skeddles"
+    },
+    "title": "Painted Parchment 9",
+    "hashtag": "paintedparchment9",
+    "description": "Inspired by art by Adam Rufino. Perhaps could be expanded.",
+    "creator": true,
+    "createdAt": "2021-05-30T18:36:46.605Z",
+    "numberOfColors": 9,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60b3db47fe3a0a30066438b2",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Painted Parchment 9 Palette Example by skeddles",
+            "slug": "painted-parchment-9-palette-example-by-skeddles",
+            "publishedAt": "2021-05-30T18:38:00.019Z",
+            "user": {
+                "name": "skeddles",
+                "slug": "skeddles"
+            },
+            "parent": "60b3db3efe3a0a30066438b0",
+            "image": "palette-examples/painted-parchment-9-palette-example-by-skeddles-60b3db.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-05-30T18:36:55.789Z",
+            "updatedAt": "2021-05-30T18:38:00.019Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "621aea4e00c9952fd8d19687",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Painted Parchment 9 Palette Example by CasualJoe",
+            "slug": "painted-parchment-9-palette-example-by-casualjoeqgja2l",
+            "publishedAt": "2022-02-27T20:45:00.047Z",
+            "user": {
+                "name": "CasualJoe",
+                "slug": "casual-joe-3905"
+            },
+            "parent": "60b3db3efe3a0a30066438b0",
+            "image": "palette-examples/painted-parchment-9-palette-example-by-casualjoeqgja2l.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-02-27T03:04:46.042Z",
+            "updatedAt": "2022-02-27T20:45:00.048Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "dda963",
+        "c9814b",
+        "25272a",
+        "dbc1af",
+        "cf6a4f",
+        "e0b94a",
+        "b2af5c",
+        "a7a79e",
+        "9b6970"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "60b3db3efe3a0a30066438b0",
+        "type": "palettes",
+        "count": 56,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

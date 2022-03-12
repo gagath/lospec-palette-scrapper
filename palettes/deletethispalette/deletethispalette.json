@@ -1,0 +1,82 @@
+{
+    "_id": "6151e282b11142073c480f4e",
+    "tags": [
+        "deletethisplease"
+    ],
+    "colors": [
+        "000000",
+        "808080",
+        "ffffff",
+        "ffbf40",
+        "bf4000",
+        "400080",
+        "4040bf",
+        "40bfff",
+        "40bf40",
+        "ff4080"
+    ],
+    "downloads": "32",
+    "featured": false,
+    "likes": 8,
+    "comments": 5,
+    "slug": "delete-this-palette",
+    "publishedAt": "2021-10-12T23:45:00.021Z",
+    "user": {
+        "name": "Noah Rowlands",
+        "slug": "noah-rowlands1"
+    },
+    "title": "DELETE THIS PALETTE",
+    "hashtag": "deletethispalette",
+    "description": "Please delete this",
+    "creator": true,
+    "numberOfColors": 10,
+    "createdAt": "2021-09-27T15:25:54.518Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6153b4dd0c26697613658f3d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "What The Dec 2.0 Palette Example by Noah Rowlands",
+            "slug": "what-the-dec-20-palette-example-by-noah-rowlands-2",
+            "publishedAt": "2021-09-29T13:45:00.033Z",
+            "user": {
+                "name": "Noah Rowlands",
+                "slug": "noah-rowlands1"
+            },
+            "parent": "6151e282b11142073c480f4e",
+            "image": "palette-examples/what-the-dec-20-palette-example-by-noah-rowlands-2-6153b4.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-09-29T00:35:41.960Z",
+            "updatedAt": "2021-09-29T13:45:00.034Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "808080",
+        "ffffff",
+        "ffbf40",
+        "bf4000",
+        "400080",
+        "4040bf",
+        "40bfff",
+        "40bf40",
+        "ff4080"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "6151e282b11142073c480f4e",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

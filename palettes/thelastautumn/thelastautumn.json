@@ -1,0 +1,80 @@
+{
+    "_id": "612f7f120d91125130c0bc37",
+    "tags": [
+        "autumn",
+        "fall",
+        "7colors",
+        "saturated",
+        "nature"
+    ],
+    "colors": [
+        "cbb917",
+        "cba017",
+        "ba7015",
+        "9f4312",
+        "801e0f",
+        "5a080e",
+        "390c05"
+    ],
+    "downloads": "240",
+    "featured": false,
+    "likes": 18,
+    "comments": 2,
+    "slug": "the-last-autumn",
+    "publishedAt": "2021-09-30T19:55:00.035Z",
+    "user": {
+        "name": "AteBits",
+        "slug": "atebits"
+    },
+    "title": "The Last Autumn",
+    "hashtag": "thelastautumn",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 7,
+    "createdAt": "2021-09-01T13:24:34.306Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "612f7f3a0d91125130c0bc40",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "The Last Autumn Palette Example by AteBits",
+            "slug": "the-last-autumn-palette-example-by-atebits",
+            "publishedAt": "2021-09-04T16:15:00.027Z",
+            "user": {
+                "name": "AteBits",
+                "slug": "atebits"
+            },
+            "parent": "612f7f120d91125130c0bc37",
+            "image": "palette-examples/the-last-autumn-palette-example-by-atebits-612f7f.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-09-01T13:25:14.195Z",
+            "updatedAt": "2021-09-04T16:15:00.028Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "cbb917",
+        "cba017",
+        "ba7015",
+        "9f4312",
+        "801e0f",
+        "5a080e",
+        "390c05"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "612f7f120d91125130c0bc37",
+        "type": "palettes",
+        "count": 18,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

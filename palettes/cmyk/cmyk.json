@@ -1,0 +1,45 @@
+{
+    "_id": "5f6d6306b7743f672006f503",
+    "tags": [],
+    "colors": [
+        "00ffff",
+        "ff00ff",
+        "ffff00",
+        "000000"
+    ],
+    "downloads": "123",
+    "featured": false,
+    "likes": 13,
+    "comments": 0,
+    "title": "CMYK",
+    "hashtag": "cmyk",
+    "description": "",
+    "creator": false,
+    "slug": "cmyk",
+    "publishedAt": "2020-10-07T00:35:00.014Z",
+    "user": {
+        "name": "Soeryo Nugroho",
+        "slug": "brotho"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-09-25T03:24:54.478Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "00ffff",
+        "ff00ff",
+        "ffff00",
+        "000000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f6d6306b7743f672006f503",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

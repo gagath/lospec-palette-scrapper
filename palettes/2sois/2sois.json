@@ -1,0 +1,49 @@
+{
+    "_id": "5f417fe17205e647b9e1ea94",
+    "tags": [],
+    "colors": [
+        "17283c",
+        "7d6fb8",
+        "c986f6",
+        "f9c4ad",
+        "fef6f2",
+        "f6623e"
+    ],
+    "downloads": "134",
+    "featured": false,
+    "likes": 12,
+    "comments": 0,
+    "title": "2sois",
+    "hashtag": "2sois",
+    "description": "Inspired by the song \"O Segundo Sol\"",
+    "creator": true,
+    "slug": "2sois",
+    "publishedAt": "2020-08-29T02:10:00.028Z",
+    "user": {
+        "name": "luis gustavo",
+        "slug": "luisgstvin"
+    },
+    "numberOfColors": 6,
+    "createdAt": "2020-08-22T20:28:17.460Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "17283c",
+        "7d6fb8",
+        "c986f6",
+        "f9c4ad",
+        "fef6f2",
+        "f6623e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5f417fe17205e647b9e1ea94",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

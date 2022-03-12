@@ -1,0 +1,76 @@
+{
+    "_id": "6006e5d8c40d1465425adbfc",
+    "tags": [
+        "undertale",
+        " gameboy",
+        " gb",
+        " 4",
+        " battletale",
+        " sans",
+        " frisk"
+    ],
+    "colors": [
+        "000000",
+        "ffffff",
+        "d82b2b",
+        "ff7124"
+    ],
+    "downloads": "98",
+    "featured": false,
+    "likes": 8,
+    "comments": 0,
+    "title": "Battletale GB",
+    "hashtag": "battletalegb",
+    "description": "A four color palette inspired by the game Undertale's battle screen colors, it doesn't include all the colors, but it has the colors I think are important.",
+    "creator": true,
+    "slug": "battletale-gb",
+    "publishedAt": "2021-03-31T11:30:00.051Z",
+    "user": {
+        "name": "SushiPoodle",
+        "slug": "sushipoodle"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-01-19T13:59:52.867Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60771672204d9a5af6d56b36",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Battletale GB Palette Example by Arthur Graciano",
+            "slug": "battletale-gb-palette-example-by-arthur-graciano",
+            "publishedAt": "2021-04-17T00:05:00.031Z",
+            "user": {
+                "name": "Arthur Graciano",
+                "slug": "arthur-graciano"
+            },
+            "parent": "6006e5d8c40d1465425adbfc",
+            "image": "palette-examples/battletale-gb-palette-example-by-arthur-graciano-607716.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-04-14T16:21:06.688Z",
+            "updatedAt": "2021-04-17T00:05:00.032Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "ffffff",
+        "d82b2b",
+        "ff7124"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6006e5d8c40d1465425adbfc",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,56 @@
+{
+    "_id": "5fff5d3b4257c8746832b195",
+    "tags": [
+        "gold",
+        " saturated"
+    ],
+    "colors": [
+        "000000",
+        "4a0707",
+        "6b2a15",
+        "8d5129",
+        "ae752c",
+        "d7a628",
+        "e4cf34",
+        "f8f5a9"
+    ],
+    "downloads": "410",
+    "featured": false,
+    "likes": 15,
+    "comments": 0,
+    "title": "SATURATED GOLD 8",
+    "hashtag": "saturatedgold8",
+    "description": "A more saturated gold pallet... can be used for basicly everything.",
+    "creator": true,
+    "slug": "saturated-gold-8",
+    "publishedAt": "2021-03-15T05:40:00.021Z",
+    "user": {
+        "name": "Patser Hunger",
+        "slug": "patser-hunger"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2021-01-13T20:51:07.590Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "4a0707",
+        "6b2a15",
+        "8d5129",
+        "ae752c",
+        "d7a628",
+        "e4cf34",
+        "f8f5a9"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fff5d3b4257c8746832b195",
+        "type": "palettes",
+        "count": 15,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

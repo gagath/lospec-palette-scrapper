@@ -1,0 +1,73 @@
+{
+    "_id": "5fac4841c184e0421288c275",
+    "tags": [
+        "glacier",
+        "windfallapples",
+        "fydotiles",
+        "quilt",
+        "slapdash",
+        "midcontrast",
+        "midsaturation",
+        "rainbow",
+        "sloppy"
+    ],
+    "colors": [
+        "3d9923",
+        "156424",
+        "00382b",
+        "09042a",
+        "3f2380",
+        "007dab",
+        "75ebff",
+        "f7fcf5",
+        "ffe261",
+        "e87b4f",
+        "ab2674",
+        "5a2f11",
+        "8a570f"
+    ],
+    "downloads": "91",
+    "featured": false,
+    "likes": 9,
+    "comments": 0,
+    "title": "13RUSQUE",
+    "hashtag": "13rusque",
+    "description": "A quick 13-colour palette that touches most of the bases hue-wise. Compiled for use in glacier's\u00a0<a href=\"https://fy.do/quilt/157\" target=\"_blank\">SLAPDASH 99 fydoTiles collaborative pixel art quilt</a>!",
+    "creator": true,
+    "slug": "13rusque",
+    "publishedAt": "2020-11-11T20:27:29.796Z",
+    "user": {
+        "name": "windfallapples (glacier)",
+        "slug": "windfallapples"
+    },
+    "numberOfColors": 13,
+    "createdAt": "2020-11-11T20:23:29.157Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "3d9923",
+        "156424",
+        "00382b",
+        "09042a",
+        "3f2380",
+        "007dab",
+        "75ebff",
+        "f7fcf5",
+        "ffe261",
+        "e87b4f",
+        "ab2674",
+        "5a2f11",
+        "8a570f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5fac4841c184e0421288c275",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

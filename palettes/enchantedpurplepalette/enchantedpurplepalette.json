@@ -1,0 +1,88 @@
+{
+    "_id": "619e05c0a5bf232cde71313a",
+    "tags": [
+        "purple",
+        "glow",
+        "enchanted"
+    ],
+    "colors": [
+        "16254a",
+        "3a4278",
+        "4d4e8f",
+        "605a9e",
+        "746fb3",
+        "8071b5",
+        "917ac2",
+        "9877c5",
+        "c594e6",
+        "e1a8fa",
+        "f5c1ff",
+        "fccfff"
+    ],
+    "downloads": "535",
+    "featured": false,
+    "likes": 45,
+    "comments": 1,
+    "slug": "enchanted-purple",
+    "publishedAt": "2021-11-27T22:35:00.023Z",
+    "user": {
+        "name": "Kaiburn",
+        "slug": "kaiburn"
+    },
+    "title": "Enchanted Purple",
+    "hashtag": "enchantedpurplepalette",
+    "description": "a palette that can be used for purple glowing objects\u00a0",
+    "creator": true,
+    "numberOfColors": 12,
+    "createdAt": "2021-11-24T09:28:32.337Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "619e0788a5bf232cde71314a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Enchanted Purple Palette Example by Kaiburn",
+            "slug": "enchanted-purple-palette-example-by-kaiburn",
+            "publishedAt": "2021-11-24T17:40:00.011Z",
+            "user": {
+                "name": "Kaiburn",
+                "slug": "kaiburn"
+            },
+            "parent": "619e05c0a5bf232cde71313a",
+            "image": "palette-examples/enchanted-purple-palette-example-by-kaiburn-619e07.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-11-24T09:36:08.825Z",
+            "updatedAt": "2021-11-24T17:40:00.012Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "16254a",
+        "3a4278",
+        "4d4e8f",
+        "605a9e",
+        "746fb3",
+        "8071b5",
+        "917ac2",
+        "9877c5",
+        "c594e6",
+        "e1a8fa",
+        "f5c1ff",
+        "fccfff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "619e05c0a5bf232cde71313a",
+        "type": "palettes",
+        "count": 45,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

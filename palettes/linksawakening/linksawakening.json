@@ -1,0 +1,71 @@
+{
+    "_id": "60f675c57527ca050e0c99c8",
+    "tags": [
+        "gameboys"
+    ],
+    "colors": [
+        "10ad42",
+        "008000",
+        "004000",
+        "1984ff",
+        "003973",
+        "b59cbd",
+        "634273",
+        "3a1952",
+        "ff0829",
+        "de0000",
+        "ffbd8c",
+        "ffff8c",
+        "ffb531",
+        "804000",
+        "000000",
+        "8c8ca5"
+    ],
+    "downloads": "53",
+    "featured": false,
+    "likes": 2,
+    "comments": 0,
+    "slug": "link-awakening-links-colour",
+    "publishedAt": "2021-09-21T01:55:00.031Z",
+    "user": {
+        "name": "animamoo",
+        "slug": "animamoo"
+    },
+    "title": "link awakening : links colour",
+    "hashtag": "linksawakening",
+    "description": "links awakening link color by mister mike, here is the link https://www.spriters-resource.com/game_boy_gbc/thelegendofzeldalinksawakeningdx/sheet/9436/ .\u00a0",
+    "creator": false,
+    "numberOfColors": 16,
+    "createdAt": "2021-07-20T07:05:41.641Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "10ad42",
+        "008000",
+        "004000",
+        "1984ff",
+        "003973",
+        "b59cbd",
+        "634273",
+        "3a1952",
+        "ff0829",
+        "de0000",
+        "ffbd8c",
+        "ffff8c",
+        "ffb531",
+        "804000",
+        "000000",
+        "8c8ca5"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60f675c57527ca050e0c99c8",
+        "type": "palettes",
+        "count": 2,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

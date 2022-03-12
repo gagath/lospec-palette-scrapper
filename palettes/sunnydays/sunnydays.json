@@ -1,0 +1,78 @@
+{
+    "_id": "60dd7907404bbf0692643474",
+    "tags": [
+        "jungle",
+        "abstract",
+        "vaporwave",
+        "polyphrog",
+        "modern"
+    ],
+    "colors": [
+        "00177c",
+        "84396c",
+        "598344",
+        "d09071",
+        "eace75",
+        "f7ffed"
+    ],
+    "downloads": "109",
+    "featured": false,
+    "likes": 21,
+    "comments": 4,
+    "slug": "sunny-days",
+    "publishedAt": "2021-07-06T16:55:00.029Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "sunny days \u2600",
+    "hashtag": "sunnydays",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2021-07-01T08:12:55.643Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60dd7ca8404bbf0692643b10",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "sunny days \u2600 Palette Example by polyphorge",
+            "slug": "sunny-days-palette-example-by-polyphorge-2",
+            "publishedAt": "2021-07-05T23:05:00.024Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "60dd7907404bbf0692643474",
+            "image": "palette-examples/sunny-days-palette-example-by-polyphorge-2-60dd7c.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-07-01T08:28:24.532Z",
+            "updatedAt": "2021-07-05T23:05:00.025Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "00177c",
+        "84396c",
+        "598344",
+        "d09071",
+        "eace75",
+        "f7ffed"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "60dd7907404bbf0692643474",
+        "type": "palettes",
+        "count": 21,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

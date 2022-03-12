@@ -1,0 +1,72 @@
+{
+    "_id": "5fca9880f93afe556e1955c0",
+    "tags": [
+        "slowly",
+        "slowlyapp",
+        "gba"
+    ],
+    "colors": [
+        "ffc400",
+        "ffffff",
+        "b8bcc5",
+        "081d3c"
+    ],
+    "downloads": "186",
+    "featured": false,
+    "likes": 24,
+    "comments": 0,
+    "title": "SLOWLY",
+    "hashtag": "slowly",
+    "description": "Color palette from penpal app\u00a0SLOWLY. This palette has the potential for a nice GBA pixel art!",
+    "creator": false,
+    "slug": "slowly",
+    "publishedAt": "2021-04-18T00:15:00.048Z",
+    "user": {
+        "name": "LKR0.5420820",
+        "slug": "l-k-r-0"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-12-04T20:13:52.017Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607e358e68bf7d3600426ecb",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "SLOWLY Palette Example by Casei Solus",
+            "slug": "slowly-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-20T23:40:00.022Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5fca9880f93afe556e1955c0",
+            "image": "palette-examples/slowly-palette-example-by-casei-solus-607e35.png",
+            "creator": true,
+            "description": "Based on the \"Slowly\" app.",
+            "createdAt": "2021-04-20T01:59:42.272Z",
+            "updatedAt": "2021-04-20T23:40:00.023Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Based on the \"Slowly\" app."
+        }
+    ],
+    "colorsArray": [
+        "ffc400",
+        "ffffff",
+        "b8bcc5",
+        "081d3c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5fca9880f93afe556e1955c0",
+        "type": "palettes",
+        "count": 24,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

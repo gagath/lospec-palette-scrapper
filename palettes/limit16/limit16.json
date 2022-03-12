@@ -1,0 +1,71 @@
+{
+    "_id": "5ee9518cf97e4d401aff4ed5",
+    "tags": [
+        "isagamerstudios"
+    ],
+    "colors": [
+        "420084",
+        "b932c6",
+        "ff9dca",
+        "ffffff",
+        "4affff",
+        "0b82d8",
+        "0b1274",
+        "220035",
+        "000000",
+        "73ff2d",
+        "f9e83f",
+        "cc5923",
+        "941132",
+        "510b22",
+        "a85237",
+        "ffe1b9"
+    ],
+    "downloads": "117",
+    "featured": false,
+    "likes": 8,
+    "comments": 0,
+    "title": "Limted-16",
+    "hashtag": "limit16",
+    "description": "",
+    "creator": "1",
+    "slug": "limted-16",
+    "publishedAt": "2020-06-19T00:50:00.007Z",
+    "user": {
+        "name": "Isa",
+        "slug": "isas-studio"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-06-16T23:11:08.004Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "420084",
+        "b932c6",
+        "ff9dca",
+        "ffffff",
+        "4affff",
+        "0b82d8",
+        "0b1274",
+        "220035",
+        "000000",
+        "73ff2d",
+        "f9e83f",
+        "cc5923",
+        "941132",
+        "510b22",
+        "a85237",
+        "ffe1b9"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5ee9518cf97e4d401aff4ed5",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

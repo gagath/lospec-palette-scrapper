@@ -1,0 +1,97 @@
+{
+    "_id": "61bc61342698bb6d3e790896",
+    "tags": [
+        "red",
+        "orange",
+        "purple",
+        "green",
+        "brown",
+        "mushroom",
+        "fire",
+        "jimison3"
+    ],
+    "colors": [
+        "2e222f",
+        "45293f",
+        "7a3045",
+        "993d41",
+        "cd683d",
+        "fbb954",
+        "f2ec8b",
+        "b0a987",
+        "997f73",
+        "665964",
+        "443846",
+        "576069",
+        "788a87",
+        "a9b2a2"
+    ],
+    "downloads": "1,296",
+    "featured": false,
+    "likes": 49,
+    "comments": 1,
+    "slug": "mushroom",
+    "publishedAt": "2021-12-22T08:30:00.056Z",
+    "user": {
+        "name": "Jimison3",
+        "slug": "jimison3"
+    },
+    "title": "Mushroom",
+    "hashtag": "mushroom12",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 14,
+    "createdAt": "2021-12-17T10:06:44.711Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61bc62422698bb6d3e79089e",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Mushroom Palette Example by Jimison3",
+            "slug": "mushroom-palette-example-by-jimison3",
+            "publishedAt": "2021-12-17T19:00:00.064Z",
+            "user": {
+                "name": "Jimison3",
+                "slug": "jimison3"
+            },
+            "parent": "61bc61342698bb6d3e790896",
+            "image": "palette-examples/mushroom-palette-example-by-jimison3-61bc62.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-12-17T10:11:14.800Z",
+            "updatedAt": "2021-12-17T19:00:00.065Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "2e222f",
+        "45293f",
+        "7a3045",
+        "993d41",
+        "cd683d",
+        "fbb954",
+        "f2ec8b",
+        "b0a987",
+        "997f73",
+        "665964",
+        "443846",
+        "576069",
+        "788a87",
+        "a9b2a2"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "61bc61342698bb6d3e790896",
+        "type": "palettes",
+        "count": 49,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

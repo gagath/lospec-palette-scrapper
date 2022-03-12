@@ -1,0 +1,81 @@
+{
+    "_id": "5b840f0de06d9a4fc5b04eec",
+    "createdAt": "2018-08-27T14:47:41.986Z",
+    "slug": "warioware-diy",
+    "description": "Palette used in microgames in <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/WarioWare_D.I.Y.\">WarioWare D.I.Y.</a> for Nintendo DS.",
+    "colors": [
+        "000000",
+        "f8d898",
+        "f8a830",
+        "c04800",
+        "f80000",
+        "c868e8",
+        "10c0c8",
+        "2868c0",
+        "089050",
+        "70d038",
+        "f8f858",
+        "787878",
+        "c0c0c0",
+        "f8f8f8"
+    ],
+    "tags": [
+        "game",
+        "nintendo"
+    ],
+    "downloads": "581",
+    "numberOfColors": 14,
+    "likes": 8,
+    "comments": 2,
+    "hashtag": "wariowarediy",
+    "title": "Warioware DIY",
+    "publishedAt": "2018-08-27T14:47:41.986Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5b841355e06d9a4fc5b04eed",
+            "description": "Palette usage example by <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/WarioWare_D.I.Y.\">WarioWare D.I.Y.</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.129Z",
+            "creator": false,
+            "image": "palette-examples/warioware-diy-palette-example-palette-usage-example-by-warioware-diy-5b8413.png",
+            "likes": 0,
+            "parent": "5b840f0de06d9a4fc5b04eec",
+            "slug": "warioware-diy-palette-example-palette-usage-example-by-warioware-diy",
+            "title": "warioware diy palette example palette usage example by warioware diy",
+            "updatedAt": "2020-07-31T03:56:11.129Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by WarioWare D.I.Y."
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "f8d898",
+        "f8a830",
+        "c04800",
+        "f80000",
+        "c868e8",
+        "10c0c8",
+        "2868c0",
+        "089050",
+        "70d038",
+        "f8f858",
+        "787878",
+        "c0c0c0",
+        "f8f8f8"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5b840f0de06d9a4fc5b04eec",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,71 @@
+{
+    "_id": "5fdee0fc998bf0170a55fb76",
+    "tags": [
+        "peach",
+        " blue",
+        " navy blue",
+        " pink",
+        " 1bit",
+        " 1 bit"
+    ],
+    "colors": [
+        "facab8",
+        "242234"
+    ],
+    "downloads": "221",
+    "featured": false,
+    "likes": 26,
+    "comments": 0,
+    "title": "Peachy Keen",
+    "hashtag": "peachykeen",
+    "description": "A pale peach and navy blue 1-bit palette",
+    "creator": true,
+    "slug": "peachy-keen",
+    "publishedAt": "2020-12-28T18:50:00.024Z",
+    "user": {
+        "name": "dots!",
+        "slug": "dotsandpans"
+    },
+    "numberOfColors": 2,
+    "createdAt": "2020-12-20T05:28:28.159Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "603da312489f5763acf98cfd",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/peachy-keen-palette-example-by-greg-g-603da3.png",
+            "creator": true,
+            "description": "Some doodles using the Peachy Keen palette. Includes an 8x8 game mockup",
+            "title": "Peachy Keen Palette Example by Greg G",
+            "slug": "peachy-keen-palette-example-by-greg-g",
+            "publishedAt": "2021-03-27T18:20:00.070Z",
+            "user": {
+                "name": "Greg G",
+                "slug": "greg-g"
+            },
+            "parent": "5fdee0fc998bf0170a55fb76",
+            "createdAt": "2021-03-02T02:29:38.160Z",
+            "updatedAt": "2021-03-27T18:20:00.070Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Some doodles using the Peachy Keen palette. Includes an 8x8 game mockup"
+        }
+    ],
+    "colorsArray": [
+        "facab8",
+        "242234"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "5fdee0fc998bf0170a55fb76",
+        "type": "palettes",
+        "count": 26,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

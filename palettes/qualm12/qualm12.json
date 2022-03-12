@@ -1,0 +1,67 @@
+{
+    "_id": "5ea304f5008a75070dbd3f44",
+    "tags": [
+        "artist",
+        " mtk",
+        " rust",
+        " grim",
+        " muted"
+    ],
+    "colors": [
+        "0e0917",
+        "1a1429",
+        "282440",
+        "42363f",
+        "5c473e",
+        "8a746a",
+        "b5a39c",
+        "fcf8fb",
+        "9fadb3",
+        "6b818a",
+        "3e535c",
+        "40454e"
+    ],
+    "downloads": "394",
+    "featured": false,
+    "likes": 14,
+    "comments": 0,
+    "title": "QUALM12",
+    "hashtag": "qualm12",
+    "description": "I believe the colours all blend very nicely. Purple can be used as a shadow for both brown and teal.<p><br />https://mtk538.neocities.org/</p>",
+    "creator": "1",
+    "slug": "qualm12",
+    "publishedAt": "2020-05-12T04:10:00.012Z",
+    "user": {
+        "name": "mtk",
+        "slug": "mtk538"
+    },
+    "numberOfColors": 12,
+    "createdAt": "2020-04-24T15:25:41.440Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "0e0917",
+        "1a1429",
+        "282440",
+        "42363f",
+        "5c473e",
+        "8a746a",
+        "b5a39c",
+        "fcf8fb",
+        "9fadb3",
+        "6b818a",
+        "3e535c",
+        "40454e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5ea304f5008a75070dbd3f44",
+        "type": "palettes",
+        "count": 14,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,72 @@
+{
+    "_id": "61134872abbbde71082a6244",
+    "tags": [
+        "algorithm",
+        "calculated"
+    ],
+    "colors": [
+        "000000",
+        "573449",
+        "af3c7b",
+        "c89be3",
+        "7a7d91",
+        "0ff8aa",
+        "98f3ff",
+        "ffffff",
+        "e50010",
+        "ff9118",
+        "ffff00",
+        "83e563",
+        "3db602",
+        "a1a200",
+        "237b4b",
+        "2060ce"
+    ],
+    "downloads": "61",
+    "featured": false,
+    "likes": 4,
+    "comments": 0,
+    "slug": "lovepal-16",
+    "publishedAt": "2021-08-31T00:00:00.081Z",
+    "user": {
+        "name": "mije nasa",
+        "slug": "mije-nasa"
+    },
+    "title": "LovePal 16",
+    "hashtag": "lp16",
+    "description": "Using the L\u00d6VE2D workspace for Lua I designed a program that finds the most diverse palette in terms of color and grayscale.",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2021-08-11T03:48:02.688Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "573449",
+        "af3c7b",
+        "c89be3",
+        "7a7d91",
+        "0ff8aa",
+        "98f3ff",
+        "ffffff",
+        "e50010",
+        "ff9118",
+        "ffff00",
+        "83e563",
+        "3db602",
+        "a1a200",
+        "237b4b",
+        "2060ce"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61134872abbbde71082a6244",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

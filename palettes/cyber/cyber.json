@@ -1,0 +1,50 @@
+{
+    "_id": "61b0bfd286d6225df16a6abe",
+    "tags": [
+        "cyber",
+        "neon",
+        "cyberpunk",
+        "bright"
+    ],
+    "colors": [
+        "2efedd",
+        "aa2bfd",
+        "700aff",
+        "2c06a3"
+    ],
+    "downloads": "94",
+    "featured": false,
+    "likes": 5,
+    "comments": 0,
+    "slug": "neon-cyber",
+    "publishedAt": "2021-12-16T01:00:00.068Z",
+    "user": {
+        "name": "nauseous",
+        "slug": "nauseous"
+    },
+    "title": "neon cyber",
+    "hashtag": "cyber",
+    "description": "old palette from 2020 i made",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-12-08T14:23:14.509Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "2efedd",
+        "aa2bfd",
+        "700aff",
+        "2c06a3"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61b0bfd286d6225df16a6abe",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

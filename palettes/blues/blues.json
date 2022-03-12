@@ -1,0 +1,49 @@
+{
+    "_id": "615c5692c320ca203dfc436e",
+    "tags": [
+        "bluediamond"
+    ],
+    "colors": [
+        "2f4c6c",
+        "3d80a3",
+        "63c4cc",
+        "9ae5d5",
+        "e5efef"
+    ],
+    "downloads": "79",
+    "featured": false,
+    "likes": 6,
+    "comments": 0,
+    "slug": "blues",
+    "publishedAt": "2021-10-15T05:45:00.027Z",
+    "user": {
+        "name": "BernardoMaster010",
+        "slug": "bernardomaster010"
+    },
+    "title": "Blues",
+    "hashtag": "blues",
+    "description": "My first Pallete is for blue things",
+    "creator": true,
+    "numberOfColors": 5,
+    "createdAt": "2021-10-05T13:43:46.937Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "2f4c6c",
+        "3d80a3",
+        "63c4cc",
+        "9ae5d5",
+        "e5efef"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "615c5692c320ca203dfc436e",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

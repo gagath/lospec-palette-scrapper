@@ -1,0 +1,68 @@
+{
+    "_id": "5e5d4f4f545aac07f0e1a116",
+    "slug": "1bit-blue",
+    "description": "A simple 1 bit using some soft blues",
+    "colors": [
+        "0d132a",
+        "adc3e8"
+    ],
+    "creator": true,
+    "hashtag": "1bitblue",
+    "comments": 0,
+    "likes": 18,
+    "createdAt": "2020-03-02T18:24:15.423Z",
+    "featured": false,
+    "tags": [
+        "1bit",
+        "blue",
+        "retro"
+    ],
+    "downloads": "219",
+    "numberOfColors": 2,
+    "title": "1bit Blue",
+    "user": {
+        "name": "Michael Matlock",
+        "slug": "keyofw"
+    },
+    "publishedAt": "2020-04-16T17:20:00.015Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "606d5b08af543a28402b1f5b",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "1bit Blue Palette Example by Casei Solus",
+            "slug": "1bit-blue-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-08T16:40:00.045Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5e5d4f4f545aac07f0e1a116",
+            "image": "palette-examples/1bit-blue-palette-example-by-casei-solus-606d5b.png",
+            "creator": true,
+            "description": "An ocean wave.",
+            "createdAt": "2021-04-07T07:11:04.376Z",
+            "updatedAt": "2021-04-08T16:40:00.045Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "An ocean wave."
+        }
+    ],
+    "colorsArray": [
+        "0d132a",
+        "adc3e8"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "5e5d4f4f545aac07f0e1a116",
+        "type": "palettes",
+        "count": 18,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

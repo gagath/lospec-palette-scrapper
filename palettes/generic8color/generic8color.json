@@ -1,0 +1,69 @@
+{
+    "_id": "5b0180fcd5b01975cbbb0b51",
+    "createdAt": "2018-05-20T14:06:52.549Z",
+    "slug": "generic-8-color",
+    "description": "Created by <a target=\"_blank\" href=\"https://twitter.com/androidarts\">Arne</a>, <a target=\"_blank\" href=\"https://pixelation.org/index.php?topic=8408.msg94920#msg94920\">modified</a> from the <a target=\"_blank\" href=\"https://lospec.com/palette-list/3-bit-rgb\">BBC Micro</a> palette. ",
+    "colors": [
+        "000000",
+        "cc3500",
+        "5ec809",
+        "1d286f",
+        "00c4ff",
+        "8e8e8e",
+        "ffe052",
+        "ffffff"
+    ],
+    "tags": [
+        "artist",
+        "arne"
+    ],
+    "downloads": "218",
+    "numberOfColors": 8,
+    "likes": 5,
+    "comments": 0,
+    "hashtag": "generic8color",
+    "title": "Generic 8 Color",
+    "publishedAt": "2018-05-20T14:06:52.549Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5b01811bd5b01975cbbb0b52",
+            "description": "Palette usage example by <a target=\"_blank\" href=\"https://twitter.com/androidarts\">Arne</a>.",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.105Z",
+            "creator": false,
+            "image": "palette-examples/generic-8-color-palette-example-palette-usage-example-by-arne-5b0181.png",
+            "likes": 0,
+            "parent": "5b0180fcd5b01975cbbb0b51",
+            "slug": "generic-8-color-palette-example-palette-usage-example-by-arne",
+            "title": "generic 8 color palette example palette usage example by arne",
+            "updatedAt": "2020-07-31T03:56:11.105Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Arne."
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "cc3500",
+        "5ec809",
+        "1d286f",
+        "00c4ff",
+        "8e8e8e",
+        "ffe052",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5b0180fcd5b01975cbbb0b51",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

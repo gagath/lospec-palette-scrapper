@@ -1,0 +1,70 @@
+{
+    "_id": "617577a25b3b073b91b31b1b",
+    "tags": [
+        "windows"
+    ],
+    "colors": [
+        "fffff5",
+        "8f94c5",
+        "131457",
+        "433bff"
+    ],
+    "downloads": "269",
+    "featured": false,
+    "likes": 26,
+    "comments": 1,
+    "slug": "window-of-opportunity",
+    "publishedAt": "2021-10-25T05:15:00.034Z",
+    "user": {
+        "name": "CasualJoe",
+        "slug": "casual-joe-3905"
+    },
+    "title": "Window of Opportunity",
+    "hashtag": "windowofopportunitypalette",
+    "description": "Inspired by Windows 95 windows, with a strong blue color to give life to this otherwise drab palette.",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-10-24T15:11:30.590Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "617578235b3b073b91b31b1e",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Window of Opportunity Palette Example by CasualJoe",
+            "slug": "window-of-opportunity-palette-example-by-casualjoe-2",
+            "publishedAt": "2021-10-24T16:55:00.125Z",
+            "user": {
+                "name": "CasualJoe",
+                "slug": "casual-joe-3905"
+            },
+            "parent": "617577a25b3b073b91b31b1b",
+            "image": "palette-examples/window-of-opportunity-palette-example-by-casualjoe-2-617578.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-10-24T15:13:39.165Z",
+            "updatedAt": "2021-10-24T16:55:00.126Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "fffff5",
+        "8f94c5",
+        "131457",
+        "433bff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "617577a25b3b073b91b31b1b",
+        "type": "palettes",
+        "count": 26,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

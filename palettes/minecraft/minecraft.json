@@ -1,0 +1,71 @@
+{
+    "_id": "603d144a1898af56ceda6ddb",
+    "tags": [
+        "minecraft"
+    ],
+    "colors": [
+        "cfd5d6",
+        "e06101",
+        "a9309f",
+        "2489c7",
+        "f1af15",
+        "5ea918",
+        "d5658f",
+        "373a3e",
+        "7d7d73",
+        "157788",
+        "64209c",
+        "2d2f8f",
+        "603c20",
+        "495b24",
+        "8e2121",
+        "080a0f"
+    ],
+    "downloads": "118",
+    "featured": false,
+    "likes": 6,
+    "comments": 0,
+    "title": "Minecraft Concrete",
+    "hashtag": "minecraft",
+    "description": "Minecraft concrete colors.",
+    "creator": false,
+    "slug": "minecraft-concrete",
+    "publishedAt": "2021-03-30T05:30:00.055Z",
+    "user": {
+        "name": "Jayden Irwin",
+        "slug": "jaydenirwin"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2021-03-01T16:20:26.253Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "cfd5d6",
+        "e06101",
+        "a9309f",
+        "2489c7",
+        "f1af15",
+        "5ea918",
+        "d5658f",
+        "373a3e",
+        "7d7d73",
+        "157788",
+        "64209c",
+        "2d2f8f",
+        "603c20",
+        "495b24",
+        "8e2121",
+        "080a0f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "603d144a1898af56ceda6ddb",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

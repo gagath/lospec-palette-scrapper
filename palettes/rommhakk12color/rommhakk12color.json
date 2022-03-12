@@ -1,0 +1,64 @@
+{
+    "_id": "61658192c73eec6c0d88e4b0",
+    "tags": [
+        "simple",
+        "12"
+    ],
+    "colors": [
+        "2e1e42",
+        "576dab",
+        "84bcdc",
+        "4d9366",
+        "90c385",
+        "dae07a",
+        "cfc3a2",
+        "cd9467",
+        "e4a64b",
+        "ed3838",
+        "fe9aa8",
+        "9c65b4"
+    ],
+    "downloads": "50",
+    "featured": false,
+    "likes": 1,
+    "comments": 0,
+    "slug": "rommhakk-12-color",
+    "publishedAt": "2021-10-16T21:45:00.029Z",
+    "user": {
+        "name": "Linus Sv\u00e4rd",
+        "slug": "linus-svard"
+    },
+    "title": "RommHakk 12 Color",
+    "hashtag": "rommhakk12color",
+    "description": "A simple set of colors that I like",
+    "creator": true,
+    "numberOfColors": 12,
+    "createdAt": "2021-10-12T12:37:38.033Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "2e1e42",
+        "576dab",
+        "84bcdc",
+        "4d9366",
+        "90c385",
+        "dae07a",
+        "cfc3a2",
+        "cd9467",
+        "e4a64b",
+        "ed3838",
+        "fe9aa8",
+        "9c65b4"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "61658192c73eec6c0d88e4b0",
+        "type": "palettes",
+        "count": 1,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,102 @@
+{
+    "_id": "5f33e5bc00a3a9181b6ebd28",
+    "tags": [
+        "isasstudio"
+    ],
+    "colors": [
+        "070d19",
+        "510a7c",
+        "a932b1",
+        "ff80c0",
+        "ffffe2",
+        "ffcb97",
+        "b16351",
+        "4b1f2a",
+        "1b0532",
+        "621545",
+        "a72d3d",
+        "ee8b28",
+        "ffff68",
+        "8ef93c",
+        "2da160",
+        "124c50",
+        "121a50",
+        "1c3089",
+        "1971c9",
+        "69dbf5"
+    ],
+    "downloads": "300",
+    "featured": false,
+    "likes": 19,
+    "comments": 0,
+    "title": "Ramp 20",
+    "hashtag": "ramp20",
+    "description": "",
+    "creator": true,
+    "slug": "ramp-20",
+    "publishedAt": "2020-08-19T05:05:00.026Z",
+    "user": {
+        "name": "Isa",
+        "slug": "isas-studio"
+    },
+    "numberOfColors": 20,
+    "createdAt": "2020-08-12T12:51:08.637Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f348e1ea75fe84a14b9e5a3",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/ramp-20-palette-example-by-isagamer-2-5f348e.png",
+            "creator": true,
+            "description": "Girl at the beach during sunrise/sunset",
+            "title": "Ramp 20 Palette Example by IsaGamer",
+            "slug": "ramp-20-palette-example-by-isagamer-2",
+            "publishedAt": "2020-08-13T13:10:00.105Z",
+            "user": {
+                "name": "Isa",
+                "slug": "isas-studio"
+            },
+            "parent": "5f33e5bc00a3a9181b6ebd28",
+            "createdAt": "2020-08-13T00:49:34.039Z",
+            "updatedAt": "2020-08-13T13:10:00.105Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Girl at the beach during sunrise/sunset"
+        }
+    ],
+    "colorsArray": [
+        "070d19",
+        "510a7c",
+        "a932b1",
+        "ff80c0",
+        "ffffe2",
+        "ffcb97",
+        "b16351",
+        "4b1f2a",
+        "1b0532",
+        "621545",
+        "a72d3d",
+        "ee8b28",
+        "ffff68",
+        "8ef93c",
+        "2da160",
+        "124c50",
+        "121a50",
+        "1c3089",
+        "1971c9",
+        "69dbf5"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 10,
+    "height": 32,
+    "likebutton": {
+        "content": "5f33e5bc00a3a9181b6ebd28",
+        "type": "palettes",
+        "count": 19,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

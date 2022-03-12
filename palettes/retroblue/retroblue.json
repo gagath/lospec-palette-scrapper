@@ -1,0 +1,70 @@
+{
+    "_id": "600e45de850700214770257d",
+    "tags": [
+        "three",
+        " blue",
+        " retro"
+    ],
+    "colors": [
+        "ced9ec",
+        "66b0c7",
+        "34419d"
+    ],
+    "downloads": "131",
+    "featured": false,
+    "likes": 11,
+    "comments": 1,
+    "title": "Retro Blue",
+    "hashtag": "retroblue",
+    "description": "Just a 3-colored pallete with blue tones.",
+    "creator": true,
+    "slug": "retro-blue",
+    "publishedAt": "2021-02-07T13:50:00.026Z",
+    "user": {
+        "name": "Asdonaur",
+        "slug": "asdonaur"
+    },
+    "numberOfColors": 3,
+    "createdAt": "2021-01-25T04:15:26.013Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607673b704e1942783973269",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Retro Blue Palette Example by Casei Solus",
+            "slug": "retro-blue-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-17T00:20:00.022Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "600e45de850700214770257d",
+            "image": "palette-examples/retro-blue-palette-example-by-casei-solus-607673.png",
+            "creator": true,
+            "description": "Bright, fluffy clouds.",
+            "createdAt": "2021-04-14T04:46:47.048Z",
+            "updatedAt": "2021-04-17T00:20:00.023Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Bright, fluffy clouds."
+        }
+    ],
+    "colorsArray": [
+        "ced9ec",
+        "66b0c7",
+        "34419d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 33.333333333333336,
+    "height": 32,
+    "likebutton": {
+        "content": "600e45de850700214770257d",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

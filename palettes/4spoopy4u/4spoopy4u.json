@@ -1,0 +1,72 @@
+{
+    "_id": "6171ea521c860f7a24bcbca4",
+    "tags": [
+        "halloween",
+        "polyphrog",
+        "pumpkin"
+    ],
+    "colors": [
+        "151c15",
+        "5a521a",
+        "fc6231",
+        "fcde84"
+    ],
+    "downloads": "232",
+    "featured": false,
+    "likes": 25,
+    "comments": 1,
+    "slug": "4-spoopy-4-u",
+    "publishedAt": "2021-10-22T12:00:00.069Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "4 spoopy 4 u",
+    "hashtag": "4spoopy4u",
+    "description": "haha funny october thing!",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-10-21T22:31:46.595Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6172da1d0c67d61e16b1530e",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "4 spoopy 4 u Palette Example by polyphorge",
+            "slug": "4-spoopy-4-u-palette-example-by-polyphorge-2",
+            "publishedAt": "2021-10-22T15:45:00.015Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "6171ea521c860f7a24bcbca4",
+            "image": "palette-examples/4-spoopy-4-u-palette-example-by-polyphorge-2-6172da.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-10-22T15:34:53.979Z",
+            "updatedAt": "2021-10-22T15:45:00.015Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "151c15",
+        "5a521a",
+        "fc6231",
+        "fcde84"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6171ea521c860f7a24bcbca4",
+        "type": "palettes",
+        "count": 25,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

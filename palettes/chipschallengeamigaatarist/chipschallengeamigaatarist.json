@@ -1,0 +1,73 @@
+{
+    "_id": "5da6332e36e1ff223d07a6fe",
+    "slug": "chips-challenge-amiga-atari-st",
+    "description": "The in-game palette of the Amiga and Atari ST versions of Epyx' famous puzzle game\u00a0<a href=\"https://www.mobygames.com/game/chips-challenge\" target=\"_blank\">Chip's Challenge</a>, more well-known in its\u00a0<a href=\"https://www.mobygames.com/game/win3x/chips-challenge\" target=\"_blank\">Windows 3.x incarnations</a>\u00a0which were bundled by Microsoft.",
+    "colors": [
+        "ffffff",
+        "ddddff",
+        "9999dd",
+        "666699",
+        "444466",
+        "000000",
+        "dd6699",
+        "00bb00",
+        "66ffff",
+        "00bbff",
+        "0066ff",
+        "0000bb",
+        "ffdd00",
+        "dd6600",
+        "bb0000",
+        "664400"
+    ],
+    "creator": false,
+    "comments": 0,
+    "likes": 5,
+    "createdAt": "2019-10-18T16:45:12.077Z",
+    "featured": false,
+    "tags": [
+        "game",
+        "amiga",
+        "atari"
+    ],
+    "downloads": "116",
+    "numberOfColors": 16,
+    "hashtag": "chipschallengeamigaatarist",
+    "title": "Chip's Challenge Amiga/Atari ST",
+    "user": {
+        "name": "P-Tux7",
+        "slug": "p-tux7"
+    },
+    "publishedAt": "2019-10-18T16:45:12.077Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffffff",
+        "ddddff",
+        "9999dd",
+        "666699",
+        "444466",
+        "000000",
+        "dd6699",
+        "00bb00",
+        "66ffff",
+        "00bbff",
+        "0066ff",
+        "0000bb",
+        "ffdd00",
+        "dd6600",
+        "bb0000",
+        "664400"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5da6332e36e1ff223d07a6fe",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

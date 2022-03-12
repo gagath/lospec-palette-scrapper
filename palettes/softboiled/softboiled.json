@@ -1,0 +1,91 @@
+{
+    "_id": "5fdb6051f2bcbc157cea9f09",
+    "tags": [
+        "simple",
+        "restricted"
+    ],
+    "colors": [
+        "d5dd90",
+        "e6bb45",
+        "ef9770"
+    ],
+    "downloads": "348",
+    "featured": false,
+    "likes": 42,
+    "comments": 0,
+    "title": "Soft Boiled",
+    "hashtag": "softboiled",
+    "description": "\r\nIt\u2019s 4:37 a.m.\r\n\r\nYou\u2019ve just woke up and the sun hasn\u2019t even made an intention of rising. Going back to bed is impossible.\r\n\r\nYou feel your stomach complaining, announcing a dooming morning starvation, but the drowsiness is such you can barely move.You looks for the easiest thing to cook. You make soft-boiled eggs.\r\n\r\nJokes apart, this 3 color palette is meant to be simple and fulfilling, just like eggs. Whatever you are not able to do with it, rely on negative spaces and context assumption to fill in the blanks.",
+    "creator": true,
+    "slug": "soft-boiled",
+    "publishedAt": "2020-12-17T20:30:00.077Z",
+    "user": {
+        "name": "\u307e\u308b\u304d",
+        "slug": "marukihurakami"
+    },
+    "numberOfColors": 3,
+    "createdAt": "2020-12-17T13:42:41.588Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fdb6171f2bcbc157cea9f15",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/soft-boiled-palette-example-by-5fdb61.png",
+            "creator": true,
+            "description": "",
+            "title": "Soft Boiled Palette Example by \u307e\u308b\u304d",
+            "slug": "soft-boiled-palette-example-by",
+            "publishedAt": "2020-12-17T18:25:00.017Z",
+            "user": {
+                "name": "\u307e\u308b\u304d",
+                "slug": "marukihurakami"
+            },
+            "parent": "5fdb6051f2bcbc157cea9f09",
+            "createdAt": "2020-12-17T13:47:29.725Z",
+            "updatedAt": "2020-12-17T18:25:00.017Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "5fdb6194f2bcbc157cea9f19",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/soft-boiled-palette-example-by-2-5fdb61.png",
+            "creator": true,
+            "description": "",
+            "title": "Soft Boiled Palette Example by \u307e\u308b\u304d",
+            "slug": "soft-boiled-palette-example-by-2",
+            "publishedAt": "2020-12-17T18:30:00.045Z",
+            "user": {
+                "name": "\u307e\u308b\u304d",
+                "slug": "marukihurakami"
+            },
+            "parent": "5fdb6051f2bcbc157cea9f09",
+            "createdAt": "2020-12-17T13:48:04.049Z",
+            "updatedAt": "2020-12-17T18:30:00.045Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "d5dd90",
+        "e6bb45",
+        "ef9770"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 33.333333333333336,
+    "height": 32,
+    "likebutton": {
+        "content": "5fdb6051f2bcbc157cea9f09",
+        "type": "palettes",
+        "count": 42,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

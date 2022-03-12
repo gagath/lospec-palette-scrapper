@@ -1,0 +1,72 @@
+{
+    "_id": "6029a4159dc4d12dd4a6b47e",
+    "tags": [
+        "2bit",
+        "gameboy",
+        "sunrise"
+    ],
+    "colors": [
+        "08050c",
+        "822d30",
+        "eb754d",
+        "f8b581"
+    ],
+    "downloads": "486",
+    "featured": false,
+    "likes": 33,
+    "comments": 0,
+    "title": "Daybreak",
+    "hashtag": "daybreak2bit",
+    "description": "A 2bit (4 color) palette where the colors were taken from photo of a real-life sunrise. The lighter colors were modified slightly.",
+    "creator": true,
+    "slug": "daybreak",
+    "publishedAt": "2021-02-22T02:40:00.021Z",
+    "user": {
+        "name": "Poltergasm",
+        "slug": "iampoltergasm"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-02-14T22:28:37.272Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6029a4239dc4d12dd4a6b480",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/daybreak-palette-example-by-poltergasm-6029a4.png",
+            "creator": true,
+            "description": "",
+            "title": "Daybreak Palette Example by Poltergasm",
+            "slug": "daybreak-palette-example-by-poltergasm",
+            "publishedAt": "2021-02-15T20:30:00.028Z",
+            "user": {
+                "name": "Poltergasm",
+                "slug": "iampoltergasm"
+            },
+            "parent": "6029a4159dc4d12dd4a6b47e",
+            "createdAt": "2021-02-14T22:28:51.251Z",
+            "updatedAt": "2021-02-15T20:30:00.028Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "08050c",
+        "822d30",
+        "eb754d",
+        "f8b581"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6029a4159dc4d12dd4a6b47e",
+        "type": "palettes",
+        "count": 33,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

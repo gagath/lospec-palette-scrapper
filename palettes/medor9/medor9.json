@@ -1,0 +1,81 @@
+{
+    "_id": "5f5b407bd002345236bc25be",
+    "tags": [
+        "dog",
+        " 9colors"
+    ],
+    "colors": [
+        "e5e5e5",
+        "e8c53c",
+        "bab200",
+        "d88c1a",
+        "bc6336",
+        "666600",
+        "68294e",
+        "47211a",
+        "270e0e"
+    ],
+    "downloads": "183",
+    "featured": false,
+    "likes": 16,
+    "comments": 0,
+    "title": "M\u00e9dor9 ",
+    "hashtag": "medor9",
+    "description": "Follows the range of colours found in canine stools.",
+    "creator": true,
+    "slug": "medor9",
+    "publishedAt": "2020-09-11T18:25:00.027Z",
+    "user": {
+        "name": "ckelsallpxls",
+        "slug": "ckelsallpxls"
+    },
+    "numberOfColors": 9,
+    "createdAt": "2020-09-11T09:16:43.406Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f5b4628d002345236bc2601",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/medor9-palette-example-by-ckelsallpxls-5f5b46.png",
+            "creator": true,
+            "description": "Some hand-made conversions of my work through M\u00e9dor9",
+            "title": "M\u00e9dor9  Palette Example by ckelsallpxls",
+            "slug": "medor9-palette-example-by-ckelsallpxls",
+            "publishedAt": "2020-09-11T18:25:00.008Z",
+            "user": {
+                "name": "ckelsallpxls",
+                "slug": "ckelsallpxls"
+            },
+            "parent": "5f5b407bd002345236bc25be",
+            "createdAt": "2020-09-11T09:40:56.311Z",
+            "updatedAt": "2020-09-11T18:25:00.008Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Some hand-made conversions of my work through M\u00e9dor9"
+        }
+    ],
+    "colorsArray": [
+        "e5e5e5",
+        "e8c53c",
+        "bab200",
+        "d88c1a",
+        "bc6336",
+        "666600",
+        "68294e",
+        "47211a",
+        "270e0e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5f5b407bd002345236bc25be",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

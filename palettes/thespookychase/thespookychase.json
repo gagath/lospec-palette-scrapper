@@ -1,0 +1,71 @@
+{
+    "_id": "61623a696067e112c750e7ba",
+    "tags": [
+        "spooky",
+        "halloween",
+        "15"
+    ],
+    "colors": [
+        "18182b",
+        "222f36",
+        "4d374d",
+        "664d41",
+        "87684c",
+        "ad877b",
+        "e6ca5c",
+        "f5feff",
+        "bacdde",
+        "88aab3",
+        "7e859e",
+        "716291",
+        "486643",
+        "4b996e",
+        "94b879"
+    ],
+    "downloads": "49",
+    "featured": false,
+    "likes": 5,
+    "comments": 2,
+    "slug": "the-spooky-chase",
+    "publishedAt": "2021-10-16T11:45:00.032Z",
+    "user": {
+        "name": "Orbitron",
+        "slug": "joseph"
+    },
+    "title": "The Spooky Chase",
+    "hashtag": "thespookychase",
+    "description": "Zombies",
+    "creator": true,
+    "numberOfColors": 15,
+    "createdAt": "2021-10-10T00:57:13.862Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "18182b",
+        "222f36",
+        "4d374d",
+        "664d41",
+        "87684c",
+        "ad877b",
+        "e6ca5c",
+        "f5feff",
+        "bacdde",
+        "88aab3",
+        "7e859e",
+        "716291",
+        "486643",
+        "4b996e",
+        "94b879"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61623a696067e112c750e7ba",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,72 @@
+{
+    "_id": "5e729115ce6ac3393969ff6c",
+    "title": "Campbell (New Windows Console)",
+    "slug": "campbell-new-windows-console",
+    "description": "This is the new default color scheme used in the Windows Console starting in Windows 10 build 16257, first introduced\u00a0<a href=\"https://devblogs.microsoft.com/commandline/updating-the-windows-console-colors/\" target=\"_blank\">here</a>. It is designed to emulate the old IBM / DOS defaults while being significantly more readable on modern LCD screens.",
+    "colors": [
+        "0c0c0c",
+        "0037da",
+        "13a10e",
+        "3a96dd",
+        "c50f1f",
+        "881798",
+        "c19c00",
+        "cccccc",
+        "767676",
+        "3b78ff",
+        "16c60c",
+        "61d6d6",
+        "e74856",
+        "b4009e",
+        "f9f1a5",
+        "f2f2f2"
+    ],
+    "user": {
+        "name": "Colby Boucher",
+        "slug": "colby-boucher"
+    },
+    "creator": false,
+    "hashtag": "campbell",
+    "createdAt": "2020-03-18T21:22:29.466Z",
+    "comments": 0,
+    "likes": 7,
+    "featured": false,
+    "tags": [
+        "computer",
+        "hardware"
+    ],
+    "downloads": "164",
+    "numberOfColors": 16,
+    "publishedAt": "2020-04-01T00:49:54.041Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "0c0c0c",
+        "0037da",
+        "13a10e",
+        "3a96dd",
+        "c50f1f",
+        "881798",
+        "c19c00",
+        "cccccc",
+        "767676",
+        "3b78ff",
+        "16c60c",
+        "61d6d6",
+        "e74856",
+        "b4009e",
+        "f9f1a5",
+        "f2f2f2"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5e729115ce6ac3393969ff6c",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

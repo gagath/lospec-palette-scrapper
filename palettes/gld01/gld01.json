@@ -1,0 +1,85 @@
+{
+    "_id": "607d2db0b33cd81f559699cc",
+    "tags": [
+        "gold",
+        "okee",
+        "metal",
+        "okee"
+    ],
+    "colors": [
+        "000000",
+        "361c1b",
+        "754232",
+        "cd894a",
+        "e6b983",
+        "fff8bc",
+        "ffffff",
+        "2d2433",
+        "4f4254",
+        "b092a7"
+    ],
+    "downloads": "1,041",
+    "featured": false,
+    "likes": 67,
+    "comments": 6,
+    "slug": "smooth-polished-gold",
+    "publishedAt": "2021-04-22T17:05:00.020Z",
+    "user": {
+        "name": "Okee",
+        "slug": "okee"
+    },
+    "title": "Smooth, polished gold",
+    "hashtag": "gld01",
+    "description": "Gold palette with red-brown shadows + violet highlights",
+    "creator": true,
+    "createdAt": "2021-04-19T07:13:52.875Z",
+    "numberOfColors": 10,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607d2dfab33cd81f559699d3",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Smooth, polished gold Palette Example by Okee",
+            "slug": "smooth-polished-gold-palette-example-by-okee",
+            "publishedAt": "2021-04-20T23:25:00.026Z",
+            "user": {
+                "name": "Okee",
+                "slug": "okee"
+            },
+            "parent": "607d2db0b33cd81f559699cc",
+            "image": "palette-examples/smooth-polished-gold-palette-example-by-okee-607d2d.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-04-19T07:15:06.080Z",
+            "updatedAt": "2021-04-20T23:25:00.026Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "361c1b",
+        "754232",
+        "cd894a",
+        "e6b983",
+        "fff8bc",
+        "ffffff",
+        "2d2433",
+        "4f4254",
+        "b092a7"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "607d2db0b33cd81f559699cc",
+        "type": "palettes",
+        "count": 67,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

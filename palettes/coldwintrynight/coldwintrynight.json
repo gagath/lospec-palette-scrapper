@@ -1,0 +1,55 @@
+{
+    "_id": "5ff52d4deb34a30b4504f901",
+    "tags": [],
+    "colors": [
+        "000000",
+        "579dff",
+        "baf1ff",
+        "7f449e",
+        "662d3d",
+        "368c6b",
+        "ff6047",
+        "ffc042",
+        "ffffff"
+    ],
+    "downloads": "49",
+    "featured": false,
+    "likes": 12,
+    "comments": 2,
+    "title": "Cold Wintry Night",
+    "hashtag": "coldwintrynight",
+    "description": "A pallete I'm using for my game, I might change it later because it still needs some work. I'm still getting used to making palletes.",
+    "creator": true,
+    "slug": "cold-wintry-night",
+    "publishedAt": "2021-01-08T00:20:00.028Z",
+    "user": {
+        "name": "grubble man",
+        "slug": "grubble-man"
+    },
+    "numberOfColors": 9,
+    "createdAt": "2021-01-06T03:23:57.546Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "579dff",
+        "baf1ff",
+        "7f449e",
+        "662d3d",
+        "368c6b",
+        "ff6047",
+        "ffc042",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5ff52d4deb34a30b4504f901",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

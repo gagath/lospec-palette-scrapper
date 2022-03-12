@@ -1,0 +1,94 @@
+{
+    "_id": "6053bf7c7681672301cb0036",
+    "tags": [
+        "dark",
+        " red",
+        " epic"
+    ],
+    "colors": [
+        "0f0c00",
+        "241404",
+        "693909",
+        "d09049",
+        "fef181",
+        "7f0d0c",
+        "a81c1b",
+        "b8412d",
+        "14151a",
+        "1c282a",
+        "425a5e",
+        "678280",
+        "b1c6c4",
+        "d9d3b1",
+        "fff9da"
+    ],
+    "downloads": "455",
+    "featured": false,
+    "likes": 24,
+    "comments": 4,
+    "title": "Archaon 15",
+    "hashtag": "archaon15",
+    "description": "",
+    "creator": true,
+    "slug": "archaon-15",
+    "publishedAt": "2021-04-19T18:15:00.023Z",
+    "user": {
+        "name": "Raindrinker \ud83c\udf27\ufe0f",
+        "slug": "raindrinkerdev"
+    },
+    "numberOfColors": 15,
+    "createdAt": "2021-03-18T21:00:44.381Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6053c22e7681672301cb007c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/archaon-15-palette-example-by-raindrinker-6053c2.png",
+            "creator": true,
+            "description": "",
+            "title": "Archaon 15 Palette Example by Raindrinker \ud83c\udf27\ufe0f",
+            "slug": "archaon-15-palette-example-by-raindrinker",
+            "publishedAt": "2021-03-27T18:05:00.026Z",
+            "user": {
+                "name": "Raindrinker \ud83c\udf27\ufe0f",
+                "slug": "raindrinkerdev"
+            },
+            "parent": "6053bf7c7681672301cb0036",
+            "createdAt": "2021-03-18T21:12:14.071Z",
+            "updatedAt": "2021-03-27T18:05:00.026Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "0f0c00",
+        "241404",
+        "693909",
+        "d09049",
+        "fef181",
+        "7f0d0c",
+        "a81c1b",
+        "b8412d",
+        "14151a",
+        "1c282a",
+        "425a5e",
+        "678280",
+        "b1c6c4",
+        "d9d3b1",
+        "fff9da"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6053bf7c7681672301cb0036",
+        "type": "palettes",
+        "count": 24,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

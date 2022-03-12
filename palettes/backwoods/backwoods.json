@@ -1,0 +1,52 @@
+{
+    "_id": "5f61977c54bf291204211688",
+    "tags": [
+        "plague",
+        " backwoods plague"
+    ],
+    "colors": [
+        "140f1a",
+        "b1a7b8",
+        "bd6060",
+        "7a3e6a",
+        "3a2952",
+        "3e664b"
+    ],
+    "downloads": "84",
+    "featured": false,
+    "likes": 7,
+    "comments": 0,
+    "title": "Backwoods Plague",
+    "hashtag": "backwoods",
+    "description": "",
+    "creator": true,
+    "slug": "backwoods-plague",
+    "publishedAt": "2020-09-18T12:20:00.018Z",
+    "user": {
+        "name": "Grunion",
+        "slug": "kinggrunion"
+    },
+    "numberOfColors": 6,
+    "createdAt": "2020-09-16T04:41:32.125Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "140f1a",
+        "b1a7b8",
+        "bd6060",
+        "7a3e6a",
+        "3a2952",
+        "3e664b"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5f61977c54bf291204211688",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

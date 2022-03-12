@@ -1,0 +1,43 @@
+{
+    "_id": "609aedf937c7b816a5908bab",
+    "tags": [
+        "monochrome"
+    ],
+    "colors": [
+        "afa7d4",
+        "302a52"
+    ],
+    "downloads": "72",
+    "featured": false,
+    "likes": 13,
+    "comments": 0,
+    "slug": "blue-monochrome-lcd",
+    "publishedAt": "2021-05-12T16:45:00.052Z",
+    "user": {
+        "name": "geXP",
+        "slug": "gexp"
+    },
+    "title": "blue monochrome lcd",
+    "hashtag": "lcd",
+    "description": "i not find an lcd palette that i like so i made and share one",
+    "creator": true,
+    "createdAt": "2021-05-11T20:50:01.986Z",
+    "numberOfColors": 2,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "afa7d4",
+        "302a52"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "609aedf937c7b816a5908bab",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,56 @@
+{
+    "_id": "615036c1315b16237cc0187e",
+    "tags": [
+        "commodore",
+        "computer"
+    ],
+    "colors": [
+        "000000",
+        "683f11",
+        "b76954",
+        "ffffff",
+        "bbdd86",
+        "869d8d",
+        "736788",
+        "4e318d"
+    ],
+    "downloads": "44",
+    "featured": false,
+    "likes": 10,
+    "comments": 1,
+    "slug": "commodore-8",
+    "publishedAt": "2021-10-12T05:45:00.042Z",
+    "user": {
+        "name": "Space Sandwich",
+        "slug": "spacesandwich"
+    },
+    "title": "Commodore 8",
+    "hashtag": "commodore8",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-09-26T09:00:49.065Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "683f11",
+        "b76954",
+        "ffffff",
+        "bbdd86",
+        "869d8d",
+        "736788",
+        "4e318d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "615036c1315b16237cc0187e",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

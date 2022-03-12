@@ -1,0 +1,96 @@
+{
+    "_id": "602176bda1fef94c797ab335",
+    "tags": [
+        "sharp",
+        "gb",
+        "polyphrog",
+        "harsh",
+        "anxiety"
+    ],
+    "colors": [
+        "ffee96",
+        "e08e49",
+        "842243",
+        "2c1415"
+    ],
+    "downloads": "269",
+    "featured": false,
+    "likes": 31,
+    "comments": 0,
+    "title": "anxietas",
+    "hashtag": "anxietas",
+    "description": "a small palette made with sharply contrasting colors that still blend well.",
+    "creator": true,
+    "slug": "anxietas",
+    "publishedAt": "2021-02-12T02:40:00.019Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-02-08T17:37:01.286Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "602176eea1fef94c797ab33a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/anxietas-palette-example-by-polyphorge-602176.png",
+            "creator": true,
+            "description": "",
+            "title": "anxietas Palette Example by polyphorge",
+            "slug": "anxietas-palette-example-by-polyphorge",
+            "publishedAt": "2021-02-08T19:10:00.017Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "602176bda1fef94c797ab335",
+            "createdAt": "2021-02-08T17:37:50.396Z",
+            "updatedAt": "2021-02-08T19:10:00.017Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "614fc433affb2547619d4e2d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "anxietas Palette Example by nkoder",
+            "slug": "anxietas-palette-example-by-nkoder",
+            "publishedAt": "2021-09-27T07:45:00.020Z",
+            "user": {
+                "name": "Beetroot Paul",
+                "slug": "beetrootpaul"
+            },
+            "parent": "602176bda1fef94c797ab335",
+            "image": "palette-examples/anxietas-palette-example-by-nkoder-614fc4.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-09-26T00:52:03.619Z",
+            "updatedAt": "2021-09-27T07:45:00.020Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "ffee96",
+        "e08e49",
+        "842243",
+        "2c1415"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "602176bda1fef94c797ab335",
+        "type": "palettes",
+        "count": 31,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

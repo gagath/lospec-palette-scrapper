@@ -1,0 +1,51 @@
+{
+    "_id": "5fb96b4aeb0630284bc7bb53",
+    "tags": [
+        "gameboy",
+        "calming",
+        "gameboy",
+        "desaturated",
+        "2bit"
+    ],
+    "colors": [
+        "460e2d",
+        "7c2a43",
+        "9d7555",
+        "e1d3b3"
+    ],
+    "downloads": "115",
+    "featured": false,
+    "likes": 11,
+    "comments": 0,
+    "title": "Moo-4",
+    "hashtag": "moo4",
+    "description": "A Calming Semi-Desaturated 2-Bit Pallete",
+    "creator": true,
+    "slug": "moo-4",
+    "publishedAt": "2020-11-24T20:35:00.031Z",
+    "user": {
+        "name": "Moony",
+        "slug": "supermoonybros"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-11-21T19:32:26.006Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "460e2d",
+        "7c2a43",
+        "9d7555",
+        "e1d3b3"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5fb96b4aeb0630284bc7bb53",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

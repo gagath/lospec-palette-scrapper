@@ -1,0 +1,81 @@
+{
+    "_id": "614f91cd2c4c521b8dd7e763",
+    "tags": [
+        "blue",
+        "gray",
+        "cold",
+        "ice",
+        "sad",
+        "dark",
+        "noelle",
+        "deltarune"
+    ],
+    "colors": [
+        "9fe8ff",
+        "74bff8",
+        "6aa3cc",
+        "517184",
+        "364e5e",
+        "000000"
+    ],
+    "downloads": "201",
+    "featured": false,
+    "likes": 16,
+    "comments": 0,
+    "slug": "noelles-room",
+    "publishedAt": "2021-10-11T21:45:00.030Z",
+    "user": {
+        "name": "Yousurname",
+        "slug": "yousurname"
+    },
+    "title": "Noelle's Room",
+    "hashtag": "noellesroom",
+    "description": "This is the palette used for Noelle's room from the game\u00a0Deltarune Chapter 2 (https://deltarune.com/). Note: The DB Palette Analysis shows the main 4 colors used.",
+    "creator": false,
+    "numberOfColors": 6,
+    "createdAt": "2021-09-25T21:17:01.108Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "614f937d2c4c521b8dd7e770",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Noelle's Room Palette Example by Yousurname",
+            "slug": "noelles-room-palette-example-by-yousurname",
+            "publishedAt": "2021-09-27T20:40:00.025Z",
+            "user": {
+                "name": "Yousurname",
+                "slug": "yousurname"
+            },
+            "parent": "614f91cd2c4c521b8dd7e763",
+            "image": "palette-examples/noelles-room-palette-example-by-yousurname-614f93.png",
+            "creator": false,
+            "description": "Noelle's room from the game Deltarune Chapter 2 (https://deltarune.com/)",
+            "createdAt": "2021-09-25T21:24:13.571Z",
+            "updatedAt": "2021-09-27T20:40:00.026Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Noelle's room from the game Deltarune Chapter 2 (https://deltarune.com/)"
+        }
+    ],
+    "colorsArray": [
+        "9fe8ff",
+        "74bff8",
+        "6aa3cc",
+        "517184",
+        "364e5e",
+        "000000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "614f91cd2c4c521b8dd7e763",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

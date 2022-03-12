@@ -1,0 +1,73 @@
+{
+    "_id": "5da630b236e1ff223d07a6ea",
+    "slug": "sierra-adventures-atari-st",
+    "description": "A modified version of the\u00a0<a href=\"https://lospec.com/palette-list/color-graphics-adapter\" target=\"_blank\">16-color CGA/EGA palette</a>, used for Sierra On-Line's Atari ST ports of their graphic adventures such as\u00a0<a href=\"https://www.mobygames.com/game/atari-st/code-name-iceman\" target=\"_blank\">Code-name: Iceman</a>\u00a0and\u00a0<a href=\"https://www.mobygames.com/game/atari-st/colonels-bequest\" target=\"_blank\">The Colonel's Bequest</a>",
+    "colors": [
+        "e0e0e0",
+        "a0a0a0",
+        "404040",
+        "000000",
+        "e0e040",
+        "a06000",
+        "60e0e0",
+        "408080",
+        "e060e0",
+        "800080",
+        "80e040",
+        "008000",
+        "e06040",
+        "800000",
+        "0060e0",
+        "0000a0"
+    ],
+    "creator": false,
+    "comments": 0,
+    "likes": 2,
+    "createdAt": "2019-10-15T20:48:50.743Z",
+    "featured": false,
+    "tags": [
+        "game",
+        "atari",
+        "ptux7"
+    ],
+    "downloads": "115",
+    "numberOfColors": 16,
+    "hashtag": "sierraadventuresatarist",
+    "title": "Sierra Adventures Atari ST",
+    "user": {
+        "name": "P-Tux7",
+        "slug": "p-tux7"
+    },
+    "publishedAt": "2019-10-15T20:48:50.743Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "e0e0e0",
+        "a0a0a0",
+        "404040",
+        "000000",
+        "e0e040",
+        "a06000",
+        "60e0e0",
+        "408080",
+        "e060e0",
+        "800080",
+        "80e040",
+        "008000",
+        "e06040",
+        "800000",
+        "0060e0",
+        "0000a0"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5da630b236e1ff223d07a6ea",
+        "type": "palettes",
+        "count": 2,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

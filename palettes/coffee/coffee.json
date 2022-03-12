@@ -1,0 +1,79 @@
+{
+    "_id": "60562a43393a8b1ac27d0836",
+    "tags": [
+        "8 color",
+        " simple"
+    ],
+    "colors": [
+        "000000",
+        "0a0a0a",
+        "191919",
+        "533e2d",
+        "a27035",
+        "b88b4a",
+        "ddca7d",
+        "fbf9ef"
+    ],
+    "downloads": "221",
+    "featured": false,
+    "likes": 9,
+    "comments": 0,
+    "title": "Coffee",
+    "hashtag": "coffee",
+    "description": "",
+    "creator": true,
+    "slug": "coffee",
+    "publishedAt": "2021-04-02T05:30:00.353Z",
+    "user": {
+        "name": "Shade 348",
+        "slug": "shade-348"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2021-03-20T17:00:51.926Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "606b9eefacd0d97964f7aafa",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Coffee Palette Example by Casei Solus",
+            "slug": "coffee-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-06T18:45:00.047Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "60562a43393a8b1ac27d0836",
+            "image": "palette-examples/coffee-palette-example-by-casei-solus-606b9e.png",
+            "creator": true,
+            "description": "Coffee spilled on a table.",
+            "createdAt": "2021-04-05T23:36:15.824Z",
+            "updatedAt": "2021-04-06T18:45:00.048Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Coffee spilled on a table."
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "0a0a0a",
+        "191919",
+        "533e2d",
+        "a27035",
+        "b88b4a",
+        "ddca7d",
+        "fbf9ef"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60562a43393a8b1ac27d0836",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

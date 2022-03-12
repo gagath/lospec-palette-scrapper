@@ -1,0 +1,52 @@
+{
+    "_id": "60ae7d4766d9714949abe53b",
+    "tags": [
+        "appleii",
+        "apple"
+    ],
+    "colors": [
+        "000000",
+        "b63dff",
+        "ea5d15",
+        "10a4e3",
+        "43c300",
+        "ffffff"
+    ],
+    "downloads": "40",
+    "featured": false,
+    "likes": 1,
+    "comments": 1,
+    "slug": "apple-ii-hi-res",
+    "publishedAt": "2021-09-02T18:25:00.037Z",
+    "user": {
+        "name": "4thRock",
+        "slug": "4th-rock"
+    },
+    "title": "Apple II Hi-Res",
+    "hashtag": "appleiihires",
+    "description": "Apple II Hi-Res 6 color palette, from https://en.wikipedia.org/wiki/Apple_II_graphics",
+    "creator": false,
+    "createdAt": "2021-05-26T16:54:31.849Z",
+    "numberOfColors": 6,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "b63dff",
+        "ea5d15",
+        "10a4e3",
+        "43c300",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "60ae7d4766d9714949abe53b",
+        "type": "palettes",
+        "count": 1,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

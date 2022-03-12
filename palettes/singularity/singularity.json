@@ -1,0 +1,76 @@
+{
+    "_id": "611b7d52d89d3856c7d7eb08",
+    "tags": [
+        "singularity",
+        "4color",
+        "simple",
+        "elegant",
+        "blackhole",
+        "wanderer",
+        "journey"
+    ],
+    "colors": [
+        "222323",
+        "f0f6f0",
+        "c93038",
+        "7fa663"
+    ],
+    "downloads": "177",
+    "featured": false,
+    "likes": 26,
+    "comments": 2,
+    "slug": "singularity",
+    "publishedAt": "2021-08-27T18:00:00.092Z",
+    "user": {
+        "name": "Royal_Naym",
+        "slug": "royalnaym"
+    },
+    "title": "Singularity",
+    "hashtag": "singularity",
+    "description": "Singularity is a simple, easy to use 4 color palette. It's also one of the palettes I'm using for my new, ASCII inspired series of wallpapers. Black and white for contrast; red for objects of importance; green for detailing.",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-08-17T09:11:46.017Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "611b7d93d89d3856c7d7eb0c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Singularity Palette Example by Royal_Naym",
+            "slug": "singularity-palette-example-by-royalnaym",
+            "publishedAt": "2021-08-22T19:20:00.037Z",
+            "user": {
+                "name": "Royal_Naym",
+                "slug": "royalnaym"
+            },
+            "parent": "611b7d52d89d3856c7d7eb08",
+            "image": "palette-examples/singularity-palette-example-by-royalnaym-611b7d.png",
+            "creator": true,
+            "description": "Tileset used: MRMOTEXT, by Mrmo Tarius.",
+            "createdAt": "2021-08-17T09:12:51.417Z",
+            "updatedAt": "2021-08-22T19:20:00.038Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Tileset used: MRMOTEXT, by Mrmo Tarius."
+        }
+    ],
+    "colorsArray": [
+        "222323",
+        "f0f6f0",
+        "c93038",
+        "7fa663"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "611b7d52d89d3856c7d7eb08",
+        "type": "palettes",
+        "count": 26,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

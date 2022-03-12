@@ -1,0 +1,45 @@
+{
+    "_id": "5f31cd7428799651910594a2",
+    "tags": [],
+    "colors": [
+        "df5e00",
+        "aa3e00",
+        "6a3500",
+        "000000"
+    ],
+    "downloads": "49",
+    "featured": false,
+    "likes": 7,
+    "comments": 0,
+    "title": "Pinball Display Colours",
+    "hashtag": "pinballdisplaycolours",
+    "description": "Remember those pinball displays with the orange color? I made a pallete for that!",
+    "creator": true,
+    "slug": "pinball-display-colours",
+    "publishedAt": "2020-08-14T20:35:00.026Z",
+    "user": {
+        "name": "Pfennig",
+        "slug": "pfennig"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-08-10T22:43:00.672Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "df5e00",
+        "aa3e00",
+        "6a3500",
+        "000000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f31cd7428799651910594a2",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

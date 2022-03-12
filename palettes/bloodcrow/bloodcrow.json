@@ -1,0 +1,75 @@
+{
+    "_id": "6054c70859410844dad496b6",
+    "tags": [
+        "4color",
+        "4colour",
+        "sinister",
+        "evil",
+        "red",
+        "groxguy"
+    ],
+    "colors": [
+        "190000",
+        "560909",
+        "ad2020",
+        "f2e6e6"
+    ],
+    "downloads": "911",
+    "featured": false,
+    "likes": 64,
+    "comments": 2,
+    "title": "Blood Crow",
+    "hashtag": "bloodcrow",
+    "description": "A red and sinister 4-colour palette.",
+    "creator": true,
+    "slug": "blood-crow",
+    "publishedAt": "2021-03-29T05:30:00.041Z",
+    "user": {
+        "name": "Groxguy",
+        "slug": "groxguy"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-03-19T15:45:12.903Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6054c78859410844dad496bd",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/blood-crow-palette-example-by-groxguy-6054c7.png",
+            "creator": true,
+            "description": "",
+            "title": "Blood Crow Palette Example by Groxguy",
+            "slug": "blood-crow-palette-example-by-groxguy",
+            "publishedAt": "2021-03-27T18:00:00.085Z",
+            "user": {
+                "name": "Groxguy",
+                "slug": "groxguy"
+            },
+            "parent": "6054c70859410844dad496b6",
+            "createdAt": "2021-03-19T15:47:20.173Z",
+            "updatedAt": "2021-03-27T18:00:00.085Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "190000",
+        "560909",
+        "ad2020",
+        "f2e6e6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6054c70859410844dad496b6",
+        "type": "palettes",
+        "count": 64,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

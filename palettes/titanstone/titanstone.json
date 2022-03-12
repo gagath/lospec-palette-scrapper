@@ -1,0 +1,70 @@
+{
+    "_id": "607a25f6f7d44826c568a15d",
+    "tags": [
+        "blue",
+        "stone",
+        "polyphrog"
+    ],
+    "colors": [
+        "150413",
+        "635c6d",
+        "ffffd1"
+    ],
+    "downloads": "2,317",
+    "featured": false,
+    "likes": 91,
+    "comments": 6,
+    "slug": "titanstone",
+    "publishedAt": "2021-04-20T00:15:00.051Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "titanstone",
+    "hashtag": "titanstone",
+    "description": "",
+    "creator": true,
+    "createdAt": "2021-04-17T00:04:06.705Z",
+    "numberOfColors": 3,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607a2612f7d44826c568a160",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "titanstone Palette Example by polyphorge",
+            "slug": "titanstone-palette-example-by-polyphorge",
+            "publishedAt": "2021-04-17T01:05:00.032Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "607a25f6f7d44826c568a15d",
+            "image": "palette-examples/titanstone-palette-example-by-polyphorge-607a26.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-04-17T00:04:34.931Z",
+            "updatedAt": "2021-04-17T01:05:00.032Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "150413",
+        "635c6d",
+        "ffffd1"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 33.333333333333336,
+    "height": 32,
+    "likebutton": {
+        "content": "607a25f6f7d44826c568a15d",
+        "type": "palettes",
+        "count": 91,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

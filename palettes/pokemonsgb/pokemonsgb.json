@@ -1,0 +1,62 @@
+{
+    "_id": "58fbb260e15f242214faf177",
+    "createdAt": "2017-04-22T19:43:28.525Z",
+    "slug": "pokemon-sgb",
+    "description": "A palette used by <a href=\"https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red_and_Blue\">Pokemon Red and Blue</a> for certain elements when played on the <a href=\"https://en.wikipedia.org/wiki/Game_Boy_Color\">Gameboy Color</a> or <a href=\"https://en.wikipedia.org/wiki/Super_Game_Boy\">Super Gameboy</a>.",
+    "colors": [
+        "181010",
+        "84739c",
+        "f7b58c",
+        "ffefff"
+    ],
+    "tags": [
+        "hardware",
+        "gameboy",
+        "supergameboy"
+    ],
+    "downloads": "3,140",
+    "numberOfColors": 4,
+    "likes": 83,
+    "comments": 0,
+    "hashtag": "pokemonsgb",
+    "title": "Pokemon (SGB)",
+    "publishedAt": "2017-04-22T19:43:28.525Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "58fbb28de15f242214faf178",
+            "description": "<a href=\"https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red_and_Blue\">Pokemon Red</a> Screenshots",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.044Z",
+            "creator": false,
+            "image": "palette-examples/pokemon-sgb-palette-example-pokemon-red-screenshots-58fbb2.png",
+            "likes": 0,
+            "parent": "58fbb260e15f242214faf177",
+            "slug": "pokemon-sgb-palette-example-pokemon-red-screenshots",
+            "title": "pokemon sgb palette example pokemon red screenshots",
+            "updatedAt": "2020-07-31T03:56:11.044Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Pokemon Red Screenshots"
+        }
+    ],
+    "colorsArray": [
+        "181010",
+        "84739c",
+        "f7b58c",
+        "ffefff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "58fbb260e15f242214faf177",
+        "type": "palettes",
+        "count": 83,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

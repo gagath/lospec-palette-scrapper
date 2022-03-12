@@ -1,0 +1,73 @@
+{
+    "_id": "61feefa4b5ce306839fd7b27",
+    "tags": [
+        "gameboy",
+        "sand",
+        "4",
+        "earthy"
+    ],
+    "colors": [
+        "2b4158",
+        "8b6f7b",
+        "caaea3",
+        "fff9f1"
+    ],
+    "downloads": "236",
+    "featured": false,
+    "likes": 31,
+    "comments": 2,
+    "slug": "m-u-s-h-b-l-o-o-m",
+    "publishedAt": "2022-02-08T11:35:00.058Z",
+    "user": {
+        "name": "RABBITKING",
+        "slug": "rabbitking"
+    },
+    "title": "M U S H B L O O M",
+    "hashtag": "mushbloom",
+    "description": "A nice palette for eerie, moonlit nights on the sand. Avoid eye contact...",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2022-02-05T21:44:04.697Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61feefbdb5ce306839fd7b2d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "M U S H B L O O M Palette Example by RABBITKING",
+            "slug": "m-u-s-h-b-l-o-o-m-palette-example-by-rabbitkingxxvbbv",
+            "publishedAt": "2022-02-09T18:20:00.027Z",
+            "user": {
+                "name": "RABBITKING",
+                "slug": "rabbitking"
+            },
+            "parent": "61feefa4b5ce306839fd7b27",
+            "image": "palette-examples/m-u-s-h-b-l-o-o-m-palette-example-by-rabbitkingxxvbbv.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-02-05T21:44:29.240Z",
+            "updatedAt": "2022-02-09T18:20:00.028Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "2b4158",
+        "8b6f7b",
+        "caaea3",
+        "fff9f1"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61feefa4b5ce306839fd7b27",
+        "type": "palettes",
+        "count": 31,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

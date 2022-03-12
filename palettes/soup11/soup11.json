@@ -1,0 +1,63 @@
+{
+    "_id": "604ecb7202ba892f87b162f2",
+    "tags": [
+        "red",
+        " blue",
+        " 11 colors"
+    ],
+    "colors": [
+        "4f1e45",
+        "963057",
+        "d74459",
+        "eb7060",
+        "ffb383",
+        "ffffff",
+        "7fe3bb",
+        "5cbbc4",
+        "457ea3",
+        "384276",
+        "322451"
+    ],
+    "downloads": "355",
+    "featured": false,
+    "likes": 21,
+    "comments": 5,
+    "title": "soup11",
+    "hashtag": "soup11",
+    "description": "reds and blues, heavy hue shifting",
+    "creator": true,
+    "slug": "soup11",
+    "publishedAt": "2021-03-18T12:10:00.011Z",
+    "user": {
+        "name": "Mustard",
+        "slug": "mustard"
+    },
+    "numberOfColors": 11,
+    "createdAt": "2021-03-15T02:50:26.106Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "4f1e45",
+        "963057",
+        "d74459",
+        "eb7060",
+        "ffb383",
+        "ffffff",
+        "7fe3bb",
+        "5cbbc4",
+        "457ea3",
+        "384276",
+        "322451"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "604ecb7202ba892f87b162f2",
+        "type": "palettes",
+        "count": 21,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

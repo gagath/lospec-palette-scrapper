@@ -1,0 +1,47 @@
+{
+    "_id": "61b6d3d9eac9d27698477395",
+    "tags": [
+        "7"
+    ],
+    "colors": [
+        "eef5e4",
+        "9ff179",
+        "575268",
+        "282336"
+    ],
+    "downloads": "67",
+    "featured": false,
+    "likes": 4,
+    "comments": 0,
+    "slug": "lightning-crush",
+    "publishedAt": "2021-12-17T17:00:00.052Z",
+    "user": {
+        "name": "stin stin",
+        "slug": "stin-stin"
+    },
+    "title": "lightning crush",
+    "hashtag": "lightningcrush",
+    "description": "a simple pallete for the homies",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-12-13T05:02:17.100Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "eef5e4",
+        "9ff179",
+        "575268",
+        "282336"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61b6d3d9eac9d27698477395",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

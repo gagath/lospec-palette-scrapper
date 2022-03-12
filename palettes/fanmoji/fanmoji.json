@@ -1,0 +1,68 @@
+{
+    "_id": "6160374894c9d95211165ed5",
+    "tags": [
+        "fancade",
+        "emoji"
+    ],
+    "colors": [
+        "ffff85",
+        "fecc4d",
+        "f4ad4c",
+        "664500",
+        "99d4ff",
+        "64aadd",
+        "8d7acd",
+        "ed588d",
+        "fb3b5b",
+        "be1c31",
+        "3eba48",
+        "3e721d",
+        "ffffff",
+        "1f1f28"
+    ],
+    "downloads": "30",
+    "featured": false,
+    "likes": 2,
+    "comments": 0,
+    "slug": "fanmoji",
+    "publishedAt": "2021-10-16T01:45:00.055Z",
+    "user": {
+        "name": "Frelindo",
+        "slug": "frelindo"
+    },
+    "title": "Fanmoji",
+    "hashtag": "fanmoji",
+    "description": "Palette to make Emojis like the Fancade Discord Server. Use 8x8px for similar results",
+    "creator": true,
+    "numberOfColors": 14,
+    "createdAt": "2021-10-08T12:19:20.223Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffff85",
+        "fecc4d",
+        "f4ad4c",
+        "664500",
+        "99d4ff",
+        "64aadd",
+        "8d7acd",
+        "ed588d",
+        "fb3b5b",
+        "be1c31",
+        "3eba48",
+        "3e721d",
+        "ffffff",
+        "1f1f28"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "6160374894c9d95211165ed5",
+        "type": "palettes",
+        "count": 2,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

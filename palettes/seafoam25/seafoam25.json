@@ -1,0 +1,62 @@
+{
+    "_id": "5f42ce01be877e596f0e44b9",
+    "tags": [
+        "sea",
+        "ocean",
+        "water",
+        "blue",
+        "green",
+        "muted",
+        "purple",
+        "jimison3"
+    ],
+    "colors": [
+        "37364e",
+        "355d69",
+        "6aae9d",
+        "b9d4b4",
+        "f4e9d4",
+        "d0baa9",
+        "9e8e91",
+        "5b4a68"
+    ],
+    "downloads": "1,793",
+    "featured": false,
+    "likes": 104,
+    "comments": 5,
+    "title": "Seafoam",
+    "hashtag": "seafoam25",
+    "description": "",
+    "creator": "1",
+    "slug": "seafoam",
+    "publishedAt": "2020-09-08T07:15:00.017Z",
+    "user": {
+        "name": "Jimison3",
+        "slug": "jimison3"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2020-08-23T20:13:53.464Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "37364e",
+        "355d69",
+        "6aae9d",
+        "b9d4b4",
+        "f4e9d4",
+        "d0baa9",
+        "9e8e91",
+        "5b4a68"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5f42ce01be877e596f0e44b9",
+        "type": "palettes",
+        "count": 104,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

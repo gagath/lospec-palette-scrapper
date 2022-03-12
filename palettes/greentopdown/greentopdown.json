@@ -1,0 +1,49 @@
+{
+    "_id": "616f95edc722a973989b7712",
+    "tags": [],
+    "colors": [
+        "f0fa37",
+        "9fd943",
+        "72b046",
+        "51946a",
+        "267049",
+        "28594f"
+    ],
+    "downloads": "195",
+    "featured": false,
+    "likes": 9,
+    "comments": 1,
+    "slug": "green-top-down",
+    "publishedAt": "2021-10-20T14:20:00.048Z",
+    "user": {
+        "name": "By8Bits",
+        "slug": "jhoann-manuel-vargas-garzon"
+    },
+    "title": "Green Top-Down",
+    "hashtag": "greentopdown",
+    "description": "Excellent for practicing",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2021-10-20T04:07:09.018Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "f0fa37",
+        "9fd943",
+        "72b046",
+        "51946a",
+        "267049",
+        "28594f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "616f95edc722a973989b7712",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

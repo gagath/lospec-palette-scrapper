@@ -1,0 +1,70 @@
+{
+    "_id": "5f94253cb387112898e39ddf",
+    "tags": [
+        "isasstudio"
+    ],
+    "colors": [
+        "c9cea7",
+        "61923a",
+        "613c3c",
+        "2a1c1e"
+    ],
+    "downloads": "162",
+    "featured": false,
+    "likes": 13,
+    "comments": 1,
+    "title": "Camo GB",
+    "hashtag": "camogb",
+    "description": "A camo-y 2-bit palette",
+    "creator": true,
+    "slug": "camo-gb",
+    "publishedAt": "2020-10-24T19:10:00.023Z",
+    "user": {
+        "name": "Isa",
+        "slug": "isas-studio"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-10-24T12:59:40.630Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f942583b387112898e39de9",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/camo-gb-palette-example-by-isagamer-5f9425.png",
+            "creator": true,
+            "description": "A Mincraft-ish peice",
+            "title": "Camo GB Palette Example by IsaGamer",
+            "slug": "camo-gb-palette-example-by-isagamer",
+            "publishedAt": "2020-10-24T13:15:00.013Z",
+            "user": {
+                "name": "Isa",
+                "slug": "isas-studio"
+            },
+            "parent": "5f94253cb387112898e39ddf",
+            "createdAt": "2020-10-24T13:00:51.681Z",
+            "updatedAt": "2020-10-24T13:15:00.013Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A Mincraft-ish peice"
+        }
+    ],
+    "colorsArray": [
+        "c9cea7",
+        "61923a",
+        "613c3c",
+        "2a1c1e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f94253cb387112898e39ddf",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

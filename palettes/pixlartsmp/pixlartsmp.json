@@ -1,0 +1,59 @@
+{
+    "_id": "6032e99cc5202c1249e5b6a0",
+    "tags": [],
+    "colors": [
+        "9fcc2d",
+        "ebdc34",
+        "ffffff",
+        "992b6d",
+        "6c2682",
+        "231047",
+        "c4914e",
+        "80adac",
+        "b532a6",
+        "4d96d1",
+        "448d94"
+    ],
+    "downloads": "30",
+    "featured": false,
+    "likes": 4,
+    "comments": 3,
+    "title": "Pixelart SMP Z1",
+    "hashtag": "pixlartsmp",
+    "description": "",
+    "creator": true,
+    "slug": "pixelart-smp-z1",
+    "publishedAt": "2021-03-09T23:40:00.026Z",
+    "user": {
+        "name": "Zant",
+        "slug": "zant"
+    },
+    "numberOfColors": 11,
+    "createdAt": "2021-02-21T23:15:40.719Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "9fcc2d",
+        "ebdc34",
+        "ffffff",
+        "992b6d",
+        "6c2682",
+        "231047",
+        "c4914e",
+        "80adac",
+        "b532a6",
+        "4d96d1",
+        "448d94"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "6032e99cc5202c1249e5b6a0",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

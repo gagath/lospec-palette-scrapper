@@ -1,0 +1,73 @@
+{
+    "_id": "5f93c13b5de88e603b2d620b",
+    "tags": [
+        "enamored",
+        "2bit",
+        "gb",
+        "demo"
+    ],
+    "colors": [
+        "f8f3fd",
+        "fac6b4",
+        "da298e",
+        "2e2b12"
+    ],
+    "downloads": "294",
+    "featured": false,
+    "likes": 42,
+    "comments": 4,
+    "title": "ENAMORED DEMO",
+    "hashtag": "enamoreddemo",
+    "description": "...further on, I was enamored by the remnants of a misplaced saga, leading me to a refreshing acceptance.",
+    "creator": true,
+    "slug": "enamored-demo",
+    "publishedAt": "2020-10-24T13:10:00.038Z",
+    "user": {
+        "name": "Kattman",
+        "slug": "kattman"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-10-24T05:52:59.970Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f93c6b0319f985e161ee487",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/enamored-demo-palette-example-by-kattman-5f93c6.png",
+            "creator": true,
+            "description": "'nother one",
+            "title": "ENAMORED DEMO Palette Example by Kattman",
+            "slug": "enamored-demo-palette-example-by-kattman",
+            "publishedAt": "2020-10-24T13:10:00.027Z",
+            "user": {
+                "name": "Kattman",
+                "slug": "kattman"
+            },
+            "parent": "5f93c13b5de88e603b2d620b",
+            "createdAt": "2020-10-24T06:16:16.129Z",
+            "updatedAt": "2020-10-24T13:10:00.027Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "'nother one"
+        }
+    ],
+    "colorsArray": [
+        "f8f3fd",
+        "fac6b4",
+        "da298e",
+        "2e2b12"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f93c13b5de88e603b2d620b",
+        "type": "palettes",
+        "count": 42,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

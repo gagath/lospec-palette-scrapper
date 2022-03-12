@@ -1,0 +1,69 @@
+{
+    "_id": "5dc86031e8b5507637cc75dd",
+    "slug": "obra-dinn-commodore-1084",
+    "description": "The palette used in the game\u00a0<i><a href=\"https://obradinn.com/\" target=\"_blank\">Return of the Obra Dinn</a> </i>when using the \"Commodore 1084\" monitor setting.",
+    "colors": [
+        "40318e",
+        "88d7de"
+    ],
+    "creator": false,
+    "comments": 1,
+    "likes": 11,
+    "createdAt": "2019-11-10T19:08:33.861Z",
+    "featured": false,
+    "tags": [
+        "game",
+        "obradinn",
+        "software",
+        "1bit"
+    ],
+    "downloads": "96",
+    "numberOfColors": 2,
+    "hashtag": "obradinncommodore1084",
+    "title": "Obra Dinn - Commodore 1084",
+    "user": {
+        "name": "PureAsbestos",
+        "slug": "pureasbestos"
+    },
+    "publishedAt": "2019-11-10T19:08:33.861Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607649fb04e19427839730ea",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Obra Dinn - Commodore 1084 Palette Example by Casei Solus",
+            "slug": "obra-dinn-commodore-1084-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-17T00:40:00.023Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5dc86031e8b5507637cc75dd",
+            "image": "palette-examples/obra-dinn-commodore-1084-palette-example-by-casei-solus-607649.png",
+            "creator": true,
+            "description": "A ship at night.",
+            "createdAt": "2021-04-14T01:48:43.923Z",
+            "updatedAt": "2021-04-17T00:40:00.023Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A ship at night."
+        }
+    ],
+    "colorsArray": [
+        "40318e",
+        "88d7de"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "5dc86031e8b5507637cc75dd",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

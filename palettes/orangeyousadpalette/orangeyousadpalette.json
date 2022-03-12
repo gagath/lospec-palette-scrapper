@@ -1,0 +1,87 @@
+{
+    "_id": "61476b4a4f1e2b6cf2f8b058",
+    "tags": [
+        "red",
+        "yellow"
+    ],
+    "colors": [
+        "3f2f46",
+        "71354f",
+        "a93d37",
+        "d2677e",
+        "f6c4c2",
+        "fffdc0",
+        "fbfe81",
+        "bac45c",
+        "6f7f46",
+        "535c3a",
+        "343f2b",
+        "21212c"
+    ],
+    "downloads": "101",
+    "featured": false,
+    "likes": 21,
+    "comments": 0,
+    "slug": "orange-you-sad",
+    "publishedAt": "2021-10-10T13:45:00.046Z",
+    "user": {
+        "name": "CasualJoe",
+        "slug": "casual-joe-3905"
+    },
+    "title": "Orange You Sad",
+    "hashtag": "orangeyousadpalette",
+    "description": "That there's no more orange? That the skies are duller? That you'll never get close to that fabled color?",
+    "creator": true,
+    "numberOfColors": 12,
+    "createdAt": "2021-09-19T16:54:34.772Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61476bf74f1e2b6cf2f8b062",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Orange You Sad Palette Example by CasualJoe",
+            "slug": "orange-you-sad-palette-example-by-casualjoe",
+            "publishedAt": "2021-09-19T17:20:00.026Z",
+            "user": {
+                "name": "CasualJoe",
+                "slug": "casual-joe-3905"
+            },
+            "parent": "61476b4a4f1e2b6cf2f8b058",
+            "image": "palette-examples/orange-you-sad-palette-example-by-casualjoe-61476b.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-09-19T16:57:27.619Z",
+            "updatedAt": "2021-09-19T17:20:00.027Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "3f2f46",
+        "71354f",
+        "a93d37",
+        "d2677e",
+        "f6c4c2",
+        "fffdc0",
+        "fbfe81",
+        "bac45c",
+        "6f7f46",
+        "535c3a",
+        "343f2b",
+        "21212c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "61476b4a4f1e2b6cf2f8b058",
+        "type": "palettes",
+        "count": 21,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

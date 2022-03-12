@@ -1,0 +1,83 @@
+{
+    "_id": "5d7380828d9ea76003d61314",
+    "slug": "japanese-woodblock",
+    "description": "12 colours sampled from old Japanese woodblock prints.",
+    "colors": [
+        "2b2821",
+        "624c3c",
+        "d9ac8b",
+        "e3cfb4",
+        "243d5c",
+        "5d7275",
+        "5c8b93",
+        "b1a58d",
+        "b03a48",
+        "d4804d",
+        "e0c872",
+        "3e6958"
+    ],
+    "likes": 396,
+    "createdAt": "2019-09-07T10:03:46.342Z",
+    "featured": false,
+    "tags": [
+        "artist",
+        "polyducks"
+    ],
+    "downloads": "6,618",
+    "numberOfColors": 12,
+    "comments": 3,
+    "creator": true,
+    "hashtag": "japanesewoodblock",
+    "title": "Japanese Woodblock",
+    "user": {
+        "name": "Polyducks",
+        "slug": "polyducks"
+    },
+    "publishedAt": "2019-09-07T10:03:46.342Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5d73837f8d9ea76003d61319",
+            "description": "Palette usage example by <a target=\"_blank\" href=\"https://twitter.com/polyducks\">Polyducks</a> (a complilation)",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.199Z",
+            "creator": false,
+            "image": "palette-examples/japanese-woodblock-palette-example-palette-usage-example-by-polyducks-a-complilation-5d7383.png",
+            "likes": 0,
+            "parent": "5d7380828d9ea76003d61314",
+            "slug": "japanese-woodblock-palette-example-palette-usage-example-by-polyducks-a-complilation",
+            "title": "japanese woodblock palette example palette usage example by polyducks a complilation",
+            "updatedAt": "2020-07-31T03:56:11.199Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Polyducks (a complilation)"
+        }
+    ],
+    "colorsArray": [
+        "2b2821",
+        "624c3c",
+        "d9ac8b",
+        "e3cfb4",
+        "243d5c",
+        "5d7275",
+        "5c8b93",
+        "b1a58d",
+        "b03a48",
+        "d4804d",
+        "e0c872",
+        "3e6958"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5d7380828d9ea76003d61314",
+        "type": "palettes",
+        "count": 396,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

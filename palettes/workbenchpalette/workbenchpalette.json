@@ -1,0 +1,50 @@
+{
+    "_id": "5ed6acb99a94a556bf31fc8a",
+    "tags": [
+        "gameboy",
+        " amiga",
+        " workbench",
+        " icarus"
+    ],
+    "colors": [
+        "d8f6f7",
+        "f9a979",
+        "065686",
+        "270908"
+    ],
+    "downloads": "142",
+    "featured": false,
+    "likes": 16,
+    "comments": 0,
+    "title": "Workbench Palette",
+    "hashtag": "workbenchpalette",
+    "description": "A gameboy palette based off of the Kid Icarus and Amiga Workbench palettes. The first and last (lightest and darkest) colors are inverted forms of each other as are the middle two (middle lightest and middle darkest).",
+    "creator": true,
+    "slug": "workbench-palette",
+    "publishedAt": "2020-06-07T22:45:00.017Z",
+    "user": {
+        "name": "Michael Connor",
+        "slug": "michael-connor"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-06-02T19:47:05.636Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "d8f6f7",
+        "f9a979",
+        "065686",
+        "270908"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5ed6acb99a94a556bf31fc8a",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,73 @@
+{
+    "_id": "5ccdb389763a4a5e61845fa7",
+    "createdAt": "2019-05-04T15:45:13.789Z",
+    "slug": "harshgreens",
+    "description": "Part of the <a target=\"_blank\" href=\"https://lospec.com/palette-list/tag/wildleoknightgameboy\">WildLeoKnight Gameboy Palettes Set</a>",
+    "colors": [
+        "beeb71",
+        "6ab417",
+        "376d03",
+        "172808"
+    ],
+    "featured": false,
+    "tags": [
+        "artist",
+        "wildleoknight",
+        "gameboy",
+        "wildleoknightgameboy"
+    ],
+    "downloads": "588",
+    "numberOfColors": 4,
+    "likes": 19,
+    "comments": 0,
+    "creator": true,
+    "hashtag": "harshgreens",
+    "title": "HarshGreens",
+    "user": {
+        "name": "WildLeoKnight",
+        "slug": "wildleoknight"
+    },
+    "publishedAt": "2019-05-04T15:45:13.789Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60b8e71af5192b2c0eb14cb5",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "HarshGreens Palette Example by nkoder",
+            "slug": "harshgreens-palette-example-by-nkoder",
+            "publishedAt": "2021-08-22T18:50:00.030Z",
+            "user": {
+                "name": "Beetroot Paul",
+                "slug": "beetrootpaul"
+            },
+            "parent": "5ccdb389763a4a5e61845fa7",
+            "image": "palette-examples/harshgreens-palette-example-by-nkoder-60b8e7.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-06-03T14:28:42.227Z",
+            "updatedAt": "2021-08-22T18:50:00.031Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "beeb71",
+        "6ab417",
+        "376d03",
+        "172808"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5ccdb389763a4a5e61845fa7",
+        "type": "palettes",
+        "count": 19,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

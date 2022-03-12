@@ -1,0 +1,47 @@
+{
+    "_id": "614c69757e499614f25d7a38",
+    "tags": [
+        "gameboy"
+    ],
+    "colors": [
+        "0f0e10",
+        "494048",
+        "9e8b9d",
+        "dfc7e3"
+    ],
+    "downloads": "96",
+    "featured": false,
+    "likes": 9,
+    "comments": 0,
+    "slug": "amethyst-gameboy",
+    "publishedAt": "2021-10-11T17:45:00.034Z",
+    "user": {
+        "name": "plenesan",
+        "slug": "plenesan"
+    },
+    "title": "Amethyst Gameboy",
+    "hashtag": "amethystgameboy",
+    "description": "a good old clasic",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-09-23T11:48:05.657Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "0f0e10",
+        "494048",
+        "9e8b9d",
+        "dfc7e3"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "614c69757e499614f25d7a38",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

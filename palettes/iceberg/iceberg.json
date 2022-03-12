@@ -1,0 +1,53 @@
+{
+    "_id": "5fba8186eb0630284bc7c8ba",
+    "tags": [
+        "ice"
+    ],
+    "colors": [
+        "3b6584",
+        "293e58",
+        "24304d",
+        "edf2f8",
+        "b8c8de",
+        "a9bdd8",
+        "7c9ac2"
+    ],
+    "downloads": "174",
+    "featured": false,
+    "likes": 8,
+    "comments": 0,
+    "title": "IceBerg",
+    "hashtag": "iceberg",
+    "description": "Ice theme palett - im using this for a game that im working on",
+    "creator": true,
+    "slug": "iceberg",
+    "publishedAt": "2021-03-25T19:00:00.039Z",
+    "user": {
+        "name": "Crystalisis_751708",
+        "slug": "crystalisis751708"
+    },
+    "numberOfColors": 7,
+    "createdAt": "2020-11-22T15:19:34.659Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "3b6584",
+        "293e58",
+        "24304d",
+        "edf2f8",
+        "b8c8de",
+        "a9bdd8",
+        "7c9ac2"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5fba8186eb0630284bc7c8ba",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

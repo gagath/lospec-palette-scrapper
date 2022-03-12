@@ -1,0 +1,103 @@
+{
+    "_id": "60df922675dc516becc46fb3",
+    "tags": [
+        "purple",
+        "green",
+        "pink",
+        "3bit"
+    ],
+    "colors": [
+        "000000",
+        "ffffff",
+        "623ea2",
+        "2e1f49",
+        "2eff6c",
+        "1d775d",
+        "e53aff",
+        "9b20b7"
+    ],
+    "downloads": "810",
+    "featured": false,
+    "likes": 61,
+    "comments": 4,
+    "slug": "grayfruit8",
+    "publishedAt": "2021-07-15T04:05:00.016Z",
+    "user": {
+        "name": "adamPhoebe",
+        "slug": "adamphoebe"
+    },
+    "title": "Grayfruit8",
+    "hashtag": "grayfruit8",
+    "description": "Inspired by streamer Grayfruit, Grayfruit8 is a 8-color palette for funky neon nights, dense nature atmospheres or big industrial settings!",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-07-02T22:24:38.412Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60df944375dc516becc4731e",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Grayfruit8 Palette Example by Math Birb",
+            "slug": "grayfruit8-palette-example-by-math-birb",
+            "publishedAt": "2021-07-05T23:50:00.017Z",
+            "user": {
+                "name": "adamPhoebe",
+                "slug": "adamphoebe"
+            },
+            "parent": "60df922675dc516becc46fb3",
+            "image": "palette-examples/grayfruit8-palette-example-by-math-birb-60df94.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-07-02T22:33:39.393Z",
+            "updatedAt": "2021-07-05T23:50:00.018Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "60e0a9b891e49e5df1ea9c40",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Grayfruit8 Palette Example by Math Birb",
+            "slug": "grayfruit8-palette-example-by-math-birb-2",
+            "publishedAt": "2021-08-22T21:44:37.086Z",
+            "user": {
+                "name": "adamPhoebe",
+                "slug": "adamphoebe"
+            },
+            "parent": "60df922675dc516becc46fb3",
+            "image": "palette-examples/grayfruit8-palette-example-by-math-birb-2-60e0a9.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-07-03T18:17:28.488Z",
+            "updatedAt": "2021-08-22T21:44:37.086Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "ffffff",
+        "623ea2",
+        "2e1f49",
+        "2eff6c",
+        "1d775d",
+        "e53aff",
+        "9b20b7"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60df922675dc516becc46fb3",
+        "type": "palettes",
+        "count": 61,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

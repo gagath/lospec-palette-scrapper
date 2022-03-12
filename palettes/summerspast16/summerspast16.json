@@ -1,0 +1,100 @@
+{
+    "_id": "5fb17db126ca9d7a692d4576",
+    "tags": [
+        "warm",
+        " 16 colors",
+        " summer",
+        " past",
+        " autumn",
+        " nature",
+        " fantasy"
+    ],
+    "colors": [
+        "320011",
+        "5f3a60",
+        "876672",
+        "b7a39d",
+        "ece8c2",
+        "6db7c3",
+        "5e80b2",
+        "627057",
+        "8da24e",
+        "d2cb3e",
+        "f7d554",
+        "e8bf92",
+        "e78c5b",
+        "c66f5e",
+        "c33846",
+        "933942"
+    ],
+    "downloads": "1,139",
+    "featured": false,
+    "likes": 67,
+    "comments": 0,
+    "title": "Summers Past-16",
+    "hashtag": "summerspast16",
+    "description": "A warm 16 color palette",
+    "creator": true,
+    "slug": "summers-past-16",
+    "publishedAt": "2020-11-16T19:15:00.027Z",
+    "user": {
+        "name": "keidding",
+        "slug": "keidding"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-11-15T19:12:49.097Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fb1872826ca9d7a692d45fd",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/summers-past-16-palette-example-by-kei-v-5fb187.png",
+            "creator": false,
+            "description": "",
+            "title": "Summers Past-16 Palette Example by Kei \u0ca0 v\u0ca0",
+            "slug": "summers-past-16-palette-example-by-kei-v",
+            "publishedAt": "2020-11-16T19:15:00.012Z",
+            "user": {
+                "name": "keidding",
+                "slug": "keidding"
+            },
+            "parent": "5fb17db126ca9d7a692d4576",
+            "createdAt": "2020-11-15T19:53:12.906Z",
+            "updatedAt": "2020-11-16T19:15:00.012Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "320011",
+        "5f3a60",
+        "876672",
+        "b7a39d",
+        "ece8c2",
+        "6db7c3",
+        "5e80b2",
+        "627057",
+        "8da24e",
+        "d2cb3e",
+        "f7d554",
+        "e8bf92",
+        "e78c5b",
+        "c66f5e",
+        "c33846",
+        "933942"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fb17db126ca9d7a692d4576",
+        "type": "palettes",
+        "count": 67,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,47 @@
+{
+    "_id": "6131ff1e6556634d3ffc141e",
+    "tags": [
+        "water",
+        "swelling",
+        "polyphrog"
+    ],
+    "colors": [
+        "262420",
+        "215fa3",
+        "fcfffb"
+    ],
+    "downloads": "36",
+    "featured": false,
+    "likes": 6,
+    "comments": 0,
+    "slug": "plume-edema",
+    "publishedAt": "2021-10-01T13:55:00.052Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "plume edema",
+    "hashtag": "pulme",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 3,
+    "createdAt": "2021-09-03T10:55:26.956Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "262420",
+        "215fa3",
+        "fcfffb"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 33.333333333333336,
+    "height": 32,
+    "likebutton": {
+        "content": "6131ff1e6556634d3ffc141e",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

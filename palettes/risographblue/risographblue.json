@@ -1,0 +1,61 @@
+{
+    "_id": "5e6aa15aeefb183e424378cf",
+    "title": "Risograph Blue ",
+    "slug": "risograph-blue",
+    "description": "Hi! These colors are based off the risograph ink colors. These colors are normally for print only, but I'm importing some us pixel users to use.\u00a0",
+    "colors": [
+        "ff48b0",
+        "ff8e91",
+        "ff6c2f",
+        "ffe800",
+        "00a95c",
+        "00aa93",
+        "0078bf",
+        "82d8d5",
+        "000000",
+        "ffffff",
+        "ff665e"
+    ],
+    "user": {
+        "name": "Daniel Matos",
+        "slug": "daniel-matos"
+    },
+    "creator": false,
+    "hashtag": "risographblue",
+    "createdAt": "2020-03-12T20:53:46.162Z",
+    "comments": 1,
+    "likes": 3,
+    "featured": false,
+    "tags": [
+        "risograph"
+    ],
+    "downloads": "121",
+    "numberOfColors": 11,
+    "publishedAt": "2020-04-01T00:50:50.410Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ff48b0",
+        "ff8e91",
+        "ff6c2f",
+        "ffe800",
+        "00a95c",
+        "00aa93",
+        "0078bf",
+        "82d8d5",
+        "000000",
+        "ffffff",
+        "ff665e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5e6aa15aeefb183e424378cf",
+        "type": "palettes",
+        "count": 3,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

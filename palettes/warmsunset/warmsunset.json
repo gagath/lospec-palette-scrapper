@@ -1,0 +1,57 @@
+{
+    "_id": "6137b36a6bc6c9265e494294",
+    "tags": [],
+    "colors": [
+        "451a45",
+        "7d2b57",
+        "ed5a5a",
+        "fff4c7",
+        "ff8a65",
+        "ffc9a3",
+        "050e24",
+        "115c23",
+        "13381c",
+        "0d2b14"
+    ],
+    "downloads": "54",
+    "featured": false,
+    "likes": 6,
+    "comments": 0,
+    "slug": "warm-spring-sunset",
+    "publishedAt": "2021-10-05T20:45:00.049Z",
+    "user": {
+        "name": "Razor",
+        "slug": "mason-mirabile"
+    },
+    "title": "Warm Spring Sunset",
+    "hashtag": "warmsunset",
+    "description": "Based off of\u00a0This\u00a0art.",
+    "creator": true,
+    "numberOfColors": 10,
+    "createdAt": "2021-09-07T18:46:02.498Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "451a45",
+        "7d2b57",
+        "ed5a5a",
+        "fff4c7",
+        "ff8a65",
+        "ffc9a3",
+        "050e24",
+        "115c23",
+        "13381c",
+        "0d2b14"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "6137b36a6bc6c9265e494294",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,96 @@
+{
+    "_id": "6160c6ce3c64a061525673da",
+    "tags": [
+        "diamond",
+        "gem",
+        "jewel",
+        "blue",
+        "brown",
+        "warm",
+        "cool",
+        "beige",
+        "pastel",
+        "skin",
+        "shiny"
+    ],
+    "colors": [
+        "350d02",
+        "6b2b1b",
+        "8c4732",
+        "ad634a",
+        "ffb6ab",
+        "d97f70",
+        "c35838",
+        "ad3100",
+        "d6faff",
+        "8cdefa",
+        "74b2db",
+        "537fdb"
+    ],
+    "downloads": "191",
+    "featured": false,
+    "likes": 10,
+    "comments": 2,
+    "slug": "girlsbestfriend12",
+    "publishedAt": "2021-10-16T05:45:00.026Z",
+    "user": {
+        "name": "Sarahboev",
+        "slug": "sarah-boeving"
+    },
+    "title": "GirlsBestFriend12",
+    "hashtag": "girlsbestfriend12",
+    "description": "Based off the palette I made for my diamond portrait",
+    "creator": true,
+    "numberOfColors": 12,
+    "createdAt": "2021-10-08T22:31:42.520Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6160c6ee3c64a061525673dd",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "GirlsBestFriend12 Palette Example by Sarahboev",
+            "slug": "girlsbestfriend12-palette-example-by-sarahboev",
+            "publishedAt": "2021-10-08T23:40:00.017Z",
+            "user": {
+                "name": "Sarahboev",
+                "slug": "sarah-boeving"
+            },
+            "parent": "6160c6ce3c64a061525673da",
+            "image": "palette-examples/girlsbestfriend12-palette-example-by-sarahboev-6160c6.png",
+            "creator": true,
+            "description": "Example piece taken from my diamond portrait",
+            "createdAt": "2021-10-08T22:32:14.025Z",
+            "updatedAt": "2021-10-08T23:40:00.017Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Example piece taken from my diamond portrait"
+        }
+    ],
+    "colorsArray": [
+        "350d02",
+        "6b2b1b",
+        "8c4732",
+        "ad634a",
+        "ffb6ab",
+        "d97f70",
+        "c35838",
+        "ad3100",
+        "d6faff",
+        "8cdefa",
+        "74b2db",
+        "537fdb"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "6160c6ce3c64a061525673da",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

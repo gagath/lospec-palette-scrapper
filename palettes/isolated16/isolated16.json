@@ -1,0 +1,71 @@
+{
+    "_id": "61294e831937bd32bf6000aa",
+    "tags": [
+        "linear"
+    ],
+    "colors": [
+        "000000",
+        "555555",
+        "aaaaaa",
+        "ffffff",
+        "550000",
+        "aa5566",
+        "ffaadd",
+        "553300",
+        "aa9955",
+        "ffffaa",
+        "005544",
+        "55aa77",
+        "aaffaa",
+        "001155",
+        "5577aa",
+        "aaddff"
+    ],
+    "downloads": "47",
+    "featured": false,
+    "likes": 2,
+    "comments": 0,
+    "slug": "isolated16",
+    "publishedAt": "2021-09-27T07:55:00.064Z",
+    "user": {
+        "name": "A.J. Otero",
+        "slug": "aj-otero"
+    },
+    "title": "Isolated16",
+    "hashtag": "isolated16",
+    "description": "A palette where each ramp is seperate and defined with no need for mixing ramps.",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2021-08-27T20:43:47.657Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "555555",
+        "aaaaaa",
+        "ffffff",
+        "550000",
+        "aa5566",
+        "ffaadd",
+        "553300",
+        "aa9955",
+        "ffffaa",
+        "005544",
+        "55aa77",
+        "aaffaa",
+        "001155",
+        "5577aa",
+        "aaddff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61294e831937bd32bf6000aa",
+        "type": "palettes",
+        "count": 2,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,63 @@
+{
+    "_id": "61696b95be04c567e88343a9",
+    "tags": [],
+    "colors": [
+        "192419",
+        "4f5239",
+        "706955",
+        "8a7a6c",
+        "9c8c89",
+        "baab98",
+        "e0d7aa",
+        "bbc4a8",
+        "a6a67e",
+        "807a66",
+        "5e6650",
+        "3d5239",
+        "1d3026"
+    ],
+    "downloads": "95",
+    "featured": false,
+    "likes": 4,
+    "comments": 0,
+    "slug": "muck-and-grime-13",
+    "publishedAt": "2021-10-18T15:45:00.034Z",
+    "user": {
+        "name": "Valerie Lynn",
+        "slug": "weulkin"
+    },
+    "title": "Muck-and-Grime-13",
+    "hashtag": "muckandgrime13",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 13,
+    "createdAt": "2021-10-15T11:52:53.133Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "192419",
+        "4f5239",
+        "706955",
+        "8a7a6c",
+        "9c8c89",
+        "baab98",
+        "e0d7aa",
+        "bbc4a8",
+        "a6a67e",
+        "807a66",
+        "5e6650",
+        "3d5239",
+        "1d3026"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "61696b95be04c567e88343a9",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

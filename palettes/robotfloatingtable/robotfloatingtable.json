@@ -1,0 +1,69 @@
+{
+    "_id": "60347d92378f896c7ae89a68",
+    "tags": [
+        "robot",
+        "13color",
+        "13",
+        "scifi",
+        "terminator"
+    ],
+    "colors": [
+        "1d0f1d",
+        "342537",
+        "3c3748",
+        "4b5162",
+        "5f667b",
+        "708393",
+        "3b1716",
+        "8a3b06",
+        "fadd93",
+        "d4ad6a",
+        "c02811",
+        "f6a79b",
+        "f7f7f4"
+    ],
+    "downloads": "236",
+    "featured": false,
+    "likes": 7,
+    "comments": 0,
+    "title": "Robotic",
+    "hashtag": "robotfloatingtable",
+    "description": "A sci-fi palette partially inspired by the Terminator franchise.",
+    "creator": true,
+    "slug": "robotic",
+    "publishedAt": "2021-03-05T09:40:00.012Z",
+    "user": {
+        "name": "Floatingtable Studios",
+        "slug": "floatingtable-studios"
+    },
+    "numberOfColors": 13,
+    "createdAt": "2021-02-23T03:59:14.435Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "1d0f1d",
+        "342537",
+        "3c3748",
+        "4b5162",
+        "5f667b",
+        "708393",
+        "3b1716",
+        "8a3b06",
+        "fadd93",
+        "d4ad6a",
+        "c02811",
+        "f6a79b",
+        "f7f7f4"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "60347d92378f896c7ae89a68",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,81 @@
+{
+    "_id": "61e275a4db58a4036191bcf8",
+    "tags": [
+        "blue",
+        "orange",
+        "sky",
+        "dawn",
+        "complementary",
+        "light"
+    ],
+    "colors": [
+        "08193c",
+        "183f74",
+        "2b6c9f",
+        "9f5d2b",
+        "ba9a4c",
+        "dbd3ba",
+        "948e7b"
+    ],
+    "downloads": "206",
+    "featured": false,
+    "likes": 26,
+    "comments": 0,
+    "slug": "bluedawn7",
+    "publishedAt": "2022-01-16T13:55:00.058Z",
+    "user": {
+        "name": "magodellepercussioni",
+        "slug": "magodellepercussioni"
+    },
+    "title": "bluedawn7",
+    "hashtag": "bluedawn7",
+    "description": "Palette with two complementary color ramps, one in blue and one in orange. Good for blue objects in a morning light, or for the sky at dawn.",
+    "creator": true,
+    "numberOfColors": 7,
+    "createdAt": "2022-01-15T07:20:04.669Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61e3dad2647dfd07694e60f5",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "bluedawn7 Palette Example by magodellepercussioni",
+            "slug": "bluedawn7-palette-example-by-magodellepercussionizl4iu7",
+            "publishedAt": "2022-01-16T09:55:00.037Z",
+            "user": {
+                "name": "magodellepercussioni",
+                "slug": "magodellepercussioni"
+            },
+            "parent": "61e275a4db58a4036191bcf8",
+            "image": "palette-examples/bluedawn7-palette-example-by-magodellepercussionizl4iu7.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-01-16T08:44:02.711Z",
+            "updatedAt": "2022-01-16T09:55:00.038Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "08193c",
+        "183f74",
+        "2b6c9f",
+        "9f5d2b",
+        "ba9a4c",
+        "dbd3ba",
+        "948e7b"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "61e275a4db58a4036191bcf8",
+        "type": "palettes",
+        "count": 26,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

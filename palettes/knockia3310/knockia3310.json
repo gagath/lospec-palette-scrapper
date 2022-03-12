@@ -1,0 +1,71 @@
+{
+    "_id": "601134b9bf02d8710659ec11",
+    "tags": [
+        "knockia3310",
+        " 3310",
+        " nokia",
+        " retro",
+        " cellphone",
+        " 1bit"
+    ],
+    "colors": [
+        "212c28",
+        "72a488"
+    ],
+    "downloads": "429",
+    "featured": false,
+    "likes": 36,
+    "comments": 0,
+    "title": "knockia3310",
+    "hashtag": "knockia3310",
+    "description": "A cool 1bit palette inspired by the most resistant cell phone of all time",
+    "creator": true,
+    "slug": "knockia3310",
+    "publishedAt": "2021-02-17T14:40:00.021Z",
+    "user": {
+        "name": "Imogia Games",
+        "slug": "imogia-games"
+    },
+    "numberOfColors": 2,
+    "createdAt": "2021-01-27T09:39:05.509Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6012363a4310c2050eb1514d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/knockia3310-palette-example-by-imogia-games-601236.png",
+            "creator": true,
+            "description": "Snake was the first",
+            "title": "knockia3310 Palette Example by Imogia Games",
+            "slug": "knockia3310-palette-example-by-imogia-games",
+            "publishedAt": "2021-01-28T18:10:00.006Z",
+            "user": {
+                "name": "Imogia Games",
+                "slug": "imogia-games"
+            },
+            "parent": "601134b9bf02d8710659ec11",
+            "createdAt": "2021-01-28T03:57:46.522Z",
+            "updatedAt": "2021-01-28T18:10:00.006Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Snake was the first"
+        }
+    ],
+    "colorsArray": [
+        "212c28",
+        "72a488"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "601134b9bf02d8710659ec11",
+        "type": "palettes",
+        "count": 36,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

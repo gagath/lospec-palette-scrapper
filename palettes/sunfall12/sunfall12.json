@@ -1,0 +1,94 @@
+{
+    "_id": "5fcce9d8659e9e6c8623a1bc",
+    "tags": [
+        "sunset",
+        "sunfall",
+        "purple",
+        "midnight",
+        "day",
+        "dawn",
+        "yellow",
+        "orange",
+        "pink"
+    ],
+    "colors": [
+        "1f0a1f",
+        "4d1059",
+        "6b155e",
+        "8c2964",
+        "a63169",
+        "c23e6e",
+        "d94e6a",
+        "de6b5b",
+        "ed9a6d",
+        "ffc37a",
+        "ffeb99",
+        "feffcf"
+    ],
+    "downloads": "565",
+    "featured": false,
+    "likes": 24,
+    "comments": 2,
+    "title": "sunfall 12",
+    "hashtag": "sunfall12",
+    "description": "sunfall idk i liked the purple to yellow ramp look",
+    "creator": true,
+    "slug": "sunfall-12",
+    "publishedAt": "2021-04-11T23:30:00.046Z",
+    "user": {
+        "name": "SolitaryCatK1ng",
+        "slug": "solitarycatk1ng"
+    },
+    "numberOfColors": 12,
+    "createdAt": "2020-12-06T14:25:28.130Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607573e0796b6e54ef261275",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "sunfall 12 Palette Example by Casei Solus",
+            "slug": "sunfall-12-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-13T13:30:00.070Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5fcce9d8659e9e6c8623a1bc",
+            "image": "palette-examples/sunfall-12-palette-example-by-casei-solus-607573.png",
+            "creator": true,
+            "description": "A meteor shower.",
+            "createdAt": "2021-04-13T10:35:12.699Z",
+            "updatedAt": "2021-04-13T13:30:00.075Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A meteor shower."
+        }
+    ],
+    "colorsArray": [
+        "1f0a1f",
+        "4d1059",
+        "6b155e",
+        "8c2964",
+        "a63169",
+        "c23e6e",
+        "d94e6a",
+        "de6b5b",
+        "ed9a6d",
+        "ffc37a",
+        "ffeb99",
+        "feffcf"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5fcce9d8659e9e6c8623a1bc",
+        "type": "palettes",
+        "count": 24,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,92 @@
+{
+    "_id": "606b7588a1123f71115beefc",
+    "tags": [],
+    "colors": [
+        "313432",
+        "323e42",
+        "454b4b",
+        "3a5f3b",
+        "7c4545",
+        "675239",
+        "625055",
+        "516b43",
+        "796c64",
+        "718245",
+        "9e805c",
+        "998579",
+        "ac9086",
+        "a6a296",
+        "b4ab8f",
+        "bcb7a5"
+    ],
+    "downloads": "1,065",
+    "featured": false,
+    "likes": 72,
+    "comments": 1,
+    "slug": "cretaceous-16",
+    "publishedAt": "2021-04-08T17:30:00.035Z",
+    "user": {
+        "name": "Joao Vasconcelos",
+        "slug": "joaovasconcelos"
+    },
+    "title": "Cretaceous-16",
+    "hashtag": "cretaceous16",
+    "description": "",
+    "creator": true,
+    "createdAt": "2021-04-05T20:39:36.890Z",
+    "numberOfColors": 16,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "606b78ffa1123f71115bef32",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Cretaceous-16 Palette Example by Joao Vasconcelos",
+            "slug": "cretaceous-16-palette-example-by-joao-vasconcelos",
+            "publishedAt": "2021-04-06T18:50:00.027Z",
+            "user": {
+                "name": "Joao Vasconcelos",
+                "slug": "joaovasconcelos"
+            },
+            "parent": "606b7588a1123f71115beefc",
+            "image": "palette-examples/cretaceous-16-palette-example-by-joao-vasconcelos-606b78.png",
+            "creator": true,
+            "description": "Palette Usage Examples",
+            "createdAt": "2021-04-05T20:54:23.217Z",
+            "updatedAt": "2021-04-06T18:50:00.027Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette Usage Examples"
+        }
+    ],
+    "colorsArray": [
+        "313432",
+        "323e42",
+        "454b4b",
+        "3a5f3b",
+        "7c4545",
+        "675239",
+        "625055",
+        "516b43",
+        "796c64",
+        "718245",
+        "9e805c",
+        "998579",
+        "ac9086",
+        "a6a296",
+        "b4ab8f",
+        "bcb7a5"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "606b7588a1123f71115beefc",
+        "type": "palettes",
+        "count": 72,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

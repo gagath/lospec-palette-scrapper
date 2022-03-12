@@ -1,0 +1,53 @@
+{
+    "_id": "5e8f77bd97b66f3b003871db",
+    "title": "Crimson Hues",
+    "hashtag": "crimsonhues",
+    "description": "My first 5-color palette. Experimented with shifting red hue. Please tag with #crimsonhues on Twitter.<br />",
+    "creator": true,
+    "colors": [
+        "f3deba",
+        "e1674c",
+        "cb2233",
+        "941963",
+        "420e53"
+    ],
+    "slug": "crimson-hues",
+    "user": {
+        "name": "Iryna",
+        "slug": "irynakole"
+    },
+    "numberOfColors": 5,
+    "publishedAt": "2020-04-11T21:11:03.312Z",
+    "createdAt": "2020-04-09T19:30:05.787Z",
+    "comments": 1,
+    "likes": 32,
+    "featured": false,
+    "downloads": "427",
+    "tags": [
+        "lightyellow",
+        "orange",
+        "red",
+        "purple",
+        "violet"
+    ],
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "f3deba",
+        "e1674c",
+        "cb2233",
+        "941963",
+        "420e53"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5e8f77bd97b66f3b003871db",
+        "type": "palettes",
+        "count": 32,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

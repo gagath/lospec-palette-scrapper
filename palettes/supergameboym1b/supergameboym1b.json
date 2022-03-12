@@ -1,0 +1,47 @@
+{
+    "_id": "61fee6d8164cbd62bf482b93",
+    "tags": [
+        "supergameboy"
+    ],
+    "colors": [
+        "dfd8c0",
+        "cfb070",
+        "b05010",
+        "000000"
+    ],
+    "downloads": "39",
+    "featured": false,
+    "likes": 4,
+    "comments": 0,
+    "slug": "super-game-boy-menu-1-palette-b",
+    "publishedAt": "2022-02-16T19:40:00.041Z",
+    "user": {
+        "name": "real_problems",
+        "slug": "realproblems"
+    },
+    "title": "Super Game Boy Menu 1 Palette B",
+    "hashtag": "supergameboym1b",
+    "description": "Super Game Boy Menu 1 Palette B https://gamefaqs.gamespot.com/snes/588731-super-game-boy/faqs/58647",
+    "creator": false,
+    "numberOfColors": 4,
+    "createdAt": "2022-02-05T21:06:32.425Z",
+    "isNew": true,
+    "sortNewest": "2022-02-16T19:40:00.041Z",
+    "examples": [],
+    "colorsArray": [
+        "dfd8c0",
+        "cfb070",
+        "b05010",
+        "000000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61fee6d8164cbd62bf482b93",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

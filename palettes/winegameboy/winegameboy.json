@@ -1,0 +1,70 @@
+{
+    "_id": "61ca23f221bae763769c97be",
+    "tags": [
+        "gameboy"
+    ],
+    "colors": [
+        "280b0b",
+        "6c2e53",
+        "d17c7c",
+        "f6c6a8"
+    ],
+    "downloads": "297",
+    "featured": false,
+    "likes": 19,
+    "comments": 0,
+    "slug": "wine-gameboy",
+    "publishedAt": "2021-12-27T21:00:00.083Z",
+    "user": {
+        "name": "onion",
+        "slug": "oniqxn"
+    },
+    "title": "Wine Gameboy",
+    "hashtag": "winegameboy",
+    "description": "A four-color gameboy based pallete with colors that remind of wine, created while experimenting with lighting :)\u00a0",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-12-27T20:37:06.418Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61cb9ab9e2c50a7a8b15a39d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Wine Gameboy Palette Example by onion",
+            "slug": "wine-gameboy-palette-example-by-onionrcdbin",
+            "publishedAt": "2021-12-29T16:15:00.225Z",
+            "user": {
+                "name": "onion",
+                "slug": "oniqxn"
+            },
+            "parent": "61ca23f221bae763769c97be",
+            "image": "palette-examples/wine-gameboy-palette-example-by-onionrcdbin.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-12-28T23:16:09.865Z",
+            "updatedAt": "2021-12-29T16:15:00.226Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "280b0b",
+        "6c2e53",
+        "d17c7c",
+        "f6c6a8"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61ca23f221bae763769c97be",
+        "type": "palettes",
+        "count": 19,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

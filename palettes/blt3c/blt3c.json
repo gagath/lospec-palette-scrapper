@@ -1,0 +1,70 @@
+{
+    "_id": "5f3ba9be8b8fd323e4b376ca",
+    "tags": [
+        "3",
+        "blue",
+        " minimalistic"
+    ],
+    "colors": [
+        "252b2c",
+        "56aec4",
+        "e1f0f0"
+    ],
+    "downloads": "272",
+    "featured": false,
+    "likes": 13,
+    "comments": 0,
+    "title": "BLUETIGER-3C",
+    "hashtag": "blt3c",
+    "description": "3 Colour Palette",
+    "creator": true,
+    "slug": "bluetiger-3c",
+    "publishedAt": "2020-09-01T17:30:00.062Z",
+    "user": {
+        "name": "Rytzi",
+        "slug": "rytzi"
+    },
+    "numberOfColors": 3,
+    "createdAt": "2020-08-18T10:13:18.325Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60777e8f16f8450fae0b7fc7",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "BLUETIGER-3C Palette Example by Casei Solus",
+            "slug": "bluetiger-3c-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-16T23:35:00.024Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5f3ba9be8b8fd323e4b376ca",
+            "image": "palette-examples/bluetiger-3c-palette-example-by-casei-solus-60777e.png",
+            "creator": true,
+            "description": "A blue tiger.",
+            "createdAt": "2021-04-14T23:45:19.480Z",
+            "updatedAt": "2021-04-16T23:35:00.024Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A blue tiger."
+        }
+    ],
+    "colorsArray": [
+        "252b2c",
+        "56aec4",
+        "e1f0f0"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 33.333333333333336,
+    "height": 32,
+    "likebutton": {
+        "content": "5f3ba9be8b8fd323e4b376ca",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

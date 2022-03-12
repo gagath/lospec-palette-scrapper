@@ -1,0 +1,58 @@
+{
+    "_id": "61d2508a30171d223a1354ac",
+    "tags": [
+        "red",
+        "green",
+        "tritanopia",
+        "ruzikb"
+    ],
+    "colors": [
+        "27000a",
+        "7d057a",
+        "e60d28",
+        "f09cc7",
+        "f2e1e6",
+        "c7f37b",
+        "3ccf0c",
+        "017756"
+    ],
+    "downloads": "34",
+    "featured": false,
+    "likes": 12,
+    "comments": 0,
+    "slug": "tritaruzi",
+    "publishedAt": "2022-01-17T09:55:00.038Z",
+    "user": {
+        "name": "RuziKB\u00b9",
+        "slug": "theruzikb-lospec"
+    },
+    "title": "Tritaruzi",
+    "hashtag": "tritaruzi",
+    "description": "palette for people who like red and green",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2022-01-03T01:25:30.667Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "27000a",
+        "7d057a",
+        "e60d28",
+        "f09cc7",
+        "f2e1e6",
+        "c7f37b",
+        "3ccf0c",
+        "017756"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61d2508a30171d223a1354ac",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

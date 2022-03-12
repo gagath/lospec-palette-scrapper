@@ -1,0 +1,49 @@
+{
+    "_id": "6102ec2805dbd233771f138a",
+    "tags": [
+        "game"
+    ],
+    "colors": [
+        "121019",
+        "641142",
+        "b71056",
+        "fa1e4e",
+        "fed7cd"
+    ],
+    "downloads": "127",
+    "featured": false,
+    "likes": 9,
+    "comments": 0,
+    "slug": "gx-game",
+    "publishedAt": "2021-08-25T18:15:00.049Z",
+    "user": {
+        "name": "Lucas Felipe",
+        "slug": "lucas-felipe"
+    },
+    "title": "GX Game",
+    "hashtag": "game",
+    "description": "",
+    "creator": false,
+    "numberOfColors": 5,
+    "createdAt": "2021-07-29T17:58:00.765Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "121019",
+        "641142",
+        "b71056",
+        "fa1e4e",
+        "fed7cd"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "6102ec2805dbd233771f138a",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

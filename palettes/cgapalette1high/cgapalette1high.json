@@ -1,0 +1,102 @@
+{
+    "_id": "58e2d94661e9e662184cf350",
+    "createdAt": "2017-04-03T23:22:46.954Z",
+    "slug": "cga-palette-1-high",
+    "description": "One of the palettes available in the standard mode on the <a href=\"https://en.wikipedia.org/wiki/Color_Graphics_Adapter\">CGA</a>. The black can be replaced by any of the other colors in the full CGA palette.",
+    "colors": [
+        "000000",
+        "ff55ff",
+        "55ffff",
+        "ffffff"
+    ],
+    "tags": [
+        "hardware",
+        "computer",
+        "cga"
+    ],
+    "downloads": "2,212",
+    "numberOfColors": 4,
+    "likes": 60,
+    "comments": 0,
+    "hashtag": "cgapalette1high",
+    "title": "CGA Palette 1 (High)",
+    "publishedAt": "2017-04-03T23:22:46.954Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "58e6b3c5686f6307d80495e0",
+            "description": "<a href=\"http://pixeljoint.com/pixelart/40948.htm\">leisure time at Lipari Island</a> by <a href=\"http://pixeljoint.com/p/6236.htm\">tomic</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.037Z",
+            "creator": false,
+            "image": "palette-examples/cga-palette-1-high-palette-example-leisure-time-at-lipari-island-by-tomic-58e6b3.png",
+            "likes": 0,
+            "parent": "58e2d94661e9e662184cf350",
+            "slug": "cga-palette-1-high-palette-example-leisure-time-at-lipari-island-by-tomic",
+            "title": "cga palette 1 high palette example leisure time at lipari island by tomic",
+            "updatedAt": "2020-07-31T03:56:11.037Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "leisure time at Lipari Island by tomic"
+        },
+        {
+            "_id": "58e6c299686f6307d80495e5",
+            "description": "<a href=\"http://asphyx0r.deviantart.com/art/SAC30-CGA-Logo-8443850\">SAC30</a> by <a href=\"http://asphyx0r.deviantart.com/\">asphyx0r</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.038Z",
+            "creator": false,
+            "image": "palette-examples/cga-palette-1-high-palette-example-sac30-by-asphyx0r-58e6c2.png",
+            "likes": 0,
+            "parent": "58e2d94661e9e662184cf350",
+            "slug": "cga-palette-1-high-palette-example-sac30-by-asphyx0r",
+            "title": "cga palette 1 high palette example sac30 by asphyx0r",
+            "updatedAt": "2020-07-31T03:56:11.038Z",
+            "user": null,
+            "thumbnailOffset": 50,
+            "descriptionText": "SAC30 by asphyx0r"
+        },
+        {
+            "_id": "5f4d162419badc09af3f6db5",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/cga-palette-1-high-palette-example-by-hanulinen-5f4d16.png",
+            "creator": true,
+            "description": "Medusa",
+            "title": "CGA Palette 1 (High) Palette Example by Hanulinen",
+            "slug": "cga-palette-1-high-palette-example-by-hanulinen",
+            "publishedAt": "2020-08-31T15:40:00.035Z",
+            "user": {
+                "name": "Hanulinen",
+                "slug": "hanulinen"
+            },
+            "parent": "58e2d94661e9e662184cf350",
+            "createdAt": "2020-08-31T15:24:20.759Z",
+            "updatedAt": "2020-08-31T15:40:00.035Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": "Medusa"
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "ff55ff",
+        "55ffff",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "58e2d94661e9e662184cf350",
+        "type": "palettes",
+        "count": 60,
+        "liked": 0
+    },
+    "thumbnailWidth": 33.333333333333336
+}

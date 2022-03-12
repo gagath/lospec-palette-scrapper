@@ -1,0 +1,47 @@
+{
+    "_id": "5e086beb9dd2933d9bba0160",
+    "slug": "truegb",
+    "description": "I tried to make the proper game boy screen palette its probably not right but still",
+    "colors": [
+        "9abb0e",
+        "8aab0e",
+        "2f612f",
+        "0e370e"
+    ],
+    "creator": true,
+    "hashtag": "truegb",
+    "comments": 2,
+    "likes": 5,
+    "createdAt": "2019-12-29T09:03:39.168Z",
+    "featured": false,
+    "tags": [
+        "gb"
+    ],
+    "downloads": "96",
+    "numberOfColors": 4,
+    "title": "TrueGB",
+    "user": {
+        "name": "WingBean",
+        "slug": "wingbean"
+    },
+    "publishedAt": "2019-12-29T09:03:39.168Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "9abb0e",
+        "8aab0e",
+        "2f612f",
+        "0e370e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5e086beb9dd2933d9bba0160",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

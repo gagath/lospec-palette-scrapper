@@ -1,0 +1,72 @@
+{
+    "_id": "5fa806aa9af9ce34a9da16d3",
+    "tags": [
+        "isasstudio",
+        "collaboration"
+    ],
+    "colors": [
+        "341d6d",
+        "000001",
+        "301f29",
+        "553131",
+        "867f6f",
+        "60a85b",
+        "b0bf65",
+        "00a6b4",
+        "3c58f6",
+        "a485f0",
+        "ffc083",
+        "ff73c0",
+        "d03043",
+        "f69420",
+        "ffe100",
+        "fff7ea"
+    ],
+    "downloads": "115",
+    "featured": false,
+    "likes": 10,
+    "comments": 2,
+    "title": "Thanksmas 16",
+    "hashtag": "thanksmas16",
+    "description": "A Christmas\u00a0palette collab organized by the Lospec Discord. Contributors: Me, Grunion, KingAsbestos, KingW, Sk3ll, Pongles, fydo and Charm",
+    "creator": false,
+    "slug": "thanksmas-16",
+    "publishedAt": "2020-11-09T03:35:00.027Z",
+    "user": {
+        "name": "Isa",
+        "slug": "isas-studio"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-11-08T14:54:34.053Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "341d6d",
+        "000001",
+        "301f29",
+        "553131",
+        "867f6f",
+        "60a85b",
+        "b0bf65",
+        "00a6b4",
+        "3c58f6",
+        "a485f0",
+        "ffc083",
+        "ff73c0",
+        "d03043",
+        "f69420",
+        "ffe100",
+        "fff7ea"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fa806aa9af9ce34a9da16d3",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

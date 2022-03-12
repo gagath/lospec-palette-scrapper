@@ -1,0 +1,71 @@
+{
+    "_id": "6067e89f75c4ae0d3915cab1",
+    "tags": [
+        "gb",
+        "ice"
+    ],
+    "colors": [
+        "d2e7af",
+        "5aded9",
+        "2979b6",
+        "081935"
+    ],
+    "downloads": "193",
+    "featured": false,
+    "likes": 15,
+    "comments": 0,
+    "slug": "ice-gb",
+    "publishedAt": "2021-04-07T05:30:00.035Z",
+    "user": {
+        "name": "Orbitron",
+        "slug": "joseph"
+    },
+    "title": "Ice GB",
+    "hashtag": "icegb",
+    "description": "A gb palette",
+    "creator": true,
+    "createdAt": "2021-04-03T04:01:35.852Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "606d7d8ee7c5c72d65112e97",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Ice GB Palette Example by Casei Solus",
+            "slug": "ice-gb-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-08T15:55:00.023Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "6067e89f75c4ae0d3915cab1",
+            "image": "palette-examples/ice-gb-palette-example-by-casei-solus-606d7d.png",
+            "creator": true,
+            "description": "Peering deep into a mystical ice cave.",
+            "createdAt": "2021-04-07T09:38:22.426Z",
+            "updatedAt": "2021-04-08T15:55:00.023Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Peering deep into a mystical ice cave."
+        }
+    ],
+    "colorsArray": [
+        "d2e7af",
+        "5aded9",
+        "2979b6",
+        "081935"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6067e89f75c4ae0d3915cab1",
+        "type": "palettes",
+        "count": 15,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

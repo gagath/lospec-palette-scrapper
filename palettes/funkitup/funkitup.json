@@ -1,0 +1,84 @@
+{
+    "_id": "603699914f3bb87be7e83c36",
+    "tags": [
+        "jet set radio",
+        "bomb rush cyberfunk",
+        "funky"
+    ],
+    "colors": [
+        "e4ffff",
+        "e63410",
+        "a23737",
+        "ffec40",
+        "81913b",
+        "26f675",
+        "4c714e",
+        "40ebda",
+        "394e4e",
+        "0a0a0a"
+    ],
+    "downloads": "44",
+    "featured": false,
+    "likes": 14,
+    "comments": 2,
+    "title": "Funk It Up!",
+    "hashtag": "funkitup",
+    "description": "help how do i add more colors",
+    "creator": true,
+    "slug": "funk-it-up",
+    "publishedAt": "2021-03-04T03:40:00.017Z",
+    "user": {
+        "name": "NinHenry",
+        "slug": "ninhenry"
+    },
+    "numberOfColors": 10,
+    "createdAt": "2021-02-24T18:23:13.373Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60369fe54f3bb87be7e83c89",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/funk-it-up-palette-example-by-ninhenry-60369f.png",
+            "creator": true,
+            "description": "My OC, NinHenry, tagging the name of the palette to a building.",
+            "title": "Funk It Up! Palette Example by NinHenry",
+            "slug": "funk-it-up-palette-example-by-ninhenry",
+            "publishedAt": "2021-02-28T16:50:00.025Z",
+            "user": {
+                "name": "NinHenry",
+                "slug": "ninhenry"
+            },
+            "parent": "603699914f3bb87be7e83c36",
+            "createdAt": "2021-02-24T18:50:13.422Z",
+            "updatedAt": "2021-02-28T16:50:00.025Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "My OC, NinHenry, tagging the name of the palette to a building."
+        }
+    ],
+    "colorsArray": [
+        "e4ffff",
+        "e63410",
+        "a23737",
+        "ffec40",
+        "81913b",
+        "26f675",
+        "4c714e",
+        "40ebda",
+        "394e4e",
+        "0a0a0a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "603699914f3bb87be7e83c36",
+        "type": "palettes",
+        "count": 14,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

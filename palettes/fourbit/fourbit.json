@@ -1,0 +1,95 @@
+{
+    "_id": "60ad79905baacb3c735532fa",
+    "tags": [
+        "4bit",
+        "fourbit"
+    ],
+    "colors": [
+        "000000",
+        "960503",
+        "2d6605",
+        "be6908",
+        "042d71",
+        "993374",
+        "309074",
+        "c09377",
+        "4e809c",
+        "dc819c",
+        "76dc9e",
+        "ffdc9e",
+        "4fa5ff",
+        "dda7ff",
+        "76ffff",
+        "ffffff"
+    ],
+    "downloads": "76",
+    "featured": false,
+    "likes": 9,
+    "comments": 3,
+    "slug": "fourbit",
+    "publishedAt": "2021-09-06T18:25:00.037Z",
+    "user": {
+        "name": "makapuf",
+        "slug": "makapuf"
+    },
+    "title": "fourbit",
+    "hashtag": "fourbit",
+    "description": "A real hardware 4-bit palette, as described in this blog post by Lerc: http://blag.fingswotidun.com/2020/07/a-nicer-4-bit-colour-withhout-fancy.html . The interest is that you can generate those colors directly with a bunch of resistors.",
+    "creator": false,
+    "createdAt": "2021-05-25T22:26:24.401Z",
+    "numberOfColors": 16,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61a8fa26f0a9ec263c9c8c57",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "fourbit Palette Example by Carolina Ribeiro",
+            "slug": "fourbit-palette-example-by-carolina-ribeiro",
+            "publishedAt": "2021-12-03T16:00:00.066Z",
+            "user": {
+                "name": "Carolina Ribeiro",
+                "slug": "carolina-ribeiro"
+            },
+            "parent": "60ad79905baacb3c735532fa",
+            "image": "palette-examples/fourbit-palette-example-by-carolina-ribeiro-61a8fa.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-12-02T16:53:58.328Z",
+            "updatedAt": "2021-12-03T16:00:00.066Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "960503",
+        "2d6605",
+        "be6908",
+        "042d71",
+        "993374",
+        "309074",
+        "c09377",
+        "4e809c",
+        "dc819c",
+        "76dc9e",
+        "ffdc9e",
+        "4fa5ff",
+        "dda7ff",
+        "76ffff",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60ad79905baacb3c735532fa",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

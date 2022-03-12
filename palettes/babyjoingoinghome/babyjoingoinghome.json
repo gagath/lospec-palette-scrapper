@@ -1,0 +1,73 @@
+{
+    "_id": "5dabfef4bdf4b4667365a26e",
+    "slug": "baby-jo-in-going-home",
+    "description": "The palette from the Amiga version of\u00a0<a href=\"https://www.mobygames.com/game/amiga/baby-jo-in-going-home\" target=\"_blank\">Baby Jo in: \"Going Home\"</a>",
+    "colors": [
+        "f0e0e0",
+        "908080",
+        "504040",
+        "303040",
+        "000000",
+        "103020",
+        "306040",
+        "50a080",
+        "60b0f0",
+        "1060f0",
+        "300000",
+        "702020",
+        "e03030",
+        "e06040",
+        "f08080",
+        "f0b040"
+    ],
+    "creator": false,
+    "comments": 0,
+    "likes": 3,
+    "createdAt": "2019-10-20T06:30:12.715Z",
+    "featured": false,
+    "tags": [
+        "game",
+        "amiga",
+        "ptux7"
+    ],
+    "downloads": "73",
+    "numberOfColors": 16,
+    "hashtag": "babyjoingoinghome",
+    "title": "Baby Jo in \"Going Home\"",
+    "user": {
+        "name": "P-Tux7",
+        "slug": "p-tux7"
+    },
+    "publishedAt": "2019-10-20T06:30:12.715Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "f0e0e0",
+        "908080",
+        "504040",
+        "303040",
+        "000000",
+        "103020",
+        "306040",
+        "50a080",
+        "60b0f0",
+        "1060f0",
+        "300000",
+        "702020",
+        "e03030",
+        "e06040",
+        "f08080",
+        "f0b040"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5dabfef4bdf4b4667365a26e",
+        "type": "palettes",
+        "count": 3,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

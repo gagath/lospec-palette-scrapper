@@ -1,0 +1,97 @@
+{
+    "_id": "60fd809fe1795e653ec840b2",
+    "tags": [
+        "bright",
+        "vibrant",
+        "colorful",
+        "general"
+    ],
+    "colors": [
+        "9de4e4",
+        "5d9ddd",
+        "070760",
+        "612f93",
+        "bf66bf",
+        "fdefff",
+        "b99cd4",
+        "784a5f",
+        "2b0000",
+        "49132f",
+        "be3131",
+        "efa65d",
+        "ecec77",
+        "97d954",
+        "2d892d",
+        "153f2f"
+    ],
+    "downloads": "286",
+    "featured": false,
+    "likes": 28,
+    "comments": 2,
+    "slug": "shine-16",
+    "publishedAt": "2021-07-28T10:25:00.029Z",
+    "user": {
+        "name": "Yousurname",
+        "slug": "yousurname"
+    },
+    "title": "Shine 16",
+    "hashtag": "shine16",
+    "description": "A general use vibrant palette with 16 colors. It is a bit challenging to use.",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2021-07-25T15:17:51.812Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60fd93a5e1795e653ec86e3c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Shine 16 Palette Example by Yousurname",
+            "slug": "shine-16-palette-example-by-yousurname",
+            "publishedAt": "2021-07-27T16:40:00.012Z",
+            "user": {
+                "name": "Yousurname",
+                "slug": "yousurname"
+            },
+            "parent": "60fd809fe1795e653ec840b2",
+            "image": "palette-examples/shine-16-palette-example-by-yousurname-60fd93.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-07-25T16:39:01.678Z",
+            "updatedAt": "2021-07-27T16:40:00.013Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "9de4e4",
+        "5d9ddd",
+        "070760",
+        "612f93",
+        "bf66bf",
+        "fdefff",
+        "b99cd4",
+        "784a5f",
+        "2b0000",
+        "49132f",
+        "be3131",
+        "efa65d",
+        "ecec77",
+        "97d954",
+        "2d892d",
+        "153f2f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60fd809fe1795e653ec840b2",
+        "type": "palettes",
+        "count": 28,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,76 @@
+{
+    "_id": "5fa43038ea73f20475803a0c",
+    "tags": [
+        "monoramp",
+        "saturated",
+        "bright"
+    ],
+    "colors": [
+        "460198",
+        "6a1794",
+        "9e20b8",
+        "c03b94",
+        "ff88a9",
+        "ffe0dc"
+    ],
+    "downloads": "736",
+    "featured": false,
+    "likes": 64,
+    "comments": 0,
+    "title": "unicorn 6",
+    "hashtag": "unicorn6",
+    "description": "A colour palette containing purple and pink colours. From my personal palette.",
+    "creator": true,
+    "slug": "unicorn-6",
+    "publishedAt": "2020-11-06T16:00:00.062Z",
+    "user": {
+        "name": "MulfoK",
+        "slug": "mulfok"
+    },
+    "numberOfColors": 6,
+    "createdAt": "2020-11-05T17:02:48.742Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fa434f4ea73f20475803a4a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/unicorn-6-palette-example-by-mulfok-5fa434.png",
+            "creator": true,
+            "description": "",
+            "title": "unicorn 6 Palette Example by MulfoK",
+            "slug": "unicorn-6-palette-example-by-mulfok",
+            "publishedAt": "2020-11-06T16:00:00.022Z",
+            "user": {
+                "name": "MulfoK",
+                "slug": "mulfok"
+            },
+            "parent": "5fa43038ea73f20475803a0c",
+            "createdAt": "2020-11-05T17:23:00.464Z",
+            "updatedAt": "2020-11-06T16:00:00.022Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "460198",
+        "6a1794",
+        "9e20b8",
+        "c03b94",
+        "ff88a9",
+        "ffe0dc"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5fa43038ea73f20475803a0c",
+        "type": "palettes",
+        "count": 64,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

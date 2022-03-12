@@ -1,0 +1,47 @@
+{
+    "_id": "609f28d316e2a119a31e87d9",
+    "tags": [
+        "gameboy"
+    ],
+    "colors": [
+        "0f380f",
+        "306230",
+        "8bac0f",
+        "9bbc0f"
+    ],
+    "downloads": "148",
+    "featured": false,
+    "likes": 7,
+    "comments": 1,
+    "slug": "original-gameboy",
+    "publishedAt": "2021-09-23T01:55:00.047Z",
+    "user": {
+        "name": "Sans 7657",
+        "slug": "sans-7657"
+    },
+    "title": "Original Gameboy",
+    "hashtag": "gameboy",
+    "description": "4 colors from the original game boy. The gameboy style is from a lot of places, but got mine from\u00a0here.",
+    "creator": false,
+    "createdAt": "2021-05-15T01:50:11.117Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "0f380f",
+        "306230",
+        "8bac0f",
+        "9bbc0f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "609f28d316e2a119a31e87d9",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

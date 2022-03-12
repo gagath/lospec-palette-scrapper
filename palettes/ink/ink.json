@@ -1,0 +1,72 @@
+{
+    "_id": "5b4de44bd0e0cb0253955667",
+    "createdAt": "2018-07-17T12:42:51.657Z",
+    "slug": "ink",
+    "description": "Created by <a target=\"_blank\" href=\"https://www.deviantart.com/aprilsundae\">AprilSundae</a>.",
+    "colors": [
+        "1f1f29",
+        "413a42",
+        "596070",
+        "96a2b3",
+        "eaf0d8"
+    ],
+    "tags": [
+        "artist",
+        "aprilsundae",
+        "monochrome",
+        "monoramp",
+        "blue"
+    ],
+    "downloads": "3,334",
+    "numberOfColors": 5,
+    "likes": 142,
+    "comments": 0,
+    "creator": false,
+    "featured": false,
+    "hashtag": "ink",
+    "title": "Ink",
+    "publishedAt": "2018-07-17T12:42:51.657Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6037d82c139e764ae0aa4fec",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/ink-palette-example-by-nura-6037d8.png",
+            "creator": true,
+            "description": "Created by Moar, robo and me :3",
+            "title": "Ink Palette Example by Nura",
+            "slug": "ink-palette-example-by-nura",
+            "publishedAt": "2021-02-28T16:20:00.013Z",
+            "user": {
+                "name": "Nura",
+                "slug": "nura-pix"
+            },
+            "parent": "5b4de44bd0e0cb0253955667",
+            "createdAt": "2021-02-25T17:02:36.864Z",
+            "updatedAt": "2021-02-28T16:20:00.013Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Created by Moar, robo and me :3"
+        }
+    ],
+    "colorsArray": [
+        "1f1f29",
+        "413a42",
+        "596070",
+        "96a2b3",
+        "eaf0d8"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5b4de44bd0e0cb0253955667",
+        "type": "palettes",
+        "count": 142,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,49 @@
+{
+    "_id": "608c155cd2dc7f0a700ef243",
+    "tags": [
+        "cold"
+    ],
+    "colors": [
+        "442252",
+        "61433c",
+        "807456",
+        "adab8e",
+        "d6dea5"
+    ],
+    "downloads": "55",
+    "featured": false,
+    "likes": 12,
+    "comments": 4,
+    "slug": "cold-sands",
+    "publishedAt": "2021-05-06T03:45:00.029Z",
+    "user": {
+        "name": "haex",
+        "slug": "cooldoodie"
+    },
+    "title": "cold sands",
+    "hashtag": "coldsands",
+    "description": "a cold feeling palette",
+    "creator": true,
+    "createdAt": "2021-04-30T14:34:04.169Z",
+    "numberOfColors": 5,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "442252",
+        "61433c",
+        "807456",
+        "adab8e",
+        "d6dea5"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "608c155cd2dc7f0a700ef243",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

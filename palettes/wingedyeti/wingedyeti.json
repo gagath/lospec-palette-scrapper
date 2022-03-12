@@ -1,0 +1,71 @@
+{
+    "_id": "61d920f464c3771598d233da",
+    "tags": [
+        "wingedyeti",
+        "pink"
+    ],
+    "colors": [
+        "ffffff",
+        "ffce96",
+        "ff6969",
+        "5d0024"
+    ],
+    "downloads": "121",
+    "featured": false,
+    "likes": 13,
+    "comments": 0,
+    "slug": "winged-yeti",
+    "publishedAt": "2022-01-11T20:25:00.045Z",
+    "user": {
+        "name": "Winged Yeti",
+        "slug": "wingedyeti"
+    },
+    "title": "Winged Yeti",
+    "hashtag": "wingedyeti",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2022-01-08T05:28:20.479Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61d923c764c3771598d23403",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Winged Yeti Palette Example by Winged Yeti",
+            "slug": "winged-yeti-palette-example-by-winged-yetiprxqu6",
+            "publishedAt": "2022-01-11T16:10:00.026Z",
+            "user": {
+                "name": "Winged Yeti",
+                "slug": "wingedyeti"
+            },
+            "parent": "61d920f464c3771598d233da",
+            "image": "palette-examples/winged-yeti-palette-example-by-winged-yetiprxqu6.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-01-08T05:40:23.573Z",
+            "updatedAt": "2022-01-11T16:10:00.027Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "ffffff",
+        "ffce96",
+        "ff6969",
+        "5d0024"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61d920f464c3771598d233da",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

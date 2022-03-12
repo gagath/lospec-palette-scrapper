@@ -1,0 +1,51 @@
+{
+    "_id": "5f46b42d2a5e7044f90c07d3",
+    "tags": [
+        "gameboy",
+        " egypt",
+        " 4color",
+        " murals",
+        " art"
+    ],
+    "colors": [
+        "fafdff",
+        "cead6b",
+        "a25130",
+        "0a164e"
+    ],
+    "downloads": "76",
+    "featured": false,
+    "likes": 11,
+    "comments": 1,
+    "title": "Mural GB",
+    "hashtag": "muralgb",
+    "description": "A Gameboy color palette that can be used for ancient Egyptian mural-themed art, taken from the Mini Jam 61 header art on itch.io:https://itch.io/jam/mini-jam-61",
+    "creator": false,
+    "slug": "mural-gb",
+    "publishedAt": "2020-08-27T20:10:00.027Z",
+    "user": {
+        "name": "Michael Connor",
+        "slug": "michael-connor"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-08-26T19:12:45.348Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "fafdff",
+        "cead6b",
+        "a25130",
+        "0a164e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f46b42d2a5e7044f90c07d3",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,72 @@
+{
+    "_id": "5eb42e61241f264c8ec0b9c1",
+    "tags": [],
+    "colors": [
+        "000000",
+        "ad3330",
+        "cb4a34",
+        "d77d57",
+        "eac99d",
+        "faf3e4"
+    ],
+    "downloads": "329",
+    "featured": false,
+    "likes": 27,
+    "comments": 1,
+    "title": "AKA",
+    "hashtag": "gamedevelop",
+    "description": "",
+    "creator": "1",
+    "slug": "aka",
+    "publishedAt": "2020-06-07T04:45:00.008Z",
+    "user": {
+        "name": "ARTBOY",
+        "slug": "emeekae-plummer"
+    },
+    "numberOfColors": 6,
+    "createdAt": "2020-05-07T15:50:57.473Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f409ce514ee7e0f1bce0e48",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/aka-palette-example-by-underminer-2-5f409c.png",
+            "creator": true,
+            "description": "",
+            "title": "AKA Palette Example by underminer",
+            "slug": "aka-palette-example-by-underminer-2",
+            "publishedAt": "2020-08-22T18:20:00.021Z",
+            "user": {
+                "name": "underminer",
+                "slug": "underminer"
+            },
+            "parent": "5eb42e61241f264c8ec0b9c1",
+            "createdAt": "2020-08-22T04:19:49.697Z",
+            "updatedAt": "2020-08-22T18:20:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "ad3330",
+        "cb4a34",
+        "d77d57",
+        "eac99d",
+        "faf3e4"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5eb42e61241f264c8ec0b9c1",
+        "type": "palettes",
+        "count": 27,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

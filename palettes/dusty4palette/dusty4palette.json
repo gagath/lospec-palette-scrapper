@@ -1,0 +1,75 @@
+{
+    "_id": "6168ad537657e74bb0c29e99",
+    "tags": [
+        "desaturated",
+        "cool",
+        "teal",
+        "green",
+        "4",
+        "gameboy"
+    ],
+    "colors": [
+        "f5f6df",
+        "5a8f78",
+        "3a5068",
+        "372a51"
+    ],
+    "downloads": "461",
+    "featured": false,
+    "likes": 34,
+    "comments": 4,
+    "slug": "dusty4",
+    "publishedAt": "2021-10-17T21:45:00.022Z",
+    "user": {
+        "name": "ink",
+        "slug": "inkbug"
+    },
+    "title": "dusty4",
+    "hashtag": "dusty4palette",
+    "description": "my 4-color ramp of choice. has a dim, weathered feel to it without too much or too little contrast.\u00a0",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-10-14T22:21:07.094Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6168b9f72f2cd74d57bb1381",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "dusty4 Palette Example by ink",
+            "slug": "dusty4-palette-example-by-ink",
+            "publishedAt": "2021-10-15T10:20:00.025Z",
+            "user": {
+                "name": "ink",
+                "slug": "inkbug"
+            },
+            "parent": "6168ad537657e74bb0c29e99",
+            "image": "palette-examples/dusty4-palette-example-by-ink-6168b9.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-10-14T23:15:03.404Z",
+            "updatedAt": "2021-10-15T10:20:00.026Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "f5f6df",
+        "5a8f78",
+        "3a5068",
+        "372a51"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6168ad537657e74bb0c29e99",
+        "type": "palettes",
+        "count": 34,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

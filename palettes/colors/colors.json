@@ -1,0 +1,47 @@
+{
+    "_id": "613e9116a4870c4b88710284",
+    "tags": [],
+    "colors": [
+        "944b53",
+        "dfdeb8",
+        "e08992",
+        "72bce0",
+        "398ab3"
+    ],
+    "downloads": "24",
+    "featured": false,
+    "likes": 3,
+    "comments": 0,
+    "slug": "colors",
+    "publishedAt": "2021-10-08T23:45:00.025Z",
+    "user": {
+        "name": "moss",
+        "slug": "soulsenjoyer"
+    },
+    "title": "colors",
+    "hashtag": "colors",
+    "description": "",
+    "creator": false,
+    "numberOfColors": 5,
+    "createdAt": "2021-09-12T23:45:26.361Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "944b53",
+        "dfdeb8",
+        "e08992",
+        "72bce0",
+        "398ab3"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "613e9116a4870c4b88710284",
+        "type": "palettes",
+        "count": 3,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

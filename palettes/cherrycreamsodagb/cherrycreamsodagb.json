@@ -1,0 +1,52 @@
+{
+    "_id": "5f640b2c4450ff69f32a0d07",
+    "tags": [
+        "artist",
+        " shinytseul",
+        " red",
+        " orange",
+        " soft",
+        " desaturated"
+    ],
+    "colors": [
+        "330022",
+        "731726",
+        "995c3d",
+        "d9ca82"
+    ],
+    "downloads": "130",
+    "featured": false,
+    "likes": 6,
+    "comments": 0,
+    "title": "Cherry Cream Soda GB",
+    "hashtag": "cherrycreamsodagb",
+    "description": "A red and orange palette that is an edited version of my Meteor 4 palette. This one is a lot softer.",
+    "creator": true,
+    "slug": "cherry-cream-soda-gb",
+    "publishedAt": "2020-09-18T18:20:00.021Z",
+    "user": {
+        "name": "ShinyTseul",
+        "slug": "shinytseul"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-09-18T01:19:40.681Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "330022",
+        "731726",
+        "995c3d",
+        "d9ca82"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f640b2c4450ff69f32a0d07",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

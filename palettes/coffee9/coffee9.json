@@ -1,0 +1,57 @@
+{
+    "_id": "5f10970cf9544b677fa1d81b",
+    "tags": [
+        "coffee"
+    ],
+    "colors": [
+        "342467",
+        "7aa0e1",
+        "a8d4ff",
+        "ffffff",
+        "8d3564",
+        "e16956",
+        "f5a15c",
+        "ffda99",
+        "ffafa3"
+    ],
+    "downloads": "1,321",
+    "featured": false,
+    "likes": 54,
+    "comments": 5,
+    "title": "Coffee 9",
+    "hashtag": "coffee9",
+    "description": "",
+    "creator": "1",
+    "slug": "coffee-9",
+    "publishedAt": "2020-07-19T22:55:00.011Z",
+    "user": {
+        "name": "Ansitru",
+        "slug": "ansitru"
+    },
+    "numberOfColors": 9,
+    "createdAt": "2020-07-16T18:06:04.115Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "342467",
+        "7aa0e1",
+        "a8d4ff",
+        "ffffff",
+        "8d3564",
+        "e16956",
+        "f5a15c",
+        "ffda99",
+        "ffafa3"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5f10970cf9544b677fa1d81b",
+        "type": "palettes",
+        "count": 54,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,78 @@
+{
+    "_id": "607c56e86fd1812d1bcab12f",
+    "tags": [
+        "colorramp"
+    ],
+    "colors": [
+        "d2b939",
+        "c0a13a",
+        "af8a3c",
+        "9d723d",
+        "8c5b3e",
+        "7a433f",
+        "692c41",
+        "571442"
+    ],
+    "downloads": "297",
+    "featured": false,
+    "likes": 29,
+    "comments": 1,
+    "slug": "royal-monarch-viii",
+    "publishedAt": "2021-07-14T22:05:00.020Z",
+    "user": {
+        "name": "Vito Blangiardo",
+        "slug": "vito-blangiardo"
+    },
+    "title": "Royal Monarch VIII",
+    "hashtag": "romanpalette",
+    "description": "A color palette featuring 2 colors of the things loved by roman emperors: golden coins and violet dresses.",
+    "creator": true,
+    "createdAt": "2021-04-18T15:57:28.067Z",
+    "numberOfColors": 8,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60dcf436404bbf06926368aa",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Royal Monarch VIII Palette Example by Haboo",
+            "slug": "royal-monarch-viii-palette-example-by-haboo",
+            "publishedAt": "2021-07-05T23:45:00.023Z",
+            "user": {
+                "name": "Haboo",
+                "slug": "haboocas"
+            },
+            "parent": "607c56e86fd1812d1bcab12f",
+            "image": "palette-examples/royal-monarch-viii-palette-example-by-haboo-60dcf4.png",
+            "creator": true,
+            "description": "Various items and symbols of or relating to Rome &amp; The Roman Empire",
+            "createdAt": "2021-06-30T22:46:14.478Z",
+            "updatedAt": "2021-07-05T23:45:00.024Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Various items and symbols of or relating to Rome &amp; The Roman Empire"
+        }
+    ],
+    "colorsArray": [
+        "d2b939",
+        "c0a13a",
+        "af8a3c",
+        "9d723d",
+        "8c5b3e",
+        "7a433f",
+        "692c41",
+        "571442"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "607c56e86fd1812d1bcab12f",
+        "type": "palettes",
+        "count": 29,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

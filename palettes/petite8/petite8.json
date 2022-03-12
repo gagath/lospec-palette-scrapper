@@ -1,0 +1,57 @@
+{
+    "_id": "5c782d5f158375659aa2c52a",
+    "slug": "petite-8",
+    "description": "",
+    "colors": [
+        "0a0a10",
+        "181b22",
+        "272f3b",
+        "47534e",
+        "7b8046",
+        "c5af63",
+        "efd98d",
+        "f8f4e4"
+    ],
+    "tags": [
+        "artist",
+        "adigunpolack",
+        "monoramp"
+    ],
+    "downloads": "1,090",
+    "numberOfColors": 8,
+    "createdAt": "2019-02-28T18:50:07.288Z",
+    "featured": false,
+    "likes": 36,
+    "comments": 2,
+    "creator": true,
+    "hashtag": "petite8",
+    "title": "Petite-8",
+    "user": {
+        "name": "Adigun A. Polack",
+        "slug": "adigunpolack"
+    },
+    "publishedAt": "2019-02-28T18:50:07.288Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "0a0a10",
+        "181b22",
+        "272f3b",
+        "47534e",
+        "7b8046",
+        "c5af63",
+        "efd98d",
+        "f8f4e4"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5c782d5f158375659aa2c52a",
+        "type": "palettes",
+        "count": 36,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

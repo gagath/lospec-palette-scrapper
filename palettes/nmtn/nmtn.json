@@ -1,0 +1,48 @@
+{
+    "_id": "61c8c2675d4fa7628ab0df8e",
+    "tags": [
+        "simple",
+        "4colours"
+    ],
+    "colors": [
+        "282727",
+        "6fd14d",
+        "3767ff",
+        "ff6868"
+    ],
+    "downloads": "39",
+    "featured": false,
+    "likes": 5,
+    "comments": 2,
+    "slug": "neon-minus-the-neon",
+    "publishedAt": "2021-12-30T18:10:00.032Z",
+    "user": {
+        "name": "RingFire Miko",
+        "slug": "ringfire-miko"
+    },
+    "title": "Neon minus the neon",
+    "hashtag": "nmtn",
+    "description": "The recommended palette used by the sitelen linja leko writing system designed by a certain conlanger. The title comes from the way the creator described the colours when I prompted them: \"i was actually going for neon\" \"minus the neon, because it hurts my eyes\". The source of the colours is found here: https://docs.google.com/document/d/1G8Z4Baj7TmAMC26hR4DLTd9mdXLtpHgBzXGbfznKu-Y/edit?usp=sharing",
+    "creator": false,
+    "numberOfColors": 4,
+    "createdAt": "2021-12-26T19:28:39.374Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "282727",
+        "6fd14d",
+        "3767ff",
+        "ff6868"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61c8c2675d4fa7628ab0df8e",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,51 @@
+{
+    "_id": "60a98bb7e12c55069e4f82b1",
+    "tags": [],
+    "colors": [
+        "ffffff",
+        "000000",
+        "f44336",
+        "ff9800",
+        "4caf50",
+        "3f51b5",
+        "ba68c8"
+    ],
+    "downloads": "51",
+    "featured": false,
+    "likes": 2,
+    "comments": 0,
+    "slug": "blank-canvas",
+    "publishedAt": "2021-05-23T17:00:00.068Z",
+    "user": {
+        "name": "Crackers & Cheese",
+        "slug": "crackers-cheese"
+    },
+    "title": "[blank] canvas",
+    "hashtag": "gamedev",
+    "description": "The pallette I use for my indie game!",
+    "creator": true,
+    "createdAt": "2021-05-22T22:54:47.807Z",
+    "numberOfColors": 7,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffffff",
+        "000000",
+        "f44336",
+        "ff9800",
+        "4caf50",
+        "3f51b5",
+        "ba68c8"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "60a98bb7e12c55069e4f82b1",
+        "type": "palettes",
+        "count": 2,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

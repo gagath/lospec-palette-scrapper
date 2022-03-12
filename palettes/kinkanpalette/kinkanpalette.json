@@ -1,0 +1,80 @@
+{
+    "_id": "618c925125f1e97795dbabfb",
+    "tags": [
+        "pastel",
+        "green",
+        "pink"
+    ],
+    "colors": [
+        "446176",
+        "3eaaae",
+        "8cefb6",
+        "c4f0c2",
+        "fffee4",
+        "bec0c0",
+        "ffa7b9",
+        "ff7a8f"
+    ],
+    "downloads": "502",
+    "featured": false,
+    "likes": 34,
+    "comments": 2,
+    "slug": "kinkan",
+    "publishedAt": "2021-11-12T18:10:00.018Z",
+    "user": {
+        "name": "sukinapan",
+        "slug": "sukinapan"
+    },
+    "title": "Kinkan",
+    "hashtag": "kinkanpalette",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-11-11T03:47:29.996Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "618ecd277552ae0be2cd203c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Kinkan Palette Example by sukinapan",
+            "slug": "kinkan-palette-example-by-sukinapan",
+            "publishedAt": "2021-11-13T08:20:00.035Z",
+            "user": {
+                "name": "sukinapan",
+                "slug": "sukinapan"
+            },
+            "parent": "618c925125f1e97795dbabfb",
+            "image": "palette-examples/kinkan-palette-example-by-sukinapan-618ecd.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-11-12T20:23:03.448Z",
+            "updatedAt": "2021-11-13T08:20:00.039Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "446176",
+        "3eaaae",
+        "8cefb6",
+        "c4f0c2",
+        "fffee4",
+        "bec0c0",
+        "ffa7b9",
+        "ff7a8f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "618c925125f1e97795dbabfb",
+        "type": "palettes",
+        "count": 34,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

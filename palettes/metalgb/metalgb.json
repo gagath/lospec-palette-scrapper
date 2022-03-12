@@ -1,0 +1,71 @@
+{
+    "_id": "5fa1e8140b1e594f5167ccbd",
+    "tags": [
+        "isasstudio",
+        "gameboy"
+    ],
+    "colors": [
+        "221e31",
+        "41485d",
+        "778e98",
+        "c5dbd4"
+    ],
+    "downloads": "985",
+    "featured": false,
+    "likes": 59,
+    "comments": 2,
+    "title": "Metallic GB",
+    "hashtag": "metalgb",
+    "description": "A gameboy palette good for metallic stuff",
+    "creator": true,
+    "slug": "metallic-gb",
+    "publishedAt": "2020-11-04T22:30:00.035Z",
+    "user": {
+        "name": "Isa",
+        "slug": "isas-studio"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-11-03T23:30:28.341Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fa1e8520b1e594f5167ccc3",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/metallic-gb-palette-example-by-isagamer-5fa1e8.png",
+            "creator": true,
+            "description": "Dungeon platformer-ish piece",
+            "title": "Metallic GB Palette Example by IsaGamer",
+            "slug": "metallic-gb-palette-example-by-isagamer",
+            "publishedAt": "2020-11-04T16:30:00.028Z",
+            "user": {
+                "name": "Isa",
+                "slug": "isas-studio"
+            },
+            "parent": "5fa1e8140b1e594f5167ccbd",
+            "createdAt": "2020-11-03T23:31:30.119Z",
+            "updatedAt": "2020-11-04T16:30:00.028Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Dungeon platformer-ish piece"
+        }
+    ],
+    "colorsArray": [
+        "221e31",
+        "41485d",
+        "778e98",
+        "c5dbd4"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5fa1e8140b1e594f5167ccbd",
+        "type": "palettes",
+        "count": 59,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

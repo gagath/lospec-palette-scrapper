@@ -1,0 +1,68 @@
+{
+    "_id": "60842dae07ae9a4931815c77",
+    "tags": [
+        "1bit",
+        "flower",
+        "pink"
+    ],
+    "colors": [
+        "c62b69",
+        "edf4ff"
+    ],
+    "downloads": "161",
+    "featured": false,
+    "likes": 25,
+    "comments": 3,
+    "slug": "ys-flowers-and-asbestos",
+    "publishedAt": "2021-04-26T11:05:00.031Z",
+    "user": {
+        "name": "Yelta",
+        "slug": "yelta8"
+    },
+    "title": "Y's Flowers and Asbestos",
+    "hashtag": "flowersnasbestos",
+    "description": "Pink and white brought to perfection. A palette created for being one of the best Colour/Light Palettes, not to be part of a certain piece.",
+    "creator": true,
+    "createdAt": "2021-04-24T14:39:42.212Z",
+    "numberOfColors": 2,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60842e4407ae9a4931815c85",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Y's Flowers and Asbestos Palette Example by Yelta",
+            "slug": "ys-flowers-and-asbestos-palette-example-by-yelta",
+            "publishedAt": "2021-04-25T15:20:00.019Z",
+            "user": {
+                "name": "Yelta",
+                "slug": "yelta8"
+            },
+            "parent": "60842dae07ae9a4931815c77",
+            "image": "palette-examples/ys-flowers-and-asbestos-palette-example-by-yelta-60842e.png",
+            "creator": true,
+            "description": "Cutout of Yelta's (my) \"Evening Biketrip\" with the Flowers &amp; Asbestos Palette applied to it",
+            "createdAt": "2021-04-24T14:42:12.843Z",
+            "updatedAt": "2021-04-25T15:20:00.020Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Cutout of Yelta's (my) \"Evening Biketrip\" with the Flowers &amp; Asbestos Palette applied to it"
+        }
+    ],
+    "colorsArray": [
+        "c62b69",
+        "edf4ff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "60842dae07ae9a4931815c77",
+        "type": "palettes",
+        "count": 25,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

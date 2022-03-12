@@ -1,0 +1,61 @@
+{
+    "_id": "61490793f0ace75e73d9ef83",
+    "tags": [
+        "hardware",
+        "tandy",
+        "rgb"
+    ],
+    "colors": [
+        "000000",
+        "004000",
+        "ffffff",
+        "ff0000",
+        "ff8000",
+        "ffff00",
+        "01ff00",
+        "01ffff",
+        "0000ff",
+        "ff00ff"
+    ],
+    "downloads": "41",
+    "featured": false,
+    "likes": 4,
+    "comments": 0,
+    "slug": "tandy-color-computer-rgb",
+    "publishedAt": "2021-10-11T01:45:00.032Z",
+    "user": {
+        "name": "PixelCrunch",
+        "slug": "pixelcrunch"
+    },
+    "title": "Tandy Color Computer (RGB)",
+    "hashtag": "tandy",
+    "description": "This is the palette used on the Tandy Color Computer when connected to an RGB Monitor (Or using Emulation). This palette is actually NOT unique to the Tandy Color Computer alone. It is ubiquitous to the Motorola MC6847 Video Display Generator (VDG). The Dragon 32 and other machines have this palette (More or less.). The colors change slightly if connected to a Composite TV or RF-Out.",
+    "creator": false,
+    "numberOfColors": 10,
+    "createdAt": "2021-09-20T22:13:39.642Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "004000",
+        "ffffff",
+        "ff0000",
+        "ff8000",
+        "ffff00",
+        "01ff00",
+        "01ffff",
+        "0000ff",
+        "ff00ff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "61490793f0ace75e73d9ef83",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

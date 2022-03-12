@@ -1,0 +1,96 @@
+{
+    "_id": "61eec8983677f62b3c2b7705",
+    "tags": [
+        "sunset",
+        "red",
+        "five"
+    ],
+    "colors": [
+        "0d101b",
+        "281a2d",
+        "6b2341",
+        "af2747",
+        "ee243d"
+    ],
+    "downloads": "695",
+    "featured": false,
+    "likes": 49,
+    "comments": 0,
+    "slug": "sunset-red",
+    "publishedAt": "2022-01-26T05:20:00.045Z",
+    "user": {
+        "name": "Cabezinu",
+        "slug": "cabezinu"
+    },
+    "title": "Sunset Red",
+    "hashtag": "red",
+    "description": "5 colors are enough to create a whole world",
+    "creator": true,
+    "numberOfColors": 5,
+    "createdAt": "2022-01-24T15:41:12.855Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61eef87565a513563fb95ea4",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Sunset Red Palette Example by Cabezinu Minecraft",
+            "slug": "sunset-red-palette-example-by-cabezinu-minecraftt7mgjb",
+            "publishedAt": "2022-01-26T01:00:00.049Z",
+            "user": {
+                "name": "Cabezinu",
+                "slug": "cabezinu"
+            },
+            "parent": "61eec8983677f62b3c2b7705",
+            "image": "palette-examples/sunset-red-palette-example-by-cabezinu-minecraftt7mgjb.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-01-24T19:05:25.166Z",
+            "updatedAt": "2022-01-26T01:00:00.050Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "61ef233bf2cb6b73f3977398",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Sunset Red Palette Example by Cabezinu",
+            "slug": "sunset-red-palette-example-by-cabezinugomz3r",
+            "publishedAt": "2022-01-26T00:55:00.027Z",
+            "user": {
+                "name": "Cabezinu",
+                "slug": "cabezinu"
+            },
+            "parent": "61eec8983677f62b3c2b7705",
+            "image": "palette-examples/sunset-red-palette-example-by-cabezinugomz3r.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-01-24T22:07:55.005Z",
+            "updatedAt": "2022-01-26T00:55:00.028Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "0d101b",
+        "281a2d",
+        "6b2341",
+        "af2747",
+        "ee243d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "61eec8983677f62b3c2b7705",
+        "type": "palettes",
+        "count": 49,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

@@ -1,0 +1,62 @@
+{
+    "_id": "58ec262e0ccc891b2bbe3850",
+    "createdAt": "2017-04-11T00:41:18.397Z",
+    "slug": "kid-icarus-sgb",
+    "description": "A palette used by <a href=\"https://en.wikipedia.org/wiki/Kid_Icarus:_Of_Myths_and_Monsters\">Kid Icarus: Of Myths and Monsters</a> when played on the <a href=\"https://en.wikipedia.org/wiki/Super_Game_Boy\">Super Gameboy</a>.",
+    "colors": [
+        "1e0000",
+        "9e0000",
+        "f78e50",
+        "cef7f7"
+    ],
+    "tags": [
+        "hardware",
+        "gameboy",
+        "supergameboy"
+    ],
+    "downloads": "694",
+    "numberOfColors": 4,
+    "likes": 16,
+    "comments": 0,
+    "hashtag": "kidicarussgb",
+    "title": "Kid Icarus (SGB)",
+    "publishedAt": "2017-04-11T00:41:18.397Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "58f4f6144ff31e5ea21ad5f5",
+            "description": "Kid Icarus: Of Myths and Monsters Screenshots",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.041Z",
+            "creator": false,
+            "image": "palette-examples/kid-icarus-sgb-palette-example-kid-icarus-of-myths-and-monsters-screenshots-58f4f6.png",
+            "likes": 0,
+            "parent": "58ec262e0ccc891b2bbe3850",
+            "slug": "kid-icarus-sgb-palette-example-kid-icarus-of-myths-and-monsters-screenshots",
+            "title": "kid icarus sgb palette example kid icarus of myths and monsters screenshots",
+            "updatedAt": "2020-07-31T03:56:11.041Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Kid Icarus: Of Myths and Monsters Screenshots"
+        }
+    ],
+    "colorsArray": [
+        "1e0000",
+        "9e0000",
+        "f78e50",
+        "cef7f7"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "58ec262e0ccc891b2bbe3850",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

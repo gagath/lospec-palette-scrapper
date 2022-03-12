@@ -1,0 +1,97 @@
+{
+    "_id": "61228daceaa0c93b39035c0f",
+    "tags": [
+        "cartoony",
+        "minecraft",
+        "bright",
+        "mustardsquid"
+    ],
+    "colors": [
+        "ffffff",
+        "ffcc4e",
+        "fa7033",
+        "e52f1b",
+        "ac2385",
+        "000000",
+        "371b14",
+        "733525",
+        "faa1b2",
+        "9a8aa6",
+        "9ccdd5",
+        "227d66",
+        "787878",
+        "293a72",
+        "6ea763",
+        "244e32"
+    ],
+    "downloads": "151",
+    "featured": false,
+    "likes": 13,
+    "comments": 1,
+    "slug": "huc-16",
+    "publishedAt": "2021-09-03T12:25:00.041Z",
+    "user": {
+        "name": "Mustard Squid",
+        "slug": "mustard-squid"
+    },
+    "title": "Huc 16",
+    "hashtag": "huc16",
+    "description": "Huc 16 is a 16-color palette designed for a Minecraft texture pack. It features bright, cartoony colors that can be used to create pixel art.",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2021-08-22T17:47:24.575Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61229b9a04f54e5c99f9444c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Huc 16 Palette Example by Mustard Squid",
+            "slug": "huc-16-palette-example-by-mustard-squid",
+            "publishedAt": "2021-08-22T21:44:46.147Z",
+            "user": {
+                "name": "Mustard Squid",
+                "slug": "mustard-squid"
+            },
+            "parent": "61228daceaa0c93b39035c0f",
+            "image": "palette-examples/huc-16-palette-example-by-mustard-squid-61229b.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-08-22T18:46:50.842Z",
+            "updatedAt": "2021-08-22T21:44:46.147Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "ffffff",
+        "ffcc4e",
+        "fa7033",
+        "e52f1b",
+        "ac2385",
+        "000000",
+        "371b14",
+        "733525",
+        "faa1b2",
+        "9a8aa6",
+        "9ccdd5",
+        "227d66",
+        "787878",
+        "293a72",
+        "6ea763",
+        "244e32"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61228daceaa0c93b39035c0f",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

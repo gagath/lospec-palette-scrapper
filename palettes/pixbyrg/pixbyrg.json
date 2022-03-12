@@ -1,0 +1,80 @@
+{
+    "_id": "6038c9aec77567771b6ac097",
+    "tags": [
+        "2 bit",
+        " 4 color",
+        " navy blue",
+        " crimson",
+        " olive green",
+        " off white",
+        " pale yellow",
+        " sunset",
+        " city",
+        " iron",
+        " tree"
+    ],
+    "colors": [
+        "010034",
+        "70210f",
+        "778543",
+        "cdc376"
+    ],
+    "downloads": "73",
+    "featured": false,
+    "likes": 14,
+    "comments": 1,
+    "title": "pix BYRG",
+    "hashtag": "pixbyrg",
+    "description": "I made a basic 4 color value gradient, with a complimentary darkish midtone.I made it for cities and trains, but it worked out well for trees and planes too.",
+    "creator": true,
+    "slug": "pix-byrg",
+    "publishedAt": "2021-02-28T21:40:00.017Z",
+    "user": {
+        "name": "Richmond Riddle",
+        "slug": "richmondriddle"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-02-26T10:13:02.088Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6038ca3cc77567771b6ac0a1",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/pix-byrg-palette-example-by-richmond-riddle-6038ca.png",
+            "creator": true,
+            "description": "This is the city of pixBYRG, an akronym and demo for the palette.",
+            "title": "pix BYRG Palette Example by Richmond Riddle",
+            "slug": "pix-byrg-palette-example-by-richmond-riddle",
+            "publishedAt": "2021-02-28T15:45:00.017Z",
+            "user": {
+                "name": "Richmond Riddle",
+                "slug": "richmondriddle"
+            },
+            "parent": "6038c9aec77567771b6ac097",
+            "createdAt": "2021-02-26T10:15:24.094Z",
+            "updatedAt": "2021-02-28T15:45:00.017Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "This is the city of pixBYRG, an akronym and demo for the palette."
+        }
+    ],
+    "colorsArray": [
+        "010034",
+        "70210f",
+        "778543",
+        "cdc376"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6038c9aec77567771b6ac097",
+        "type": "palettes",
+        "count": 14,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

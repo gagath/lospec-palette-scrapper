@@ -1,0 +1,53 @@
+{
+    "_id": "61ce965ce2c9ec280a744369",
+    "tags": [],
+    "colors": [
+        "282b57",
+        "443482",
+        "703e9c",
+        "c2469d",
+        "e35f8d",
+        "eb7a7e",
+        "f59182",
+        "fab88e"
+    ],
+    "downloads": "287",
+    "featured": false,
+    "likes": 21,
+    "comments": 0,
+    "slug": "sunset-mkii",
+    "publishedAt": "2022-01-17T21:55:00.043Z",
+    "user": {
+        "name": "SamRI",
+        "slug": "quinton-christensen"
+    },
+    "title": "Sunset Mk.II",
+    "hashtag": "sunsetmkii",
+    "description": "The sequel to my original pallette, made earlier. experimenting yeilded this!\u00a0 The original pallette is here:\u00a0Sunset 8",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-12-31T05:34:20.892Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "282b57",
+        "443482",
+        "703e9c",
+        "c2469d",
+        "e35f8d",
+        "eb7a7e",
+        "f59182",
+        "fab88e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61ce965ce2c9ec280a744369",
+        "type": "palettes",
+        "count": 21,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

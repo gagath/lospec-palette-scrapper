@@ -1,0 +1,92 @@
+{
+    "_id": "6166e15a85cf25134150baad",
+    "tags": [
+        "blue",
+        "green",
+        "purple",
+        "teal",
+        "indigo",
+        "saturated",
+        "iridescent",
+        "fantasy",
+        "magic",
+        "cool",
+        "dark",
+        "radioactive",
+        "glow",
+        "galaxy",
+        "lostinindigo"
+    ],
+    "colors": [
+        "3c004e",
+        "361a6b",
+        "313488",
+        "2b4ea5",
+        "2668c2",
+        "419bc9",
+        "5ccdd0",
+        "76ffd6"
+    ],
+    "downloads": "259",
+    "featured": false,
+    "likes": 16,
+    "comments": 0,
+    "slug": "spectral-scarab",
+    "publishedAt": "2021-10-17T01:45:00.028Z",
+    "user": {
+        "name": "LostInIndigo",
+        "slug": "lostinindigo"
+    },
+    "title": "Spectral Scarab",
+    "hashtag": "spectralscarabpalette",
+    "description": "A saturated 8-color palette ranging from dark violet to radioactive green, with lush blues and teals in between.\u00a0",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-10-13T13:38:34.376Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6166e23685cf25134150bac6",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Spectral Scarab Palette Example by LostInIndigo",
+            "slug": "spectral-scarab-palette-example-by-lostinindigo",
+            "publishedAt": "2021-10-13T15:15:00.022Z",
+            "user": {
+                "name": "LostInIndigo",
+                "slug": "lostinindigo"
+            },
+            "parent": "6166e15a85cf25134150baad",
+            "image": "palette-examples/spectral-scarab-palette-example-by-lostinindigo-6166e2.png",
+            "creator": true,
+            "description": "Had a lot of fun making this one - a fantasy image of a winged scarab on a bejewled circuitboard in the lush blues, greens, and violets of the Spectral Scarab palette.",
+            "createdAt": "2021-10-13T13:42:14.897Z",
+            "updatedAt": "2021-10-13T15:15:00.023Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Had a lot of fun making this one - a fantasy image of a winged scarab on a bejewled circuitboard in the lush blues, greens, and violets of the Spectral Scarab palette."
+        }
+    ],
+    "colorsArray": [
+        "3c004e",
+        "361a6b",
+        "313488",
+        "2b4ea5",
+        "2668c2",
+        "419bc9",
+        "5ccdd0",
+        "76ffd6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6166e15a85cf25134150baad",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,48 @@
+{
+    "_id": "5dcf50de1c9290626c07889c",
+    "slug": "gameboy-gruel",
+    "description": "Just adding on a Gameboy pallete",
+    "colors": [
+        "3e2746",
+        "ae2746",
+        "556188",
+        "ffffff"
+    ],
+    "creator": true,
+    "comments": 2,
+    "likes": 20,
+    "createdAt": "2019-11-16T01:29:02.291Z",
+    "featured": false,
+    "tags": [
+        "purplespalletes",
+        "gameboy"
+    ],
+    "downloads": "293",
+    "numberOfColors": 4,
+    "hashtag": "gameboygruel",
+    "title": "Gameboy Gruel",
+    "user": {
+        "name": "Purple Bandit",
+        "slug": "purple-bandit"
+    },
+    "publishedAt": "2019-11-16T01:29:02.291Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "3e2746",
+        "ae2746",
+        "556188",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5dcf50de1c9290626c07889c",
+        "type": "palettes",
+        "count": 20,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

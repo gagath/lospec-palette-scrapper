@@ -1,0 +1,63 @@
+{
+    "_id": "60453eadf15c3a3666aaa6e1",
+    "tags": [
+        "12colors"
+    ],
+    "colors": [
+        "fe5f55",
+        "f5d549",
+        "5abd5c",
+        "423a60",
+        "9c579e",
+        "e986c6",
+        "ffdca8",
+        "c1ffa8",
+        "a8d9ff",
+        "000019",
+        "828282",
+        "f0fffe"
+    ],
+    "downloads": "71",
+    "featured": false,
+    "likes": 6,
+    "comments": 1,
+    "title": "Fade12",
+    "hashtag": "fade12",
+    "description": "A 12 color palette, focused on making the colors seem faded.",
+    "creator": true,
+    "slug": "fade12",
+    "publishedAt": "2021-03-11T11:40:00.016Z",
+    "user": {
+        "name": "NinHenry",
+        "slug": "ninhenry"
+    },
+    "numberOfColors": 12,
+    "createdAt": "2021-03-07T20:59:25.191Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "fe5f55",
+        "f5d549",
+        "5abd5c",
+        "423a60",
+        "9c579e",
+        "e986c6",
+        "ffdca8",
+        "c1ffa8",
+        "a8d9ff",
+        "000019",
+        "828282",
+        "f0fffe"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "60453eadf15c3a3666aaa6e1",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

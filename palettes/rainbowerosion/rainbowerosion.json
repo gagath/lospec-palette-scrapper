@@ -1,0 +1,55 @@
+{
+    "_id": "61eb5cccb7f4a028ae71adc0",
+    "tags": [
+        "rainbow"
+    ],
+    "colors": [
+        "181512",
+        "a69181",
+        "907245",
+        "4b5e57",
+        "746c48",
+        "604c5f",
+        "8c4c4c",
+        "4c626d"
+    ],
+    "downloads": "82",
+    "featured": false,
+    "likes": 6,
+    "comments": 1,
+    "slug": "rainbow-erosion",
+    "publishedAt": "2022-01-22T13:20:00.054Z",
+    "user": {
+        "name": "LNS",
+        "slug": "lainsce"
+    },
+    "title": "Rainbow Erosion",
+    "hashtag": "rainbowerosion",
+    "description": "Take a rainbow, apply broken dreams to it,and you get this colorscheme in your life.",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2022-01-22T01:24:28.762Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "181512",
+        "a69181",
+        "907245",
+        "4b5e57",
+        "746c48",
+        "604c5f",
+        "8c4c4c",
+        "4c626d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61eb5cccb7f4a028ae71adc0",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

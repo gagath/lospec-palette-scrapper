@@ -1,0 +1,72 @@
+{
+    "_id": "5fbe3dba6ad6297925f8de8d",
+    "tags": [
+        "ym4",
+        "4colors",
+        "yellow"
+    ],
+    "colors": [
+        "000000",
+        "602e1f",
+        "dfc85c",
+        "e7e19c"
+    ],
+    "downloads": "147",
+    "featured": false,
+    "likes": 11,
+    "comments": 0,
+    "title": "TY - Yellow Man 4",
+    "hashtag": "ym4",
+    "description": "Useful for creating yellow mans! i think...",
+    "creator": true,
+    "slug": "ty-yellow-man-4",
+    "publishedAt": "2020-11-26T10:20:00.023Z",
+    "user": {
+        "name": "Toby_Yasha",
+        "slug": "tobyyasha"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-11-25T11:19:22.952Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fbe413f6ad6297925f8deb1",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/yellowman4-palette-example-by-tobyyasha-5fbe41.png",
+            "creator": true,
+            "description": "",
+            "title": "Yellow_man4 Palette Example by Toby_Yasha",
+            "slug": "yellowman4-palette-example-by-tobyyasha",
+            "publishedAt": "2020-11-26T05:35:00.010Z",
+            "user": {
+                "name": "Toby_Yasha",
+                "slug": "tobyyasha"
+            },
+            "parent": "5fbe3dba6ad6297925f8de8d",
+            "createdAt": "2020-11-25T11:34:23.456Z",
+            "updatedAt": "2020-11-26T05:35:00.010Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "602e1f",
+        "dfc85c",
+        "e7e19c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5fbe3dba6ad6297925f8de8d",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

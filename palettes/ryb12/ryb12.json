@@ -1,0 +1,64 @@
+{
+    "_id": "618cf5352354c0762aa2c8a5",
+    "tags": [
+        "warm",
+        "rainbow"
+    ],
+    "colors": [
+        "362338",
+        "463c71",
+        "477ba4",
+        "7cc667",
+        "ddf166",
+        "fff7cf",
+        "fff2af",
+        "ffdc78",
+        "ff5168",
+        "e83dac",
+        "d20962",
+        "ab0030"
+    ],
+    "downloads": "88",
+    "featured": false,
+    "likes": 8,
+    "comments": 1,
+    "slug": "ryb-12",
+    "publishedAt": "2021-11-15T02:10:00.030Z",
+    "user": {
+        "name": "Blylzz",
+        "slug": "blylzz"
+    },
+    "title": "RYB-12",
+    "hashtag": "ryb12",
+    "description": "vivid and warm colors for fun",
+    "creator": true,
+    "numberOfColors": 12,
+    "createdAt": "2021-11-11T10:49:25.979Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "362338",
+        "463c71",
+        "477ba4",
+        "7cc667",
+        "ddf166",
+        "fff7cf",
+        "fff2af",
+        "ffdc78",
+        "ff5168",
+        "e83dac",
+        "d20962",
+        "ab0030"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "618cf5352354c0762aa2c8a5",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

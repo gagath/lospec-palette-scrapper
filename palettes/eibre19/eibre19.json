@@ -1,0 +1,49 @@
+{
+    "_id": "5fdd2fb4998bf0170a55e5d0",
+    "tags": [],
+    "colors": [
+        "bfb7be",
+        "f1e7d5",
+        "eed6da",
+        "e7aee3",
+        "7c69a3",
+        "4e4b87"
+    ],
+    "downloads": "147",
+    "featured": false,
+    "likes": 11,
+    "comments": 0,
+    "title": "Eibre-19",
+    "hashtag": "eibre19",
+    "description": "",
+    "creator": true,
+    "slug": "eibre-19",
+    "publishedAt": "2021-03-21T12:10:00.024Z",
+    "user": {
+        "name": "Coolie172",
+        "slug": "coolie"
+    },
+    "numberOfColors": 6,
+    "createdAt": "2020-12-18T22:39:48.118Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "bfb7be",
+        "f1e7d5",
+        "eed6da",
+        "e7aee3",
+        "7c69a3",
+        "4e4b87"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5fdd2fb4998bf0170a55e5d0",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

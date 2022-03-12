@@ -1,0 +1,94 @@
+{
+    "_id": "5f8e06aa140b071dd48de208",
+    "tags": [
+        "isasstudio"
+    ],
+    "colors": [
+        "f5f5d9",
+        "d9c68d",
+        "5fba51",
+        "2d7f55",
+        "234d4c",
+        "1b2a39",
+        "464d51",
+        "808e8c",
+        "374eb0",
+        "312661",
+        "902727",
+        "c27343",
+        "864a3c",
+        "4d2e30",
+        "261c23",
+        "0d0814"
+    ],
+    "downloads": "213",
+    "featured": false,
+    "likes": 10,
+    "comments": 1,
+    "title": "Deep 16",
+    "hashtag": "deepfor16",
+    "description": "Based off the\u00a0Deep Forest\u00a0and\u00a0Deep Forest 24\u00a0palettes by ShinyTseul",
+    "creator": true,
+    "slug": "deep-16",
+    "publishedAt": "2020-10-20T22:15:00.020Z",
+    "user": {
+        "name": "Isa",
+        "slug": "isas-studio"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-10-19T21:35:38.848Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f8e0771140b071dd48de213",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/deep-16-palette-example-by-isagamer-5f8e07.png",
+            "creator": true,
+            "description": "Deep in the forest lies a cabin...",
+            "title": "Deep 16 Palette Example by IsaGamer",
+            "slug": "deep-16-palette-example-by-isagamer",
+            "publishedAt": "2020-10-20T16:15:00.019Z",
+            "user": {
+                "name": "Isa",
+                "slug": "isas-studio"
+            },
+            "parent": "5f8e06aa140b071dd48de208",
+            "createdAt": "2020-10-19T21:38:57.608Z",
+            "updatedAt": "2020-10-20T16:15:00.019Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Deep in the forest lies a cabin..."
+        }
+    ],
+    "colorsArray": [
+        "f5f5d9",
+        "d9c68d",
+        "5fba51",
+        "2d7f55",
+        "234d4c",
+        "1b2a39",
+        "464d51",
+        "808e8c",
+        "374eb0",
+        "312661",
+        "902727",
+        "c27343",
+        "864a3c",
+        "4d2e30",
+        "261c23",
+        "0d0814"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5f8e06aa140b071dd48de208",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

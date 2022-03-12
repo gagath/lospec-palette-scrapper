@@ -1,0 +1,116 @@
+{
+    "_id": "61b3c6e8d1254706932bde3c",
+    "tags": [
+        "polyphrog"
+    ],
+    "colors": [
+        "c64d43",
+        "633324",
+        "b16b33",
+        "e7b860",
+        "648228",
+        "134332",
+        "0c0c14",
+        "5f2b44",
+        "9c4c91",
+        "e79299",
+        "f7f9f0",
+        "5bceb9",
+        "427a9e",
+        "343265",
+        "7a6b79",
+        "b3a3b1"
+    ],
+    "downloads": "287",
+    "featured": false,
+    "likes": 25,
+    "comments": 2,
+    "slug": "ramp-rainbow",
+    "publishedAt": "2021-12-14T17:00:00.079Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "ramp-rainbow ",
+    "hashtag": "ramprainbow",
+    "description": "ramps!",
+    "creator": false,
+    "numberOfColors": 16,
+    "createdAt": "2021-12-10T21:30:16.186Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61b400224060553122614fae",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "ramp-rainbow  Palette Example by polyphorge",
+            "slug": "ramp-rainbow-palette-example-by-polyphorge-3",
+            "publishedAt": "2021-12-22T09:35:00.030Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "61b3c6e8d1254706932bde3c",
+            "image": "palette-examples/ramp-rainbow-palette-example-by-polyphorge-3-61b400.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-12-11T01:34:26.232Z",
+            "updatedAt": "2021-12-22T09:35:00.030Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "61b4003d4060553122614fb3",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "ramp-rainbow  Palette Example by polyphorge",
+            "slug": "ramp-rainbow-palette-example-by-polyphorge-4",
+            "publishedAt": "2021-12-11T19:00:00.072Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "61b3c6e8d1254706932bde3c",
+            "image": "palette-examples/ramp-rainbow-palette-example-by-polyphorge-4-61b400.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-12-11T01:34:53.296Z",
+            "updatedAt": "2021-12-11T19:00:00.072Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "c64d43",
+        "633324",
+        "b16b33",
+        "e7b860",
+        "648228",
+        "134332",
+        "0c0c14",
+        "5f2b44",
+        "9c4c91",
+        "e79299",
+        "f7f9f0",
+        "5bceb9",
+        "427a9e",
+        "343265",
+        "7a6b79",
+        "b3a3b1"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61b3c6e8d1254706932bde3c",
+        "type": "palettes",
+        "count": 25,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

@@ -1,0 +1,69 @@
+{
+    "_id": "5dc86824e8b5507637cc75f8",
+    "slug": "gato-roboto-nicotine",
+    "description": "A palette from the game <i><a href=\"https://gatoroboto.com/\" target=\"_blank\">Gato Roboto</a></i>.<br />",
+    "colors": [
+        "0b1000",
+        "f0ba54"
+    ],
+    "creator": false,
+    "comments": 0,
+    "likes": 4,
+    "createdAt": "2019-11-10T19:42:28.673Z",
+    "featured": false,
+    "tags": [
+        "game",
+        "gatoroboto",
+        "software",
+        "1bit"
+    ],
+    "downloads": "91",
+    "numberOfColors": 2,
+    "hashtag": "gatorobotonicotine",
+    "title": "Gato Roboto - Nicotine",
+    "user": {
+        "name": "PureAsbestos",
+        "slug": "pureasbestos"
+    },
+    "publishedAt": "2019-11-10T19:42:28.673Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607643c704e19427839730b7",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Gato Roboto - Nicotine Palette Example by Casei Solus",
+            "slug": "gato-roboto-nicotine-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-17T00:50:00.028Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5dc86824e8b5507637cc75f8",
+            "image": "palette-examples/gato-roboto-nicotine-palette-example-by-casei-solus-607643.png",
+            "creator": true,
+            "description": "Yellow clouds.",
+            "createdAt": "2021-04-14T01:22:15.326Z",
+            "updatedAt": "2021-04-17T00:50:00.029Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Yellow clouds."
+        }
+    ],
+    "colorsArray": [
+        "0b1000",
+        "f0ba54"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "5dc86824e8b5507637cc75f8",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,72 @@
+{
+    "_id": "607daaa01279a75da464ccac",
+    "tags": [
+        "gameboy",
+        "computer",
+        "hardware"
+    ],
+    "colors": [
+        "375620",
+        "6d8e34",
+        "81b70c",
+        "cddb57"
+    ],
+    "downloads": "233",
+    "featured": false,
+    "likes": 11,
+    "comments": 0,
+    "slug": "greeny-boy-4",
+    "publishedAt": "2021-09-18T15:20:00.027Z",
+    "user": {
+        "name": "GhostcatPNG",
+        "slug": "ghostcatpng"
+    },
+    "title": "Greeny Boy 4",
+    "hashtag": "greenyboy4",
+    "description": "I was inspired by my purple palette to make a green one!\u00a0\u00a0",
+    "creator": true,
+    "createdAt": "2021-04-19T16:06:56.547Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607daafd1279a75da464ccb0",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Greeny Boy 4 Palette Example by GhostcatPNG",
+            "slug": "greeny-boy-4-palette-example-by-ghostcatpng",
+            "publishedAt": "2021-04-21T00:15:00.042Z",
+            "user": {
+                "name": "GhostcatPNG",
+                "slug": "ghostcatpng"
+            },
+            "parent": "607daaa01279a75da464ccac",
+            "image": "palette-examples/greeny-boy-4-palette-example-by-ghostcatpng-607daa.png",
+            "creator": true,
+            "description": "This is the palette I am going to be using in my game!",
+            "createdAt": "2021-04-19T16:08:29.600Z",
+            "updatedAt": "2021-04-21T00:15:00.043Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "This is the palette I am going to be using in my game!"
+        }
+    ],
+    "colorsArray": [
+        "375620",
+        "6d8e34",
+        "81b70c",
+        "cddb57"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "607daaa01279a75da464ccac",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

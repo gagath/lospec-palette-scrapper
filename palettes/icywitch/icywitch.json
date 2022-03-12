@@ -1,0 +1,80 @@
+{
+    "_id": "611b7fabd89d3856c7d7eb68",
+    "tags": [
+        "ice",
+        "witch",
+        "magic",
+        "frozen",
+        "6colors",
+        "bright",
+        "teal"
+    ],
+    "colors": [
+        "313638",
+        "32535f",
+        "0a777a",
+        "4aa881",
+        "73efe8",
+        "ecf3b0"
+    ],
+    "downloads": "792",
+    "featured": false,
+    "likes": 67,
+    "comments": 0,
+    "slug": "icywitch",
+    "publishedAt": "2021-08-23T12:15:00.046Z",
+    "user": {
+        "name": "Royal_Naym",
+        "slug": "royalnaym"
+    },
+    "title": "IcyWitch",
+    "hashtag": "icywitch",
+    "description": "A palette made to convey a teal, murky water frozen into yellowy ice. Like a magical, wintery swamp, if you will.",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2021-08-17T09:21:47.198Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "611b7fbad89d3856c7d7eb6a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "IcyWitch Palette Example by Royal_Naym",
+            "slug": "icywitch-palette-example-by-royalnaym",
+            "publishedAt": "2021-08-22T18:30:00.036Z",
+            "user": {
+                "name": "Royal_Naym",
+                "slug": "royalnaym"
+            },
+            "parent": "611b7fabd89d3856c7d7eb68",
+            "image": "palette-examples/icywitch-palette-example-by-royalnaym-611b7f.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-08-17T09:22:02.702Z",
+            "updatedAt": "2021-08-22T18:30:00.036Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "313638",
+        "32535f",
+        "0a777a",
+        "4aa881",
+        "73efe8",
+        "ecf3b0"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "611b7fabd89d3856c7d7eb68",
+        "type": "palettes",
+        "count": 67,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

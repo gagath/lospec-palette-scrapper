@@ -1,0 +1,71 @@
+{
+    "_id": "6057ce33e954b90a472f363c",
+    "tags": [
+        "isasstudio",
+        "gameboy"
+    ],
+    "colors": [
+        "382a4b",
+        "575b2d",
+        "9277b8",
+        "b7b7b1"
+    ],
+    "downloads": "177",
+    "featured": false,
+    "likes": 28,
+    "comments": 0,
+    "title": "Dubious GB",
+    "hashtag": "dubiousgb",
+    "description": "A yucky, not-so-good-looking, weirdly hue-shifted, gameboy palette",
+    "creator": true,
+    "slug": "dubious-gb",
+    "publishedAt": "2021-04-02T11:30:00.035Z",
+    "user": {
+        "name": "Isa",
+        "slug": "isas-studio"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-03-21T22:52:35.315Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6057ce61e954b90a472f3642",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/dubious-gb-palette-example-by-isa-6057ce.png",
+            "creator": true,
+            "description": "The photos of a family of slimes",
+            "title": "Dubious GB Palette Example by Isa",
+            "slug": "dubious-gb-palette-example-by-isa",
+            "publishedAt": "2021-03-23T15:40:00.009Z",
+            "user": {
+                "name": "Isa",
+                "slug": "isas-studio"
+            },
+            "parent": "6057ce33e954b90a472f363c",
+            "createdAt": "2021-03-21T22:53:21.969Z",
+            "updatedAt": "2021-03-23T15:40:00.009Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "The photos of a family of slimes"
+        }
+    ],
+    "colorsArray": [
+        "382a4b",
+        "575b2d",
+        "9277b8",
+        "b7b7b1"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6057ce33e954b90a472f363c",
+        "type": "palettes",
+        "count": 28,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

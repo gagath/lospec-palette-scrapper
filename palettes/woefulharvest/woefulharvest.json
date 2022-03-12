@@ -1,0 +1,70 @@
+{
+    "_id": "6038d0cdc77567771b6ac0e4",
+    "tags": [
+        "2bit"
+    ],
+    "colors": [
+        "661c1d",
+        "57551d",
+        "6c5799",
+        "679173"
+    ],
+    "downloads": "38",
+    "featured": false,
+    "likes": 8,
+    "comments": 0,
+    "title": "Woeful harvest",
+    "hashtag": "woefulharvest",
+    "description": "Created during a Discord collab, this palette is a proper lens to tell a story of failing strength, decay and spotting hidden rot.",
+    "creator": true,
+    "slug": "woeful-harvest",
+    "publishedAt": "2021-03-02T21:40:00.022Z",
+    "user": {
+        "name": "Quickmarble",
+        "slug": "quickmarble"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-02-26T10:43:25.982Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60a3ce815a472f303322799f",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Woeful harvest Palette Example by Quickmarble",
+            "slug": "woeful-harvest-palette-example-by-quickmarble",
+            "publishedAt": "2021-05-24T15:10:00.022Z",
+            "user": {
+                "name": "Quickmarble",
+                "slug": "quickmarble"
+            },
+            "parent": "6038d0cdc77567771b6ac0e4",
+            "image": "palette-examples/woeful-harvest-palette-example-by-quickmarble-60a3ce.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-05-18T14:26:09.208Z",
+            "updatedAt": "2021-05-24T15:10:00.023Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "661c1d",
+        "57551d",
+        "6c5799",
+        "679173"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6038d0cdc77567771b6ac0e4",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

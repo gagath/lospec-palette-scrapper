@@ -1,0 +1,61 @@
+{
+    "_id": "614b2adaa08ae61bbed59456",
+    "tags": [],
+    "colors": [
+        "000614",
+        "150261",
+        "482980",
+        "5848b3",
+        "8682c7",
+        "c4afdb",
+        "f596a3",
+        "eb6375",
+        "e32d5b",
+        "c20034",
+        "7d126d",
+        "491157"
+    ],
+    "downloads": "49",
+    "featured": false,
+    "likes": 4,
+    "comments": 0,
+    "slug": "trike-12",
+    "publishedAt": "2021-10-11T09:45:00.038Z",
+    "user": {
+        "name": "Valerie Lynn",
+        "slug": "weulkin"
+    },
+    "title": "Trike-12",
+    "hashtag": "trike12",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 12,
+    "createdAt": "2021-09-22T13:08:42.208Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000614",
+        "150261",
+        "482980",
+        "5848b3",
+        "8682c7",
+        "c4afdb",
+        "f596a3",
+        "eb6375",
+        "e32d5b",
+        "c20034",
+        "7d126d",
+        "491157"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "614b2adaa08ae61bbed59456",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

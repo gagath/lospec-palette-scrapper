@@ -1,0 +1,61 @@
+{
+    "_id": "5dd089a86d54be5cde442a67",
+    "slug": "autumn-skies",
+    "description": "",
+    "colors": [
+        "512a22",
+        "8e4231",
+        "a45337",
+        "ca873d",
+        "dfa750",
+        "7d6a39",
+        "3f4932",
+        "303524",
+        "202016"
+    ],
+    "creator": true,
+    "comments": 0,
+    "likes": 21,
+    "createdAt": "2019-11-16T23:43:36.716Z",
+    "featured": false,
+    "tags": [
+        "autumn",
+        "red",
+        "orange",
+        "green",
+        "jimison3"
+    ],
+    "downloads": "456",
+    "numberOfColors": 9,
+    "hashtag": "autumnskies37",
+    "title": "Autumn Skies",
+    "user": {
+        "name": "Jimison3",
+        "slug": "jimison3"
+    },
+    "publishedAt": "2019-11-16T23:43:36.716Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "512a22",
+        "8e4231",
+        "a45337",
+        "ca873d",
+        "dfa750",
+        "7d6a39",
+        "3f4932",
+        "303524",
+        "202016"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5dd089a86d54be5cde442a67",
+        "type": "palettes",
+        "count": 21,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

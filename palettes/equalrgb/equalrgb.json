@@ -1,0 +1,55 @@
+{
+    "_id": "60e0a496508f28718b6fd7cd",
+    "tags": [
+        "calculated"
+    ],
+    "colors": [
+        "000000",
+        "bb2222",
+        "009900",
+        "4444dd",
+        "44dddd",
+        "ff66ff",
+        "bbbb22",
+        "ffffff"
+    ],
+    "downloads": "28",
+    "featured": false,
+    "likes": 5,
+    "comments": 0,
+    "slug": "equalrgb",
+    "publishedAt": "2021-07-06T10:55:00.057Z",
+    "user": {
+        "name": "A.J. Otero",
+        "slug": "aj-otero"
+    },
+    "title": "EqualRGB",
+    "hashtag": "equalrgb",
+    "description": "So here I've tried to reduce the redundancy in the 3-bit RGB palette by making each of the color channels have approximately the same effect on a colors luminance, instead of having green being disproportionately bright and blue disproportionately dark.",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-07-03T17:55:34.458Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "bb2222",
+        "009900",
+        "4444dd",
+        "44dddd",
+        "ff66ff",
+        "bbbb22",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60e0a496508f28718b6fd7cd",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

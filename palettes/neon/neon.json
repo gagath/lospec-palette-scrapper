@@ -1,0 +1,49 @@
+{
+    "_id": "60ed76db89ae425d7bbbda83",
+    "tags": [
+        "neon"
+    ],
+    "colors": [
+        "fe1951",
+        "0dfaa3",
+        "ffc144",
+        "06062c",
+        "0b294b"
+    ],
+    "downloads": "87",
+    "featured": false,
+    "likes": 10,
+    "comments": 0,
+    "slug": "neonscape",
+    "publishedAt": "2021-07-23T13:20:00.019Z",
+    "user": {
+        "name": "Caps",
+        "slug": "badass-bravo"
+    },
+    "title": "neonscape",
+    "hashtag": "neon",
+    "description": "neon pallete i guess",
+    "creator": true,
+    "numberOfColors": 5,
+    "createdAt": "2021-07-13T11:19:55.479Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "fe1951",
+        "0dfaa3",
+        "ffc144",
+        "06062c",
+        "0b294b"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "60ed76db89ae425d7bbbda83",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

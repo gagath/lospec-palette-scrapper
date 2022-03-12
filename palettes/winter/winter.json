@@ -1,0 +1,50 @@
+{
+    "_id": "612527f8e8380b125f3e5da1",
+    "tags": [
+        "snow",
+        "winter",
+        "blue",
+        "ice"
+    ],
+    "colors": [
+        "d8f2f1",
+        "9ec7d5",
+        "6589ad",
+        "262b3b"
+    ],
+    "downloads": "154",
+    "featured": false,
+    "likes": 9,
+    "comments": 1,
+    "slug": "frost",
+    "publishedAt": "2021-09-20T03:20:00.035Z",
+    "user": {
+        "name": "helperman",
+        "slug": "helperman"
+    },
+    "title": "frost",
+    "hashtag": "winter",
+    "description": "a 4 coler pallet i made for a\u00a0 picture of a winter forest i did",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-08-24T17:10:16.439Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "d8f2f1",
+        "9ec7d5",
+        "6589ad",
+        "262b3b"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "612527f8e8380b125f3e5da1",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

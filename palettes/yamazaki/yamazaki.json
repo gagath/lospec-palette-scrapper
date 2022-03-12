@@ -1,0 +1,53 @@
+{
+    "_id": "60f5664c8535811696b66062",
+    "tags": [
+        "yamazaki",
+        "retro",
+        "showa"
+    ],
+    "colors": [
+        "363a54",
+        "8c7e7d",
+        "d9c8be",
+        "d699a0",
+        "c74061",
+        "843451"
+    ],
+    "downloads": "302",
+    "featured": false,
+    "likes": 26,
+    "comments": 1,
+    "slug": "yamazaki",
+    "publishedAt": "2021-07-30T16:25:00.028Z",
+    "user": {
+        "name": "Gors",
+        "slug": "spritergors"
+    },
+    "title": "Yamazaki",
+    "hashtag": "yamazaki",
+    "description": "This palette was sampled and edited from an advertisement for Yamazaki Baking Company, a Japanese company that was founded in 9 March, 1948. In post-World War II Japan, food supplies were dangerously low and the American food aid was Western-centric, supplying them with culturally alien foodstuffs like bread. A holdover from this period is the modern term for sliced white bread, \u98df\u30d1\u30f3 'shokupan', meaning \"bread for eating\" - back then, Japanese people would use it as pencil erasers. In the following years, bread started to be incorporated in the Japanese diet, with the local bakeries opening their businesses; the creation of 'anpan', a sweet roll filled with azuki bean paste, was created to cater to the local preferences, and now several bread and pastry products exist in Japan. It is also worthy to note that during the post-war era, efforts were made to create food that was easy to make and culturally appropriate to Asian palates. This saw the creation of ramen stands, or 'shina-soba' as it was known - noodles in pork broth - that also became an iconic element of the Japanese cuisine. This palette brings memories of this era, with six warm colors that resemble printing from Japanese Showa era - the creamy white matches well with the duotone blue-black and red-pink combo, bringing a sense of nostalgia and warmth, while also being slightly melancholic, bringing about memories of a war-torn country trying to rebuild itself from the rubble. While we all know the effects of the WWII, small cultural elements like those can give us further insight on how world-changing this event was.",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2021-07-19T11:47:24.045Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "363a54",
+        "8c7e7d",
+        "d9c8be",
+        "d699a0",
+        "c74061",
+        "843451"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "60f5664c8535811696b66062",
+        "type": "palettes",
+        "count": 26,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

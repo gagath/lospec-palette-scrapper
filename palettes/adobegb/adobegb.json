@@ -1,0 +1,68 @@
+{
+    "_id": "603f44898ce37d0d1b52e419",
+    "tags": [],
+    "colors": [
+        "480d0d",
+        "b7451d",
+        "5aa195",
+        "e4d1b0"
+    ],
+    "downloads": "99",
+    "featured": false,
+    "likes": 9,
+    "comments": 0,
+    "title": "Adobe GB",
+    "hashtag": "adobegb",
+    "description": "",
+    "creator": true,
+    "slug": "adobe-gb",
+    "publishedAt": "2021-03-14T17:40:00.030Z",
+    "user": {
+        "name": "Clorox_Cappuccino",
+        "slug": "chris-anstead"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-03-03T08:10:49.049Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607f98699227cd7cfff6270b",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Adobe GB Palette Example by Casei Solus",
+            "slug": "adobe-gb-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-21T17:10:00.017Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "603f44898ce37d0d1b52e419",
+            "image": "palette-examples/adobe-gb-palette-example-by-casei-solus-607f98.png",
+            "creator": true,
+            "description": "A mesa.",
+            "createdAt": "2021-04-21T03:13:45.171Z",
+            "updatedAt": "2021-04-21T17:10:00.018Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A mesa."
+        }
+    ],
+    "colorsArray": [
+        "480d0d",
+        "b7451d",
+        "5aa195",
+        "e4d1b0"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "603f44898ce37d0d1b52e419",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

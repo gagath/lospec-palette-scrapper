@@ -1,0 +1,53 @@
+{
+    "_id": "5fdb2b01f2bcbc157cea9cac",
+    "tags": [],
+    "colors": [
+        "2a211f",
+        "29442e",
+        "6a872f",
+        "a2ab4f",
+        "61381f",
+        "ff840d",
+        "e2b159",
+        "e0c298"
+    ],
+    "downloads": "127",
+    "featured": false,
+    "likes": 7,
+    "comments": 0,
+    "title": "Organic Christmas 8",
+    "hashtag": "organicchristmas8",
+    "description": "Based on my Advent Calendar",
+    "creator": true,
+    "slug": "organic-christmas-8",
+    "publishedAt": "2020-12-19T02:30:00.034Z",
+    "user": {
+        "name": "\ud83d\udc9c hei\u1e9een but in Advent Lockdown \ud83d\udc9c",
+        "slug": "birgerbosbach"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2020-12-17T09:55:14.003Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "2a211f",
+        "29442e",
+        "6a872f",
+        "a2ab4f",
+        "61381f",
+        "ff840d",
+        "e2b159",
+        "e0c298"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fdb2b01f2bcbc157cea9cac",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

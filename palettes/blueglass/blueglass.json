@@ -1,0 +1,85 @@
+{
+    "_id": "60dc75d1006f6d06b5b823a5",
+    "tags": [
+        "8",
+        "mint",
+        "blue",
+        "cold",
+        "icy",
+        "night",
+        "ice",
+        "glass"
+    ],
+    "colors": [
+        "0c0a1b",
+        "222034",
+        "394c62",
+        "626d83",
+        "6882b6",
+        "83aa9c",
+        "a4c2cd",
+        "cbdbfc"
+    ],
+    "downloads": "551",
+    "featured": false,
+    "likes": 22,
+    "comments": 0,
+    "slug": "blue-glass",
+    "publishedAt": "2021-09-08T15:20:00.034Z",
+    "user": {
+        "name": "Eliimperio",
+        "slug": "eliimperio"
+    },
+    "title": "BLUE GLASS",
+    "hashtag": "blueglass",
+    "description": "A 8 cold colors\u00a0 palette, ranging from a deep blue to mint green.",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-06-30T13:46:57.986Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60dcada0006f6d06b5b88fc1",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "BLUE GLASS Palette Example by Eliimperio",
+            "slug": "blue-glass-palette-example-by-eliimperio-2",
+            "publishedAt": "2021-08-22T21:44:55.531Z",
+            "user": {
+                "name": "Eliimperio",
+                "slug": "eliimperio"
+            },
+            "parent": "60dc75d1006f6d06b5b823a5",
+            "image": "palette-examples/blue-glass-palette-example-by-eliimperio-2-60dcad.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-06-30T17:45:04.071Z",
+            "updatedAt": "2021-08-22T21:44:55.531Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "0c0a1b",
+        "222034",
+        "394c62",
+        "626d83",
+        "6882b6",
+        "83aa9c",
+        "a4c2cd",
+        "cbdbfc"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60dc75d1006f6d06b5b823a5",
+        "type": "palettes",
+        "count": 22,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

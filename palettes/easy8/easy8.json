@@ -1,0 +1,76 @@
+{
+    "_id": "60a19ee99cc7290962f8e8cb",
+    "tags": [],
+    "colors": [
+        "000000",
+        "ff0055",
+        "ffaa00",
+        "ccff00",
+        "00ffaa",
+        "0055ff",
+        "aa00ff",
+        "ffffff"
+    ],
+    "downloads": "86",
+    "featured": false,
+    "likes": 6,
+    "comments": 2,
+    "slug": "easy8",
+    "publishedAt": "2021-05-24T11:00:00.051Z",
+    "user": {
+        "name": "A.J. Otero",
+        "slug": "aj-otero"
+    },
+    "title": "Easy8",
+    "hashtag": "easy8",
+    "description": "Small, 8-color palette designed for simple art.\u00a0 I would consider using this palette if I were ever to make a drawing software like MSpaint.",
+    "creator": true,
+    "createdAt": "2021-05-16T22:38:33.145Z",
+    "numberOfColors": 8,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60a1a5329cc7290962f8e916",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Easy8 Palette Example by A.J. Otero",
+            "slug": "easy8-palette-example-by-aj-otero",
+            "publishedAt": "2021-05-23T17:10:00.010Z",
+            "user": {
+                "name": "A.J. Otero",
+                "slug": "aj-otero"
+            },
+            "parent": "60a19ee99cc7290962f8e8cb",
+            "image": "palette-examples/easy8-palette-example-by-aj-otero-60a1a5.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-05-16T23:05:22.481Z",
+            "updatedAt": "2021-05-23T17:10:00.011Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "ff0055",
+        "ffaa00",
+        "ccff00",
+        "00ffaa",
+        "0055ff",
+        "aa00ff",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60a19ee99cc7290962f8e8cb",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

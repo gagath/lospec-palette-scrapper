@@ -1,0 +1,43 @@
+{
+    "_id": "618d2bd62b07ed2a1289c336",
+    "tags": [],
+    "colors": [
+        "000000",
+        "a81000",
+        "fce0a8"
+    ],
+    "downloads": "28",
+    "featured": false,
+    "likes": 4,
+    "comments": 2,
+    "slug": "super-mario-goompa",
+    "publishedAt": "2021-11-18T10:10:00.020Z",
+    "user": {
+        "name": "\u00c7\u0131nar Ada",
+        "slug": "cinar-ada"
+    },
+    "title": "Super Mario Goompa",
+    "hashtag": "supermario",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 3,
+    "createdAt": "2021-11-11T14:42:30.599Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "a81000",
+        "fce0a8"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 33.333333333333336,
+    "height": 32,
+    "likebutton": {
+        "content": "618d2bd62b07ed2a1289c336",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

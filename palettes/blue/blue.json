@@ -1,0 +1,47 @@
+{
+    "_id": "61bd7ef930d5e028960fe517",
+    "tags": [
+        "blue"
+    ],
+    "colors": [
+        "0c1449",
+        "3b59d0",
+        "6f9be2",
+        "c6dcf6"
+    ],
+    "downloads": "60",
+    "featured": false,
+    "likes": 6,
+    "comments": 1,
+    "slug": "blue-exe",
+    "publishedAt": "2021-12-23T00:30:00.049Z",
+    "user": {
+        "name": "small oof",
+        "slug": "small-oof"
+    },
+    "title": "blue exe",
+    "hashtag": "blue",
+    "description": "perfect blue colors for pixel art",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-12-18T06:26:01.450Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "0c1449",
+        "3b59d0",
+        "6f9be2",
+        "c6dcf6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61bd7ef930d5e028960fe517",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

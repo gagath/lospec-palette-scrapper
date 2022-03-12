@@ -1,0 +1,47 @@
+{
+    "_id": "613357adfc02da63ca02e086",
+    "tags": [],
+    "colors": [
+        "290606",
+        "617673",
+        "9daabb",
+        "ffe100",
+        "ffce96"
+    ],
+    "downloads": "31",
+    "featured": false,
+    "likes": 5,
+    "comments": 0,
+    "slug": "guy-with-a-golden-circle-on-head",
+    "publishedAt": "2021-10-02T14:40:00.095Z",
+    "user": {
+        "name": "Rhiddhi Prasad Das",
+        "slug": "rhiddhid"
+    },
+    "title": "guy with a golden circle on head",
+    "hashtag": "guywithagoldencircleonhead",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 5,
+    "createdAt": "2021-09-04T11:25:33.775Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "290606",
+        "617673",
+        "9daabb",
+        "ffe100",
+        "ffce96"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "613357adfc02da63ca02e086",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

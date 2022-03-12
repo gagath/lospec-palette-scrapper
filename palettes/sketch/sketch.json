@@ -1,0 +1,63 @@
+{
+    "_id": "600f93358f3f024648568036",
+    "tags": [
+        "pencilsketch"
+    ],
+    "colors": [
+        "ffffe0",
+        "fcef8d",
+        "f6ce98",
+        "f2a561",
+        "d37b86",
+        "ff2d55",
+        "2dff69",
+        "aeffd5",
+        "5998ff",
+        "202020",
+        "606060",
+        "808080"
+    ],
+    "downloads": "80",
+    "featured": false,
+    "likes": 3,
+    "comments": 0,
+    "title": "Pencil Sketch",
+    "hashtag": "sketch",
+    "description": "This is a palette made by me, I hope you like it! I carefully chose the colours as well.",
+    "creator": true,
+    "slug": "pencil-sketch",
+    "publishedAt": "2021-03-31T05:30:00.048Z",
+    "user": {
+        "name": "Dotchadm!n",
+        "slug": "dotchadmn"
+    },
+    "numberOfColors": 12,
+    "createdAt": "2021-01-26T03:57:41.451Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffffe0",
+        "fcef8d",
+        "f6ce98",
+        "f2a561",
+        "d37b86",
+        "ff2d55",
+        "2dff69",
+        "aeffd5",
+        "5998ff",
+        "202020",
+        "606060",
+        "808080"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "600f93358f3f024648568036",
+        "type": "palettes",
+        "count": 3,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

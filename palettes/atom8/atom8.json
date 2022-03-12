@@ -1,0 +1,81 @@
+{
+    "_id": "619d89a12f57104bc2d41045",
+    "tags": [
+        "retro",
+        "vibrant",
+        "polyphrog",
+        "atom"
+    ],
+    "colors": [
+        "b30000",
+        "ff8000",
+        "ffffaa",
+        "6cd900",
+        "008000",
+        "000000",
+        "404080",
+        "888888"
+    ],
+    "downloads": "255",
+    "featured": false,
+    "likes": 32,
+    "comments": 5,
+    "slug": "atom-8",
+    "publishedAt": "2021-11-28T14:35:00.029Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "atom-8 \u2622",
+    "hashtag": "atom8",
+    "description": "very retro ;)",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-11-24T00:38:57.451Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "619d89c72f57104bc2d4104d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "atom-8 Palette Example by polyphorge",
+            "slug": "atom-8-palette-example-by-polyphorge",
+            "publishedAt": "2021-11-24T17:35:00.029Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "619d89a12f57104bc2d41045",
+            "image": "palette-examples/atom-8-palette-example-by-polyphorge-619d89.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-11-24T00:39:35.201Z",
+            "updatedAt": "2021-11-24T17:35:00.029Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "b30000",
+        "ff8000",
+        "ffffaa",
+        "6cd900",
+        "008000",
+        "000000",
+        "404080",
+        "888888"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "619d89a12f57104bc2d41045",
+        "type": "palettes",
+        "count": 32,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

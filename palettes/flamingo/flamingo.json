@@ -1,0 +1,73 @@
+{
+    "_id": "5fa80a4e9af9ce34a9da170a",
+    "tags": [
+        "gb",
+        " gameboy",
+        " flamingo",
+        " sk3ll"
+    ],
+    "colors": [
+        "351522",
+        "943054",
+        "db7bae",
+        "f5a1a1"
+    ],
+    "downloads": "402",
+    "featured": false,
+    "likes": 51,
+    "comments": 0,
+    "title": "Flamingo GB",
+    "hashtag": "flamingo",
+    "description": "",
+    "creator": true,
+    "slug": "flamingo-gb",
+    "publishedAt": "2020-11-08T21:35:00.030Z",
+    "user": {
+        "name": "Sk3ll Sk3ll",
+        "slug": "sk3ll2"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-11-08T15:10:06.139Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fa81f3b9af9ce34a9da1822",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/flamingo-gb-palette-example-by-sk3ll-sk3ll-5fa81f.png",
+            "creator": true,
+            "description": "2bit birds are in atm, so I guess I'll make one",
+            "title": "Flamingo GB Palette Example by Sk3ll Sk3ll",
+            "slug": "flamingo-gb-palette-example-by-sk3ll-sk3ll",
+            "publishedAt": "2020-11-08T21:40:00.019Z",
+            "user": {
+                "name": "Sk3ll Sk3ll",
+                "slug": "sk3ll2"
+            },
+            "parent": "5fa80a4e9af9ce34a9da170a",
+            "createdAt": "2020-11-08T16:39:23.730Z",
+            "updatedAt": "2020-11-08T21:40:00.019Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "2bit birds are in atm, so I guess I'll make one"
+        }
+    ],
+    "colorsArray": [
+        "351522",
+        "943054",
+        "db7bae",
+        "f5a1a1"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5fa80a4e9af9ce34a9da170a",
+        "type": "palettes",
+        "count": 51,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

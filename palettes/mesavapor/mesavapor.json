@@ -1,0 +1,84 @@
+{
+    "_id": "608ac77812811b6428617f59",
+    "tags": [
+        "mesa",
+        "orange",
+        "red",
+        "rock",
+        "dirt",
+        "sand",
+        "cacti",
+        "cactus",
+        "green"
+    ],
+    "colors": [
+        "eeeeee",
+        "89babf",
+        "34402b",
+        "4b7230",
+        "3d2b2b",
+        "5d3a3a",
+        "9f5644"
+    ],
+    "downloads": "145",
+    "featured": false,
+    "likes": 23,
+    "comments": 0,
+    "slug": "mesa-vapor",
+    "publishedAt": "2021-09-11T21:20:00.036Z",
+    "user": {
+        "name": "TheArtisan",
+        "slug": "theartisan"
+    },
+    "title": "Mesa Vapor",
+    "hashtag": "mesavapor",
+    "description": "",
+    "creator": true,
+    "createdAt": "2021-04-29T14:49:28.293Z",
+    "numberOfColors": 7,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "608ac78e12811b6428617f5d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Mesa Vapor Palette Example by TheArtisan",
+            "slug": "mesa-vapor-palette-example-by-theartisan",
+            "publishedAt": "2021-05-02T15:55:00.022Z",
+            "user": {
+                "name": "TheArtisan",
+                "slug": "theartisan"
+            },
+            "parent": "608ac77812811b6428617f59",
+            "image": "palette-examples/mesa-vapor-palette-example-by-theartisan-608ac7.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-04-29T14:49:50.122Z",
+            "updatedAt": "2021-05-02T15:55:00.022Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "eeeeee",
+        "89babf",
+        "34402b",
+        "4b7230",
+        "3d2b2b",
+        "5d3a3a",
+        "9f5644"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "608ac77812811b6428617f59",
+        "type": "palettes",
+        "count": 23,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,76 @@
+{
+    "_id": "6061f7d6891e796724d4445c",
+    "tags": [
+        "monster",
+        "retro",
+        "polyphrog"
+    ],
+    "colors": [
+        "000000",
+        "2a161c",
+        "7d2819",
+        "c67839",
+        "fde194",
+        "528363"
+    ],
+    "downloads": "222",
+    "featured": false,
+    "likes": 20,
+    "comments": 0,
+    "slug": "retro-perfect",
+    "publishedAt": "2021-04-04T11:30:00.043Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "retro perfect",
+    "hashtag": "rppal",
+    "description": "",
+    "creator": false,
+    "createdAt": "2021-03-29T15:52:54.861Z",
+    "numberOfColors": 6,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6061fd53891e796724d44489",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "retro perfect Palette Example by polyphorge",
+            "slug": "retro-perfect-palette-example-by-polyphorge",
+            "publishedAt": "2021-03-29T16:40:00.027Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "6061f7d6891e796724d4445c",
+            "image": "palette-examples/retro-perfect-palette-example-by-polyphorge-6061fd.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-03-29T16:16:19.793Z",
+            "updatedAt": "2021-03-29T16:40:00.027Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "2a161c",
+        "7d2819",
+        "c67839",
+        "fde194",
+        "528363"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "6061f7d6891e796724d4445c",
+        "type": "palettes",
+        "count": 20,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

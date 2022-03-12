@@ -1,0 +1,68 @@
+{
+    "_id": "603922eac77567771b6ac5b9",
+    "tags": [],
+    "colors": [
+        "bba075",
+        "734940",
+        "641010",
+        "28000e"
+    ],
+    "downloads": "277",
+    "featured": false,
+    "likes": 28,
+    "comments": 0,
+    "title": "Sanguine GB",
+    "hashtag": "sanguinegb",
+    "description": "",
+    "creator": true,
+    "slug": "sanguine-gb",
+    "publishedAt": "2021-02-28T15:40:00.026Z",
+    "user": {
+        "name": "Clorox_Cappuccino",
+        "slug": "chris-anstead"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-02-26T16:33:46.815Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60392aebc77567771b6ac648",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/sanguine-gb-palette-example-by-cloroxcappuccino-60392a.png",
+            "creator": true,
+            "description": "",
+            "title": "Sanguine GB Palette Example by Clorox_Cappuccino",
+            "slug": "sanguine-gb-palette-example-by-cloroxcappuccino",
+            "publishedAt": "2021-02-28T15:40:00.013Z",
+            "user": {
+                "name": "Clorox_Cappuccino",
+                "slug": "chris-anstead"
+            },
+            "parent": "603922eac77567771b6ac5b9",
+            "createdAt": "2021-02-26T17:07:55.101Z",
+            "updatedAt": "2021-02-28T15:40:00.013Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "bba075",
+        "734940",
+        "641010",
+        "28000e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "603922eac77567771b6ac5b9",
+        "type": "palettes",
+        "count": 28,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

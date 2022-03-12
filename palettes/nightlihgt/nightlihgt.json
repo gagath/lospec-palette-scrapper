@@ -1,0 +1,47 @@
+{
+    "_id": "612549ae8899da52c9583f56",
+    "tags": [
+        "lightinthenight"
+    ],
+    "colors": [
+        "333333",
+        "666666",
+        "667dcc",
+        "b3e6e1"
+    ],
+    "downloads": "47",
+    "featured": false,
+    "likes": 6,
+    "comments": 1,
+    "slug": "night-light",
+    "publishedAt": "2021-09-19T21:20:00.033Z",
+    "user": {
+        "name": "helperman",
+        "slug": "helperman"
+    },
+    "title": "night light",
+    "hashtag": "nightlihgt",
+    "description": "a sorta black and whte pallet i made",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-08-24T19:34:06.190Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "333333",
+        "666666",
+        "667dcc",
+        "b3e6e1"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "612549ae8899da52c9583f56",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

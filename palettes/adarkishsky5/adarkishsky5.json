@@ -1,0 +1,74 @@
+{
+    "_id": "61b7768386747470db55c0ed",
+    "tags": [
+        "dark",
+        "night",
+        "umbl"
+    ],
+    "colors": [
+        "373b48",
+        "686f84",
+        "784ecc",
+        "9966ff",
+        "ebebeb"
+    ],
+    "downloads": "74",
+    "featured": false,
+    "likes": 8,
+    "comments": 1,
+    "slug": "a-darkish-sky",
+    "publishedAt": "2022-01-24T05:20:00.045Z",
+    "user": {
+        "name": "Umbl",
+        "slug": "umbl"
+    },
+    "title": "A Darkish Sky",
+    "hashtag": "adarkishsky5",
+    "description": "You ever look up at the sky and just start wondering? Yeah, that's pretty much the only reason I made this.",
+    "creator": true,
+    "numberOfColors": 5,
+    "createdAt": "2021-12-13T16:36:19.716Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61b77c1038c17c795384c9e3",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "A Darkish Sky Palette Example by Umbl",
+            "slug": "a-darkish-sky-palette-example-by-umbl",
+            "publishedAt": "2022-01-22T09:35:00.021Z",
+            "user": {
+                "name": "Umbl",
+                "slug": "umbl"
+            },
+            "parent": "61b7768386747470db55c0ed",
+            "image": "palette-examples/a-darkish-sky-palette-example-by-umbl-61b77c.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-12-13T17:00:00.374Z",
+            "updatedAt": "2022-01-22T09:35:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "373b48",
+        "686f84",
+        "784ecc",
+        "9966ff",
+        "ebebeb"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "61b7768386747470db55c0ed",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

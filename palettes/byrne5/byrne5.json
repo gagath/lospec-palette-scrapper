@@ -1,0 +1,92 @@
+{
+    "_id": "6154b5f57ff8c54af1d053fb",
+    "tags": [],
+    "colors": [
+        "02080b",
+        "fac22b",
+        "d42a20",
+        "fcf3d9",
+        "0e638e"
+    ],
+    "downloads": "125",
+    "featured": false,
+    "likes": 15,
+    "comments": 1,
+    "slug": "byrne-5",
+    "publishedAt": "2021-10-13T01:45:00.161Z",
+    "user": {
+        "name": "harper",
+        "slug": "harper"
+    },
+    "title": "byrne 5",
+    "hashtag": "byrne5",
+    "description": "A palette drawn from Oliver Byrne's 1847 illustrated edition of Euclid's Elements, which anticipated Bauhaus and minimalist design by over half a century. Also one of the most beautiful books ever printed. There is a great digital reworking here:\u00a0The First Six Books of The Elements of Euclid",
+    "creator": false,
+    "numberOfColors": 5,
+    "createdAt": "2021-09-29T18:52:37.348Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6154b8ae7ff8c54af1d05416",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "byrne 5 Palette Example by harper",
+            "slug": "byrne-5-palette-example-by-harper",
+            "publishedAt": "2021-09-30T20:05:00.042Z",
+            "user": {
+                "name": "harper",
+                "slug": "harper"
+            },
+            "parent": "6154b5f57ff8c54af1d053fb",
+            "image": "palette-examples/byrne-5-palette-example-by-harper-6154b8.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-09-29T19:04:14.255Z",
+            "updatedAt": "2021-09-30T20:05:00.043Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "615e4c48d768603845120d58",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "byrne 5 Palette Example by CasualJoe",
+            "slug": "byrne-5-palette-example-by-casualjoe",
+            "publishedAt": "2021-10-08T10:05:00.027Z",
+            "user": {
+                "name": "CasualJoe",
+                "slug": "casual-joe-3905"
+            },
+            "parent": "6154b5f57ff8c54af1d053fb",
+            "image": "palette-examples/byrne-5-palette-example-by-casualjoe-615e4c.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-10-07T01:24:24.086Z",
+            "updatedAt": "2021-10-08T10:05:00.027Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "02080b",
+        "fac22b",
+        "d42a20",
+        "fcf3d9",
+        "0e638e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "6154b5f57ff8c54af1d053fb",
+        "type": "palettes",
+        "count": 15,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

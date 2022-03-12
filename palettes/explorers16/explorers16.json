@@ -1,0 +1,101 @@
+{
+    "_id": "5fd34f6e6b46456eaa90d772",
+    "tags": [
+        "explorers",
+        " pico8",
+        " skin",
+        " water",
+        " vegetation",
+        " blue",
+        " green",
+        " game"
+    ],
+    "colors": [
+        "000000",
+        "1d2b53",
+        "065ab5",
+        "29adff",
+        "742f29",
+        "ab5236",
+        "ff6e59",
+        "ffccaa",
+        "125359",
+        "008751",
+        "00e436",
+        "a8e72e",
+        "f3ef7d",
+        "ffa300",
+        "ff004d",
+        "422136"
+    ],
+    "downloads": "305",
+    "featured": false,
+    "likes": 20,
+    "comments": 2,
+    "title": "Explorers16",
+    "hashtag": "explorers16",
+    "description": "This is a subset of 16 colors from the\u00a0<a href=\"https://lospec.com/palette-list/pico-8-secret-palette\" target=\"_blank\">Pico-8 secret palette</a>, used for the game\u00a0<a href=\"https://trasevol-dog.itch.io/explorers\" target=\"_blank\">Explorers</a>. These colors were carefully selected with water, skin tones, and vegetation as priorities.<a href=\"https://trasevol-dog.itch.io/explorers\" target=\"_blank\"></a>",
+    "creator": true,
+    "slug": "explorers16",
+    "publishedAt": "2020-12-11T19:25:00.035Z",
+    "user": {
+        "name": "R\u00e9my \ud83c\udf6c",
+        "slug": "trasevol-dog"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-12-11T10:52:30.441Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fd351556b46456eaa90d78c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/explorers16-palette-example-by-trasevol-dog-5fd351.png",
+            "creator": true,
+            "description": "",
+            "title": "Explorers16 Palette Example by TRASEVOL DOG",
+            "slug": "explorers16-palette-example-by-trasevol-dog",
+            "publishedAt": "2020-12-11T19:25:00.026Z",
+            "user": {
+                "name": "R\u00e9my \ud83c\udf6c",
+                "slug": "trasevol-dog"
+            },
+            "parent": "5fd34f6e6b46456eaa90d772",
+            "createdAt": "2020-12-11T11:00:37.968Z",
+            "updatedAt": "2020-12-11T19:25:00.026Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "1d2b53",
+        "065ab5",
+        "29adff",
+        "742f29",
+        "ab5236",
+        "ff6e59",
+        "ffccaa",
+        "125359",
+        "008751",
+        "00e436",
+        "a8e72e",
+        "f3ef7d",
+        "ffa300",
+        "ff004d",
+        "422136"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fd34f6e6b46456eaa90d772",
+        "type": "palettes",
+        "count": 20,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

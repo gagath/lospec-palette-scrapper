@@ -1,0 +1,75 @@
+{
+    "_id": "58ffda90e15f242214faf194",
+    "createdAt": "2017-04-25T23:24:00.279Z",
+    "slug": "gzxp",
+    "description": "A palette inspired by the <a href=\"https://en.m.wikipedia.org/wiki/ZX_Spectrum\">ZX Spectrum</a> by <a href=\"http://grafxkid.tumblr.com/grafxkidpalettes\">GrafxKid</a>.",
+    "colors": [
+        "000000",
+        "ad9ba8",
+        "f3ead7",
+        "9f253f",
+        "da6252",
+        "aa7c14",
+        "e8ca00",
+        "006a14",
+        "0eaf03",
+        "1f1daf",
+        "4458d6"
+    ],
+    "tags": [
+        "artist",
+        "grafxkid"
+    ],
+    "downloads": "130",
+    "numberOfColors": 11,
+    "comments": 0,
+    "likes": 5,
+    "hashtag": "gzxp",
+    "title": "GZXP",
+    "publishedAt": "2017-04-25T23:24:00.279Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "58ffdbc5e15f242214faf195",
+            "description": " Palette example by <a href=\"http://grafxkid.tumblr.com/grafxkidpalettes\">GrafxKid</a> ",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.052Z",
+            "creator": false,
+            "image": "palette-examples/gzxp-palette-example-palette-example-by-grafxkid-58ffdb.png",
+            "likes": 0,
+            "parent": "58ffda90e15f242214faf194",
+            "slug": "gzxp-palette-example-palette-example-by-grafxkid",
+            "title": "gzxp palette example palette example by grafxkid",
+            "updatedAt": "2020-07-31T03:56:11.052Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": " Palette example by GrafxKid "
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "ad9ba8",
+        "f3ead7",
+        "9f253f",
+        "da6252",
+        "aa7c14",
+        "e8ca00",
+        "006a14",
+        "0eaf03",
+        "1f1daf",
+        "4458d6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "58ffda90e15f242214faf194",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

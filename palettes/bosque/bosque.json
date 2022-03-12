@@ -1,0 +1,47 @@
+{
+    "_id": "60f5d0297527ca050e0ba8f5",
+    "tags": [],
+    "colors": [
+        "8b9e7f",
+        "5c6e6d",
+        "434247",
+        "bdc899",
+        "635139"
+    ],
+    "downloads": "73",
+    "featured": false,
+    "likes": 10,
+    "comments": 0,
+    "slug": "bosque",
+    "publishedAt": "2021-09-03T06:25:00.046Z",
+    "user": {
+        "name": "karlos g liberal",
+        "slug": "karlosgliberal"
+    },
+    "title": "bosque",
+    "hashtag": "bosque",
+    "description": "First forrest palette\u00a0",
+    "creator": true,
+    "numberOfColors": 5,
+    "createdAt": "2021-07-19T19:19:05.322Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "8b9e7f",
+        "5c6e6d",
+        "434247",
+        "bdc899",
+        "635139"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "60f5d0297527ca050e0ba8f5",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

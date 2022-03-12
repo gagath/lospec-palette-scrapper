@@ -1,0 +1,52 @@
+{
+    "_id": "5e67bb4be54f2a7d0de2101a",
+    "title": "IN LIVING COLOR (1962)",
+    "slug": "in-living-color-1962",
+    "description": "This was based on the colors of NBC's Laramie Peacock. The color names were sampled from the rare NBC Historic Logo Pin Set.",
+    "colors": [
+        "600000",
+        "ffa500",
+        "ffff00",
+        "008000",
+        "0000ff",
+        "ee82ee",
+        "000000",
+        "ffffff"
+    ],
+    "user": {
+        "name": "Ericson Ramos",
+        "slug": "ericson-ramos"
+    },
+    "creator": false,
+    "hashtag": "inliving-color-1962",
+    "createdAt": "2020-03-10T16:07:39.514Z",
+    "featured": false,
+    "tags": [],
+    "downloads": "90",
+    "numberOfColors": 8,
+    "publishedAt": "2020-03-25T18:12:12.892Z",
+    "likes": 2,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "600000",
+        "ffa500",
+        "ffff00",
+        "008000",
+        "0000ff",
+        "ee82ee",
+        "000000",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5e67bb4be54f2a7d0de2101a",
+        "type": "palettes",
+        "count": 2,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

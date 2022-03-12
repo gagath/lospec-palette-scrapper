@@ -1,0 +1,74 @@
+{
+    "_id": "5f62a0d87e32725f63e3fd16",
+    "tags": [
+        "gameboy",
+        "braquen",
+        "slurry",
+        "2bit",
+        "orange"
+    ],
+    "colors": [
+        "00303b",
+        "4e494c",
+        "d4984a",
+        "ffffc7"
+    ],
+    "downloads": "929",
+    "featured": false,
+    "likes": 84,
+    "comments": 1,
+    "title": "Slurry GB",
+    "hashtag": "slurrygb",
+    "description": "Part of a set of 2 bit palettes I've been working on.",
+    "creator": true,
+    "slug": "slurry-gb",
+    "publishedAt": "2020-10-17T22:45:00.023Z",
+    "user": {
+        "name": "Braquen",
+        "slug": "braquen"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-09-16T23:33:44.989Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f8af073950a7c4f85d9e6e0",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/slurry-gb-palette-example-by-braquen-5f8af0.png",
+            "creator": true,
+            "description": "",
+            "title": "Slurry GB Palette Example by Braquen",
+            "slug": "slurry-gb-palette-example-by-braquen",
+            "publishedAt": "2020-10-17T22:50:00.024Z",
+            "user": {
+                "name": "Braquen",
+                "slug": "braquen"
+            },
+            "parent": "5f62a0d87e32725f63e3fd16",
+            "createdAt": "2020-10-17T13:24:03.793Z",
+            "updatedAt": "2020-10-17T22:50:00.024Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "00303b",
+        "4e494c",
+        "d4984a",
+        "ffffc7"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f62a0d87e32725f63e3fd16",
+        "type": "palettes",
+        "count": 84,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

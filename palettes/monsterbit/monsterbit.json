@@ -1,0 +1,67 @@
+{
+    "_id": "6178433fefa47023b6ce5244",
+    "tags": [
+        "monster",
+        "1bit"
+    ],
+    "colors": [
+        "cde9cd",
+        "321632"
+    ],
+    "downloads": "81",
+    "featured": false,
+    "likes": 8,
+    "comments": 0,
+    "slug": "monster-bit",
+    "publishedAt": "2021-11-01T07:00:00.090Z",
+    "user": {
+        "name": "el Rojaz",
+        "slug": "el-rojaz"
+    },
+    "title": "monster bit",
+    "hashtag": "monsterbit",
+    "description": "a bit of terror",
+    "creator": true,
+    "numberOfColors": 2,
+    "createdAt": "2021-10-26T18:04:47.018Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61e373524d1c803de234ba49",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "monster bit Palette Example by el Rojaz",
+            "slug": "monster-bit-palette-example-by-el-rojazwkzlrb",
+            "publishedAt": "2022-01-16T15:00:00.052Z",
+            "user": {
+                "name": "el Rojaz",
+                "slug": "el-rojaz"
+            },
+            "parent": "6178433fefa47023b6ce5244",
+            "image": "palette-examples/monster-bit-palette-example-by-el-rojazwkzlrb.png",
+            "creator": true,
+            "description": "castle",
+            "createdAt": "2022-01-16T01:22:26.216Z",
+            "updatedAt": "2022-01-16T15:00:00.052Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "castle"
+        }
+    ],
+    "colorsArray": [
+        "cde9cd",
+        "321632"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "6178433fefa47023b6ce5244",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,67 @@
+{
+    "_id": "5fe1381311aa6b0bb92153f8",
+    "tags": [
+        "bright"
+    ],
+    "colors": [
+        "5a10e3",
+        "4678f5",
+        "4ba6f7",
+        "73f8c1",
+        "e5ffc2",
+        "a74ef5",
+        "ee78d9",
+        "ebc465",
+        "fae5a2",
+        "f9fda6",
+        "e0a9a4",
+        "f5cfba",
+        "fcefdc",
+        "fdf4f5"
+    ],
+    "downloads": "86",
+    "featured": false,
+    "likes": 4,
+    "comments": 0,
+    "title": "gaming in the flowers",
+    "hashtag": "gamingintheflowers",
+    "description": "my most used colour pallette on ig\u00a0",
+    "creator": true,
+    "slug": "gaming-in-the-flowers",
+    "publishedAt": "2021-04-14T05:30:00.061Z",
+    "user": {
+        "name": "mew",
+        "slug": "mellowkiin"
+    },
+    "numberOfColors": 14,
+    "createdAt": "2020-12-22T00:04:35.202Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "5a10e3",
+        "4678f5",
+        "4ba6f7",
+        "73f8c1",
+        "e5ffc2",
+        "a74ef5",
+        "ee78d9",
+        "ebc465",
+        "fae5a2",
+        "f9fda6",
+        "e0a9a4",
+        "f5cfba",
+        "fcefdc",
+        "fdf4f5"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5fe1381311aa6b0bb92153f8",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

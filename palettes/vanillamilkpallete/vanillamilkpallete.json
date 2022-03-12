@@ -1,0 +1,97 @@
+{
+    "_id": "5f64933ec537ff5d68a1756c",
+    "tags": [
+        "pastel",
+        " soft",
+        " 16",
+        " spacesandwich"
+    ],
+    "colors": [
+        "28282e",
+        "6c5671",
+        "d9c8bf",
+        "f98284",
+        "b0a9e4",
+        "accce4",
+        "b3e3da",
+        "feaae4",
+        "87a889",
+        "b0eb93",
+        "e9f59d",
+        "ffe6c6",
+        "dea38b",
+        "ffc384",
+        "fff7a0",
+        "fff7e4"
+    ],
+    "downloads": "3,282",
+    "featured": false,
+    "likes": 196,
+    "comments": 3,
+    "title": "vanilla milkshake",
+    "hashtag": "vanillamilkpallete",
+    "description": "",
+    "creator": true,
+    "slug": "vanilla-milkshake",
+    "publishedAt": "2020-09-27T10:05:00.024Z",
+    "user": {
+        "name": "Space Sandwich",
+        "slug": "spacesandwich"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-09-18T11:00:14.080Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f649d4ac537ff5d68a175d4",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/vanilla-milkshake-palette-example-by-nebularts-5f649d.png",
+            "creator": true,
+            "description": "",
+            "title": "vanilla milkshake Palette Example by Nebularts",
+            "slug": "vanilla-milkshake-palette-example-by-nebularts",
+            "publishedAt": "2020-09-19T17:20:00.012Z",
+            "user": {
+                "name": "Space Sandwich",
+                "slug": "spacesandwich"
+            },
+            "parent": "5f64933ec537ff5d68a1756c",
+            "createdAt": "2020-09-18T11:43:06.703Z",
+            "updatedAt": "2020-09-19T17:20:00.012Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "28282e",
+        "6c5671",
+        "d9c8bf",
+        "f98284",
+        "b0a9e4",
+        "accce4",
+        "b3e3da",
+        "feaae4",
+        "87a889",
+        "b0eb93",
+        "e9f59d",
+        "ffe6c6",
+        "dea38b",
+        "ffc384",
+        "fff7a0",
+        "fff7e4"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5f64933ec537ff5d68a1756c",
+        "type": "palettes",
+        "count": 196,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

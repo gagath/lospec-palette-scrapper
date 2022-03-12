@@ -1,0 +1,99 @@
+{
+    "_id": "5fc43f3d69b1720b475d4644",
+    "tags": [
+        "cute",
+        "robots",
+        "enzogray",
+        "technology"
+    ],
+    "colors": [
+        "251d29",
+        "433d4c",
+        "778299",
+        "9caebb",
+        "fbcdcd",
+        "ffffff"
+    ],
+    "downloads": "1,000",
+    "featured": false,
+    "likes": 85,
+    "comments": 3,
+    "title": "robots are cool!",
+    "hashtag": "robotsarecoolpalette",
+    "description": "It's clear to me and probably you\u00a0 -\u00a0 that robots are cute and so darn cool!\u00a0 -\u00a0 this palette's for robots\u00a0 -\u00a0 (but not for no bots),\u00a0 -\u00a0 so download it now, cause robots rule!",
+    "creator": true,
+    "slug": "robots-are-cool",
+    "publishedAt": "2020-12-04T01:45:00.026Z",
+    "user": {
+        "name": "Enzo Gray",
+        "slug": "enzo-gray"
+    },
+    "numberOfColors": 6,
+    "createdAt": "2020-11-30T00:39:25.490Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fc43fb269b1720b475d464f",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/robots-are-cool-palette-example-by-enzo-gray-5fc43f.png",
+            "creator": true,
+            "description": "",
+            "title": "robots are cool! Palette Example by Enzo Gray",
+            "slug": "robots-are-cool-palette-example-by-enzo-gray",
+            "publishedAt": "2020-12-03T19:50:00.019Z",
+            "user": {
+                "name": "Enzo Gray",
+                "slug": "enzo-gray"
+            },
+            "parent": "5fc43f3d69b1720b475d4644",
+            "createdAt": "2020-11-30T00:41:22.698Z",
+            "updatedAt": "2020-12-03T19:50:00.020Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "5fc5c970b03144494fbdf358",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/robots-are-cool-palette-example-by-enzo-gray-2-5fc5c9.png",
+            "creator": true,
+            "description": "",
+            "title": "robots are cool! Palette Example by Enzo Gray",
+            "slug": "robots-are-cool-palette-example-by-enzo-gray-2",
+            "publishedAt": "2020-12-03T19:55:00.020Z",
+            "user": {
+                "name": "Enzo Gray",
+                "slug": "enzo-gray"
+            },
+            "parent": "5fc43f3d69b1720b475d4644",
+            "createdAt": "2020-12-01T04:41:20.123Z",
+            "updatedAt": "2020-12-03T19:55:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "251d29",
+        "433d4c",
+        "778299",
+        "9caebb",
+        "fbcdcd",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5fc43f3d69b1720b475d4644",
+        "type": "palettes",
+        "count": 85,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

@@ -1,0 +1,50 @@
+{
+    "_id": "60b5b633ab11b07bb2c3dcb9",
+    "tags": [
+        "2bit",
+        "monoramp",
+        "flower",
+        "pink"
+    ],
+    "colors": [
+        "ffffff",
+        "beabff",
+        "ca70b1",
+        "8b37ba"
+    ],
+    "downloads": "75",
+    "featured": false,
+    "likes": 8,
+    "comments": 0,
+    "slug": "june-flower",
+    "publishedAt": "2021-09-15T03:20:00.069Z",
+    "user": {
+        "name": "CopheeMoth",
+        "slug": "copheemoth"
+    },
+    "title": "June Flower",
+    "hashtag": "juneflower",
+    "description": "A special palette for the month of June",
+    "creator": true,
+    "createdAt": "2021-06-01T04:23:15.860Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffffff",
+        "beabff",
+        "ca70b1",
+        "8b37ba"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60b5b633ab11b07bb2c3dcb9",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

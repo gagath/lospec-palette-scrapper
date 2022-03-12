@@ -1,0 +1,55 @@
+{
+    "_id": "61696db5be04c567e8834421",
+    "tags": [
+        "green"
+    ],
+    "colors": [
+        "fff5de",
+        "e0eb8d",
+        "bad451",
+        "549c5d",
+        "507a74",
+        "3d575c",
+        "2f3847",
+        "1b101f"
+    ],
+    "downloads": "170",
+    "featured": false,
+    "likes": 6,
+    "comments": 0,
+    "slug": "greenest-green-8",
+    "publishedAt": "2021-10-18T13:45:00.026Z",
+    "user": {
+        "name": "Valerie Lynn",
+        "slug": "weulkin"
+    },
+    "title": "Greenest-Green-8",
+    "hashtag": "greenestgreen8",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-10-15T12:01:57.789Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "fff5de",
+        "e0eb8d",
+        "bad451",
+        "549c5d",
+        "507a74",
+        "3d575c",
+        "2f3847",
+        "1b101f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61696db5be04c567e8834421",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

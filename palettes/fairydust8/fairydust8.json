@@ -1,0 +1,84 @@
+{
+    "_id": "60eccd13318a860fe78e1408",
+    "tags": [
+        "pastel",
+        "soft",
+        "pink",
+        "blue",
+        "fairy",
+        "colorful",
+        "light"
+    ],
+    "colors": [
+        "f0dab1",
+        "e39aac",
+        "c45d9f",
+        "634b7d",
+        "6461c2",
+        "2ba9b4",
+        "93d4b5",
+        "f0f6e8"
+    ],
+    "downloads": "1,034",
+    "featured": false,
+    "likes": 82,
+    "comments": 5,
+    "slug": "fairydust-8",
+    "publishedAt": "2021-07-28T22:25:00.019Z",
+    "user": {
+        "name": "Yousurname",
+        "slug": "yousurname"
+    },
+    "title": "Fairydust 8",
+    "hashtag": "fairydust8",
+    "description": "A pastel color palette with 8 colors that covers a range of hues. Note: The DB Palette Analysis uses the old version of the palette.",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-07-12T23:15:31.675Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60f6de8f2cb72522afad4883",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Fairydust 8 Palette Example by Yousurname",
+            "slug": "fairydust-8-palette-example-by-yousurname-2",
+            "publishedAt": "2021-07-27T16:55:00.012Z",
+            "user": {
+                "name": "Yousurname",
+                "slug": "yousurname"
+            },
+            "parent": "60eccd13318a860fe78e1408",
+            "image": "palette-examples/fairydust-8-palette-example-by-yousurname-2-60f6de.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-07-20T14:32:47.926Z",
+            "updatedAt": "2021-07-27T16:55:00.012Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "f0dab1",
+        "e39aac",
+        "c45d9f",
+        "634b7d",
+        "6461c2",
+        "2ba9b4",
+        "93d4b5",
+        "f0f6e8"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60eccd13318a860fe78e1408",
+        "type": "palettes",
+        "count": 82,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

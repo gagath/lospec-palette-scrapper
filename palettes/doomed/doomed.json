@@ -1,0 +1,92 @@
+{
+    "_id": "5dd6ef2edae56d5fc2689ded",
+    "slug": "doomed",
+    "description": "A reduced and slightly saturated palette from the original Doom screen",
+    "colors": [
+        "000000",
+        "1b3e3c",
+        "3e5b51",
+        "6e7e55",
+        "a9a96b",
+        "ffe1cb",
+        "ffc190",
+        "ffb54a",
+        "ff8837",
+        "ff5d00",
+        "ba4509",
+        "902200",
+        "4e0d00",
+        "dd2200",
+        "ff4e1d",
+        "ffffff"
+    ],
+    "creator": true,
+    "comments": 0,
+    "likes": 18,
+    "createdAt": "2019-11-21T20:10:22.724Z",
+    "featured": false,
+    "tags": [],
+    "downloads": "311",
+    "numberOfColors": 16,
+    "hashtag": "doomed",
+    "title": "Doomed",
+    "user": {
+        "name": "Thorogrimm",
+        "slug": "thorogrimm"
+    },
+    "publishedAt": "2019-11-21T20:10:22.724Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6063acd8f708be142516059f",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Doomed Palette Example by Rako",
+            "slug": "doomed-palette-example-by-rako",
+            "publishedAt": "2021-03-31T17:45:00.024Z",
+            "user": {
+                "name": "Rako",
+                "slug": "gzrako"
+            },
+            "parent": "5dd6ef2edae56d5fc2689ded",
+            "image": "palette-examples/doomed-palette-example-by-rako-6063ac.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-03-30T22:57:28.311Z",
+            "updatedAt": "2021-03-31T17:45:00.025Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "1b3e3c",
+        "3e5b51",
+        "6e7e55",
+        "a9a96b",
+        "ffe1cb",
+        "ffc190",
+        "ffb54a",
+        "ff8837",
+        "ff5d00",
+        "ba4509",
+        "902200",
+        "4e0d00",
+        "dd2200",
+        "ff4e1d",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5dd6ef2edae56d5fc2689ded",
+        "type": "palettes",
+        "count": 18,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

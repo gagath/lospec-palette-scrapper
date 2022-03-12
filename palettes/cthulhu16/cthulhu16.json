@@ -1,0 +1,72 @@
+{
+    "_id": "5ccdbce0763a4a5e61845fb0",
+    "createdAt": "2019-05-04T16:25:04.152Z",
+    "slug": "cthulhu-16",
+    "description": "Created by <a target=\"_blank\" href=\"https://twitter.com/Starbound64\">Starlane</a>.",
+    "colors": [
+        "1d2531",
+        "a5e5c5",
+        "f0fafd",
+        "52a593",
+        "2b6267",
+        "1e303a",
+        "3b4251",
+        "527b92",
+        "7dc1c1",
+        "c7fff3",
+        "b8cbd8",
+        "7e8da1",
+        "8fa990",
+        "e5debb",
+        "cea061",
+        "854731"
+    ],
+    "featured": false,
+    "tags": [
+        "artist",
+        "starlane"
+    ],
+    "downloads": "1,085",
+    "numberOfColors": 16,
+    "likes": 55,
+    "comments": 2,
+    "creator": true,
+    "hashtag": "cthulhu16",
+    "title": "Cthulhu 16",
+    "user": {
+        "name": "Star",
+        "slug": "starlane"
+    },
+    "publishedAt": "2019-05-04T16:25:04.152Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "1d2531",
+        "a5e5c5",
+        "f0fafd",
+        "52a593",
+        "2b6267",
+        "1e303a",
+        "3b4251",
+        "527b92",
+        "7dc1c1",
+        "c7fff3",
+        "b8cbd8",
+        "7e8da1",
+        "8fa990",
+        "e5debb",
+        "cea061",
+        "854731"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5ccdbce0763a4a5e61845fb0",
+        "type": "palettes",
+        "count": 55,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

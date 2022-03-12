@@ -1,0 +1,96 @@
+{
+    "_id": "610b02506cfebd4f75d475b3",
+    "tags": [
+        "16",
+        "sgb",
+        "pokemon"
+    ],
+    "colors": [
+        "3a3a3a",
+        "81719a",
+        "a777b7",
+        "d8b0c0",
+        "efafbf",
+        "df77a7",
+        "cf4f2f",
+        "f79f4f",
+        "f7df6f",
+        "cf9f00",
+        "a76f47",
+        "479f57",
+        "9fcf7f",
+        "a0d0f8",
+        "88a0f0",
+        "f8e8f8"
+    ],
+    "downloads": "163",
+    "featured": false,
+    "likes": 10,
+    "comments": 1,
+    "slug": "super-pocket-boy",
+    "publishedAt": "2021-08-29T12:00:00.075Z",
+    "user": {
+        "name": "lop choco",
+        "slug": "lopchoco"
+    },
+    "title": "super pocket boy",
+    "hashtag": "lopalette",
+    "description": "A collection of colors that I gathered together based on the Super Game Boy palette used for Pokemon RBY. Hope you enjoy!",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2021-08-04T21:10:40.511Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "610b07d86cfebd4f75d4762a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "super pocket boy Palette Example by lop choco",
+            "slug": "super-pocket-boy-palette-example-by-lop-choco-2",
+            "publishedAt": "2021-08-22T20:40:00.024Z",
+            "user": {
+                "name": "lop choco",
+                "slug": "lopchoco"
+            },
+            "parent": "610b02506cfebd4f75d475b3",
+            "image": "palette-examples/super-pocket-boy-palette-example-by-lop-choco-2-610b07.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-08-04T21:34:16.943Z",
+            "updatedAt": "2021-08-22T20:40:00.025Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "3a3a3a",
+        "81719a",
+        "a777b7",
+        "d8b0c0",
+        "efafbf",
+        "df77a7",
+        "cf4f2f",
+        "f79f4f",
+        "f7df6f",
+        "cf9f00",
+        "a76f47",
+        "479f57",
+        "9fcf7f",
+        "a0d0f8",
+        "88a0f0",
+        "f8e8f8"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "610b02506cfebd4f75d475b3",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

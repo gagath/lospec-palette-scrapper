@@ -1,0 +1,73 @@
+{
+    "_id": "61f5c275895ee27e1ca52bab",
+    "tags": [
+        "florescence",
+        "gb",
+        "glow",
+        "night"
+    ],
+    "colors": [
+        "311f5f",
+        "1687a7",
+        "1fd5bc",
+        "edffb1"
+    ],
+    "downloads": "273",
+    "featured": false,
+    "likes": 26,
+    "comments": 0,
+    "slug": "florescence",
+    "publishedAt": "2022-01-31T05:15:00.056Z",
+    "user": {
+        "name": "Miguel Lucero",
+        "slug": "miguel-lucero"
+    },
+    "title": "FLORESCENCE",
+    "hashtag": "florescence",
+    "description": "This is a palette that creates an eerie glow in the dark feeling!",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2022-01-29T22:40:53.371Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61f5c2be895ee27e1ca52bb6",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "FLORESCENCE Palette Example by Miguel Lucero",
+            "slug": "florescence-palette-example-by-miguel-lucerordstra",
+            "publishedAt": "2022-01-30T21:50:00.028Z",
+            "user": {
+                "name": "Miguel Lucero",
+                "slug": "miguel-lucero"
+            },
+            "parent": "61f5c275895ee27e1ca52bab",
+            "image": "palette-examples/florescence-palette-example-by-miguel-lucerordstra.png",
+            "creator": true,
+            "description": "I made this example to show how the palette can be used! The robot character is from a game, i'm working on!",
+            "createdAt": "2022-01-29T22:42:06.191Z",
+            "updatedAt": "2022-01-30T21:50:00.028Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "I made this example to show how the palette can be used! The robot character is from a game, i'm working on!"
+        }
+    ],
+    "colorsArray": [
+        "311f5f",
+        "1687a7",
+        "1fd5bc",
+        "edffb1"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61f5c275895ee27e1ca52bab",
+        "type": "palettes",
+        "count": 26,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

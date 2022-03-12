@@ -1,0 +1,79 @@
+{
+    "_id": "5f2b6d29ff7d6424f4087d8c",
+    "tags": [
+        "lava",
+        " gameboy",
+        " 4",
+        " color",
+        " colors",
+        " red",
+        " orange",
+        " warm",
+        " blue",
+        " purple"
+    ],
+    "colors": [
+        "051f39",
+        "4a2480",
+        "c53a9d",
+        "ff8e80"
+    ],
+    "downloads": "3,602",
+    "featured": false,
+    "likes": 272,
+    "comments": 1,
+    "title": "Lava-GB",
+    "hashtag": "lavagb",
+    "description": "Lava-GB is a simple 4 color palette designed to emulate the colors of lava.",
+    "creator": true,
+    "slug": "lava-gb",
+    "publishedAt": "2020-08-06T14:10:00.024Z",
+    "user": {
+        "name": "Aero",
+        "slug": "aero"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-08-06T02:38:33.699Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f2bb08a37241b2f019e41cb",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/lava-gb-palette-example-by-aero-5f2bb0.png",
+            "creator": true,
+            "description": "",
+            "title": "Lava-GB Palette Example by Aero",
+            "slug": "lava-gb-palette-example-by-aero",
+            "publishedAt": "2020-08-06T14:10:00.013Z",
+            "user": {
+                "name": "Aero",
+                "slug": "aero"
+            },
+            "parent": "5f2b6d29ff7d6424f4087d8c",
+            "createdAt": "2020-08-06T07:26:02.487Z",
+            "updatedAt": "2020-08-06T14:10:00.013Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "051f39",
+        "4a2480",
+        "c53a9d",
+        "ff8e80"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f2b6d29ff7d6424f4087d8c",
+        "type": "palettes",
+        "count": 272,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

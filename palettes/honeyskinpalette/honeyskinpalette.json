@@ -1,0 +1,45 @@
+{
+    "_id": "61731dbe43d648419e44ccc1",
+    "tags": [],
+    "colors": [
+        "e7bd8b",
+        "bc844c",
+        "947454",
+        "67533c"
+    ],
+    "downloads": "110",
+    "featured": false,
+    "likes": 2,
+    "comments": 0,
+    "slug": "honeyskin-palette",
+    "publishedAt": "2021-10-23T07:45:00.018Z",
+    "user": {
+        "name": "iker fernandez",
+        "slug": "iker-fernandez"
+    },
+    "title": "Honeyskin palette",
+    "hashtag": "honeyskinpalette",
+    "description": "",
+    "creator": false,
+    "numberOfColors": 4,
+    "createdAt": "2021-10-22T20:23:26.531Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "e7bd8b",
+        "bc844c",
+        "947454",
+        "67533c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61731dbe43d648419e44ccc1",
+        "type": "palettes",
+        "count": 2,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

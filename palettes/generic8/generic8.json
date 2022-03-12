@@ -1,0 +1,69 @@
+{
+    "_id": "58ffed301827ac5c128149f5",
+    "createdAt": "2017-04-26T00:43:28.366Z",
+    "slug": "generic-8",
+    "description": "Palette created by <a href=\"http://grafxkid.tumblr.com/palettes\" target=\"_blank\">GrafxKid</a>.",
+    "colors": [
+        "1c1121",
+        "edece9",
+        "a13b3b",
+        "f37f9a",
+        "ee961a",
+        "2d5365",
+        "40a933",
+        "25a6c5"
+    ],
+    "tags": [
+        "artist",
+        "grafxkid"
+    ],
+    "downloads": "777",
+    "numberOfColors": 8,
+    "likes": 28,
+    "comments": 2,
+    "hashtag": "generic8",
+    "title": "Generic 8",
+    "publishedAt": "2017-04-26T00:43:28.366Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "58ffed4a1827ac5c128149f6",
+            "description": " Palette example by <a href=\"http://grafxkid.tumblr.com/grafxkidpalettes\">GrafxKid</a> ",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.056Z",
+            "creator": false,
+            "image": "palette-examples/generic-8-palette-example-palette-example-by-grafxkid-58ffed.png",
+            "likes": 0,
+            "parent": "58ffed301827ac5c128149f5",
+            "slug": "generic-8-palette-example-palette-example-by-grafxkid",
+            "title": "generic 8 palette example palette example by grafxkid",
+            "updatedAt": "2020-07-31T03:56:11.056Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": " Palette example by GrafxKid "
+        }
+    ],
+    "colorsArray": [
+        "1c1121",
+        "edece9",
+        "a13b3b",
+        "f37f9a",
+        "ee961a",
+        "2d5365",
+        "40a933",
+        "25a6c5"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "58ffed301827ac5c128149f5",
+        "type": "palettes",
+        "count": 28,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

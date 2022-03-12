@@ -1,0 +1,80 @@
+{
+    "_id": "61219a25b294e97237d86366",
+    "tags": [
+        "fruit",
+        "rainbow",
+        "polyphrog"
+    ],
+    "colors": [
+        "120e23",
+        "472859",
+        "225875",
+        "c53062",
+        "249e4f",
+        "f28941",
+        "b4dc3a",
+        "fff1a9"
+    ],
+    "downloads": "264",
+    "featured": false,
+    "likes": 28,
+    "comments": 3,
+    "slug": "fruitpunch-8",
+    "publishedAt": "2021-08-22T18:15:00.057Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "fruitpunch-8 \ud83c\udf47\ud83c\udf53\ud83c\udf4d\ud83c\udf4f",
+    "hashtag": "fruitpunch8",
+    "description": "COLORS YAY!!!",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-08-22T00:28:21.661Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61219a36b294e97237d86368",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "fruitpunch-8 \ud83c\udf47\ud83c\udf53\ud83c\udf4d\ud83c\udf4f Palette Example by polyphorge",
+            "slug": "fruitpunch-8-palette-example-by-polyphorge",
+            "publishedAt": "2021-08-22T18:15:00.020Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "61219a25b294e97237d86366",
+            "image": "palette-examples/fruitpunch-8-palette-example-by-polyphorge-61219a.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-08-22T00:28:38.213Z",
+            "updatedAt": "2021-08-22T18:15:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "120e23",
+        "472859",
+        "225875",
+        "c53062",
+        "249e4f",
+        "f28941",
+        "b4dc3a",
+        "fff1a9"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61219a25b294e97237d86366",
+        "type": "palettes",
+        "count": 28,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

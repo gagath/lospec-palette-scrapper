@@ -1,0 +1,71 @@
+{
+    "_id": "60ca48a09bf08772619174cb",
+    "tags": [
+        "calculated"
+    ],
+    "colors": [
+        "000000",
+        "005500",
+        "00aa00",
+        "00ff00",
+        "0000ff",
+        "0055ff",
+        "00aaff",
+        "00ffff",
+        "ff0000",
+        "ff5500",
+        "ffaa00",
+        "ffff00",
+        "ff00ff",
+        "ff55ff",
+        "ffaaff",
+        "ffffff"
+    ],
+    "downloads": "152",
+    "featured": false,
+    "likes": 5,
+    "comments": 2,
+    "slug": "4-bit-rgb",
+    "publishedAt": "2021-09-06T00:25:00.042Z",
+    "user": {
+        "name": "A.J. Otero",
+        "slug": "aj-otero"
+    },
+    "title": "4-Bit RGB",
+    "hashtag": "4bitrgb",
+    "description": "1 red bit, 2 green bits, 1 blue bit. \u00a0Similar in concept to the Uzebox palette, which also uses bit combinations for the RGB color channels, in that case adding up to 8 bits in total, rather than 4.",
+    "creator": false,
+    "createdAt": "2021-06-16T18:53:20.376Z",
+    "numberOfColors": 16,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "005500",
+        "00aa00",
+        "00ff00",
+        "0000ff",
+        "0055ff",
+        "00aaff",
+        "00ffff",
+        "ff0000",
+        "ff5500",
+        "ffaa00",
+        "ffff00",
+        "ff00ff",
+        "ff55ff",
+        "ffaaff",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60ca48a09bf08772619174cb",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

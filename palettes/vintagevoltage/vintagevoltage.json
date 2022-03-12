@@ -1,0 +1,76 @@
+{
+    "_id": "61b4d9c96c1ffe62db7135f6",
+    "tags": [
+        "voltage",
+        "soundsdotzip",
+        "electric"
+    ],
+    "colors": [
+        "191930",
+        "263d6e",
+        "2f729e",
+        "eba254",
+        "f5d689",
+        "fff5d9"
+    ],
+    "downloads": "407",
+    "featured": false,
+    "likes": 37,
+    "comments": 2,
+    "slug": "vintage-voltage",
+    "publishedAt": "2021-12-13T17:00:00.208Z",
+    "user": {
+        "name": "SoundsDotZip",
+        "slug": "soundsdotzip"
+    },
+    "title": "Vintage Voltage",
+    "hashtag": "vintagevoltage",
+    "description": "Vintage Voltage is a palette I made because I love the way the dark blue contrasts with the light yellow. Hope you like it!",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2021-12-11T17:03:05.021Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61b4d9f36c1ffe62db7135f9",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Vintage Voltage Palette Example by SoundsDotZip",
+            "slug": "vintage-voltage-palette-example-by-soundsdotzip",
+            "publishedAt": "2021-12-11T18:55:00.033Z",
+            "user": {
+                "name": "SoundsDotZip",
+                "slug": "soundsdotzip"
+            },
+            "parent": "61b4d9c96c1ffe62db7135f6",
+            "image": "palette-examples/vintage-voltage-palette-example-by-soundsdotzip-61b4d9.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-12-11T17:03:47.801Z",
+            "updatedAt": "2021-12-11T18:55:00.033Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "191930",
+        "263d6e",
+        "2f729e",
+        "eba254",
+        "f5d689",
+        "fff5d9"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "61b4d9c96c1ffe62db7135f6",
+        "type": "palettes",
+        "count": 37,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

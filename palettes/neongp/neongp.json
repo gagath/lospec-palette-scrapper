@@ -1,0 +1,68 @@
+{
+    "_id": "6109af1d8965276befcec570",
+    "tags": [],
+    "colors": [
+        "000000",
+        "ffffff",
+        "09ff00",
+        "ff00c5"
+    ],
+    "downloads": "55",
+    "featured": false,
+    "likes": 6,
+    "comments": 0,
+    "slug": "neongp",
+    "publishedAt": "2021-08-30T00:00:00.095Z",
+    "user": {
+        "name": "The Bois",
+        "slug": "the-bois"
+    },
+    "title": "NeonGP",
+    "hashtag": "neongp",
+    "description": "A little glitch-like green and pink neon effect. Kinda like the red and blue style, but edgier\u00a0",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-08-03T21:03:25.631Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6138285e89f1c71580a0512f",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "NeonGP Palette Example by Anonim",
+            "slug": "neongp-palette-example-by-anonim",
+            "publishedAt": "2021-09-09T17:35:00.021Z",
+            "user": {
+                "name": "Anonim",
+                "slug": "anonim"
+            },
+            "parent": "6109af1d8965276befcec570",
+            "image": "palette-examples/neongp-palette-example-by-anonim-613828.png",
+            "creator": true,
+            "description": "Fake Game",
+            "createdAt": "2021-09-08T03:05:02.322Z",
+            "updatedAt": "2021-09-09T17:35:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Fake Game"
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "ffffff",
+        "09ff00",
+        "ff00c5"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6109af1d8965276befcec570",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

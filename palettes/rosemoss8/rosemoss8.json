@@ -1,0 +1,79 @@
+{
+    "_id": "61d7904a4ef45870ceb85822",
+    "tags": [
+        "polyphrog",
+        "moss"
+    ],
+    "colors": [
+        "0a0d11",
+        "552804",
+        "ab3b1e",
+        "b1743d",
+        "c8ac93",
+        "646c5e",
+        "584a17",
+        "2d291c"
+    ],
+    "downloads": "405",
+    "featured": false,
+    "likes": 57,
+    "comments": 4,
+    "slug": "rosemoss-8",
+    "publishedAt": "2022-01-07T02:40:00.052Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "rosemoss-8 \ud83c\udf39",
+    "hashtag": "rosemoss8",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2022-01-07T00:58:50.050Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61d790584ef45870ceb85825",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "rosemoss-8 \ud83c\udf39 Palette Example by polyphrog",
+            "slug": "rosemoss-8-palette-example-by-polyphrogpzrkzw",
+            "publishedAt": "2022-01-07T02:40:00.028Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "61d7904a4ef45870ceb85822",
+            "image": "palette-examples/rosemoss-8-palette-example-by-polyphrogpzrkzw.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-01-07T00:59:04.878Z",
+            "updatedAt": "2022-01-07T02:40:00.028Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "0a0d11",
+        "552804",
+        "ab3b1e",
+        "b1743d",
+        "c8ac93",
+        "646c5e",
+        "584a17",
+        "2d291c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61d7904a4ef45870ceb85822",
+        "type": "palettes",
+        "count": 57,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

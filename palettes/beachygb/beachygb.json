@@ -1,0 +1,72 @@
+{
+    "_id": "5f5920d84972c40eb09a4d47",
+    "tags": [
+        "isasstudio",
+        "gameboy",
+        "2bit"
+    ],
+    "colors": [
+        "1b2764",
+        "126fb1",
+        "2ed444",
+        "ffdd78"
+    ],
+    "downloads": "101",
+    "featured": false,
+    "likes": 13,
+    "comments": 3,
+    "title": "Beachy GB",
+    "hashtag": "beachygb",
+    "description": "",
+    "creator": true,
+    "slug": "beachy-gb",
+    "publishedAt": "2020-09-16T10:25:00.031Z",
+    "user": {
+        "name": "Isa",
+        "slug": "isas-studio"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-09-09T18:37:12.391Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607fa5389227cd7cfff62775",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Beachy GB Palette Example by Casei Solus",
+            "slug": "beachy-gb-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-21T17:30:00.061Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5f5920d84972c40eb09a4d47",
+            "image": "palette-examples/beachy-gb-palette-example-by-casei-solus-607fa5.png",
+            "creator": true,
+            "description": "A calm beach.",
+            "createdAt": "2021-04-21T04:08:24.012Z",
+            "updatedAt": "2021-04-21T17:30:00.062Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A calm beach."
+        }
+    ],
+    "colorsArray": [
+        "1b2764",
+        "126fb1",
+        "2ed444",
+        "ffdd78"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f5920d84972c40eb09a4d47",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,102 @@
+{
+    "_id": "602d6762a6bf513287d96ef2",
+    "tags": [
+        "muddy",
+        "mystery",
+        "roguelike",
+        "muted",
+        "lovecraft",
+        "horror",
+        "sad",
+        "16",
+        "corruption"
+    ],
+    "colors": [
+        "e1d8cb",
+        "c3b197",
+        "a68a64",
+        "614f38",
+        "362c20",
+        "82998f",
+        "525e5a",
+        "3a4040",
+        "222326",
+        "0a0d0a",
+        "20331f",
+        "495840",
+        "888f72",
+        "c7c7a5",
+        "de8d7d",
+        "833121"
+    ],
+    "downloads": "578",
+    "featured": false,
+    "likes": 23,
+    "comments": 0,
+    "title": "Corruption-16",
+    "hashtag": "corruption16",
+    "description": "A muted and muddy Palette with some \"fleshy\" accents that I created for my Lovecraft-themed Roguelike \"The Ruins of of Calaworm\".",
+    "creator": true,
+    "slug": "corruption-16",
+    "publishedAt": "2021-09-17T03:20:00.046Z",
+    "user": {
+        "name": "Creepy Cute Games",
+        "slug": "erdbeerscherge"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2021-02-17T18:58:42.297Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "602d70661cdeb25498e43e13",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/corruption-16-palette-example-by-alexander-raphael-602d70.png",
+            "creator": true,
+            "description": "All the Monsters from my Roguelike (in the making) \"The Ruins of Calaworm\".",
+            "title": "Corruption-16 Palette Example",
+            "slug": "corruption-16-palette-example-by-alexander-raphael",
+            "publishedAt": "2021-03-27T18:40:00.052Z",
+            "user": {
+                "name": "Creepy Cute Games",
+                "slug": "erdbeerscherge"
+            },
+            "parent": "602d6762a6bf513287d96ef2",
+            "createdAt": "2021-02-17T19:37:10.967Z",
+            "updatedAt": "2021-09-18T11:38:24.878Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "All the Monsters from my Roguelike (in the making) \"The Ruins of Calaworm\"."
+        }
+    ],
+    "colorsArray": [
+        "e1d8cb",
+        "c3b197",
+        "a68a64",
+        "614f38",
+        "362c20",
+        "82998f",
+        "525e5a",
+        "3a4040",
+        "222326",
+        "0a0d0a",
+        "20331f",
+        "495840",
+        "888f72",
+        "c7c7a5",
+        "de8d7d",
+        "833121"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "602d6762a6bf513287d96ef2",
+        "type": "palettes",
+        "count": 23,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

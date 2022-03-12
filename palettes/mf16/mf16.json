@@ -1,0 +1,94 @@
+{
+    "_id": "6202f9671235310c2a194164",
+    "tags": [
+        "retro"
+    ],
+    "colors": [
+        "160b27",
+        "3e4768",
+        "8e98b9",
+        "dee6fe",
+        "f3c41c",
+        "f98617",
+        "d42c4f",
+        "5f0267",
+        "4a10e8",
+        "2197f0",
+        "52daf7",
+        "bb4d11",
+        "ed7fb8",
+        "30fca6",
+        "17ba7d",
+        "056244"
+    ],
+    "downloads": "416",
+    "featured": false,
+    "likes": 14,
+    "comments": 0,
+    "slug": "mf-16",
+    "publishedAt": "2022-02-09T08:10:00.034Z",
+    "user": {
+        "name": "MFauzan",
+        "slug": "mfauzan"
+    },
+    "title": "MF-16",
+    "hashtag": "mf16",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2022-02-08T23:14:47.811Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "62030d33b64e5e6aa4dd63b5",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "MF-16 Palette Example by MFauzan",
+            "slug": "mf-16-palette-example-by-mfauzan3nke96",
+            "publishedAt": "2022-02-09T17:55:00.029Z",
+            "user": {
+                "name": "MFauzan",
+                "slug": "mfauzan"
+            },
+            "parent": "6202f9671235310c2a194164",
+            "image": "palette-examples/mf-16-palette-example-by-mfauzan3nke96.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-02-09T00:39:15.883Z",
+            "updatedAt": "2022-02-09T17:55:00.030Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "160b27",
+        "3e4768",
+        "8e98b9",
+        "dee6fe",
+        "f3c41c",
+        "f98617",
+        "d42c4f",
+        "5f0267",
+        "4a10e8",
+        "2197f0",
+        "52daf7",
+        "bb4d11",
+        "ed7fb8",
+        "30fca6",
+        "17ba7d",
+        "056244"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6202f9671235310c2a194164",
+        "type": "palettes",
+        "count": 14,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

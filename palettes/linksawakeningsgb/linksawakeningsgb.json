@@ -1,0 +1,62 @@
+{
+    "_id": "58fba8fce15f242214faf175",
+    "createdAt": "2017-04-22T19:03:24.733Z",
+    "slug": "links-awakening-sgb",
+    "description": "A palette used by <a href=\"https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Link%27s_Awakening\">The Legend of Zelda: Link's Awakening DX</a> when played on the <a href=\"https://en.wikipedia.org/wiki/Super_Game_Boy\">Super Gameboy</a>.",
+    "colors": [
+        "5a3921",
+        "6b8c42",
+        "7bc67b",
+        "ffffb5"
+    ],
+    "tags": [
+        "hardware",
+        "gameboy",
+        "supergameboy"
+    ],
+    "downloads": "4,395",
+    "numberOfColors": 4,
+    "likes": 97,
+    "comments": 0,
+    "hashtag": "linksawakeningsgb",
+    "title": "Links Awakening (SGB)",
+    "publishedAt": "2017-04-22T19:03:24.733Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "58fbaccde15f242214faf176",
+            "description": "<a href=\"https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Link%27s_Awakening\">The Legend of Zelda: Link's Awakening DX</a> Screenshots",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.044Z",
+            "creator": false,
+            "image": "palette-examples/links-awakening-sgb-palette-example-the-legend-of-zelda-links-awakening-dx-screenshots-58fbac.png",
+            "likes": 0,
+            "parent": "58fba8fce15f242214faf175",
+            "slug": "links-awakening-sgb-palette-example-the-legend-of-zelda-links-awakening-dx-screenshots",
+            "title": "links awakening sgb palette example the legend of zelda links awakening dx screenshots",
+            "updatedAt": "2020-07-31T03:56:11.044Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "The Legend of Zelda: Link's Awakening DX Screenshots"
+        }
+    ],
+    "colorsArray": [
+        "5a3921",
+        "6b8c42",
+        "7bc67b",
+        "ffffb5"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "58fba8fce15f242214faf175",
+        "type": "palettes",
+        "count": 97,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

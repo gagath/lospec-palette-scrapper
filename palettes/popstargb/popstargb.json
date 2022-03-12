@@ -1,0 +1,70 @@
+{
+    "_id": "60c8dce01edeee4fac4a9375",
+    "tags": [
+        "gb"
+    ],
+    "colors": [
+        "0a000f",
+        "e833af",
+        "f7e1b4",
+        "3d0559"
+    ],
+    "downloads": "137",
+    "featured": false,
+    "likes": 15,
+    "comments": 1,
+    "slug": "popstar-gb",
+    "publishedAt": "2021-07-12T10:05:00.025Z",
+    "user": {
+        "name": "toby",
+        "slug": "sebastian-macias"
+    },
+    "title": "popstar gb",
+    "hashtag": "popstargb",
+    "description": "",
+    "creator": true,
+    "createdAt": "2021-06-15T17:01:20.195Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60c8e1381edeee4fac4a939d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "popstar gb Palette Example by toby",
+            "slug": "popstar-gb-palette-example-by-toby",
+            "publishedAt": "2021-07-05T23:40:00.016Z",
+            "user": {
+                "name": "toby",
+                "slug": "sebastian-macias"
+            },
+            "parent": "60c8dce01edeee4fac4a9375",
+            "image": "palette-examples/popstar-gb-palette-example-by-toby-60c8e1.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-06-15T17:19:52.070Z",
+            "updatedAt": "2021-07-05T23:40:00.017Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "0a000f",
+        "e833af",
+        "f7e1b4",
+        "3d0559"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60c8dce01edeee4fac4a9375",
+        "type": "palettes",
+        "count": 15,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

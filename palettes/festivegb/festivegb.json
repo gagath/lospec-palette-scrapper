@@ -1,0 +1,73 @@
+{
+    "_id": "603197a4519724514cc2939b",
+    "tags": [
+        "gameboy",
+        " christmas",
+        " bright",
+        " 2bit"
+    ],
+    "colors": [
+        "0a092f",
+        "ffffff",
+        "008600",
+        "9f0a0a"
+    ],
+    "downloads": "26",
+    "featured": false,
+    "likes": 6,
+    "comments": 5,
+    "title": "festive gb",
+    "hashtag": "festivegb",
+    "description": "",
+    "creator": true,
+    "slug": "festive-gb",
+    "publishedAt": "2021-03-02T15:40:00.048Z",
+    "user": {
+        "name": "orange hair boi",
+        "slug": "orange-hair-boi"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-02-20T23:13:40.481Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "603198a7519724514cc293ab",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/festive-gb-palette-example-by-orange-hair-boi-603198.png",
+            "creator": true,
+            "description": "a simple example",
+            "title": "festive gb Palette Example by orange hair boi",
+            "slug": "festive-gb-palette-example-by-orange-hair-boi",
+            "publishedAt": "2021-02-28T16:25:00.024Z",
+            "user": {
+                "name": "orange hair boi",
+                "slug": "orange-hair-boi"
+            },
+            "parent": "603197a4519724514cc2939b",
+            "createdAt": "2021-02-20T23:17:59.795Z",
+            "updatedAt": "2021-02-28T16:25:00.024Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "a simple example"
+        }
+    ],
+    "colorsArray": [
+        "0a092f",
+        "ffffff",
+        "008600",
+        "9f0a0a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "603197a4519724514cc2939b",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,98 @@
+{
+    "_id": "61847a325ab1382fac4ae96c",
+    "tags": [],
+    "colors": [
+        "000000",
+        "ffffff",
+        "e81c1c",
+        "fa7d17",
+        "fff81f",
+        "5bcf29",
+        "215cff",
+        "c421ff"
+    ],
+    "downloads": "190",
+    "featured": false,
+    "likes": 13,
+    "comments": 0,
+    "slug": "1bit-rainbow-horror",
+    "publishedAt": "2021-11-08T18:10:00.038Z",
+    "user": {
+        "name": "FlyerCraft",
+        "slug": "flyercraft"
+    },
+    "title": "1Bit Rainbow Horror",
+    "hashtag": "1bitrainbowhorror",
+    "description": "The colors of a rainbow are not meant to be bautiful... they never were... === New palette ! I have just too much fun doing this i don't know why :/",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-11-05T00:26:26.473Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "618490a8cb1013472ea3a3bd",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "1Bit Rainbow Horror Palette Example by FlyerCraft",
+            "slug": "1bit-rainbow-horror-palette-example-by-flyercraft-2",
+            "publishedAt": "2021-11-06T19:10:00.012Z",
+            "user": {
+                "name": "FlyerCraft",
+                "slug": "flyercraft"
+            },
+            "parent": "61847a325ab1382fac4ae96c",
+            "image": "palette-examples/1bit-rainbow-horror-palette-example-by-flyercraft-2-618490.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-11-05T02:02:16.864Z",
+            "updatedAt": "2021-11-06T19:10:00.012Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "6184fde7161c281e0e43d0a1",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "1Bit Rainbow Horror Palette Example by FlyerCraft",
+            "slug": "1bit-rainbow-horror-palette-example-by-flyercraft-3",
+            "publishedAt": "2021-11-05T17:20:00.043Z",
+            "user": {
+                "name": "FlyerCraft",
+                "slug": "flyercraft"
+            },
+            "parent": "61847a325ab1382fac4ae96c",
+            "image": "palette-examples/1bit-rainbow-horror-palette-example-by-flyercraft-3-6184fd.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-11-05T09:48:23.917Z",
+            "updatedAt": "2021-11-05T17:20:00.043Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "ffffff",
+        "e81c1c",
+        "fa7d17",
+        "fff81f",
+        "5bcf29",
+        "215cff",
+        "c421ff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61847a325ab1382fac4ae96c",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

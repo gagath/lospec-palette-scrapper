@@ -1,0 +1,83 @@
+{
+    "_id": "58fff2de1827ac5c128149fc",
+    "createdAt": "2017-04-26T01:07:42.064Z",
+    "slug": "15p-dx",
+    "description": "Palette created by <a href=\"http://grafxkid.tumblr.com/palettes\" target=\"_blank\">GrafxKid</a>.",
+    "colors": [
+        "6e3232",
+        "bb5735",
+        "df9245",
+        "ecd274",
+        "83a816",
+        "277224",
+        "173b47",
+        "046894",
+        "17a1a9",
+        "81dbcd",
+        "fdf9f1",
+        "c7b295",
+        "87715b",
+        "463f3c",
+        "201708"
+    ],
+    "tags": [
+        "artist",
+        "grafxkid"
+    ],
+    "downloads": "1,241",
+    "numberOfColors": 15,
+    "likes": 45,
+    "comments": 0,
+    "hashtag": "15pdx",
+    "title": "15P DX",
+    "publishedAt": "2017-04-26T01:07:42.064Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "58fff2f31827ac5c128149fd",
+            "description": " Palette example by <a href=\"http://grafxkid.tumblr.com/grafxkidpalettes\">GrafxKid</a> ",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.057Z",
+            "creator": false,
+            "image": "palette-examples/15p-dx-palette-example-palette-example-by-grafxkid-58fff2.png",
+            "likes": 0,
+            "parent": "58fff2de1827ac5c128149fc",
+            "slug": "15p-dx-palette-example-palette-example-by-grafxkid",
+            "title": "15p dx palette example palette example by grafxkid",
+            "updatedAt": "2020-07-31T03:56:11.057Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": " Palette example by GrafxKid "
+        }
+    ],
+    "colorsArray": [
+        "6e3232",
+        "bb5735",
+        "df9245",
+        "ecd274",
+        "83a816",
+        "277224",
+        "173b47",
+        "046894",
+        "17a1a9",
+        "81dbcd",
+        "fdf9f1",
+        "c7b295",
+        "87715b",
+        "463f3c",
+        "201708"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "58fff2de1827ac5c128149fc",
+        "type": "palettes",
+        "count": 45,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

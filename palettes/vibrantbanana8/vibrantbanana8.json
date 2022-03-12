@@ -1,0 +1,82 @@
+{
+    "_id": "5fe894316bb02d40fe8a4303",
+    "tags": [
+        "light",
+        "8colour",
+        "8color",
+        "banana",
+        "groxguy"
+    ],
+    "colors": [
+        "4c391a",
+        "ff66d1",
+        "ef3434",
+        "5e96ff",
+        "fff9ba",
+        "57f954",
+        "44e5a2",
+        "7242ed"
+    ],
+    "downloads": "88",
+    "featured": false,
+    "likes": 10,
+    "comments": 1,
+    "title": "Vibrant Banana 8",
+    "hashtag": "vibrantbanana8",
+    "description": "Banana",
+    "creator": true,
+    "slug": "vibrant-banana-8",
+    "publishedAt": "2021-01-05T17:35:00.022Z",
+    "user": {
+        "name": "Groxguy",
+        "slug": "groxguy"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2020-12-27T14:03:29.582Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fe8943f6bb02d40fe8a4305",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/vibrant-banana-8-palette-example-by-groxguy-5fe894.png",
+            "creator": true,
+            "description": "",
+            "title": "Vibrant Banana 8 Palette Example by Groxguy",
+            "slug": "vibrant-banana-8-palette-example-by-groxguy",
+            "publishedAt": "2021-01-04T17:55:00.009Z",
+            "user": {
+                "name": "Groxguy",
+                "slug": "groxguy"
+            },
+            "parent": "5fe894316bb02d40fe8a4303",
+            "createdAt": "2020-12-27T14:03:43.966Z",
+            "updatedAt": "2021-01-04T17:55:00.009Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "4c391a",
+        "ff66d1",
+        "ef3434",
+        "5e96ff",
+        "fff9ba",
+        "57f954",
+        "44e5a2",
+        "7242ed"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fe894316bb02d40fe8a4303",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,57 @@
+{
+    "_id": "59d8110e0323c15352a71abc",
+    "createdAt": "2017-10-06T23:26:06.375Z",
+    "slug": "finlal-11",
+    "description": "Entry for the <a href=\"http://http://pixeljoint.com/2016/05/06/4962/11_Color_Comp_Winners.htm\">PixelJoint 11 color palette competition</a> (2016). Created by <a href=\"pixeljoint.com/p/45404.htm\r\n\">Finlal</a>.",
+    "colors": [
+        "171419",
+        "530c1e",
+        "223555",
+        "af3451",
+        "3b6688",
+        "238433",
+        "9f8474",
+        "889eb7",
+        "bda0bc",
+        "cbc990",
+        "e4e5f1"
+    ],
+    "tags": [
+        "artist",
+        "pjcolorcomp11",
+        "pjcolorcomp"
+    ],
+    "downloads": "101",
+    "numberOfColors": 11,
+    "comments": 0,
+    "hashtag": "finlal11",
+    "title": "Finlal 11",
+    "publishedAt": "2017-10-06T23:26:06.375Z",
+    "likes": 3,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "171419",
+        "530c1e",
+        "223555",
+        "af3451",
+        "3b6688",
+        "238433",
+        "9f8474",
+        "889eb7",
+        "bda0bc",
+        "cbc990",
+        "e4e5f1"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "59d8110e0323c15352a71abc",
+        "type": "palettes",
+        "count": 3,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

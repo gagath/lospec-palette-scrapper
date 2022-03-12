@@ -1,0 +1,69 @@
+{
+    "_id": "5dc85fa7e8b5507637cc75db",
+    "slug": "obra-dinn-zenith-zvm-1240",
+    "description": "The palette used in the game\u00a0<i><a href=\"https://obradinn.com/\" target=\"_blank\">Return of the Obra Dinn</a> </i>when using the \"Zenith ZVM 1240\" monitor setting.",
+    "colors": [
+        "3f291e",
+        "fdca55"
+    ],
+    "creator": false,
+    "comments": 0,
+    "likes": 10,
+    "createdAt": "2019-11-10T19:06:15.691Z",
+    "featured": false,
+    "tags": [
+        "game",
+        "obradinn",
+        "software",
+        "1bit"
+    ],
+    "downloads": "103",
+    "numberOfColors": 2,
+    "hashtag": "obradinnzenithzvm1240",
+    "title": "Obra Dinn - Zenith ZVM 1240",
+    "user": {
+        "name": "PureAsbestos",
+        "slug": "pureasbestos"
+    },
+    "publishedAt": "2019-11-10T19:06:15.691Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "606fe892d70ac85e80cef721",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Obra Dinn - Zenith ZVM 1240 Palette Example by Casei Solus",
+            "slug": "obra-dinn-zenith-zvm-1240-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-09T14:55:00.013Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5dc85fa7e8b5507637cc75db",
+            "image": "palette-examples/obra-dinn-zenith-zvm-1240-palette-example-by-casei-solus-606fe8.png",
+            "creator": true,
+            "description": "A ship drifting on the ocean.",
+            "createdAt": "2021-04-09T05:39:30.323Z",
+            "updatedAt": "2021-04-09T14:55:00.014Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A ship drifting on the ocean."
+        }
+    ],
+    "colorsArray": [
+        "3f291e",
+        "fdca55"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "5dc85fa7e8b5507637cc75db",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,45 @@
+{
+    "_id": "5e4b1c60eb80bd32ac8542c6",
+    "slug": "lumpy-mystery",
+    "description": "A custom palette for\u00a0<a href=\"https://fy.do/quilt/35\" target=\"_blank\">a fydoTiles quilt</a>, based off of the\u00a0<a href=\"https://lospec.com/palette-list/cga-palette-2-high\" target=\"_blank\">CGA Palette 2 (High) palette.</a>",
+    "colors": [
+        "000000",
+        "ff4343",
+        "639bff",
+        "ffffff"
+    ],
+    "creator": false,
+    "hashtag": "lumpymystery",
+    "comments": 0,
+    "likes": 8,
+    "createdAt": "2020-02-17T23:06:08.895Z",
+    "featured": false,
+    "tags": [],
+    "downloads": "57",
+    "numberOfColors": 4,
+    "title": "Lumpy Mystery",
+    "user": {
+        "name": "P-Tux7",
+        "slug": "p-tux7"
+    },
+    "publishedAt": "2020-03-19T20:36:13.941Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "ff4343",
+        "639bff",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5e4b1c60eb80bd32ac8542c6",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

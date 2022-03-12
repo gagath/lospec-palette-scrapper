@@ -1,0 +1,98 @@
+{
+    "_id": "5f5025022a2e1f5237363a8a",
+    "tags": [
+        "4 bit",
+        "16 colors",
+        "16",
+        "saturated",
+        "perfect"
+    ],
+    "colors": [
+        "ff97ce",
+        "f32341",
+        "7e2550",
+        "ffd5a7",
+        "fb8404",
+        "944e2b",
+        "ffee68",
+        "50c555",
+        "178055",
+        "96ffff",
+        "00aafb",
+        "494297",
+        "a742ee",
+        "272727",
+        "919191",
+        "f9f9f9"
+    ],
+    "downloads": "228",
+    "featured": false,
+    "likes": 13,
+    "comments": 0,
+    "title": "The Perfect Palette pocket",
+    "hashtag": "theperfectpalettepocket",
+    "description": "A reduced and rearranged 4 bit version of The Perfect Palette",
+    "creator": true,
+    "slug": "the-perfect-palette-pocket",
+    "publishedAt": "2020-09-04T15:50:00.033Z",
+    "user": {
+        "name": "Alessio Benvenuto",
+        "slug": "alessio-benvenuto"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-09-02T23:04:34.738Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f5025262a2e1f5237363a8f",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/the-perfect-palette-pocket-palette-example-by-alessio-benvenuto-5f5025.png",
+            "creator": true,
+            "description": "",
+            "title": "The Perfect Palette pocket Palette Example by Alessio Benvenuto",
+            "slug": "the-perfect-palette-pocket-palette-example-by-alessio-benvenuto",
+            "publishedAt": "2020-09-03T20:35:00.021Z",
+            "user": {
+                "name": "Alessio Benvenuto",
+                "slug": "alessio-benvenuto"
+            },
+            "parent": "5f5025022a2e1f5237363a8a",
+            "createdAt": "2020-09-02T23:05:10.668Z",
+            "updatedAt": "2020-09-03T20:35:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "ff97ce",
+        "f32341",
+        "7e2550",
+        "ffd5a7",
+        "fb8404",
+        "944e2b",
+        "ffee68",
+        "50c555",
+        "178055",
+        "96ffff",
+        "00aafb",
+        "494297",
+        "a742ee",
+        "272727",
+        "919191",
+        "f9f9f9"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5f5025022a2e1f5237363a8a",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,77 @@
+{
+    "_id": "615524bc8ffcc71a8c8eb2ca",
+    "tags": [
+        "monoramp",
+        "green",
+        "slime",
+        "unsaturated",
+        "gameboy",
+        "dark"
+    ],
+    "colors": [
+        "d1cb95",
+        "40985e",
+        "1a644e",
+        "04373b",
+        "0a1a2f"
+    ],
+    "downloads": "615",
+    "featured": false,
+    "likes": 42,
+    "comments": 3,
+    "slug": "slimy-05",
+    "publishedAt": "2021-10-13T11:45:00.040Z",
+    "user": {
+        "name": "green guy",
+        "slug": "2058"
+    },
+    "title": "slimy 05",
+    "hashtag": "slimy05",
+    "description": "5 color palette for your greenest desires ;)",
+    "creator": true,
+    "numberOfColors": 5,
+    "createdAt": "2021-09-30T02:45:16.699Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6159fe20237c924767ef9d6d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "slimy 05 Palette Example",
+            "slug": "slimy-05-palette-example-by-witchdoctor-2058-green-guy",
+            "publishedAt": "2021-10-03T20:55:00.043Z",
+            "user": {
+                "name": "green guy",
+                "slug": "2058"
+            },
+            "parent": "615524bc8ffcc71a8c8eb2ca",
+            "image": "palette-examples/slimy-05-palette-example-by-witchdoctor-2058-green-guy-6159fe.png",
+            "creator": true,
+            "description": "slimy galaxy (example 1)",
+            "createdAt": "2021-10-03T19:01:52.564Z",
+            "updatedAt": "2021-10-20T17:20:50.004Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "slimy galaxy (example 1)"
+        }
+    ],
+    "colorsArray": [
+        "d1cb95",
+        "40985e",
+        "1a644e",
+        "04373b",
+        "0a1a2f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "615524bc8ffcc71a8c8eb2ca",
+        "type": "palettes",
+        "count": 42,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,52 @@
+{
+    "_id": "60eb60a9406750459e9006dd",
+    "tags": [
+        "2bit",
+        "monoramp",
+        "flower",
+        "pink",
+        "soft",
+        "pastel"
+    ],
+    "colors": [
+        "ffffdb",
+        "ffc5bb",
+        "ff99a1",
+        "a06689"
+    ],
+    "downloads": "250",
+    "featured": false,
+    "likes": 28,
+    "comments": 0,
+    "slug": "wisteria-mystery",
+    "publishedAt": "2021-08-02T06:55:00.019Z",
+    "user": {
+        "name": "CopheeMoth",
+        "slug": "copheemoth"
+    },
+    "title": "Wisteria Mystery",
+    "hashtag": "wisteriamystery",
+    "description": "A soft palette for a soft drawing ;3 ",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-07-11T21:20:41.616Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffffdb",
+        "ffc5bb",
+        "ff99a1",
+        "a06689"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60eb60a9406750459e9006dd",
+        "type": "palettes",
+        "count": 28,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

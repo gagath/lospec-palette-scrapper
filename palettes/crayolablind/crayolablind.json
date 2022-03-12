@@ -1,0 +1,53 @@
+{
+    "_id": "5cec240110775028eb9dbad3",
+    "slug": "crayolablind",
+    "description": "Created for the <a target=\"_blank\" href=\"http://pixeljoint.com/2019/05/27/5999/Pixel_Art_Challenge-_Crayolablind.htm\">PixelJoint Crayolablind challenge</a>.",
+    "colors": [
+        "8e3179",
+        "ca3435",
+        "ff91a4",
+        "fcd667",
+        "93dfb8",
+        "b5b35c",
+        "02a4d3",
+        "00468c",
+        "ffffff"
+    ],
+    "createdAt": "2019-05-27T17:53:05.790Z",
+    "featured": false,
+    "tags": [
+        "pixeljoint",
+        "challenge"
+    ],
+    "downloads": "219",
+    "numberOfColors": 9,
+    "likes": 5,
+    "comments": 0,
+    "hashtag": "crayolablind",
+    "title": "Crayolablind",
+    "publishedAt": "2019-05-27T17:53:05.790Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "8e3179",
+        "ca3435",
+        "ff91a4",
+        "fcd667",
+        "93dfb8",
+        "b5b35c",
+        "02a4d3",
+        "00468c",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5cec240110775028eb9dbad3",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

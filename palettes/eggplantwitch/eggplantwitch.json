@@ -1,0 +1,68 @@
+{
+    "_id": "5fa9ed0c0d413a5bfb249416",
+    "tags": [],
+    "colors": [
+        "faffec",
+        "9cd52a",
+        "877e6f",
+        "5f064d"
+    ],
+    "downloads": "53",
+    "featured": false,
+    "likes": 8,
+    "comments": 0,
+    "title": "Eggplant Witch",
+    "hashtag": "eggplantwitch",
+    "description": "What happens when you take Curly Brace's palette from\u00a0<a href=\"https://www.cavestory.org/\" target=\"_blank\">Cave Story</a>, correct the brightness and contrast, and then reduce it to four colours? Don't ask me... happy late Halloween?",
+    "creator": false,
+    "slug": "eggplant-witch",
+    "publishedAt": "2020-11-11T17:45:00.031Z",
+    "user": {
+        "name": "P-Tux7",
+        "slug": "p-tux7"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-11-10T01:29:48.776Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6055fb3b8353f65b2ec28f13",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/eggplant-witch-palette-example-by-katamaran-ulitochkina-6055fb.png",
+            "creator": true,
+            "description": "",
+            "title": "Eggplant Witch Palette Example by Katamaran Ulitochkina",
+            "slug": "eggplant-witch-palette-example-by-katamaran-ulitochkina",
+            "publishedAt": "2021-03-23T15:50:00.021Z",
+            "user": {
+                "name": "Katamaran Ulitochkina",
+                "slug": "katamaran-ulitochkina"
+            },
+            "parent": "5fa9ed0c0d413a5bfb249416",
+            "createdAt": "2021-03-20T13:40:11.663Z",
+            "updatedAt": "2021-03-23T15:50:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "faffec",
+        "9cd52a",
+        "877e6f",
+        "5f064d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5fa9ed0c0d413a5bfb249416",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

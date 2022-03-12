@@ -1,0 +1,71 @@
+{
+    "_id": "60d938580bae894a4315c4b3",
+    "tags": [
+        "pico8"
+    ],
+    "colors": [
+        "000000",
+        "555555",
+        "aaaaaa",
+        "ffffff",
+        "770055",
+        "775500",
+        "007733",
+        "3333aa",
+        "ff0033",
+        "ff9900",
+        "ffff00",
+        "00ff55",
+        "00aaff",
+        "9977ff",
+        "ff99cc",
+        "ffcc99"
+    ],
+    "downloads": "89",
+    "featured": false,
+    "likes": 4,
+    "comments": 0,
+    "slug": "ajs-pico-8-palette",
+    "publishedAt": "2021-07-07T16:55:00.032Z",
+    "user": {
+        "name": "A.J. Otero",
+        "slug": "aj-otero"
+    },
+    "title": "A.J.'s Pico-8 Palette",
+    "hashtag": "ajspico8palette",
+    "description": "My version of the Pico-8 palette.",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2021-06-28T02:47:52.973Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "555555",
+        "aaaaaa",
+        "ffffff",
+        "770055",
+        "775500",
+        "007733",
+        "3333aa",
+        "ff0033",
+        "ff9900",
+        "ffff00",
+        "00ff55",
+        "00aaff",
+        "9977ff",
+        "ff99cc",
+        "ffcc99"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60d938580bae894a4315c4b3",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

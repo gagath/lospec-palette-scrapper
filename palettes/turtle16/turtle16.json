@@ -1,0 +1,96 @@
+{
+    "_id": "6184ed88ebd1a7123802a57b",
+    "tags": [
+        "turtles",
+        "acuatic",
+        "livecolors"
+    ],
+    "colors": [
+        "cdf7dd",
+        "84e39f",
+        "67cd45",
+        "589f62",
+        "82be63",
+        "71a230",
+        "3c7641",
+        "33581b",
+        "93932a",
+        "616112",
+        "404016",
+        "25250b",
+        "d9cd93",
+        "afa582",
+        "867b53",
+        "4d493a"
+    ],
+    "downloads": "160",
+    "featured": false,
+    "likes": 6,
+    "comments": 0,
+    "slug": "turtle-16",
+    "publishedAt": "2021-11-09T18:10:00.028Z",
+    "user": {
+        "name": "Blylzz",
+        "slug": "blylzz"
+    },
+    "title": "TURTLE-16",
+    "hashtag": "turtle16",
+    "description": "paleta de colores para pintar lindas tortugas en la arena",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2021-11-05T08:38:32.912Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6184f338161c281e0e43d022",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "TURTLE-16 Palette Example by Blylzz",
+            "slug": "turtle-16-palette-example-by-blylzz",
+            "publishedAt": "2021-11-05T17:15:00.023Z",
+            "user": {
+                "name": "Blylzz",
+                "slug": "blylzz"
+            },
+            "parent": "6184ed88ebd1a7123802a57b",
+            "image": "palette-examples/turtle-16-palette-example-by-blylzz-6184f3.png",
+            "creator": true,
+            "description": "Un ejemplo simplemente de las paletas en uso.",
+            "createdAt": "2021-11-05T09:02:48.818Z",
+            "updatedAt": "2021-11-05T17:15:00.023Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Un ejemplo simplemente de las paletas en uso."
+        }
+    ],
+    "colorsArray": [
+        "cdf7dd",
+        "84e39f",
+        "67cd45",
+        "589f62",
+        "82be63",
+        "71a230",
+        "3c7641",
+        "33581b",
+        "93932a",
+        "616112",
+        "404016",
+        "25250b",
+        "d9cd93",
+        "afa582",
+        "867b53",
+        "4d493a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6184ed88ebd1a7123802a57b",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

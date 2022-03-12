@@ -1,0 +1,98 @@
+{
+    "_id": "5edd35d057947c7aa40e6ab7",
+    "tags": [
+        "artist",
+        "calmradish",
+        "vintage",
+        "paper",
+        "desaturated"
+    ],
+    "colors": [
+        "d1b187",
+        "c77b58",
+        "ae5d40",
+        "79444a",
+        "4b3d44",
+        "ba9158",
+        "927441",
+        "4d4539",
+        "77743b",
+        "b3a555",
+        "d2c9a5",
+        "8caba1",
+        "4b726e",
+        "574852",
+        "847875",
+        "ab9b8e"
+    ],
+    "downloads": "4,459",
+    "featured": false,
+    "likes": 303,
+    "comments": 7,
+    "title": "Lost Century",
+    "hashtag": "lostcenturypalette",
+    "description": "A palette inspired by the Bestiarium of Aloys Z\u00f6tl (1835)",
+    "creator": true,
+    "slug": "lost-century",
+    "publishedAt": "2020-06-10T04:45:00.008Z",
+    "user": {
+        "name": "CalmRadish",
+        "slug": "calmradish"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-06-07T18:45:36.172Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6037ddbf139e764ae0aa5033",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/lost-century-palette-example-by-nura-6037dd.png",
+            "creator": true,
+            "description": "Welcome to the wild-fox-tavern!",
+            "title": "Lost Century Palette Example by Nura",
+            "slug": "lost-century-palette-example-by-nura",
+            "publishedAt": "2021-02-28T16:15:00.027Z",
+            "user": {
+                "name": "Nura",
+                "slug": "nura-pix"
+            },
+            "parent": "5edd35d057947c7aa40e6ab7",
+            "createdAt": "2021-02-25T17:26:23.406Z",
+            "updatedAt": "2021-02-28T16:15:00.027Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Welcome to the wild-fox-tavern!"
+        }
+    ],
+    "colorsArray": [
+        "d1b187",
+        "c77b58",
+        "ae5d40",
+        "79444a",
+        "4b3d44",
+        "ba9158",
+        "927441",
+        "4d4539",
+        "77743b",
+        "b3a555",
+        "d2c9a5",
+        "8caba1",
+        "4b726e",
+        "574852",
+        "847875",
+        "ab9b8e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5edd35d057947c7aa40e6ab7",
+        "type": "palettes",
+        "count": 303,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

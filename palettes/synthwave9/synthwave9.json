@@ -1,0 +1,82 @@
+{
+    "_id": "603db118489f5763acf98dae",
+    "tags": [
+        "artist",
+        " star",
+        " starlane"
+    ],
+    "colors": [
+        "f6eddb",
+        "ec8d75",
+        "bd4b64",
+        "9e2281",
+        "40265c",
+        "1b1e23",
+        "244584",
+        "50a9cf",
+        "96e6c2"
+    ],
+    "downloads": "441",
+    "featured": false,
+    "likes": 37,
+    "comments": 0,
+    "title": "Synthwave 9",
+    "hashtag": "synthwave9",
+    "description": "Based off of synthwave art. One of my older palettes- I could probably redesign it, but I think it still holds together relatively well.",
+    "creator": true,
+    "slug": "synthwave-9",
+    "publishedAt": "2021-04-03T17:30:00.037Z",
+    "user": {
+        "name": "Star",
+        "slug": "starlane"
+    },
+    "numberOfColors": 9,
+    "createdAt": "2021-03-02T03:29:28.163Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "606a82f082751e5a112ee3f4",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Synthwave 9 Palette Example by Casei Solus",
+            "slug": "synthwave-9-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-06T19:10:00.014Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "603db118489f5763acf98dae",
+            "image": "palette-examples/synthwave-9-palette-example-by-casei-solus-606a82.png",
+            "creator": true,
+            "description": "Sound and grids",
+            "createdAt": "2021-04-05T03:24:32.835Z",
+            "updatedAt": "2021-04-06T19:10:00.014Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Sound and grids"
+        }
+    ],
+    "colorsArray": [
+        "f6eddb",
+        "ec8d75",
+        "bd4b64",
+        "9e2281",
+        "40265c",
+        "1b1e23",
+        "244584",
+        "50a9cf",
+        "96e6c2"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "603db118489f5763acf98dae",
+        "type": "palettes",
+        "count": 37,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

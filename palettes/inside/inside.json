@@ -1,0 +1,72 @@
+{
+    "_id": "601e3b6ce1b54303c0cffedf",
+    "tags": [
+        "inside azull"
+    ],
+    "colors": [
+        "000000",
+        "ff4500",
+        "00ffff",
+        "ff00ff",
+        "ffffff"
+    ],
+    "downloads": "37",
+    "featured": false,
+    "likes": 7,
+    "comments": 0,
+    "title": "True side",
+    "hashtag": "inside",
+    "description": "This palette consists of a set of five colors. They may be a strange combination, but I think they're fascinating. I hope you enjoy it! :)",
+    "creator": true,
+    "slug": "true-side",
+    "publishedAt": "2021-02-14T08:40:00.030Z",
+    "user": {
+        "name": "Azulli",
+        "slug": "azulli"
+    },
+    "numberOfColors": 5,
+    "createdAt": "2021-02-06T06:47:08.642Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6029ee366e4ba25f2df21459",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/true-side-palette-example-by-szgamer227-6029ee.png",
+            "creator": true,
+            "description": "",
+            "title": "True side Palette Example by SzGamer227",
+            "slug": "true-side-palette-example-by-szgamer227",
+            "publishedAt": "2021-03-27T19:00:00.065Z",
+            "user": {
+                "name": "SzGamer227",
+                "slug": "szgamer227"
+            },
+            "parent": "601e3b6ce1b54303c0cffedf",
+            "createdAt": "2021-02-15T03:44:54.687Z",
+            "updatedAt": "2021-03-27T19:00:00.066Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "ff4500",
+        "00ffff",
+        "ff00ff",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "601e3b6ce1b54303c0cffedf",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

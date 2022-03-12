@@ -1,0 +1,84 @@
+{
+    "_id": "60f227216653e751da23f080",
+    "tags": [
+        "10",
+        "shido",
+        "shido10"
+    ],
+    "colors": [
+        "000000",
+        "58122b",
+        "af4040",
+        "faa174",
+        "ffc783",
+        "359097",
+        "22337d",
+        "88aec0",
+        "c4fff0",
+        "f7f7f7"
+    ],
+    "downloads": "250",
+    "featured": false,
+    "likes": 20,
+    "comments": 0,
+    "slug": "shido-10",
+    "publishedAt": "2021-07-20T07:55:00.023Z",
+    "user": {
+        "name": "Shidoengie",
+        "slug": "shidoengie"
+    },
+    "title": "Shido 10",
+    "hashtag": "shido10",
+    "description": "An extremely tweaked pallet to get as much ramps out of the 10 colors\u00a0",
+    "creator": true,
+    "numberOfColors": 10,
+    "createdAt": "2021-07-17T00:41:05.159Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60f239b26653e751da240d84",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Shido 10 Palette Example by Shidoengie",
+            "slug": "shido-10-palette-example-by-shidoengie",
+            "publishedAt": "2021-07-19T20:05:00.028Z",
+            "user": {
+                "name": "Shidoengie",
+                "slug": "shidoengie"
+            },
+            "parent": "60f227216653e751da23f080",
+            "image": "palette-examples/shido-10-palette-example-by-shidoengie-60f239.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-07-17T02:00:18.164Z",
+            "updatedAt": "2021-07-19T20:05:00.028Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "58122b",
+        "af4040",
+        "faa174",
+        "ffc783",
+        "359097",
+        "22337d",
+        "88aec0",
+        "c4fff0",
+        "f7f7f7"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "60f227216653e751da23f080",
+        "type": "palettes",
+        "count": 20,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,72 @@
+{
+    "_id": "5ccdccb8763a4a5e61845fb5",
+    "createdAt": "2019-05-04T17:32:40.145Z",
+    "slug": "jw-64",
+    "description": "Inspired by <a target=\"_blank\" href=\"https://lospec.com/palette-list/commodore64\">Commodore 64</a>.",
+    "colors": [
+        "000000",
+        "404040",
+        "8c8c8c",
+        "c8c8c8",
+        "644020",
+        "a82f2f",
+        "b46429",
+        "e0806c",
+        "403fc0",
+        "6496f4",
+        "63d4f0",
+        "e0e040",
+        "b437b4",
+        "54c048",
+        "a0f66e",
+        "ffffff"
+    ],
+    "featured": false,
+    "tags": [
+        "artist",
+        "theJWPHTER88"
+    ],
+    "downloads": "136",
+    "numberOfColors": 16,
+    "likes": 6,
+    "comments": 0,
+    "creator": true,
+    "hashtag": "jw64",
+    "title": "JW-64",
+    "user": {
+        "name": "JWPH",
+        "slug": "thejwphter88"
+    },
+    "publishedAt": "2019-05-04T17:32:40.145Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "404040",
+        "8c8c8c",
+        "c8c8c8",
+        "644020",
+        "a82f2f",
+        "b46429",
+        "e0806c",
+        "403fc0",
+        "6496f4",
+        "63d4f0",
+        "e0e040",
+        "b437b4",
+        "54c048",
+        "a0f66e",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5ccdccb8763a4a5e61845fb5",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

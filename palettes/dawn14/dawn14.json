@@ -1,0 +1,69 @@
+{
+    "_id": "607496ac88a97b3333db5d70",
+    "tags": [
+        "hueshift",
+        "internetperson",
+        "dawn14"
+    ],
+    "colors": [
+        "4045a8",
+        "2d5fa3",
+        "4c809c",
+        "46bd7d",
+        "9ae354",
+        "ffed9e",
+        "ffc286",
+        "e68a92",
+        "bd6499",
+        "80618f",
+        "585669",
+        "6c6680",
+        "888db5",
+        "a6bed9"
+    ],
+    "downloads": "151",
+    "featured": false,
+    "likes": 10,
+    "comments": 2,
+    "slug": "dawn14",
+    "publishedAt": "2021-04-19T12:15:00.022Z",
+    "user": {
+        "name": "internet person",
+        "slug": "internet-person"
+    },
+    "title": "Dawn14",
+    "hashtag": "dawn14",
+    "description": "look ma i learned to hueshift\u00a0",
+    "creator": true,
+    "createdAt": "2021-04-12T18:51:24.561Z",
+    "numberOfColors": 14,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "4045a8",
+        "2d5fa3",
+        "4c809c",
+        "46bd7d",
+        "9ae354",
+        "ffed9e",
+        "ffc286",
+        "e68a92",
+        "bd6499",
+        "80618f",
+        "585669",
+        "6c6680",
+        "888db5",
+        "a6bed9"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "607496ac88a97b3333db5d70",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

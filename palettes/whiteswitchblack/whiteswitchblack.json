@@ -1,0 +1,45 @@
+{
+    "_id": "60b4ffe0b0638341ca18a628",
+    "tags": [],
+    "colors": [
+        "ffffff",
+        "aaaaaa",
+        "444455",
+        "000000"
+    ],
+    "downloads": "75",
+    "featured": false,
+    "likes": 10,
+    "comments": 0,
+    "slug": "white-to-black",
+    "publishedAt": "2021-09-13T03:20:00.030Z",
+    "user": {
+        "name": "LM Mamud Miah",
+        "slug": "lm-mamud-miah"
+    },
+    "title": "White To Black",
+    "hashtag": "whiteswitchblack",
+    "description": "",
+    "creator": true,
+    "createdAt": "2021-05-31T15:25:20.019Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffffff",
+        "aaaaaa",
+        "444455",
+        "000000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60b4ffe0b0638341ca18a628",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

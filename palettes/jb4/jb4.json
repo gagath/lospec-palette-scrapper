@@ -1,0 +1,83 @@
+{
+    "_id": "5b099a7a2f18e54491e8b6ac",
+    "createdAt": "2018-05-26T17:33:46.669Z",
+    "slug": "jb4",
+    "description": "Created by <a target=\"_blank\" href=\"https://twitter.com/haretroDev\">Haretro</a> for his game <a target=\"_blank\" href=\"https://haretro.itch.io/jet-boy\">Jet Boy</a>. (<a target=\"_blank\" href=\"https://haretro.itch.io/haretro8\">Source</a>)",
+    "colors": [
+        "daf3ec",
+        "00bff3",
+        "ed008c",
+        "260016"
+    ],
+    "tags": [
+        "artist",
+        "haretro"
+    ],
+    "downloads": "723",
+    "numberOfColors": 4,
+    "likes": 28,
+    "comments": 2,
+    "hashtag": "jb4",
+    "title": "JB4",
+    "publishedAt": "2018-05-26T17:33:46.669Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5b099b1a2f18e54491e8b6ad",
+            "description": "Screenshot from <a target=\"_blank\" href=\"https://haretro.itch.io/jet-boy\">Jet Boy</a>.",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.107Z",
+            "creator": false,
+            "image": "palette-examples/jb4-palette-example-screenshot-from-jet-boy-5b099b.png",
+            "likes": 0,
+            "parent": "5b099a7a2f18e54491e8b6ac",
+            "slug": "jb4-palette-example-screenshot-from-jet-boy",
+            "title": "jb4 palette example screenshot from jet boy",
+            "updatedAt": "2020-07-31T03:56:11.107Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Screenshot from Jet Boy."
+        },
+        {
+            "_id": "6136851055c9fd17b72ecc37",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "JB4 Palette Example by nkoder",
+            "slug": "jb4-palette-example-by-nkoder-2",
+            "publishedAt": "2021-09-06T21:25:00.028Z",
+            "user": {
+                "name": "Beetroot Paul",
+                "slug": "beetrootpaul"
+            },
+            "parent": "5b099a7a2f18e54491e8b6ac",
+            "image": "palette-examples/jb4-palette-example-by-nkoder-2-613685.png",
+            "creator": true,
+            "description": "This a scene from Castlevania game remastered by me as an entry for \"Castlevania's #PixelRemaster\" Pixel Dailies theme https://twitter.com/Pixel_Dailies/status/1416367078542434310",
+            "createdAt": "2021-09-06T21:16:00.102Z",
+            "updatedAt": "2021-09-06T21:25:00.028Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": "This a scene from Castlevania game remastered by me as an entry for \"Castlevania's #PixelRemaster\" Pixel Dailies theme https://twitter.com/Pixel_Dailies/status/1416367078542434310"
+        }
+    ],
+    "colorsArray": [
+        "daf3ec",
+        "00bff3",
+        "ed008c",
+        "260016"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5b099a7a2f18e54491e8b6ac",
+        "type": "palettes",
+        "count": 28,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

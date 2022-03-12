@@ -1,0 +1,46 @@
+{
+    "_id": "58ffedd21827ac5c128149f7",
+    "createdAt": "2017-04-26T00:46:10.988Z",
+    "slug": "code-melon",
+    "description": "Palette created by <a href=\"http://grafxkid.tumblr.com/palettes\" target=\"_blank\">GrafxKid</a>.",
+    "colors": [
+        "b440a3",
+        "ff91ab",
+        "79c220",
+        "f1e899",
+        "2a1a54",
+        "20798b"
+    ],
+    "tags": [
+        "artist",
+        "grafxkid"
+    ],
+    "downloads": "261",
+    "numberOfColors": 6,
+    "likes": 13,
+    "comments": 0,
+    "hashtag": "codemelon",
+    "title": "Code: Melon",
+    "publishedAt": "2017-04-26T00:46:10.988Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "b440a3",
+        "ff91ab",
+        "79c220",
+        "f1e899",
+        "2a1a54",
+        "20798b"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "58ffedd21827ac5c128149f7",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

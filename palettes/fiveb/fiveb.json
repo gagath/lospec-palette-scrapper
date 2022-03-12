@@ -1,0 +1,73 @@
+{
+    "_id": "5fb430d86db9dc0870b81117",
+    "tags": [
+        "sk3ll",
+        " blue"
+    ],
+    "colors": [
+        "0f051f",
+        "161142",
+        "3c548f",
+        "4f829e",
+        "a8d7f7"
+    ],
+    "downloads": "387",
+    "featured": false,
+    "likes": 29,
+    "comments": 0,
+    "title": "Five b",
+    "hashtag": "fiveb",
+    "description": "Five blue\u00a0",
+    "creator": true,
+    "slug": "five-b",
+    "publishedAt": "2020-11-20T19:45:00.032Z",
+    "user": {
+        "name": "Sk3ll Sk3ll",
+        "slug": "sk3ll2"
+    },
+    "numberOfColors": 5,
+    "createdAt": "2020-11-17T20:21:44.553Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fb431036db9dc0870b8111c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/five-b-palette-example-by-sk3ll-sk3ll-5fb431.png",
+            "creator": true,
+            "description": "Time machina",
+            "title": "Five b Palette Example by Sk3ll Sk3ll",
+            "slug": "five-b-palette-example-by-sk3ll-sk3ll",
+            "publishedAt": "2020-11-19T20:10:00.022Z",
+            "user": {
+                "name": "Sk3ll Sk3ll",
+                "slug": "sk3ll2"
+            },
+            "parent": "5fb430d86db9dc0870b81117",
+            "createdAt": "2020-11-17T20:22:27.396Z",
+            "updatedAt": "2020-11-19T20:10:00.023Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Time machina"
+        }
+    ],
+    "colorsArray": [
+        "0f051f",
+        "161142",
+        "3c548f",
+        "4f829e",
+        "a8d7f7"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5fb430d86db9dc0870b81117",
+        "type": "palettes",
+        "count": 29,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

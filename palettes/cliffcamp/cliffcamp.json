@@ -1,0 +1,88 @@
+{
+    "_id": "5f6b507608895951605d3924",
+    "tags": [
+        "cozy",
+        " muted",
+        " desert"
+    ],
+    "colors": [
+        "e1cc9d",
+        "9c5b3e",
+        "2a201e",
+        "344456",
+        "4c7554",
+        "94b85a",
+        "573139",
+        "9b3644",
+        "d65743",
+        "65b8ba",
+        "486983",
+        "cba146"
+    ],
+    "downloads": "284",
+    "featured": false,
+    "likes": 16,
+    "comments": 0,
+    "title": "CliffCamp",
+    "hashtag": "cliffcamp",
+    "description": "12 Cozy colors from a cliffside camp in the desert~",
+    "creator": true,
+    "slug": "cliffcamp",
+    "publishedAt": "2020-09-24T08:35:00.022Z",
+    "user": {
+        "name": "Gaziter",
+        "slug": "gaziter"
+    },
+    "numberOfColors": 12,
+    "createdAt": "2020-09-23T13:41:10.120Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f7cd5eda3ccd226e4b0b0ca",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/cliffcamp-palette-example-by-mig-moog-5f7cd5.png",
+            "creator": true,
+            "description": "",
+            "title": "CliffCamp Palette Example by Mig Moog",
+            "slug": "cliffcamp-palette-example-by-mig-moog",
+            "publishedAt": "2020-10-07T18:05:00.010Z",
+            "user": {
+                "name": "Mig Moog",
+                "slug": "migmoog"
+            },
+            "parent": "5f6b507608895951605d3924",
+            "createdAt": "2020-10-06T20:39:09.316Z",
+            "updatedAt": "2020-10-07T18:05:00.010Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "e1cc9d",
+        "9c5b3e",
+        "2a201e",
+        "344456",
+        "4c7554",
+        "94b85a",
+        "573139",
+        "9b3644",
+        "d65743",
+        "65b8ba",
+        "486983",
+        "cba146"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5f6b507608895951605d3924",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

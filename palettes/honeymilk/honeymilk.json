@@ -1,0 +1,74 @@
+{
+    "_id": "61edc61a8d317b1b9f7fa54c",
+    "tags": [
+        "honeymilk",
+        "honey",
+        "milk",
+        "2bit",
+        "soundsdotzip"
+    ],
+    "colors": [
+        "211210",
+        "5e2d20",
+        "c76b2a",
+        "f0c260"
+    ],
+    "downloads": "367",
+    "featured": false,
+    "likes": 36,
+    "comments": 0,
+    "slug": "honey-milk",
+    "publishedAt": "2022-01-26T01:20:00.042Z",
+    "user": {
+        "name": "SoundsDotZip",
+        "slug": "soundsdotzip"
+    },
+    "title": "Honey Milk",
+    "hashtag": "honeymilk",
+    "description": "I haven't made a 4 colour palette in a while, so I thought I'd make a new one with colours of honey! Hope you like it!",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2022-01-23T21:18:18.055Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61f15fbf01df61299052e018",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Honey Milk Palette Example by SoundsDotZip",
+            "slug": "honey-milk-palette-example-by-soundsdotzip27ab5r",
+            "publishedAt": "2022-01-26T17:20:00.038Z",
+            "user": {
+                "name": "SoundsDotZip",
+                "slug": "soundsdotzip"
+            },
+            "parent": "61edc61a8d317b1b9f7fa54c",
+            "image": "palette-examples/honey-milk-palette-example-by-soundsdotzip27ab5r.png",
+            "creator": true,
+            "description": "Middle example by Porcirelius, and Right example by ANoob",
+            "createdAt": "2022-01-26T14:50:39.518Z",
+            "updatedAt": "2022-01-26T17:20:00.039Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Middle example by Porcirelius, and Right example by ANoob"
+        }
+    ],
+    "colorsArray": [
+        "211210",
+        "5e2d20",
+        "c76b2a",
+        "f0c260"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61edc61a8d317b1b9f7fa54c",
+        "type": "palettes",
+        "count": 36,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

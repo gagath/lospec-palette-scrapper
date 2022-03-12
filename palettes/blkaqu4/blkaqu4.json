@@ -1,0 +1,92 @@
+{
+    "_id": "5e24bb278838756b62cabe08",
+    "slug": "blk-aqu4",
+    "description": "Created with eye-pleasing colors, this is for GB-style pixelart!",
+    "colors": [
+        "002b59",
+        "005f8c",
+        "00b9be",
+        "9ff4e5"
+    ],
+    "creator": "1",
+    "hashtag": "blkaqu4",
+    "comments": 2,
+    "likes": 178,
+    "createdAt": "2020-01-19T20:25:11.039Z",
+    "featured": false,
+    "tags": [
+        "artist",
+        "blackedirl",
+        "blk",
+        "gameboy",
+        "aqua",
+        "4color",
+        "pixelart",
+        "limited",
+        "gb"
+    ],
+    "downloads": "2,882",
+    "numberOfColors": 4,
+    "title": "BLK AQU4",
+    "user": {
+        "name": "BlackedIRL",
+        "slug": "blkirl"
+    },
+    "publishedAt": "2020-01-19T20:25:11.039Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5e92763297b66f3b00388c47",
+            "description": "Palette usage example by BlackedIRL",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.216Z",
+            "creator": false,
+            "image": "palette-examples/blk-aqu4-palette-example-palette-usage-example-by-blackedirl-5e9276.png",
+            "likes": 0,
+            "parent": "5e24bb278838756b62cabe08",
+            "slug": "blk-aqu4-palette-example-palette-usage-example-by-blackedirl",
+            "title": "blk aqu4 palette example palette usage example by blackedirl",
+            "updatedAt": "2020-07-31T03:56:11.216Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by BlackedIRL"
+        },
+        {
+            "_id": "5e92764797b66f3b00388c48",
+            "description": "Palette usage example by BlackedIRL ",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.216Z",
+            "creator": false,
+            "image": "palette-examples/blk-aqu4-palette-example-palette-usage-example-2-by-blackedirl-5e9276.png",
+            "likes": 0,
+            "parent": "5e24bb278838756b62cabe08",
+            "slug": "blk-aqu4-palette-example-palette-usage-example-2-by-blackedirl",
+            "title": "blk aqu4 palette example palette usage example 2 by blackedirl",
+            "updatedAt": "2020-07-31T03:56:11.216Z",
+            "user": null,
+            "thumbnailOffset": 100,
+            "descriptionText": "Palette usage example by BlackedIRL "
+        }
+    ],
+    "colorsArray": [
+        "002b59",
+        "005f8c",
+        "00b9be",
+        "9ff4e5"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5e24bb278838756b62cabe08",
+        "type": "palettes",
+        "count": 178,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

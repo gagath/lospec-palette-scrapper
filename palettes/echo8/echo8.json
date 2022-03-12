@@ -1,0 +1,82 @@
+{
+    "_id": "61ba4293163e142aa529da21",
+    "tags": [
+        "blue",
+        "green",
+        "8colors",
+        "coolcolors",
+        "night"
+    ],
+    "colors": [
+        "002429",
+        "0c335a",
+        "20506a",
+        "5a8994",
+        "acd2bd",
+        "b8e4c0",
+        "d7eed2",
+        "eeffed"
+    ],
+    "downloads": "116",
+    "featured": false,
+    "likes": 7,
+    "comments": 0,
+    "slug": "echo8",
+    "publishedAt": "2021-12-22T04:30:00.057Z",
+    "user": {
+        "name": "Matthew Fulmer",
+        "slug": "matthew-fulmer"
+    },
+    "title": "Echo8",
+    "hashtag": "echo8",
+    "description": "A blue and green palette Perfect for night scenes. colors are taken from a fractal I made.",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-12-15T19:31:31.625Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61ba4456163e142aa529da2e",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Echo8 Palette Example by Matthew Fulmer",
+            "slug": "echo8-palette-example-by-matthew-fulmer",
+            "publishedAt": "2021-12-26T23:40:00.029Z",
+            "user": {
+                "name": "Matthew Fulmer",
+                "slug": "matthew-fulmer"
+            },
+            "parent": "61ba4293163e142aa529da21",
+            "image": "palette-examples/echo8-palette-example-by-matthew-fulmer-61ba44.png",
+            "creator": true,
+            "description": "Example of the pallete in a night scene. I had to scale it so it might be a bit off.",
+            "createdAt": "2021-12-15T19:39:02.435Z",
+            "updatedAt": "2021-12-26T23:40:00.029Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Example of the pallete in a night scene. I had to scale it so it might be a bit off."
+        }
+    ],
+    "colorsArray": [
+        "002429",
+        "0c335a",
+        "20506a",
+        "5a8994",
+        "acd2bd",
+        "b8e4c0",
+        "d7eed2",
+        "eeffed"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61ba4293163e142aa529da21",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

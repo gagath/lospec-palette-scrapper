@@ -1,0 +1,62 @@
+{
+    "_id": "5fb9e7b3eb0630284bc7c0ce",
+    "tags": [
+        "endesga",
+        " modified",
+        " arq4",
+        " arq4yyy4"
+    ],
+    "colors": [
+        "000000",
+        "6f7732",
+        "a89e67",
+        "77324c",
+        "a86793",
+        "32775c",
+        "67a87d",
+        "3a3277",
+        "6772a9",
+        "ffffff"
+    ],
+    "downloads": "45",
+    "featured": false,
+    "likes": 4,
+    "comments": 0,
+    "title": "ARQ4yyy4",
+    "hashtag": "arq4yyy4",
+    "description": "I modified the ARQ4 palette by ENDESGA, adding three HUE modifications to make what we paletteheads like to call a <i>\"square\".\u00a0</i>ARQ4 was originally made and developed by ENDESGA: www.lospec.com/endesga",
+    "creator": true,
+    "slug": "arq4yyy4",
+    "publishedAt": "2020-12-16T14:30:00.043Z",
+    "user": {
+        "name": "LKR0.5420820",
+        "slug": "l-k-r-0"
+    },
+    "numberOfColors": 10,
+    "createdAt": "2020-11-22T04:23:15.182Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "6f7732",
+        "a89e67",
+        "77324c",
+        "a86793",
+        "32775c",
+        "67a87d",
+        "3a3277",
+        "6772a9",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5fb9e7b3eb0630284bc7c0ce",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

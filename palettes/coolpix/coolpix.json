@@ -1,0 +1,47 @@
+{
+    "_id": "60bcb5b866ba947261f35914",
+    "tags": [],
+    "colors": [
+        "141720",
+        "0a5aa1",
+        "46e0e0",
+        "fff04f",
+        "f14141"
+    ],
+    "downloads": "59",
+    "featured": false,
+    "likes": 7,
+    "comments": 0,
+    "slug": "coolpix",
+    "publishedAt": "2021-07-31T10:25:00.025Z",
+    "user": {
+        "name": "mrdarip",
+        "slug": "mrdarip"
+    },
+    "title": "COOLPIX",
+    "hashtag": "coolpix",
+    "description": "Inspired by google pixel colora",
+    "creator": true,
+    "createdAt": "2021-06-06T11:47:04.445Z",
+    "numberOfColors": 5,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "141720",
+        "0a5aa1",
+        "46e0e0",
+        "fff04f",
+        "f14141"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "60bcb5b866ba947261f35914",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

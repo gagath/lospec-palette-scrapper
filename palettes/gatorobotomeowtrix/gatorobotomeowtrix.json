@@ -1,0 +1,69 @@
+{
+    "_id": "5dc86d41a5731c47cdeef329",
+    "slug": "gato-roboto-meowtrix",
+    "description": "A palette from the game <i><a href=\"https://gatoroboto.com/\" target=\"_blank\">Gato Roboto</a></i>.",
+    "colors": [
+        "080808",
+        "86ea16"
+    ],
+    "creator": false,
+    "comments": 0,
+    "likes": 4,
+    "createdAt": "2019-11-10T20:04:17.326Z",
+    "featured": false,
+    "tags": [
+        "game",
+        "gatoroboto",
+        "software",
+        "1bit"
+    ],
+    "downloads": "93",
+    "numberOfColors": 2,
+    "hashtag": "gatorobotomeowtrix",
+    "title": "Gato Roboto - Meowtrix",
+    "user": {
+        "name": "PureAsbestos",
+        "slug": "pureasbestos"
+    },
+    "publishedAt": "2019-11-10T20:04:17.326Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6075828e796b6e54ef2612ea",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Gato Roboto - Meowtrix Palette Example by Casei Solus",
+            "slug": "gato-roboto-meowtrix-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-13T13:15:00.027Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5dc86d41a5731c47cdeef329",
+            "image": "palette-examples/gato-roboto-meowtrix-palette-example-by-casei-solus-607582.png",
+            "creator": true,
+            "description": "The Meowtrix.",
+            "createdAt": "2021-04-13T11:37:50.317Z",
+            "updatedAt": "2021-04-13T13:15:00.028Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "The Meowtrix."
+        }
+    ],
+    "colorsArray": [
+        "080808",
+        "86ea16"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "5dc86d41a5731c47cdeef329",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

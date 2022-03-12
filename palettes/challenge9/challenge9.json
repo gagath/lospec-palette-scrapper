@@ -1,0 +1,84 @@
+{
+    "_id": "6014326af83efe5ab8647da1",
+    "tags": [
+        "challenge",
+        "9color",
+        "9colour",
+        "9x9x9x9",
+        "groxguy"
+    ],
+    "colors": [
+        "000000",
+        "ffffff",
+        "e2ba6f",
+        "a58f82",
+        "876343",
+        "f78847",
+        "68180d",
+        "2cc15e",
+        "256ec6"
+    ],
+    "downloads": "45",
+    "featured": false,
+    "likes": 11,
+    "comments": 1,
+    "title": "Challenge 9",
+    "hashtag": "challenge9",
+    "description": "I recently did the 9x9x9x9 challenge created by the Lospec creator Sam Keddy. In this challenge you use 9 colours, 9 tiles and a 9x9 tile grid. It is also optional to use 9x9 tiles (which I did).",
+    "creator": true,
+    "slug": "challenge-9",
+    "publishedAt": "2021-02-11T14:40:00.022Z",
+    "user": {
+        "name": "Groxguy",
+        "slug": "groxguy"
+    },
+    "numberOfColors": 9,
+    "createdAt": "2021-01-29T16:06:02.861Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "601435d6f83efe5ab8647dda",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/challenge-9-palette-example-by-groxguy-601435.png",
+            "creator": true,
+            "description": "My three attempts at the 9x9x9x9 challenge. The DKC one is my favorite by far.",
+            "title": "Challenge 9 Palette Example by Groxguy",
+            "slug": "challenge-9-palette-example-by-groxguy",
+            "publishedAt": "2021-02-06T17:20:00.007Z",
+            "user": {
+                "name": "Groxguy",
+                "slug": "groxguy"
+            },
+            "parent": "6014326af83efe5ab8647da1",
+            "createdAt": "2021-01-29T16:20:38.516Z",
+            "updatedAt": "2021-02-06T17:20:00.007Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "My three attempts at the 9x9x9x9 challenge. The DKC one is my favorite by far."
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "ffffff",
+        "e2ba6f",
+        "a58f82",
+        "876343",
+        "f78847",
+        "68180d",
+        "2cc15e",
+        "256ec6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "6014326af83efe5ab8647da1",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

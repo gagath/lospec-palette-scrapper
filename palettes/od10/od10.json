@@ -1,0 +1,82 @@
+{
+    "_id": "5f9f1a3ccacc576d6ab19bd5",
+    "tags": [
+        "isasstudio"
+    ],
+    "colors": [
+        "13141e",
+        "53365b",
+        "844c4f",
+        "ba8fb4",
+        "d9ede0",
+        "f3cb98",
+        "7db27a",
+        "707c86",
+        "3e527d",
+        "2f2e33"
+    ],
+    "downloads": "129",
+    "featured": false,
+    "likes": 21,
+    "comments": 4,
+    "title": "Od 10",
+    "hashtag": "od10",
+    "description": "2 odd ramps",
+    "creator": true,
+    "slug": "od-10",
+    "publishedAt": "2020-11-10T03:35:00.020Z",
+    "user": {
+        "name": "Isa",
+        "slug": "isas-studio"
+    },
+    "numberOfColors": 10,
+    "createdAt": "2020-11-01T20:27:40.488Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fa9bb520d413a5bfb2491c3",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/od-10-palette-example-by-isagamer-5fa9bb.png",
+            "creator": true,
+            "description": "a pastry picnic!",
+            "title": "Od 10 Palette Example by IsaGamer",
+            "slug": "od-10-palette-example-by-isagamer",
+            "publishedAt": "2020-11-10T02:35:00.016Z",
+            "user": {
+                "name": "Isa",
+                "slug": "isas-studio"
+            },
+            "parent": "5f9f1a3ccacc576d6ab19bd5",
+            "createdAt": "2020-11-09T21:57:38.731Z",
+            "updatedAt": "2020-11-10T02:35:00.016Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "a pastry picnic!"
+        }
+    ],
+    "colorsArray": [
+        "13141e",
+        "53365b",
+        "844c4f",
+        "ba8fb4",
+        "d9ede0",
+        "f3cb98",
+        "7db27a",
+        "707c86",
+        "3e527d",
+        "2f2e33"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5f9f1a3ccacc576d6ab19bd5",
+        "type": "palettes",
+        "count": 21,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

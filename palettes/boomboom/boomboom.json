@@ -1,0 +1,49 @@
+{
+    "_id": "5bd62520e86a5e3664cf08d2",
+    "slug": "boomboom",
+    "description": "Created by <a target=\"_blank\" href=\"https://twitter.com/Salman_Shh\">Salman_Shh</a> for their game BBBlaster.",
+    "colors": [
+        "000000",
+        "242423",
+        "ffffff",
+        "be2633",
+        "44891a",
+        "31a2f2",
+        "1b2632"
+    ],
+    "featured": false,
+    "tags": [
+        "artist",
+        "SalmanShh"
+    ],
+    "downloads": "190",
+    "numberOfColors": 7,
+    "createdAt": "2018-10-28T21:07:44.890Z",
+    "comments": 0,
+    "hashtag": "boomboom",
+    "title": "BoomBoom",
+    "publishedAt": "2018-10-28T21:07:44.890Z",
+    "likes": 3,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "242423",
+        "ffffff",
+        "be2633",
+        "44891a",
+        "31a2f2",
+        "1b2632"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5bd62520e86a5e3664cf08d2",
+        "type": "palettes",
+        "count": 3,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

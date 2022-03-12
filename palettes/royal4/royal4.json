@@ -1,0 +1,75 @@
+{
+    "_id": "5f387454964ccc67f97489b7",
+    "tags": [
+        "royalty",
+        " royal",
+        " purple",
+        " yellow",
+        " complementary",
+        " downgraded"
+    ],
+    "colors": [
+        "521296",
+        "8a1fac",
+        "d4864a",
+        "ebdb5e"
+    ],
+    "downloads": "474",
+    "featured": false,
+    "likes": 41,
+    "comments": 4,
+    "title": "Royal4",
+    "hashtag": "royal4",
+    "description": "Testing out some knowledge of color theory, a complementary(?) 4 color palette.",
+    "creator": true,
+    "slug": "royal4",
+    "publishedAt": "2020-08-16T09:50:00.028Z",
+    "user": {
+        "name": "daniel",
+        "slug": "downgraded"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-08-15T23:48:36.342Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f38746a964ccc67f97489b9",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/royal4-palette-example-by-daniel-5f3874.png",
+            "creator": true,
+            "description": "",
+            "title": "Royal4 Palette Example by daniel",
+            "slug": "royal4-palette-example-by-daniel",
+            "publishedAt": "2020-08-16T03:45:00.014Z",
+            "user": {
+                "name": "daniel",
+                "slug": "downgraded"
+            },
+            "parent": "5f387454964ccc67f97489b7",
+            "createdAt": "2020-08-15T23:48:58.434Z",
+            "updatedAt": "2020-08-16T03:45:00.016Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "521296",
+        "8a1fac",
+        "d4864a",
+        "ebdb5e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f387454964ccc67f97489b7",
+        "type": "palettes",
+        "count": 41,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

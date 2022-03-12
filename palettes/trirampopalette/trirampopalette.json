@@ -1,0 +1,89 @@
+{
+    "_id": "61d4798b8e83e42d9cc91805",
+    "tags": [
+        "anoob",
+        "colorful",
+        "12",
+        "trirampo"
+    ],
+    "colors": [
+        "703075",
+        "cc3184",
+        "e87d43",
+        "ffce6b",
+        "daf0d1",
+        "5dd477",
+        "25a2a8",
+        "4b56eb",
+        "2f328f",
+        "2c203d",
+        "7a8799",
+        "aec2c2"
+    ],
+    "downloads": "763",
+    "featured": false,
+    "likes": 33,
+    "comments": 1,
+    "slug": "trirampo",
+    "publishedAt": "2022-01-04T19:20:00.063Z",
+    "user": {
+        "name": "ANoob",
+        "slug": "anoob"
+    },
+    "title": "TriRampo",
+    "hashtag": "trirampopalette",
+    "description": "Inspired by one of my past palettes (Rampy16), this 12 color palette has 3 color ramps, with each of these connecting with the same brightest color (white) and their respective darkest color (such as purple and dark blue, or blue/purple and black). Made with versatility in mind while also being colorful.\u00a0",
+    "creator": true,
+    "numberOfColors": 12,
+    "createdAt": "2022-01-04T16:44:59.851Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61d479a38e83e42d9cc91810",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "TriRampo Palette Example by ANoob",
+            "slug": "trirampo-palette-example-by-anoobky8pi1",
+            "publishedAt": "2022-01-04T19:20:00.041Z",
+            "user": {
+                "name": "ANoob",
+                "slug": "anoob"
+            },
+            "parent": "61d4798b8e83e42d9cc91805",
+            "image": "palette-examples/trirampo-palette-example-by-anoobky8pi1.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-01-04T16:45:23.847Z",
+            "updatedAt": "2022-01-04T19:20:00.041Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "703075",
+        "cc3184",
+        "e87d43",
+        "ffce6b",
+        "daf0d1",
+        "5dd477",
+        "25a2a8",
+        "4b56eb",
+        "2f328f",
+        "2c203d",
+        "7a8799",
+        "aec2c2"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "61d4798b8e83e42d9cc91805",
+        "type": "palettes",
+        "count": 33,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

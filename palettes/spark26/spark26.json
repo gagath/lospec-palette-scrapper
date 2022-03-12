@@ -1,0 +1,54 @@
+{
+    "_id": "5dd091f96d54be5cde442a89",
+    "slug": "spark",
+    "description": "",
+    "colors": [
+        "291d22",
+        "4e313a",
+        "9d5550",
+        "f9b18e",
+        "fae8bc"
+    ],
+    "creator": "1",
+    "comments": 2,
+    "likes": 29,
+    "createdAt": "2019-11-17T00:19:05.551Z",
+    "featured": false,
+    "tags": [
+        "dark",
+        "spark",
+        "brown",
+        "orange",
+        "monoramp",
+        "jimison3"
+    ],
+    "downloads": "910",
+    "numberOfColors": 5,
+    "hashtag": "spark26",
+    "title": "Spark",
+    "user": {
+        "name": "Jimison3",
+        "slug": "jimison3"
+    },
+    "publishedAt": "2019-11-17T00:19:05.551Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "291d22",
+        "4e313a",
+        "9d5550",
+        "f9b18e",
+        "fae8bc"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5dd091f96d54be5cde442a89",
+        "type": "palettes",
+        "count": 29,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

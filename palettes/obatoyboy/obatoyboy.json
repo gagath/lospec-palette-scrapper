@@ -1,0 +1,51 @@
+{
+    "_id": "5e5fbc55ddfcf93cb33cb8ed",
+    "slug": "onebit-adventure-toyboy-3k",
+    "description": "ToyBoy 3000, one of the alternate color schemes on the mobile game OneBit Adventure by Galactic Slice",
+    "colors": [
+        "071820",
+        "14382c",
+        "336856",
+        "86c073",
+        "e1f7d1"
+    ],
+    "creator": false,
+    "hashtag": "obatoyboy",
+    "comments": 1,
+    "likes": 12,
+    "createdAt": "2020-03-04T14:33:57.123Z",
+    "featured": false,
+    "tags": [
+        "software",
+        "game",
+        "onebitadventure"
+    ],
+    "downloads": "360",
+    "numberOfColors": 5,
+    "title": "OneBit Adventure - ToyBoy 3K",
+    "user": {
+        "name": "Aysars",
+        "slug": "aysarsthemage"
+    },
+    "publishedAt": "2020-05-04T23:50:00.027Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "071820",
+        "14382c",
+        "336856",
+        "86c073",
+        "e1f7d1"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5e5fbc55ddfcf93cb33cb8ed",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

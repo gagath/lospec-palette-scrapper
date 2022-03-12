@@ -1,0 +1,94 @@
+{
+    "_id": "610875aadadb1c29e805526c",
+    "tags": [
+        "vibrant",
+        "colorful",
+        "limited",
+        "retro",
+        "bright"
+    ],
+    "colors": [
+        "1c162d",
+        "3d083b",
+        "841252",
+        "da2424",
+        "f77622",
+        "ecab11",
+        "fee761",
+        "ffeee5",
+        "07e5a0",
+        "0099db",
+        "124e89",
+        "3e4a6d",
+        "5a7088",
+        "43bd35"
+    ],
+    "downloads": "288",
+    "featured": false,
+    "likes": 14,
+    "comments": 0,
+    "slug": "vibrant-14",
+    "publishedAt": "2021-08-30T06:00:00.087Z",
+    "user": {
+        "name": "Spicygame Studios",
+        "slug": "spicygame-studios"
+    },
+    "title": "Vibrant 14",
+    "hashtag": "vibrant14",
+    "description": "A vibrant and colorful 14-color pallete with plenty of limitation. ",
+    "creator": true,
+    "numberOfColors": 14,
+    "createdAt": "2021-08-02T22:46:02.350Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "610878e35932a234bee7b636",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Vibrant 14 Palette Example by Spicygame Studios",
+            "slug": "vibrant-14-palette-example-by-spicygame-studios",
+            "publishedAt": "2021-08-22T21:00:00.057Z",
+            "user": {
+                "name": "Spicygame Studios",
+                "slug": "spicygame-studios"
+            },
+            "parent": "610875aadadb1c29e805526c",
+            "image": "palette-examples/vibrant-14-palette-example-by-spicygame-studios-610878.png",
+            "creator": true,
+            "description": "A bunch of objects made with this pallete.",
+            "createdAt": "2021-08-02T22:59:47.282Z",
+            "updatedAt": "2021-08-22T21:00:00.058Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A bunch of objects made with this pallete."
+        }
+    ],
+    "colorsArray": [
+        "1c162d",
+        "3d083b",
+        "841252",
+        "da2424",
+        "f77622",
+        "ecab11",
+        "fee761",
+        "ffeee5",
+        "07e5a0",
+        "0099db",
+        "124e89",
+        "3e4a6d",
+        "5a7088",
+        "43bd35"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "610875aadadb1c29e805526c",
+        "type": "palettes",
+        "count": 14,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

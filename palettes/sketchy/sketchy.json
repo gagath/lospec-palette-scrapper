@@ -1,0 +1,48 @@
+{
+    "_id": "61f327e4bfffea0b89c3cad3",
+    "tags": [
+        "2bit",
+        "paper"
+    ],
+    "colors": [
+        "29201b",
+        "593c2d",
+        "ab8352",
+        "f1dcb1"
+    ],
+    "downloads": "99",
+    "featured": false,
+    "likes": 18,
+    "comments": 0,
+    "slug": "sketchy",
+    "publishedAt": "2022-01-31T09:15:00.115Z",
+    "user": {
+        "name": "Wuchta",
+        "slug": "wuchta7"
+    },
+    "title": "Sketchy",
+    "hashtag": "sketchy",
+    "description": "4 color palette based on some old letters. And the paper that these letters were written on.",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2022-01-27T23:16:52.746Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "29201b",
+        "593c2d",
+        "ab8352",
+        "f1dcb1"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61f327e4bfffea0b89c3cad3",
+        "type": "palettes",
+        "count": 18,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

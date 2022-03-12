@@ -1,0 +1,95 @@
+{
+    "_id": "5fcdcdb020af1d4c33bd0775",
+    "tags": [
+        "warm",
+        " portrait",
+        " artsofwin",
+        " winspalette"
+    ],
+    "colors": [
+        "dcd0b7",
+        "c9b892",
+        "b8a16f",
+        "e88f54",
+        "c86956",
+        "b04833",
+        "2f95a1",
+        "006b86",
+        "0f3054",
+        "3a5559",
+        "32484d",
+        "223539",
+        "8c421d",
+        "722623",
+        "520b0b"
+    ],
+    "downloads": "463",
+    "featured": false,
+    "likes": 44,
+    "comments": 8,
+    "title": "A S I A N 1 5",
+    "hashtag": "asian15",
+    "description": "This is the first palette I made on the seventh day of december 2020, it's my birthday :&gt;\u00a0",
+    "creator": true,
+    "slug": "a-s-i-a-n-1-5",
+    "publishedAt": "2020-12-13T02:30:00.029Z",
+    "user": {
+        "name": "arts.of.win",
+        "slug": "winmarquez"
+    },
+    "numberOfColors": 15,
+    "createdAt": "2020-12-07T06:37:36.911Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fcddca020af1d4c33bd0817",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/a-s-i-a-n-1-5-palette-example-by-artsofwin-5fcddc.png",
+            "creator": true,
+            "description": "",
+            "title": "A S I A N 1 5 Palette Example by arts.of.win",
+            "slug": "a-s-i-a-n-1-5-palette-example-by-artsofwin",
+            "publishedAt": "2020-12-11T19:45:00.009Z",
+            "user": {
+                "name": "arts.of.win",
+                "slug": "winmarquez"
+            },
+            "parent": "5fcdcdb020af1d4c33bd0775",
+            "createdAt": "2020-12-07T07:41:20.330Z",
+            "updatedAt": "2020-12-11T19:45:00.009Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "dcd0b7",
+        "c9b892",
+        "b8a16f",
+        "e88f54",
+        "c86956",
+        "b04833",
+        "2f95a1",
+        "006b86",
+        "0f3054",
+        "3a5559",
+        "32484d",
+        "223539",
+        "8c421d",
+        "722623",
+        "520b0b"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fcdcdb020af1d4c33bd0775",
+        "type": "palettes",
+        "count": 44,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

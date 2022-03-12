@@ -1,0 +1,116 @@
+{
+    "_id": "5fe0a2797746db6620e1d1df",
+    "tags": [
+        "polyphorge"
+    ],
+    "colors": [
+        "1b0f28",
+        "4c6684",
+        "83bfca",
+        "f4f9e6",
+        "233e38",
+        "357b45",
+        "8ab954",
+        "f2e05a",
+        "312039",
+        "6e2745",
+        "c6434e",
+        "e7937e",
+        "544242",
+        "9e523b",
+        "e98549",
+        "8d8878"
+    ],
+    "downloads": "416",
+    "featured": false,
+    "likes": 32,
+    "comments": 0,
+    "title": "prospec_cal",
+    "hashtag": "prospeccal",
+    "description": "",
+    "creator": true,
+    "slug": "prospeccal",
+    "publishedAt": "2020-12-28T06:50:00.024Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-12-21T13:26:17.804Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fe0a62b7746db6620e1d210",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/prospeccal-palette-example-by-polyphorge-2-5fe0a6.png",
+            "creator": true,
+            "description": "",
+            "title": "prospec_cal Palette Example by polyphorge",
+            "slug": "prospeccal-palette-example-by-polyphorge-2",
+            "publishedAt": "2020-12-26T19:15:00.015Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "5fe0a2797746db6620e1d1df",
+            "createdAt": "2020-12-21T13:42:03.433Z",
+            "updatedAt": "2020-12-26T19:15:00.016Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "6001cdd5f95cc245d3ea8d6a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/prospeccal-palette-example-by-polyphorge-3-6001cd.png",
+            "creator": true,
+            "description": "",
+            "title": "prospec_cal Palette Example by polyphorge",
+            "slug": "prospeccal-palette-example-by-polyphorge-3",
+            "publishedAt": "2021-01-23T19:20:00.015Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "5fe0a2797746db6620e1d1df",
+            "createdAt": "2021-01-15T17:16:05.152Z",
+            "updatedAt": "2021-01-23T19:20:00.015Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "1b0f28",
+        "4c6684",
+        "83bfca",
+        "f4f9e6",
+        "233e38",
+        "357b45",
+        "8ab954",
+        "f2e05a",
+        "312039",
+        "6e2745",
+        "c6434e",
+        "e7937e",
+        "544242",
+        "9e523b",
+        "e98549",
+        "8d8878"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fe0a2797746db6620e1d1df",
+        "type": "palettes",
+        "count": 32,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

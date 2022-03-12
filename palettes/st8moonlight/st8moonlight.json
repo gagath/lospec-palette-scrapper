@@ -1,0 +1,84 @@
+{
+    "_id": "6186aaa3f76edc2ca2eda62b",
+    "tags": [
+        "artist",
+        "moon",
+        "moonlight",
+        "steel",
+        "iron",
+        "thest1076",
+        "st8"
+    ],
+    "colors": [
+        "0b0c0d",
+        "222426",
+        "363940",
+        "4c5359",
+        "667480",
+        "8598a6",
+        "a3becc",
+        "c3dce5"
+    ],
+    "downloads": "473",
+    "featured": false,
+    "likes": 15,
+    "comments": 0,
+    "slug": "st-8-moonlight",
+    "publishedAt": "2021-11-11T10:10:00.016Z",
+    "user": {
+        "name": "Skiller Thomson",
+        "slug": "thest1076"
+    },
+    "title": "ST 8 MoonLight",
+    "hashtag": "st8moonlight",
+    "description": "The next palette is \"ST Unnamed*\"!",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-11-06T16:17:39.372Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6186b2acbdcf503838a79c5b",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "ST 8 MoonLight Palette Example by Skiller Thomson",
+            "slug": "st-8-moonlight-palette-example-by-skiller-thomson",
+            "publishedAt": "2021-11-06T18:55:00.046Z",
+            "user": {
+                "name": "Skiller Thomson",
+                "slug": "thest1076"
+            },
+            "parent": "6186aaa3f76edc2ca2eda62b",
+            "image": "palette-examples/st-8-moonlight-palette-example-by-skiller-thomson-6186b2.png",
+            "creator": true,
+            "description": "Example updated! It seems to me that something is encrypted here?",
+            "createdAt": "2021-11-06T16:51:56.558Z",
+            "updatedAt": "2021-11-06T18:55:00.046Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Example updated! It seems to me that something is encrypted here?"
+        }
+    ],
+    "colorsArray": [
+        "0b0c0d",
+        "222426",
+        "363940",
+        "4c5359",
+        "667480",
+        "8598a6",
+        "a3becc",
+        "c3dce5"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6186aaa3f76edc2ca2eda62b",
+        "type": "palettes",
+        "count": 15,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

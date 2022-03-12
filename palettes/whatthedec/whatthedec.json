@@ -1,0 +1,85 @@
+{
+    "_id": "60d90daa0bae894a431580f7",
+    "tags": [
+        "whatthedec",
+        "tencolor",
+        "pixelart",
+        "limited"
+    ],
+    "colors": [
+        "fffdce",
+        "ffcd6b",
+        "78da22",
+        "17854e",
+        "e66649",
+        "8349a6",
+        "38153b",
+        "a6ced2",
+        "4796cf",
+        "204075"
+    ],
+    "downloads": "145",
+    "featured": false,
+    "likes": 19,
+    "comments": 3,
+    "slug": "what-the-dec",
+    "publishedAt": "2021-06-30T01:30:00.047Z",
+    "user": {
+        "name": "Noah Rowlands",
+        "slug": "noah-rowlands"
+    },
+    "title": "What the Dec",
+    "hashtag": "whatthedec",
+    "description": "Intended to be as versatile as possible for such a small palette, this palette was originally made a long time ago for a paint program on scratch.mit.edu, with slight edits made to it over time. I have decided to submit this palette to Lospec. The 10 colors has its limits, and the dark purple may be used as a \"black\".",
+    "creator": true,
+    "numberOfColors": 10,
+    "createdAt": "2021-06-27T23:45:46.102Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60d91cc60bae894a43159a32",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "What the Dec Palette Example by Noah Rowlands",
+            "slug": "what-the-dec-palette-example-by-noah-rowlands-2",
+            "publishedAt": "2021-06-29T19:35:00.022Z",
+            "user": {
+                "name": "Noah Rowlands",
+                "slug": "noah-rowlands"
+            },
+            "parent": "60d90daa0bae894a431580f7",
+            "image": "palette-examples/what-the-dec-palette-example-by-noah-rowlands-2-60d91c.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-06-28T00:50:14.783Z",
+            "updatedAt": "2021-06-29T19:35:00.022Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "fffdce",
+        "ffcd6b",
+        "78da22",
+        "17854e",
+        "e66649",
+        "8349a6",
+        "38153b",
+        "a6ced2",
+        "4796cf",
+        "204075"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "60d90daa0bae894a431580f7",
+        "type": "palettes",
+        "count": 19,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

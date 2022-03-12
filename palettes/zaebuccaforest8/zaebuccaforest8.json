@@ -1,0 +1,55 @@
+{
+    "_id": "5db0f1f55fd9881a7aaec2d2",
+    "slug": "zaebucca-forest-8",
+    "description": "Colors from \"Retro Forest Tiles\" by Zaebucca.<br />",
+    "colors": [
+        "0c0f12",
+        "102d56",
+        "4d4a54",
+        "a48f80",
+        "8d4638",
+        "00817c",
+        "9a8baf",
+        "edd6b6"
+    ],
+    "creator": false,
+    "comments": 0,
+    "likes": 4,
+    "createdAt": "2019-10-24T00:36:05.681Z",
+    "featured": false,
+    "tags": [
+        "forest"
+    ],
+    "downloads": "124",
+    "numberOfColors": 8,
+    "hashtag": "zaebuccaforest8",
+    "title": "Zaebucca Forest 8",
+    "user": {
+        "name": "Rhoq",
+        "slug": "rhoq"
+    },
+    "publishedAt": "2019-10-24T00:36:05.681Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "0c0f12",
+        "102d56",
+        "4d4a54",
+        "a48f80",
+        "8d4638",
+        "00817c",
+        "9a8baf",
+        "edd6b6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5db0f1f55fd9881a7aaec2d2",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,69 @@
+{
+    "_id": "5dc86f79a5731c47cdeef334",
+    "slug": "gato-roboto-tamagato",
+    "description": "A palette from the game <i><a href=\"https://gatoroboto.com/\" target=\"_blank\">Gato Roboto</a></i>. Unlike the other palettes in the game, this one is dark-on-light.<br />",
+    "colors": [
+        "a4b26f",
+        "0b1000"
+    ],
+    "creator": false,
+    "comments": 0,
+    "likes": 6,
+    "createdAt": "2019-11-10T20:13:45.929Z",
+    "featured": false,
+    "tags": [
+        "game",
+        "gatoroboto",
+        "software",
+        "1bit"
+    ],
+    "downloads": "96",
+    "numberOfColors": 2,
+    "hashtag": "gatorobototamagato",
+    "title": "Gato Roboto - Tamagato",
+    "user": {
+        "name": "PureAsbestos",
+        "slug": "pureasbestos"
+    },
+    "publishedAt": "2019-11-10T20:13:45.929Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60724ccd08afae7f3097f2f4",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Gato Roboto - Tamagato Palette Example by Casei Solus",
+            "slug": "gato-roboto-tamagato-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-12T16:10:00.016Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5dc86f79a5731c47cdeef334",
+            "image": "palette-examples/gato-roboto-tamagato-palette-example-by-casei-solus-60724c.png",
+            "creator": true,
+            "description": "Matcha oreos.",
+            "createdAt": "2021-04-11T01:11:41.563Z",
+            "updatedAt": "2021-04-12T16:10:00.016Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Matcha oreos."
+        }
+    ],
+    "colorsArray": [
+        "a4b26f",
+        "0b1000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "5dc86f79a5731c47cdeef334",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

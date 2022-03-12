@@ -1,0 +1,81 @@
+{
+    "_id": "5df68da43a03e35ed4fcd7a9",
+    "slug": "bauhaus",
+    "description": "",
+    "colors": [
+        "1a1616",
+        "4f186b",
+        "3e4db4",
+        "91144e",
+        "ea1f25",
+        "ad6d37",
+        "f1ca00",
+        "ecddbe"
+    ],
+    "creator": "1",
+    "hashtag": "bauhaus8",
+    "comments": 0,
+    "likes": 37,
+    "createdAt": "2019-12-15T19:46:44.361Z",
+    "featured": false,
+    "tags": [
+        "bauhaus",
+        "primary",
+        "braquen",
+        "red",
+        "yellow",
+        "blue",
+        "3bit",
+        "artist"
+    ],
+    "downloads": "352",
+    "numberOfColors": 8,
+    "title": "Bauhaus",
+    "user": {
+        "name": "Braquen",
+        "slug": "braquen"
+    },
+    "publishedAt": "2020-07-27T18:00:00.024Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f1f172b933a24422e92f88c",
+            "description": "Palette usage example by Braquen",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.232Z",
+            "creator": false,
+            "image": "palette-examples/bauhaus-palette-example-palette-usage-example-by-braquen-5f1f17.png",
+            "likes": 0,
+            "parent": "5df68da43a03e35ed4fcd7a9",
+            "slug": "bauhaus-palette-example-palette-usage-example-by-braquen",
+            "title": "bauhaus palette example palette usage example by braquen",
+            "updatedAt": "2020-07-31T03:56:11.232Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Braquen"
+        }
+    ],
+    "colorsArray": [
+        "1a1616",
+        "4f186b",
+        "3e4db4",
+        "91144e",
+        "ea1f25",
+        "ad6d37",
+        "f1ca00",
+        "ecddbe"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5df68da43a03e35ed4fcd7a9",
+        "type": "palettes",
+        "count": 37,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,91 @@
+{
+    "_id": "5b8572c4e06d9a4fc5b04ef4",
+    "createdAt": "2018-09-14T15:54:20.904Z",
+    "slug": "syz15",
+    "description": "For the <a target=\"_blank\" href=\"http://pixeljoint.com/2018/08/13/5694/15_Color_Palette_Comp.htm\">PixelJoint 15 Color Palette Competition</a>.",
+    "colors": [
+        "0e0c19",
+        "9d1f2f",
+        "f28c8c",
+        "b05621",
+        "c9ad23",
+        "d8e1a9",
+        "52b466",
+        "0e4f38",
+        "68062f",
+        "8d5a88",
+        "126f7e",
+        "53269a",
+        "221452",
+        "122f70",
+        "223421"
+    ],
+    "tags": [
+        "artist",
+        "fusionnist",
+        "pjcolorcomp15",
+        "pjcolorcomp"
+    ],
+    "downloads": "1,346",
+    "numberOfColors": 15,
+    "featured": false,
+    "likes": 65,
+    "comments": 1,
+    "creator": true,
+    "hashtag": "syz15",
+    "title": "syz15",
+    "user": {
+        "name": "Fusionnist",
+        "slug": "fusionnist"
+    },
+    "publishedAt": "2018-09-14T15:54:20.904Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5b8572d0e06d9a4fc5b04ef5",
+            "description": "Palette usage example by <a target=\"_blank\" href=\"https://twitter.com/fusionnist\">Fusionnist</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.131Z",
+            "creator": false,
+            "image": "palette-examples/fusionnist-15-palette-example-palette-usage-example-by-fusionnist-5b8572.png",
+            "likes": 0,
+            "parent": "5b8572c4e06d9a4fc5b04ef4",
+            "slug": "fusionnist-15-palette-example-palette-usage-example-by-fusionnist",
+            "title": "fusionnist 15 palette example palette usage example by fusionnist",
+            "updatedAt": "2020-07-31T03:56:11.131Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Fusionnist"
+        }
+    ],
+    "colorsArray": [
+        "0e0c19",
+        "9d1f2f",
+        "f28c8c",
+        "b05621",
+        "c9ad23",
+        "d8e1a9",
+        "52b466",
+        "0e4f38",
+        "68062f",
+        "8d5a88",
+        "126f7e",
+        "53269a",
+        "221452",
+        "122f70",
+        "223421"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5b8572c4e06d9a4fc5b04ef4",
+        "type": "palettes",
+        "count": 65,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

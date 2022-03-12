@@ -1,0 +1,75 @@
+{
+    "_id": "6021666da1fef94c797ab1ef",
+    "tags": [
+        "calm",
+        " cute",
+        " fun",
+        " pastel"
+    ],
+    "colors": [
+        "382b00",
+        "716cb0",
+        "e07ab3",
+        "79e0cf",
+        "ffd090"
+    ],
+    "downloads": "457",
+    "featured": false,
+    "likes": 47,
+    "comments": 1,
+    "title": "FUNTIME5",
+    "hashtag": "funtime5",
+    "description": "A palette purposefully made to be fun and colorful but easy to the eyes.",
+    "creator": true,
+    "slug": "funtime5",
+    "publishedAt": "2021-02-13T20:40:00.020Z",
+    "user": {
+        "name": "6bits",
+        "slug": "6bits"
+    },
+    "numberOfColors": 5,
+    "createdAt": "2021-02-08T16:27:25.388Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6021698ea1fef94c797ab217",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/funtime5-palette-example-by-6bits-602169.png",
+            "creator": true,
+            "description": "This is an example for funtime5 palette. It contains uses such as sprite, tiling, potrait, and gradient looks",
+            "title": "FUNTIME5 Palette Example by 6bits",
+            "slug": "funtime5-palette-example-by-6bits",
+            "publishedAt": "2021-02-08T19:15:00.017Z",
+            "user": {
+                "name": "6bits",
+                "slug": "6bits"
+            },
+            "parent": "6021666da1fef94c797ab1ef",
+            "createdAt": "2021-02-08T16:40:46.384Z",
+            "updatedAt": "2021-02-08T19:15:00.017Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "This is an example for funtime5 palette. It contains uses such as sprite, tiling, potrait, and gradient looks"
+        }
+    ],
+    "colorsArray": [
+        "382b00",
+        "716cb0",
+        "e07ab3",
+        "79e0cf",
+        "ffd090"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "6021666da1fef94c797ab1ef",
+        "type": "palettes",
+        "count": 47,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

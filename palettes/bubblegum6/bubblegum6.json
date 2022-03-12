@@ -1,0 +1,53 @@
+{
+    "_id": "618b04d678412211b77a2adb",
+    "tags": [
+        "bubblegum",
+        "pink",
+        "lightblue"
+    ],
+    "colors": [
+        "f97ca4",
+        "feffd0",
+        "ccf6c2",
+        "7ccfbc",
+        "f7c73d",
+        "303600"
+    ],
+    "downloads": "75",
+    "featured": false,
+    "likes": 9,
+    "comments": 0,
+    "slug": "bubblegum-6",
+    "publishedAt": "2021-11-12T10:10:00.030Z",
+    "user": {
+        "name": "Blylzz",
+        "slug": "blylzz"
+    },
+    "title": "BUBBLEGUM-6",
+    "hashtag": "bubblegum6",
+    "description": "beautiful palette with colored bubble gum, hope you like it",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2021-11-09T23:31:34.884Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "f97ca4",
+        "feffd0",
+        "ccf6c2",
+        "7ccfbc",
+        "f7c73d",
+        "303600"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "618b04d678412211b77a2adb",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

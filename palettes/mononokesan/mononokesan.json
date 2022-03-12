@@ -1,0 +1,77 @@
+{
+    "_id": "60649c9456cfdf2cd1a08963",
+    "tags": [
+        "princessmononoke",
+        "mononoke",
+        "san",
+        "gb",
+        "4colorclub",
+        "princess",
+        "ghibli",
+        "studio"
+    ],
+    "colors": [
+        "03324e",
+        "c74148",
+        "dbb9a0",
+        "ffffff"
+    ],
+    "downloads": "305",
+    "featured": false,
+    "likes": 38,
+    "comments": 4,
+    "slug": "mononoke-san",
+    "publishedAt": "2021-04-04T17:30:00.043Z",
+    "user": {
+        "name": "Winged Yeti",
+        "slug": "wingedyeti"
+    },
+    "title": "Mononoke San",
+    "hashtag": "mononokesan",
+    "description": "Colors I used for this 34x34, four-color piece.\u00a0",
+    "creator": true,
+    "createdAt": "2021-03-31T16:00:20.366Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6064a16356cfdf2cd1a08994",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Mononoke San Palette Example by Jared Johnston",
+            "slug": "mononoke-san-palette-example-by-jared-johnston",
+            "publishedAt": "2021-03-31T17:30:00.052Z",
+            "user": {
+                "name": "Winged Yeti",
+                "slug": "wingedyeti"
+            },
+            "parent": "60649c9456cfdf2cd1a08963",
+            "image": "palette-examples/mononoke-san-palette-example-by-jared-johnston-6064a1.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-03-31T16:20:51.445Z",
+            "updatedAt": "2021-03-31T17:30:00.053Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "03324e",
+        "c74148",
+        "dbb9a0",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60649c9456cfdf2cd1a08963",
+        "type": "palettes",
+        "count": 38,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,72 @@
+{
+    "_id": "5f12fb3bd0854010479167db",
+    "tags": [
+        "artist",
+        " shinytseul",
+        " night",
+        " moonlight",
+        " moonlit"
+    ],
+    "colors": [
+        "4396bf",
+        "663733",
+        "212133"
+    ],
+    "downloads": "85",
+    "featured": false,
+    "likes": 13,
+    "comments": 1,
+    "title": "Moonlit 3",
+    "hashtag": "moonlit3",
+    "description": "",
+    "creator": "1",
+    "slug": "moonlit-3",
+    "publishedAt": "2020-07-18T17:30:00.017Z",
+    "user": {
+        "name": "ShinyTseul",
+        "slug": "shinytseul"
+    },
+    "numberOfColors": 3,
+    "createdAt": "2020-07-18T13:38:03.386Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6077813b16f8450fae0b7fdf",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Moonlit 3 Palette Example by Casei Solus",
+            "slug": "moonlit-3-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-16T23:30:00.193Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5f12fb3bd0854010479167db",
+            "image": "palette-examples/moonlit-3-palette-example-by-casei-solus-607781.png",
+            "creator": true,
+            "description": "A violin.",
+            "createdAt": "2021-04-14T23:56:43.638Z",
+            "updatedAt": "2021-04-16T23:30:00.194Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A violin."
+        }
+    ],
+    "colorsArray": [
+        "4396bf",
+        "663733",
+        "212133"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 33.333333333333336,
+    "height": 32,
+    "likebutton": {
+        "content": "5f12fb3bd0854010479167db",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,53 @@
+{
+    "_id": "617ff09c32a9894b172c0868",
+    "tags": [
+        "6colors",
+        "carp",
+        "ohio"
+    ],
+    "colors": [
+        "edf3c8",
+        "d9c7b4",
+        "96b0b3",
+        "7a7a93",
+        "7f6a62",
+        "2c2c39"
+    ],
+    "downloads": "93",
+    "featured": false,
+    "likes": 7,
+    "comments": 1,
+    "slug": "massillon-6",
+    "publishedAt": "2021-11-05T15:00:00.056Z",
+    "user": {
+        "name": "Piken",
+        "slug": "pike"
+    },
+    "title": "Massillon-6",
+    "hashtag": "massillon6",
+    "description": "A palette as bland and dreary as the city itself. A varient of deadbeatgb with hints of the midwest",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2021-11-01T13:50:20.912Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "edf3c8",
+        "d9c7b4",
+        "96b0b3",
+        "7a7a93",
+        "7f6a62",
+        "2c2c39"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "617ff09c32a9894b172c0868",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

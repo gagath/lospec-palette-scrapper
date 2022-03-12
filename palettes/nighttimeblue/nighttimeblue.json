@@ -1,0 +1,64 @@
+{
+    "_id": "5f4834c74f610514775704cc",
+    "tags": [],
+    "colors": [
+        "413652",
+        "6493ff"
+    ],
+    "downloads": "93",
+    "featured": false,
+    "likes": 9,
+    "comments": 0,
+    "title": "The Night",
+    "hashtag": "nighttimeblue",
+    "description": "Just a splash of blue. I don't know if anyone else has submitted this same pallet before. If anyone has, I did not mean to copy you &amp; I am very sorry",
+    "creator": false,
+    "slug": "the-night",
+    "publishedAt": "2020-08-31T01:15:00.031Z",
+    "user": {
+        "name": "RGB Palettes",
+        "slug": "rgbp"
+    },
+    "numberOfColors": 2,
+    "createdAt": "2020-08-27T22:33:43.089Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60717bf971de192d1788b27c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "The Night Palette Example by Casei Solus",
+            "slug": "the-night-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-10T15:40:00.020Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5f4834c74f610514775704cc",
+            "image": "palette-examples/the-night-palette-example-by-casei-solus-60717b.png",
+            "creator": true,
+            "description": "A boy fishing on the moon.",
+            "createdAt": "2021-04-10T10:20:41.422Z",
+            "updatedAt": "2021-04-10T15:40:00.020Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A boy fishing on the moon."
+        }
+    ],
+    "colorsArray": [
+        "413652",
+        "6493ff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "5f4834c74f610514775704cc",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

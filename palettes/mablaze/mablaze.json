@@ -1,0 +1,82 @@
+{
+    "_id": "602b567f75a9ae675bc217c1",
+    "tags": [
+        "midnight",
+        " fire",
+        " night",
+        " dark",
+        " pink",
+        " rose",
+        " "
+    ],
+    "colors": [
+        "ff8274",
+        "d53c6a",
+        "7c183c",
+        "460e2b",
+        "31051e",
+        "1f0510",
+        "130208"
+    ],
+    "downloads": "4,002",
+    "featured": false,
+    "likes": 244,
+    "comments": 4,
+    "title": "Midnight ablaze",
+    "hashtag": "mablaze",
+    "description": "Color palette I made for a very ominous night sky. Named by one of my followers.\u00a0",
+    "creator": true,
+    "slug": "midnight-ablaze",
+    "publishedAt": "2021-02-22T21:20:00.021Z",
+    "user": {
+        "name": "Inkpendude ",
+        "slug": "inkpendude"
+    },
+    "numberOfColors": 7,
+    "createdAt": "2021-02-16T05:22:07.091Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "602b5c1075a9ae675bc217fb",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/midnight-ablaze-palette-example-by-inkpendude-602b5c.png",
+            "creator": true,
+            "description": "",
+            "title": "Midnight ablaze Palette Example by Inkpendude ",
+            "slug": "midnight-ablaze-palette-example-by-inkpendude",
+            "publishedAt": "2021-02-17T01:10:00.017Z",
+            "user": {
+                "name": "Inkpendude ",
+                "slug": "inkpendude"
+            },
+            "parent": "602b567f75a9ae675bc217c1",
+            "createdAt": "2021-02-16T05:45:52.445Z",
+            "updatedAt": "2021-02-17T01:10:00.018Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "ff8274",
+        "d53c6a",
+        "7c183c",
+        "460e2b",
+        "31051e",
+        "1f0510",
+        "130208"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "602b567f75a9ae675bc217c1",
+        "type": "palettes",
+        "count": 244,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

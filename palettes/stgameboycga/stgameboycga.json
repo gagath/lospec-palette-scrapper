@@ -1,0 +1,54 @@
+{
+    "_id": "613af81842d3335c05cdc619",
+    "tags": [
+        "artist",
+        "gameboy",
+        "cga",
+        "blue",
+        "gb",
+        "thest1076",
+        "hardware",
+        "computer"
+    ],
+    "colors": [
+        "000000",
+        "2800aa",
+        "7055ff",
+        "ffffff"
+    ],
+    "downloads": "58",
+    "featured": false,
+    "likes": 2,
+    "comments": 0,
+    "slug": "st-gameboy-cga",
+    "publishedAt": "2021-10-07T08:45:00.048Z",
+    "user": {
+        "name": "Skiller Thomson",
+        "slug": "thest1076"
+    },
+    "title": "ST GameBoy CGA",
+    "hashtag": "stgameboycga",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-09-10T06:15:52.457Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "2800aa",
+        "7055ff",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "613af81842d3335c05cdc619",
+        "type": "palettes",
+        "count": 2,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

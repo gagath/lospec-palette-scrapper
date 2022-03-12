@@ -1,0 +1,53 @@
+{
+    "_id": "6159222527e2c0145dc80cb3",
+    "tags": [],
+    "colors": [
+        "000000",
+        "777777",
+        "ffffff",
+        "bb4444",
+        "ffdd44",
+        "007722",
+        "77bbff",
+        "553366"
+    ],
+    "downloads": "37",
+    "featured": false,
+    "likes": 4,
+    "comments": 1,
+    "slug": "aj8",
+    "publishedAt": "2021-10-14T03:45:00.027Z",
+    "user": {
+        "name": "A.J. Otero",
+        "slug": "aj-otero"
+    },
+    "title": "AJ8",
+    "hashtag": "aj8",
+    "description": "For now I'm going to declare this my \"official general 8-color palette\" but at some point I may be able to improve it. \u00a0Either way, this palette is intended as a general master palette for any kind pixel art.",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-10-03T03:23:17.356Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "777777",
+        "ffffff",
+        "bb4444",
+        "ffdd44",
+        "007722",
+        "77bbff",
+        "553366"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6159222527e2c0145dc80cb3",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

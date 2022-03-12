@@ -1,0 +1,96 @@
+{
+    "_id": "5f87a677866da921a44501c7",
+    "tags": [
+        "hardware",
+        "console",
+        "ruzikb"
+    ],
+    "colors": [
+        "000000",
+        "ff0000",
+        "ffa100",
+        "ffa09f",
+        "ffff00",
+        "a3a000",
+        "00a100",
+        "00ff00",
+        "a0ff9d",
+        "00009b",
+        "0000ff",
+        "a200ff",
+        "ff00ff",
+        "00ffff",
+        "a2a19f",
+        "ffffff"
+    ],
+    "downloads": "170",
+    "featured": false,
+    "likes": 6,
+    "comments": 0,
+    "title": "Super Cassette Vision",
+    "hashtag": "supercassettevision",
+    "description": "The Super Cassette Vision is a home video game console made by Epoch Co. and released in Japan on July 17, 1984, and in Europe, specifically France,later in 1984. A successor to the Cassette Vision, it competed with Nintendo's Family Computer and Sega's SG-1000 line in Japan.",
+    "creator": true,
+    "slug": "super-cassette-vision",
+    "publishedAt": "2021-04-10T23:30:00.153Z",
+    "user": {
+        "name": "RuziKB\u00b2",
+        "slug": "theruzikb-altern"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-10-15T01:31:35.704Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6074084698a3c71c067ef8a5",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Super Cassette Vision Palette Example by Casei Solus",
+            "slug": "super-cassette-vision-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-12T16:20:00.022Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5f87a677866da921a44501c7",
+            "image": "palette-examples/super-cassette-vision-palette-example-by-casei-solus-607408.png",
+            "creator": true,
+            "description": "A Super Cassette Vision console and controller.",
+            "createdAt": "2021-04-12T08:43:50.205Z",
+            "updatedAt": "2021-04-12T16:20:00.022Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A Super Cassette Vision console and controller."
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "ff0000",
+        "ffa100",
+        "ffa09f",
+        "ffff00",
+        "a3a000",
+        "00a100",
+        "00ff00",
+        "a0ff9d",
+        "00009b",
+        "0000ff",
+        "a200ff",
+        "ff00ff",
+        "00ffff",
+        "a2a19f",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5f87a677866da921a44501c7",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

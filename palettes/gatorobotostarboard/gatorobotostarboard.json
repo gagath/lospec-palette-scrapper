@@ -1,0 +1,69 @@
+{
+    "_id": "5dc868c2e8b5507637cc75fd",
+    "slug": "gato-roboto-starboard",
+    "description": "A palette from the game <i><a href=\"https://gatoroboto.com/\" target=\"_blank\">Gato Roboto</a></i>.",
+    "colors": [
+        "0a2e44",
+        "fcffcc"
+    ],
+    "creator": false,
+    "comments": 0,
+    "likes": 23,
+    "createdAt": "2019-11-10T19:45:06.722Z",
+    "featured": false,
+    "tags": [
+        "game",
+        "gatoroboto",
+        "software",
+        "1bit"
+    ],
+    "downloads": "363",
+    "numberOfColors": 2,
+    "hashtag": "gatorobotostarboard",
+    "title": "Gato Roboto - Starboard",
+    "user": {
+        "name": "PureAsbestos",
+        "slug": "pureasbestos"
+    },
+    "publishedAt": "2019-11-10T19:45:06.722Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "606d4fc8af543a28402b1eed",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Gato Roboto - Starboard Palette Example by Casei Solus",
+            "slug": "gato-roboto-starboard-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-08T16:50:00.016Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5dc868c2e8b5507637cc75fd",
+            "image": "palette-examples/gato-roboto-starboard-palette-example-by-casei-solus-606d4f.png",
+            "creator": true,
+            "description": "Art inspired by graphics from the game Gato Roboto.",
+            "createdAt": "2021-04-07T06:23:04.914Z",
+            "updatedAt": "2021-04-08T16:50:00.016Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Art inspired by graphics from the game Gato Roboto."
+        }
+    ],
+    "colorsArray": [
+        "0a2e44",
+        "fcffcc"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "5dc868c2e8b5507637cc75fd",
+        "type": "palettes",
+        "count": 23,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

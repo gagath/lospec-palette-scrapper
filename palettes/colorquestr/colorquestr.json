@@ -1,0 +1,95 @@
+{
+    "_id": "60e31bed8a8e1506494026ab",
+    "tags": [
+        "retro",
+        "polyphorge"
+    ],
+    "colors": [
+        "95cecd",
+        "4c898b",
+        "0e3e5b",
+        "15894c",
+        "95ce56",
+        "eeee77",
+        "f7a046",
+        "d64b33",
+        "5a340e",
+        "b05670",
+        "ffad93",
+        "ffffff",
+        "acaaac",
+        "626562",
+        "000000",
+        "ad601a"
+    ],
+    "downloads": "474",
+    "featured": false,
+    "likes": 30,
+    "comments": 2,
+    "slug": "colorquest-retro-recolor",
+    "publishedAt": "2021-07-05T22:55:00.048Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "colorquest (retro recolor)",
+    "hashtag": "colorquestr",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2021-07-05T14:49:17.810Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60e31c0c8a8e1506494026e6",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "colorquest (retro recolor) Palette Example by polyphorge",
+            "slug": "colorquest-retro-recolor-palette-example-by-polyphorge",
+            "publishedAt": "2021-07-05T22:55:00.031Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "60e31bed8a8e1506494026ab",
+            "image": "palette-examples/colorquest-retro-recolor-palette-example-by-polyphorge-60e31c.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-07-05T14:49:48.516Z",
+            "updatedAt": "2021-07-05T22:55:00.031Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "95cecd",
+        "4c898b",
+        "0e3e5b",
+        "15894c",
+        "95ce56",
+        "eeee77",
+        "f7a046",
+        "d64b33",
+        "5a340e",
+        "b05670",
+        "ffad93",
+        "ffffff",
+        "acaaac",
+        "626562",
+        "000000",
+        "ad601a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60e31bed8a8e1506494026ab",
+        "type": "palettes",
+        "count": 30,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

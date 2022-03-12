@@ -1,0 +1,99 @@
+{
+    "_id": "619e7ce8193ec1129ce59e7b",
+    "tags": [
+        "zool",
+        "amiga",
+        "a500",
+        "ocs"
+    ],
+    "colors": [
+        "000000",
+        "ffffff",
+        "eeeeee",
+        "cccccc",
+        "999999",
+        "ddaa00",
+        "cc8800",
+        "ff6611",
+        "ff77cc",
+        "993366",
+        "00aaff",
+        "2244dd",
+        "aa3300",
+        "cc0000",
+        "880000",
+        "229933",
+        "226600"
+    ],
+    "downloads": "54",
+    "featured": false,
+    "likes": 1,
+    "comments": 1,
+    "slug": "zool",
+    "publishedAt": "2021-12-08T09:00:00.060Z",
+    "user": {
+        "name": "Craig Robinson",
+        "slug": "darth-sidious-666"
+    },
+    "title": "Zool",
+    "hashtag": "zool",
+    "description": "Colour palette from the Amiga A500 version of Zool. Created using Maptapper and a savestate from the game using WinUAE. There's 17 colours due to the copper list changing the blue to a darker shade.\u00a0",
+    "creator": false,
+    "numberOfColors": 17,
+    "createdAt": "2021-11-24T17:56:56.809Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61a41a0ec29db264fab44e93",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Zool Palette Example by Craig Robinson",
+            "slug": "zool-palette-example-by-craig-robinson-3",
+            "publishedAt": "2021-11-29T22:10:00.029Z",
+            "user": {
+                "name": "Craig Robinson",
+                "slug": "darth-sidious-666"
+            },
+            "parent": "619e7ce8193ec1129ce59e7b",
+            "image": "palette-examples/zool-palette-example-by-craig-robinson-3-61a41a.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-11-29T00:08:46.017Z",
+            "updatedAt": "2021-11-29T22:10:00.030Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "ffffff",
+        "eeeeee",
+        "cccccc",
+        "999999",
+        "ddaa00",
+        "cc8800",
+        "ff6611",
+        "ff77cc",
+        "993366",
+        "00aaff",
+        "2244dd",
+        "aa3300",
+        "cc0000",
+        "880000",
+        "229933",
+        "226600"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 11.11111111111111,
+    "height": 32,
+    "likebutton": {
+        "content": "619e7ce8193ec1129ce59e7b",
+        "type": "palettes",
+        "count": 1,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

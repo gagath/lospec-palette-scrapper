@@ -1,0 +1,98 @@
+{
+    "_id": "5ef396c915c31124d492725d",
+    "tags": [
+        "dadaism"
+    ],
+    "colors": [
+        "171900",
+        "5e3801",
+        "225500",
+        "2400ff",
+        "c111c3",
+        "dd0975",
+        "99aa00"
+    ],
+    "downloads": "290",
+    "featured": false,
+    "likes": 56,
+    "comments": 16,
+    "title": "SPAFF 8",
+    "hashtag": "spaff8",
+    "description": "The perfect general-purpose palette, carefully optimised to make everything look equally terrible.<br />",
+    "creator": true,
+    "slug": "spaff-8",
+    "publishedAt": "2020-06-25T11:20:00.012Z",
+    "user": {
+        "name": "GooGroker",
+        "slug": "googroker"
+    },
+    "numberOfColors": 7,
+    "createdAt": "2020-06-24T18:09:13.706Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fac218ac184e0421288c0bf",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/spaff-8-palette-example-by-nebularts-5fac21.png",
+            "creator": true,
+            "description": "",
+            "title": "SPAFF 8 Palette Example by Nebularts",
+            "slug": "spaff-8-palette-example-by-nebularts",
+            "publishedAt": "2020-11-11T17:45:00.016Z",
+            "user": {
+                "name": "Space Sandwich",
+                "slug": "spacesandwich"
+            },
+            "parent": "5ef396c915c31124d492725d",
+            "createdAt": "2020-11-11T17:38:18.870Z",
+            "updatedAt": "2020-11-11T17:45:00.016Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "61b6112898f97a5aad484e10",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "SPAFF 8 Palette Example by Pixel Plato",
+            "slug": "spaff-8-palette-example-by-pixel-plato-2",
+            "publishedAt": "2021-12-12T15:30:00.055Z",
+            "user": {
+                "name": "Pixel Plato",
+                "slug": "pixelplato"
+            },
+            "parent": "5ef396c915c31124d492725d",
+            "image": "palette-examples/spaff-8-palette-example-by-pixel-plato-2-61b611.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-12-12T15:11:36.730Z",
+            "updatedAt": "2021-12-12T15:30:00.056Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "171900",
+        "5e3801",
+        "225500",
+        "2400ff",
+        "c111c3",
+        "dd0975",
+        "99aa00"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5ef396c915c31124d492725d",
+        "type": "palettes",
+        "count": 56,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

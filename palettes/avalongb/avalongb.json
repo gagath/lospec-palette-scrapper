@@ -1,0 +1,72 @@
+{
+    "_id": "5e489b2607352a409b30696a",
+    "slug": "avalon",
+    "description": "A dark blue GameBoy Style Palette\u00a0",
+    "colors": [
+        "20759c",
+        "084062",
+        "002841",
+        "000408"
+    ],
+    "creator": true,
+    "hashtag": "avalongb",
+    "comments": 0,
+    "likes": 30,
+    "createdAt": "2020-02-16T01:30:14.129Z",
+    "featured": false,
+    "tags": [
+        "gameboy",
+        "blue",
+        "4color"
+    ],
+    "downloads": "440",
+    "numberOfColors": 4,
+    "title": "Avalon",
+    "user": {
+        "name": "matt fulmer",
+        "slug": "matt-fulmer"
+    },
+    "publishedAt": "2020-03-19T20:53:02.563Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f392260964ccc67f97496aa",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/avalon-palette-example-by-niall-chandler-5f3922.png",
+            "creator": "1",
+            "description": "",
+            "title": "Avalon Palette Example by Niall Chandler",
+            "slug": "avalon-palette-example-by-niall-chandler",
+            "publishedAt": "2020-08-17T15:45:00.010Z",
+            "user": {
+                "name": "Niall Chandler",
+                "slug": "niallchandler0"
+            },
+            "parent": "5e489b2607352a409b30696a",
+            "createdAt": "2020-08-16T12:11:12.380Z",
+            "updatedAt": "2020-08-17T15:45:00.010Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "20759c",
+        "084062",
+        "002841",
+        "000408"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5e489b2607352a409b30696a",
+        "type": "palettes",
+        "count": 30,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

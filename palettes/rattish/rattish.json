@@ -1,0 +1,64 @@
+{
+    "_id": "5ffaf21292a64f5a85e50a75",
+    "tags": [],
+    "colors": [
+        "5dafa7",
+        "5d4242"
+    ],
+    "downloads": "147",
+    "featured": false,
+    "likes": 29,
+    "comments": 0,
+    "title": "rat flavour ",
+    "hashtag": "rattish",
+    "description": "just the cold palette",
+    "creator": true,
+    "slug": "rat-flavour",
+    "publishedAt": "2021-01-11T02:20:00.021Z",
+    "user": {
+        "name": "iflusch",
+        "slug": "if1lsh7"
+    },
+    "numberOfColors": 2,
+    "createdAt": "2021-01-10T12:24:50.875Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5ffc59ba97bd9412c4774c2d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/rat-flavour-palette-example-by-iflusch-2-5ffc59.png",
+            "creator": true,
+            "description": "",
+            "title": "rat flavour  Palette Example by iflusch",
+            "slug": "rat-flavour-palette-example-by-iflusch-2",
+            "publishedAt": "2021-01-11T15:10:00.024Z",
+            "user": {
+                "name": "iflusch",
+                "slug": "if1lsh7"
+            },
+            "parent": "5ffaf21292a64f5a85e50a75",
+            "createdAt": "2021-01-11T13:59:22.848Z",
+            "updatedAt": "2021-01-11T15:10:00.025Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "5dafa7",
+        "5d4242"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "5ffaf21292a64f5a85e50a75",
+        "type": "palettes",
+        "count": 29,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

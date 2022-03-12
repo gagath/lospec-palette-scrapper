@@ -1,0 +1,75 @@
+{
+    "_id": "5ba7f62fd8f5345a507022a2",
+    "slug": "superb-8",
+    "description": "Inspired by early super heroes.",
+    "colors": [
+        "f6faff",
+        "eeea18",
+        "edc495",
+        "3d9c09",
+        "0891cd",
+        "776b7d",
+        "e62800",
+        "000800"
+    ],
+    "tags": [
+        "artist",
+        "bigpotato"
+    ],
+    "downloads": "380",
+    "numberOfColors": 8,
+    "createdAt": "2018-09-25T17:42:43.673Z",
+    "featured": false,
+    "likes": 18,
+    "comments": 1,
+    "creator": true,
+    "hashtag": "superb8",
+    "title": "Superb 8",
+    "user": {
+        "name": "BigPotato",
+        "slug": "pixelspud"
+    },
+    "publishedAt": "2018-09-25T17:42:43.673Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5ba7f6f5d8f5345a507022a3",
+            "description": "Palette usage example by <a target=\"_blank\" href=\"https://twitter.com/PixelSpud\">BigPotato</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.141Z",
+            "creator": false,
+            "image": "palette-examples/superb-8-palette-example-palette-usage-example-by-bigpotato-5ba7f6.png",
+            "likes": 0,
+            "parent": "5ba7f62fd8f5345a507022a2",
+            "slug": "superb-8-palette-example-palette-usage-example-by-bigpotato",
+            "title": "superb 8 palette example palette usage example by bigpotato",
+            "updatedAt": "2020-07-31T03:56:11.141Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by BigPotato"
+        }
+    ],
+    "colorsArray": [
+        "f6faff",
+        "eeea18",
+        "edc495",
+        "3d9c09",
+        "0891cd",
+        "776b7d",
+        "e62800",
+        "000800"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5ba7f62fd8f5345a507022a2",
+        "type": "palettes",
+        "count": 18,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

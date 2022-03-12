@@ -1,0 +1,62 @@
+{
+    "_id": "58ec1ea80ccc891b2bbe384f",
+    "createdAt": "2017-04-11T00:09:12.577Z",
+    "slug": "nintendo-super-gameboy",
+    "description": "The default palette for the <a href=\"https://en.wikipedia.org/wiki/Super_Game_Boy\">Nintendo Super Gameboy</a>, a SNES catridge that allowed you to play Gameboy and Gameboy Color games on the SNES.",
+    "colors": [
+        "331e50",
+        "a63725",
+        "d68e49",
+        "f7e7c6"
+    ],
+    "tags": [
+        "hardware",
+        "gameboy",
+        "supergameboy"
+    ],
+    "downloads": "3,454",
+    "numberOfColors": 4,
+    "likes": 66,
+    "comments": 0,
+    "hashtag": "nintendosupergameboy",
+    "title": "Nintendo Super Gameboy",
+    "publishedAt": "2017-04-11T00:09:12.577Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "58ffbe2fe15f242214faf18b",
+            "description": "<a href=\"https://en.wikipedia.org/wiki/Trip_World\">Trip World</a> screenshots.",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.049Z",
+            "creator": false,
+            "image": "palette-examples/nintendo-super-gameboy-palette-example-trip-world-screenshots-58ffbe.png",
+            "likes": 0,
+            "parent": "58ec1ea80ccc891b2bbe384f",
+            "slug": "nintendo-super-gameboy-palette-example-trip-world-screenshots",
+            "title": "nintendo super gameboy palette example trip world screenshots",
+            "updatedAt": "2020-07-31T03:56:11.049Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Trip World screenshots."
+        }
+    ],
+    "colorsArray": [
+        "331e50",
+        "a63725",
+        "d68e49",
+        "f7e7c6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "58ec1ea80ccc891b2bbe384f",
+        "type": "palettes",
+        "count": 66,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

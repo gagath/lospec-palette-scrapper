@@ -1,0 +1,72 @@
+{
+    "_id": "5e416cc0bbea893dd26dedcc",
+    "slug": "bicycle",
+    "description": "A 4 color palette inspired by playing cards",
+    "colors": [
+        "161616",
+        "ab4646",
+        "8f9bf6",
+        "f0f0f0"
+    ],
+    "creator": true,
+    "hashtag": "bicyclegb",
+    "comments": 3,
+    "likes": 102,
+    "createdAt": "2020-02-10T14:46:24.786Z",
+    "featured": false,
+    "tags": [
+        "bicycle",
+        "gameboy",
+        "2bit",
+        "blue",
+        "red",
+        "artist",
+        "braquen"
+    ],
+    "downloads": "1,028",
+    "numberOfColors": 4,
+    "title": "Bicycle",
+    "user": {
+        "name": "Braquen",
+        "slug": "braquen"
+    },
+    "publishedAt": "2020-02-10T14:46:24.786Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5e42e98ae2c1c66d787f4152",
+            "description": "Palette usage example by Braquen",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.211Z",
+            "creator": false,
+            "image": "palette-examples/bicycle-palette-example-palette-usage-example-by-braquen-5e42e9.png",
+            "likes": 0,
+            "parent": "5e416cc0bbea893dd26dedcc",
+            "slug": "bicycle-palette-example-palette-usage-example-by-braquen",
+            "title": "bicycle palette example palette usage example by braquen",
+            "updatedAt": "2020-07-31T03:56:11.211Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Braquen"
+        }
+    ],
+    "colorsArray": [
+        "161616",
+        "ab4646",
+        "8f9bf6",
+        "f0f0f0"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5e416cc0bbea893dd26dedcc",
+        "type": "palettes",
+        "count": 102,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,76 @@
+{
+    "_id": "5f6b243308895951605d373e",
+    "tags": [
+        "gameboy",
+        "four",
+        "4",
+        "polyducks",
+        "vivid",
+        "2bit",
+        "scream"
+    ],
+    "colors": [
+        "561d17",
+        "5c4fa3",
+        "74af34",
+        "caf532"
+    ],
+    "downloads": "466",
+    "featured": false,
+    "likes": 47,
+    "comments": 1,
+    "title": "Vivid 2bit Scream",
+    "hashtag": "vivid2bitscream",
+    "description": "",
+    "creator": true,
+    "slug": "vivid-2bit-scream",
+    "publishedAt": "2020-09-27T04:05:00.019Z",
+    "user": {
+        "name": "Polyducks",
+        "slug": "polyducks"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-09-23T10:32:19.267Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f6b7f9508895951605d3b97",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/vivid-2bit-scream-palette-example-by-polyducks-5f6b7f.png",
+            "creator": true,
+            "description": "Textmode art for a distant castle. 8x8 textures feel appropriate for a gameboy palette ;~)",
+            "title": "Vivid 2bit Scream Palette Example by Polyducks",
+            "slug": "vivid-2bit-scream-palette-example-by-polyducks",
+            "publishedAt": "2020-09-26T16:10:00.020Z",
+            "user": {
+                "name": "Polyducks",
+                "slug": "polyducks"
+            },
+            "parent": "5f6b243308895951605d373e",
+            "createdAt": "2020-09-23T17:02:13.535Z",
+            "updatedAt": "2020-09-26T16:10:00.020Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Textmode art for a distant castle. 8x8 textures feel appropriate for a gameboy palette ;~)"
+        }
+    ],
+    "colorsArray": [
+        "561d17",
+        "5c4fa3",
+        "74af34",
+        "caf532"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f6b243308895951605d373e",
+        "type": "palettes",
+        "count": 47,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,117 @@
+{
+    "_id": "607f44759a7a1369656e7b80",
+    "tags": [
+        "videogame",
+        "polyphrog"
+    ],
+    "colors": [
+        "99d4aa",
+        "498e86",
+        "324859",
+        "437a4d",
+        "7dbe58",
+        "eadb77",
+        "dc8254",
+        "c13d37",
+        "61363d",
+        "b06163",
+        "e6af89",
+        "fff9e5",
+        "c1a68c",
+        "8b6962",
+        "0d0b0d",
+        "9d5745"
+    ],
+    "downloads": "734",
+    "featured": false,
+    "likes": 60,
+    "comments": 8,
+    "slug": "colorquest-16",
+    "publishedAt": "2021-04-21T05:05:00.044Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "colorquest-16",
+    "hashtag": "colorquest",
+    "description": "haha funny adventure game palette",
+    "creator": true,
+    "createdAt": "2021-04-20T21:15:33.259Z",
+    "numberOfColors": 16,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607f56bc9a7a1369656e7c2a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "colorquest Palette Example by polyphorge",
+            "slug": "colorquest-palette-example-by-polyphorge",
+            "publishedAt": "2021-04-20T23:35:00.036Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "607f44759a7a1369656e7b80",
+            "image": "palette-examples/colorquest-palette-example-by-polyphorge-607f56.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-04-20T22:33:32.224Z",
+            "updatedAt": "2021-04-20T23:35:00.036Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "618ec21097c27e02154299d6",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "colorquest-16 Palette Example by VEXED",
+            "slug": "colorquest-16-palette-example-by-vexed-2",
+            "publishedAt": "2021-11-13T08:25:00.013Z",
+            "user": {
+                "name": "VEXED",
+                "slug": "v3x3d"
+            },
+            "parent": "607f44759a7a1369656e7b80",
+            "image": "palette-examples/colorquest-16-palette-example-by-vexed-2-618ec2.png",
+            "creator": true,
+            "description": "Designed from tiles in my asset pack\u00a0Another Perspective.",
+            "createdAt": "2021-11-12T19:35:44.731Z",
+            "updatedAt": "2021-11-13T08:25:00.013Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": "Designed from tiles in my asset pack\u00a0Another Perspective."
+        }
+    ],
+    "colorsArray": [
+        "99d4aa",
+        "498e86",
+        "324859",
+        "437a4d",
+        "7dbe58",
+        "eadb77",
+        "dc8254",
+        "c13d37",
+        "61363d",
+        "b06163",
+        "e6af89",
+        "fff9e5",
+        "c1a68c",
+        "8b6962",
+        "0d0b0d",
+        "9d5745"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "607f44759a7a1369656e7b80",
+        "type": "palettes",
+        "count": 60,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

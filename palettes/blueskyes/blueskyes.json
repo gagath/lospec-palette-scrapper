@@ -1,0 +1,51 @@
+{
+    "_id": "600af1ba78b73b4e5f0f0e35",
+    "tags": [
+        "blue flower epic palette"
+    ],
+    "colors": [
+        "191919",
+        "957914",
+        "e2e7f6",
+        "dca2d6",
+        "71455d",
+        "3598b0"
+    ],
+    "downloads": "55",
+    "featured": false,
+    "likes": 7,
+    "comments": 5,
+    "title": "Blue Skyes",
+    "hashtag": "blueskyes",
+    "description": "",
+    "creator": true,
+    "slug": "blue-skyes",
+    "publishedAt": "2021-01-24T12:25:00.024Z",
+    "user": {
+        "name": "Broliant 112",
+        "slug": "broliant-112"
+    },
+    "numberOfColors": 6,
+    "createdAt": "2021-01-22T15:39:38.628Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "191919",
+        "957914",
+        "e2e7f6",
+        "dca2d6",
+        "71455d",
+        "3598b0"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "600af1ba78b73b4e5f0f0e35",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

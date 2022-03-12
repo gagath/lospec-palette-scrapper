@@ -1,0 +1,95 @@
+{
+    "_id": "60494d059eb22b0923fe4ad5",
+    "tags": [
+        "hollow knight",
+        "2 bit",
+        "4 colors",
+        "gameboy"
+    ],
+    "colors": [
+        "0f0f1b",
+        "565a75",
+        "c6b7be",
+        "fafbf6"
+    ],
+    "downloads": "2,756",
+    "featured": false,
+    "likes": 194,
+    "comments": 1,
+    "title": "Hollow",
+    "hashtag": "hollow2bit",
+    "description": "2bit palette based on the colors from Hollow Knight. I won't take full credit as I just pulled the ones from the game that I thought worked as a 4 color palette",
+    "creator": true,
+    "slug": "hollow",
+    "publishedAt": "2021-03-19T06:10:00.019Z",
+    "user": {
+        "name": "Poltergasm",
+        "slug": "iampoltergasm"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-03-10T22:49:41.407Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60494d149eb22b0923fe4ad8",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/hollow-palette-example-by-poltergasm-60494d.png",
+            "creator": true,
+            "description": "",
+            "title": "Hollow Palette Example by Poltergasm",
+            "slug": "hollow-palette-example-by-poltergasm",
+            "publishedAt": "2021-03-17T18:15:00.018Z",
+            "user": {
+                "name": "Poltergasm",
+                "slug": "iampoltergasm"
+            },
+            "parent": "60494d059eb22b0923fe4ad5",
+            "createdAt": "2021-03-10T22:49:56.761Z",
+            "updatedAt": "2021-03-17T18:15:00.018Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "614fc1b2698cc43c6337dd7d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Hollow Palette Example by nkoder",
+            "slug": "hollow-palette-example-by-nkoder",
+            "publishedAt": "2021-09-27T07:55:00.029Z",
+            "user": {
+                "name": "Beetroot Paul",
+                "slug": "beetrootpaul"
+            },
+            "parent": "60494d059eb22b0923fe4ad5",
+            "image": "palette-examples/hollow-palette-example-by-nkoder-614fc1.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-09-26T00:41:22.549Z",
+            "updatedAt": "2021-09-27T07:55:00.029Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "0f0f1b",
+        "565a75",
+        "c6b7be",
+        "fafbf6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60494d059eb22b0923fe4ad5",
+        "type": "palettes",
+        "count": 194,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

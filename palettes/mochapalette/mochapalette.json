@@ -1,0 +1,54 @@
+{
+    "_id": "5fad4c7898ceec2f6ecea91c",
+    "tags": [
+        "coffee",
+        " chocolate",
+        " spacesandwich",
+        " 6"
+    ],
+    "colors": [
+        "20130e",
+        "4c2c21",
+        "78462c",
+        "ab6c46",
+        "d19e79",
+        "f2e3c3"
+    ],
+    "downloads": "329",
+    "featured": false,
+    "likes": 13,
+    "comments": 0,
+    "title": "Mocha",
+    "hashtag": "mochapalette",
+    "description": "",
+    "creator": true,
+    "slug": "mocha",
+    "publishedAt": "2020-11-23T01:45:00.019Z",
+    "user": {
+        "name": "Space Sandwich",
+        "slug": "spacesandwich"
+    },
+    "numberOfColors": 6,
+    "createdAt": "2020-11-12T14:53:44.521Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "20130e",
+        "4c2c21",
+        "78462c",
+        "ab6c46",
+        "d19e79",
+        "f2e3c3"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5fad4c7898ceec2f6ecea91c",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

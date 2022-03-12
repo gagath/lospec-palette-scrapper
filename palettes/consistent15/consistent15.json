@@ -1,0 +1,93 @@
+{
+    "_id": "6048d23f4c751d1d51c41dc7",
+    "tags": [
+        "consistent",
+        " artist"
+    ],
+    "colors": [
+        "80dbf8",
+        "6079dc",
+        "5d4483",
+        "cb62a9",
+        "ffc0ad",
+        "ffffff",
+        "bbcbe0",
+        "8183b6",
+        "377a77",
+        "80d566",
+        "fff475",
+        "eb795d",
+        "913d5c",
+        "2e2549",
+        "030305"
+    ],
+    "downloads": "139",
+    "featured": false,
+    "likes": 17,
+    "comments": 1,
+    "title": "Consistent 15",
+    "hashtag": "consistent15",
+    "description": "I tried to make it possible to make consistently sized ramps with all the colors",
+    "creator": true,
+    "slug": "consistent-15",
+    "publishedAt": "2021-03-12T11:40:00.025Z",
+    "user": {
+        "name": "Adam Barrett",
+        "slug": "adam-barrett"
+    },
+    "numberOfColors": 15,
+    "createdAt": "2021-03-10T14:05:51.545Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6048ef9496bafe4c0af1498c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/consistent-15-palette-example-by-adam-barrett-6048ef.png",
+            "creator": true,
+            "description": "",
+            "title": "Consistent 15 Palette Example by Adam Barrett",
+            "slug": "consistent-15-palette-example-by-adam-barrett",
+            "publishedAt": "2021-03-10T17:55:00.020Z",
+            "user": {
+                "name": "Adam Barrett",
+                "slug": "adam-barrett"
+            },
+            "parent": "6048d23f4c751d1d51c41dc7",
+            "createdAt": "2021-03-10T16:11:00.694Z",
+            "updatedAt": "2021-03-10T17:55:00.020Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "80dbf8",
+        "6079dc",
+        "5d4483",
+        "cb62a9",
+        "ffc0ad",
+        "ffffff",
+        "bbcbe0",
+        "8183b6",
+        "377a77",
+        "80d566",
+        "fff475",
+        "eb795d",
+        "913d5c",
+        "2e2549",
+        "030305"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6048d23f4c751d1d51c41dc7",
+        "type": "palettes",
+        "count": 17,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

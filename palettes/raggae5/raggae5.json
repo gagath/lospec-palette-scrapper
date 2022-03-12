@@ -1,0 +1,72 @@
+{
+    "_id": "5f15f33f2de9125be03cde75",
+    "tags": [
+        "raggae"
+    ],
+    "colors": [
+        "0e121b",
+        "11780f",
+        "e7b300",
+        "f8f0d0",
+        "d80b10"
+    ],
+    "downloads": "155",
+    "featured": false,
+    "likes": 23,
+    "comments": 1,
+    "title": "Reggae 5",
+    "hashtag": "raggae5",
+    "description": "",
+    "creator": "1",
+    "slug": "reggae-5",
+    "publishedAt": "2020-07-22T15:40:00.013Z",
+    "user": {
+        "name": "Grunion",
+        "slug": "kinggrunion"
+    },
+    "numberOfColors": 5,
+    "createdAt": "2020-07-20T19:40:47.110Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f51cc26c434d81fdde12965",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/reggae-5-palette-example-by-grinen-5f51cc.png",
+            "creator": true,
+            "description": "Created By: KingGrunion, ShinyTseul, and Pit",
+            "title": "Reggae 5 Palette Example by GRINEN",
+            "slug": "reggae-5-palette-example-by-grinen",
+            "publishedAt": "2020-09-04T15:55:00.017Z",
+            "user": {
+                "name": "Grunion",
+                "slug": "kinggrunion"
+            },
+            "parent": "5f15f33f2de9125be03cde75",
+            "createdAt": "2020-09-04T05:09:58.313Z",
+            "updatedAt": "2020-09-04T15:55:00.017Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Created By: KingGrunion, ShinyTseul, and Pit"
+        }
+    ],
+    "colorsArray": [
+        "0e121b",
+        "11780f",
+        "e7b300",
+        "f8f0d0",
+        "d80b10"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5f15f33f2de9125be03cde75",
+        "type": "palettes",
+        "count": 23,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

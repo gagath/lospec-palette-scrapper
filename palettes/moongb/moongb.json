@@ -1,0 +1,47 @@
+{
+    "_id": "5f1dff4ad1952423fe9f9481",
+    "tags": [
+        "gb"
+    ],
+    "colors": [
+        "2f004f",
+        "a4508b",
+        "eabfcb",
+        "feefec"
+    ],
+    "downloads": "198",
+    "featured": false,
+    "likes": 27,
+    "comments": 0,
+    "title": "moon GB",
+    "hashtag": "moongb",
+    "description": "yep",
+    "creator": true,
+    "slug": "moon-gb",
+    "publishedAt": "2020-07-28T06:00:00.039Z",
+    "user": {
+        "name": "GB bro",
+        "slug": "gbbro"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-07-26T22:10:18.406Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "2f004f",
+        "a4508b",
+        "eabfcb",
+        "feefec"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f1dff4ad1952423fe9f9481",
+        "type": "palettes",
+        "count": 27,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

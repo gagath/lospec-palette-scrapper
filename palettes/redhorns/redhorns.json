@@ -1,0 +1,76 @@
+{
+    "_id": "6164aefec00bdb582a1b155d",
+    "tags": [
+        "blood",
+        "horror",
+        "red",
+        "grey",
+        "polyphrog"
+    ],
+    "colors": [
+        "0e0707",
+        "4d1313",
+        "633838",
+        "7e6a6a",
+        "c1b5b5"
+    ],
+    "downloads": "181",
+    "featured": false,
+    "likes": 19,
+    "comments": 2,
+    "slug": "red-horns",
+    "publishedAt": "2021-10-16T17:45:00.024Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "red horns",
+    "hashtag": "redhorns",
+    "description": "spoopy :&gt;",
+    "creator": true,
+    "numberOfColors": 5,
+    "createdAt": "2021-10-11T21:39:10.372Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6164af0fc00bdb582a1b155f",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "red horns Palette Example by polyphorge",
+            "slug": "red-horns-palette-example-by-polyphorge",
+            "publishedAt": "2021-10-12T05:10:00.006Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "6164aefec00bdb582a1b155d",
+            "image": "palette-examples/red-horns-palette-example-by-polyphorge-6164af.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-10-11T21:39:27.553Z",
+            "updatedAt": "2021-10-12T05:10:00.006Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "0e0707",
+        "4d1313",
+        "633838",
+        "7e6a6a",
+        "c1b5b5"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "6164aefec00bdb582a1b155d",
+        "type": "palettes",
+        "count": 19,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

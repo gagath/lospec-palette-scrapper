@@ -1,0 +1,81 @@
+{
+    "_id": "60123c7a4310c2050eb151cf",
+    "tags": [
+        "sriracha",
+        " sauce",
+        " spicy",
+        " food"
+    ],
+    "colors": [
+        "750500",
+        "bc210a",
+        "cd5532",
+        "f1af8d",
+        "077d22",
+        "289f4f",
+        "4ec580",
+        "e2e2c0"
+    ],
+    "downloads": "222",
+    "featured": false,
+    "likes": 24,
+    "comments": 2,
+    "title": "Sriracha",
+    "hashtag": "sriracha",
+    "description": "Spicy colors sampled from a classic Sriracha sauce bottle.",
+    "creator": true,
+    "slug": "sriracha",
+    "publishedAt": "2021-02-07T20:40:00.028Z",
+    "user": {
+        "name": "Potvii",
+        "slug": "olivier-boily"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2021-01-28T04:24:26.856Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6013f610ce3d6e4db4ea2bcd",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/sriracha-palette-example-by-potvii-2-6013f6.png",
+            "creator": true,
+            "description": "",
+            "title": "Sriracha Palette Example by Potvii",
+            "slug": "sriracha-palette-example-by-potvii-2",
+            "publishedAt": "2021-02-06T02:15:00.010Z",
+            "user": {
+                "name": "Potvii",
+                "slug": "olivier-boily"
+            },
+            "parent": "60123c7a4310c2050eb151cf",
+            "createdAt": "2021-01-29T11:48:32.361Z",
+            "updatedAt": "2021-02-06T02:15:00.010Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "750500",
+        "bc210a",
+        "cd5532",
+        "f1af8d",
+        "077d22",
+        "289f4f",
+        "4ec580",
+        "e2e2c0"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60123c7a4310c2050eb151cf",
+        "type": "palettes",
+        "count": 24,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

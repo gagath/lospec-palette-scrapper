@@ -1,0 +1,66 @@
+{
+    "_id": "60461abcd78d9106248b574e",
+    "tags": [
+        "1bitvintageblue"
+    ],
+    "colors": [
+        "596e79",
+        "e4e8d1"
+    ],
+    "downloads": "102",
+    "featured": false,
+    "likes": 7,
+    "comments": 0,
+    "title": "Iron Blues",
+    "hashtag": "ironblues",
+    "description": "This is a 1-bit palette inspired by some vintage posters I saw. I used the palette for a game I did not finish. Feel free to use it how you want",
+    "creator": true,
+    "slug": "iron-blues",
+    "publishedAt": "2021-03-10T23:40:00.029Z",
+    "user": {
+        "name": "Sumedh Natu",
+        "slug": "sumedh-natu"
+    },
+    "numberOfColors": 2,
+    "createdAt": "2021-03-08T12:38:20.929Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607017a4cfb8204304b3cfce",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Iron Blues Palette Example by Casei Solus",
+            "slug": "iron-blues-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-09T14:40:00.020Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "60461abcd78d9106248b574e",
+            "image": "palette-examples/iron-blues-palette-example-by-casei-solus-607017.png",
+            "creator": true,
+            "description": "A pile of robot parts.",
+            "createdAt": "2021-04-09T09:00:20.452Z",
+            "updatedAt": "2021-04-09T14:40:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A pile of robot parts."
+        }
+    ],
+    "colorsArray": [
+        "596e79",
+        "e4e8d1"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "60461abcd78d9106248b574e",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

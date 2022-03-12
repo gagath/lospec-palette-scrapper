@@ -1,0 +1,61 @@
+{
+    "_id": "5fc7dac68ea22d4608c83670",
+    "tags": [
+        "christmas",
+        " sk3ll",
+        " ten"
+    ],
+    "colors": [
+        "14000b",
+        "370611",
+        "701b1b",
+        "aa523e",
+        "d0a365",
+        "e5fb97",
+        "95cc5d",
+        "4d9a34",
+        "12671a",
+        "003319"
+    ],
+    "downloads": "112",
+    "featured": false,
+    "likes": 9,
+    "comments": 2,
+    "title": "X-mas",
+    "hashtag": "xmaspalette",
+    "description": "It's funny because X is ten in roman number\u00a0",
+    "creator": true,
+    "slug": "x-mas",
+    "publishedAt": "2020-12-07T13:45:00.029Z",
+    "user": {
+        "name": "Sk3ll Sk3ll",
+        "slug": "sk3ll2"
+    },
+    "numberOfColors": 10,
+    "createdAt": "2020-12-02T18:19:50.244Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "14000b",
+        "370611",
+        "701b1b",
+        "aa523e",
+        "d0a365",
+        "e5fb97",
+        "95cc5d",
+        "4d9a34",
+        "12671a",
+        "003319"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5fc7dac68ea22d4608c83670",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

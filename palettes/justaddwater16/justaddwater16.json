@@ -1,0 +1,95 @@
+{
+    "_id": "60591fd3ddb1e84a45ac6308",
+    "tags": [
+        "16 colors",
+        "soft"
+    ],
+    "colors": [
+        "171224",
+        "5c3570",
+        "c7619c",
+        "f794b1",
+        "88374c",
+        "d85f6f",
+        "ff9c4d",
+        "eddb66",
+        "65c96f",
+        "2d7556",
+        "213c4a",
+        "477da8",
+        "75c0e3",
+        "b88476",
+        "ffcba3",
+        "f4f5f2"
+    ],
+    "downloads": "243",
+    "featured": false,
+    "likes": 13,
+    "comments": 2,
+    "title": "Just add water",
+    "hashtag": "justaddwater16",
+    "description": "16 soft colors that gel together quite nicely (imho). Sadly I ran out of room for grays, but I felt skin tones were more important, because you know, we'd look pretty weird without skin.",
+    "creator": true,
+    "slug": "just-add-water",
+    "publishedAt": "2021-03-24T06:10:00.023Z",
+    "user": {
+        "name": "Poltergasm",
+        "slug": "iampoltergasm"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2021-03-22T22:53:07.359Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "605920c3ddb1e84a45ac6316",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/just-add-water-palette-example-by-poltergasm-605920.png",
+            "creator": true,
+            "description": "",
+            "title": "Just add water Palette Example by Poltergasm",
+            "slug": "just-add-water-palette-example-by-poltergasm",
+            "publishedAt": "2021-03-23T15:25:00.027Z",
+            "user": {
+                "name": "Poltergasm",
+                "slug": "iampoltergasm"
+            },
+            "parent": "60591fd3ddb1e84a45ac6308",
+            "createdAt": "2021-03-22T22:57:07.856Z",
+            "updatedAt": "2021-03-23T15:25:00.027Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "171224",
+        "5c3570",
+        "c7619c",
+        "f794b1",
+        "88374c",
+        "d85f6f",
+        "ff9c4d",
+        "eddb66",
+        "65c96f",
+        "2d7556",
+        "213c4a",
+        "477da8",
+        "75c0e3",
+        "b88476",
+        "ffcba3",
+        "f4f5f2"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60591fd3ddb1e84a45ac6308",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

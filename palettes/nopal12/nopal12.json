@@ -1,0 +1,93 @@
+{
+    "_id": "5b09a76a2f18e54491e8b6b7",
+    "createdAt": "2018-05-26T18:28:58.776Z",
+    "slug": "nopal-12",
+    "description": "Based on arid nature",
+    "colors": [
+        "e2e4df",
+        "c5cfc4",
+        "a8b5ae",
+        "92929c",
+        "ffeced",
+        "fbd4d2",
+        "f1b4b4",
+        "cca3a3",
+        "f1eab6",
+        "e4dba0",
+        "cac18a",
+        "aba47b"
+    ],
+    "tags": [
+        "artist",
+        "blackedirl",
+        "pixelart",
+        "nopal",
+        "cactus",
+        "12color",
+        "zen",
+        "soft",
+        "pink",
+        "green",
+        "yellow",
+        "limited"
+    ],
+    "downloads": "4,211",
+    "numberOfColors": 12,
+    "featured": false,
+    "likes": 285,
+    "comments": 2,
+    "creator": "1",
+    "hashtag": "nopal12",
+    "title": "NOPAL-12",
+    "user": {
+        "name": "BlackedIRL",
+        "slug": "blkirl"
+    },
+    "publishedAt": "2018-05-26T18:28:58.776Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5b09a7992f18e54491e8b6b8",
+            "description": "Palette usage example by <a target=\"_blank\" href=\"https://twitter.com/BlackedBit_BLK\">BlackedIRL</a>.",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.110Z",
+            "creator": false,
+            "image": "palette-examples/nopal-12-palette-example-palette-usage-example-by-blackedirl-5b09a7.png",
+            "likes": 0,
+            "parent": "5b09a76a2f18e54491e8b6b7",
+            "slug": "nopal-12-palette-example-palette-usage-example-by-blackedirl",
+            "title": "nopal 12 palette example palette usage example by blackedirl",
+            "updatedAt": "2020-07-31T03:56:11.110Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by BlackedIRL."
+        }
+    ],
+    "colorsArray": [
+        "e2e4df",
+        "c5cfc4",
+        "a8b5ae",
+        "92929c",
+        "ffeced",
+        "fbd4d2",
+        "f1b4b4",
+        "cca3a3",
+        "f1eab6",
+        "e4dba0",
+        "cac18a",
+        "aba47b"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5b09a76a2f18e54491e8b6b7",
+        "type": "palettes",
+        "count": 285,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

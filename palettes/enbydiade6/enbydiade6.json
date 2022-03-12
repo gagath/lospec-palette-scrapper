@@ -1,0 +1,79 @@
+{
+    "_id": "61fd3bd185e773182a6c1291",
+    "tags": [
+        "artist",
+        "anoob",
+        "enbydiade6",
+        "yellow",
+        "red",
+        "purple"
+    ],
+    "colors": [
+        "231c24",
+        "332945",
+        "5b3f69",
+        "8f596c",
+        "c2a47e",
+        "cce3e3"
+    ],
+    "downloads": "428",
+    "featured": false,
+    "likes": 46,
+    "comments": 0,
+    "slug": "enbydiade6",
+    "publishedAt": "2022-02-04T16:55:00.102Z",
+    "user": {
+        "name": "ANoob",
+        "slug": "anoob"
+    },
+    "title": "Enbydiade6",
+    "hashtag": "enbydiade6",
+    "description": "A refined version of a palette I've made back then but never uploaded, which results in a mildly desaturated palette, focusing on the yellow to purple hues. In comparison with its first version, a red and black shade were added, which makes the transition between yellow and purple more smoother. Some existing colors were also modified to make them more versatile.",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2022-02-04T14:44:33.320Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61fd3bea85e773182a6c1294",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Enbydiade6 Palette Example by ANoob",
+            "slug": "enbydiade6-palette-example-by-anoobbajuov",
+            "publishedAt": "2022-02-04T16:55:00.030Z",
+            "user": {
+                "name": "ANoob",
+                "slug": "anoob"
+            },
+            "parent": "61fd3bd185e773182a6c1291",
+            "image": "palette-examples/enbydiade6-palette-example-by-anoobbajuov.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-02-04T14:44:58.512Z",
+            "updatedAt": "2022-02-04T16:55:00.030Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "231c24",
+        "332945",
+        "5b3f69",
+        "8f596c",
+        "c2a47e",
+        "cce3e3"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "61fd3bd185e773182a6c1291",
+        "type": "palettes",
+        "count": 46,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

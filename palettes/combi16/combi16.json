@@ -1,0 +1,118 @@
+{
+    "_id": "5f53a89da9313c630df00006",
+    "tags": [
+        "computer",
+        " combi",
+        " spacesandwich"
+    ],
+    "colors": [
+        "060310",
+        "252bc5",
+        "7c3d13",
+        "535155",
+        "9c2f9b",
+        "239725",
+        "d84b37",
+        "2d9f62",
+        "8272ec",
+        "bf8321",
+        "ed6294",
+        "77d051",
+        "5ed6ea",
+        "b7ba9d",
+        "e5e052",
+        "ffffff"
+    ],
+    "downloads": "346",
+    "featured": false,
+    "likes": 20,
+    "comments": 5,
+    "title": "Combi 16",
+    "hashtag": "combi16",
+    "description": "Combi 16 is a retro colour palette based on a combination of old computer palettes like the ones from CGA, MSX, C64...",
+    "creator": true,
+    "slug": "combi-16",
+    "publishedAt": "2020-10-05T17:55:00.033Z",
+    "user": {
+        "name": "Space Sandwich",
+        "slug": "spacesandwich"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-09-05T15:02:53.163Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f7b5d167f4ecc71a7b51915",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/combi-16-palette-example-by-nebularts-5f7b5d.png",
+            "creator": true,
+            "description": "",
+            "title": "Combi 16 Palette Example by Nebularts",
+            "slug": "combi-16-palette-example-by-nebularts",
+            "publishedAt": "2020-10-05T17:55:00.019Z",
+            "user": {
+                "name": "Space Sandwich",
+                "slug": "spacesandwich"
+            },
+            "parent": "5f53a89da9313c630df00006",
+            "createdAt": "2020-10-05T17:51:18.123Z",
+            "updatedAt": "2020-10-05T17:55:00.019Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "5fbd0d5c283c4521d54e142b",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/combi-16-palette-example-by-space-sandwich-5fbd0d.png",
+            "creator": true,
+            "description": "",
+            "title": "Combi 16 Palette Example by Space Sandwich",
+            "slug": "combi-16-palette-example-by-space-sandwich",
+            "publishedAt": "2020-11-24T17:15:00.019Z",
+            "user": {
+                "name": "Space Sandwich",
+                "slug": "spacesandwich"
+            },
+            "parent": "5f53a89da9313c630df00006",
+            "createdAt": "2020-11-24T13:40:44.641Z",
+            "updatedAt": "2020-11-24T17:15:00.019Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "060310",
+        "252bc5",
+        "7c3d13",
+        "535155",
+        "9c2f9b",
+        "239725",
+        "d84b37",
+        "2d9f62",
+        "8272ec",
+        "bf8321",
+        "ed6294",
+        "77d051",
+        "5ed6ea",
+        "b7ba9d",
+        "e5e052",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5f53a89da9313c630df00006",
+        "type": "palettes",
+        "count": 20,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

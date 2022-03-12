@@ -1,0 +1,54 @@
+{
+    "_id": "60e63cc3cf61b2244a55e851",
+    "tags": [
+        "grayscale",
+        "monochrome",
+        "4colors",
+        "4",
+        "2bit",
+        "gray",
+        "calculated",
+        "monoramp"
+    ],
+    "colors": [
+        "dfdfdf",
+        "9f9f9f",
+        "606060",
+        "202020"
+    ],
+    "downloads": "483",
+    "featured": false,
+    "likes": 13,
+    "comments": 1,
+    "slug": "optimized-grayscale-4",
+    "publishedAt": "2021-07-24T09:05:00.014Z",
+    "user": {
+        "name": "Yousurname",
+        "slug": "yousurname"
+    },
+    "title": "Optimized Grayscale 4",
+    "hashtag": "optimizedgrayscale4",
+    "description": "These are the most optimized 4 colors to represent grayscale graphics.",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-07-07T23:46:11.765Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "dfdfdf",
+        "9f9f9f",
+        "606060",
+        "202020"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60e63cc3cf61b2244a55e851",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,87 @@
+{
+    "_id": "61828a644cfc9272518503ce",
+    "tags": [
+        "gloomy",
+        "green",
+        "brown",
+        "dark",
+        "darkfantasy",
+        "princess"
+    ],
+    "colors": [
+        "deceb4",
+        "bfaf81",
+        "bd997b",
+        "7b7562",
+        "7b7531",
+        "625d10",
+        "4a4c10",
+        "413018",
+        "291c08",
+        "181c08"
+    ],
+    "downloads": "137",
+    "featured": false,
+    "likes": 13,
+    "comments": 0,
+    "slug": "ty-distorted-princess-10",
+    "publishedAt": "2021-11-06T18:10:00.027Z",
+    "user": {
+        "name": "Toby_Yasha",
+        "slug": "tobyyasha"
+    },
+    "title": "TY - Distorted Princess 10",
+    "hashtag": "tydistortedprincess",
+    "description": "With her snake like eyes she gazes onto your soul and before you know it you are already dead...",
+    "creator": true,
+    "numberOfColors": 10,
+    "createdAt": "2021-11-03T13:11:00.389Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6189031ebbca972b46faae22",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "TY_DistortedPrincess10 Palette Example by Toby_Yasha",
+            "slug": "tydistortedprincess10-palette-example-by-tobyyasha",
+            "publishedAt": "2021-11-08T21:25:00.019Z",
+            "user": {
+                "name": "Toby_Yasha",
+                "slug": "tobyyasha"
+            },
+            "parent": "61828a644cfc9272518503ce",
+            "image": "palette-examples/tydistortedprincess10-palette-example-by-tobyyasha-618903.png",
+            "creator": true,
+            "description": "A castle, some cats and a princess",
+            "createdAt": "2021-11-08T10:59:42.587Z",
+            "updatedAt": "2021-11-08T21:25:00.020Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A castle, some cats and a princess"
+        }
+    ],
+    "colorsArray": [
+        "deceb4",
+        "bfaf81",
+        "bd997b",
+        "7b7562",
+        "7b7531",
+        "625d10",
+        "4a4c10",
+        "413018",
+        "291c08",
+        "181c08"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "61828a644cfc9272518503ce",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

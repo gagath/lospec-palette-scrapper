@@ -1,0 +1,62 @@
+{
+    "_id": "59d814620323c15352a71ac1",
+    "createdAt": "2017-10-06T23:40:18.395Z",
+    "slug": "grafxkid-gameboy-pocket-gray",
+    "description": "Custom <a href=\"https://en.wikipedia.org/wiki/Game_Boy\">Gameboy</a> alternative made by <a href=\"http://grafxkid.tumblr.com/palettes\" target=\"_blank\">GrafxKid</a>.",
+    "colors": [
+        "2b2b26",
+        "706b66",
+        "a89f94",
+        "e0dbcd"
+    ],
+    "tags": [
+        "artist",
+        "grafxkid",
+        "gameboy"
+    ],
+    "downloads": "2,450",
+    "numberOfColors": 4,
+    "likes": 38,
+    "comments": 0,
+    "hashtag": "grafxkidgameboypocketgray",
+    "title": "GrafxKid Gameboy Pocket (Gray)",
+    "publishedAt": "2017-10-06T23:40:18.395Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "59d814eb0323c15352a71ac2",
+            "description": "Palette example by <a href=\"http://grafxkid.tumblr.com/grafxkidpalettes\">GrafxKid</a>.",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.063Z",
+            "creator": false,
+            "image": "palette-examples/grafxkid-gameboy-pocket-gray-palette-example-palette-example-by-grafxkid-59d814.png",
+            "likes": 0,
+            "parent": "59d814620323c15352a71ac1",
+            "slug": "grafxkid-gameboy-pocket-gray-palette-example-palette-example-by-grafxkid",
+            "title": "grafxkid gameboy pocket gray palette example palette example by grafxkid",
+            "updatedAt": "2020-07-31T03:56:11.063Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette example by GrafxKid."
+        }
+    ],
+    "colorsArray": [
+        "2b2b26",
+        "706b66",
+        "a89f94",
+        "e0dbcd"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "59d814620323c15352a71ac1",
+        "type": "palettes",
+        "count": 38,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,73 @@
+{
+    "_id": "61ff0c0950476776f0c746f1",
+    "tags": [
+        "ink",
+        "paper",
+        "pen"
+    ],
+    "colors": [
+        "e8e1d1",
+        "b5c3c7",
+        "6c7787",
+        "3d3945",
+        "c2d968",
+        "53e0d0",
+        "4996d1",
+        "2e598f",
+        "ffbc36",
+        "038071",
+        "ab7774",
+        "5c0d33",
+        "e64080",
+        "8c1d59",
+        "fa6f5a",
+        "b52137"
+    ],
+    "downloads": "99",
+    "featured": false,
+    "likes": 3,
+    "comments": 0,
+    "slug": "iroshizuku16",
+    "publishedAt": "2022-02-08T03:35:00.045Z",
+    "user": {
+        "name": "Anaday",
+        "slug": "anadayloft"
+    },
+    "title": "Iroshizuku16",
+    "hashtag": "iroshizuku16",
+    "description": "A 16 colour palette based on Pilot's Iroshizuku line of inks as they appear by fountain pen on Leuchtterm1917 paper (included as this palette's \"white\").",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2022-02-05T23:45:13.503Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "e8e1d1",
+        "b5c3c7",
+        "6c7787",
+        "3d3945",
+        "c2d968",
+        "53e0d0",
+        "4996d1",
+        "2e598f",
+        "ffbc36",
+        "038071",
+        "ab7774",
+        "5c0d33",
+        "e64080",
+        "8c1d59",
+        "fa6f5a",
+        "b52137"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61ff0c0950476776f0c746f1",
+        "type": "palettes",
+        "count": 3,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

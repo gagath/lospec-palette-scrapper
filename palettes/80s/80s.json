@@ -1,0 +1,57 @@
+{
+    "_id": "604a8b0500bbcb1885984f11",
+    "tags": [
+        "80s",
+        " artist",
+        " neon"
+    ],
+    "colors": [
+        "ff2153",
+        "ff6200",
+        "f9eb0f",
+        "23d513",
+        "65d1f8",
+        "3a67cc",
+        "cc7bd8",
+        "101010"
+    ],
+    "downloads": "112",
+    "featured": false,
+    "likes": 14,
+    "comments": 1,
+    "title": "The Roarin' 80's",
+    "hashtag": "80s",
+    "description": "IDK",
+    "creator": true,
+    "slug": "the-roarin-80s",
+    "publishedAt": "2021-03-20T18:10:00.026Z",
+    "user": {
+        "name": "Malo",
+        "slug": "malo"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2021-03-11T21:26:29.583Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ff2153",
+        "ff6200",
+        "f9eb0f",
+        "23d513",
+        "65d1f8",
+        "3a67cc",
+        "cc7bd8",
+        "101010"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "604a8b0500bbcb1885984f11",
+        "type": "palettes",
+        "count": 14,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

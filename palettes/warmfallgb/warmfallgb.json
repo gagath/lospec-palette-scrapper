@@ -1,0 +1,50 @@
+{
+    "_id": "5f6a02fdbda99966302207c5",
+    "tags": [
+        "fall",
+        "gameboy",
+        "gb",
+        "autumn"
+    ],
+    "colors": [
+        "e1ad67",
+        "e38f30",
+        "e17767",
+        "674d00"
+    ],
+    "downloads": "110",
+    "featured": false,
+    "likes": 11,
+    "comments": 0,
+    "title": "Warm Fall GB",
+    "hashtag": "warmfallgb",
+    "description": "",
+    "creator": true,
+    "slug": "warm-fall-gb",
+    "publishedAt": "2020-09-24T20:35:00.054Z",
+    "user": {
+        "name": "SushiPoodle",
+        "slug": "sushipoodle"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-09-22T13:58:21.959Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "e1ad67",
+        "e38f30",
+        "e17767",
+        "674d00"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f6a02fdbda99966302207c5",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

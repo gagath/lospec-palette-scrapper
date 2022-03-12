@@ -1,0 +1,47 @@
+{
+    "_id": "5fdd3543998bf0170a55e612",
+    "tags": [],
+    "colors": [
+        "79736b",
+        "8d867d",
+        "a8a095",
+        "d0c9bf",
+        "f8f2ea"
+    ],
+    "downloads": "117",
+    "featured": false,
+    "likes": 6,
+    "comments": 0,
+    "title": "Auler99",
+    "hashtag": "auler99",
+    "description": "",
+    "creator": true,
+    "slug": "auler99",
+    "publishedAt": "2021-01-03T00:25:00.025Z",
+    "user": {
+        "name": "Coolie172",
+        "slug": "coolie"
+    },
+    "numberOfColors": 5,
+    "createdAt": "2020-12-18T23:03:31.067Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "79736b",
+        "8d867d",
+        "a8a095",
+        "d0c9bf",
+        "f8f2ea"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5fdd3543998bf0170a55e612",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

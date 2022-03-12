@@ -1,0 +1,77 @@
+{
+    "_id": "5dd092e36d54be5cde442a8c",
+    "slug": "temple-ruins",
+    "description": "",
+    "colors": [
+        "ba5258",
+        "9e4e58",
+        "744758",
+        "563d4e",
+        "493443",
+        "261c22"
+    ],
+    "creator": "1",
+    "comments": 0,
+    "likes": 46,
+    "createdAt": "2019-11-17T00:22:59.970Z",
+    "featured": false,
+    "tags": [
+        "pink",
+        "dark",
+        "sunset",
+        "monoramp"
+    ],
+    "downloads": "880",
+    "numberOfColors": 6,
+    "hashtag": "templeruins18",
+    "title": "Temple Ruins",
+    "user": {
+        "name": "Jimison3",
+        "slug": "jimison3"
+    },
+    "publishedAt": "2019-11-17T00:22:59.970Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "615434995068115af7770be5",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Temple Ruins Palette Example by nkoder",
+            "slug": "temple-ruins-palette-example-by-nkoder",
+            "publishedAt": "2021-09-29T13:40:00.034Z",
+            "user": {
+                "name": "Beetroot Paul",
+                "slug": "beetrootpaul"
+            },
+            "parent": "5dd092e36d54be5cde442a8c",
+            "image": "palette-examples/temple-ruins-palette-example-by-nkoder-615434.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-09-29T09:40:41.655Z",
+            "updatedAt": "2021-09-29T13:40:00.034Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "ba5258",
+        "9e4e58",
+        "744758",
+        "563d4e",
+        "493443",
+        "261c22"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5dd092e36d54be5cde442a8c",
+        "type": "palettes",
+        "count": 46,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

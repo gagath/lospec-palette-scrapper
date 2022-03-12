@@ -1,0 +1,89 @@
+{
+    "_id": "6032f7cdc5202c1249e5b76b",
+    "tags": [
+        "luminance",
+        " huesquare",
+        " improvement",
+        " calculated"
+    ],
+    "colors": [
+        "000000",
+        "b1b1b1",
+        "575757",
+        "ffffff",
+        "666600",
+        "caca00",
+        "99004c",
+        "ff6bb5",
+        "00753a",
+        "00e572",
+        "0000a5",
+        "8989ff"
+    ],
+    "downloads": "176",
+    "featured": false,
+    "likes": 29,
+    "comments": 5,
+    "title": " AMBR0SIA",
+    "hashtag": "ambr0siapalette",
+    "description": "In Greek mythology, ambrosia (in Greek, <b>\u1f00\u03bc\u03b2\u03c1\u03bf\u03c3\u03af\u03b1</b>) is a substance associated with the gods, generally considered their food or drink. The word derives from the Greek terms \u1f00\u03bc- (<i>an</i>-, \u2018no\u2019) and \u03b2\u03c1\u03bf\u03c4\u03cc\u03c2 (<i>brot\u03ccs</i>, \u2018mortal\u2019); therefore having the meaning of\"immortality\".",
+    "creator": true,
+    "slug": "ambr0sia",
+    "publishedAt": "2021-03-05T15:40:00.051Z",
+    "user": {
+        "name": "LKR0.5420820",
+        "slug": "l-k-r-0"
+    },
+    "numberOfColors": 12,
+    "createdAt": "2021-02-22T00:16:13.390Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "603d50812d9dbf5fd09b1eeb",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/ambrosia-palette-example-by-lkr05420820-603d50.png",
+            "creator": true,
+            "description": "Featuring HaSeul from LOO\u03a0\u0394 and sprites from Super Mario Bros. 3, MegaMan, Kirby, omori \u3072\u304d\u3053\u3082\u308a, The Legend of Zelda, Micro Mages, EarthBound and Undertale. <b><i>Can you find the mistake?</i></b>",
+            "title": " AMBR0SIA Palette Example",
+            "slug": "ambrosia-palette-example-by-lkr05420820",
+            "publishedAt": "2021-03-01T22:20:00.008Z",
+            "user": {
+                "name": "LKR0.5420820",
+                "slug": "l-k-r-0"
+            },
+            "parent": "6032f7cdc5202c1249e5b76b",
+            "createdAt": "2021-03-01T20:37:21.622Z",
+            "updatedAt": "2021-03-10T14:41:22.696Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Featuring HaSeul from LOO\u03a0\u0394 and sprites from Super Mario Bros. 3, MegaMan, Kirby, omori \u3072\u304d\u3053\u3082\u308a, The Legend of Zelda, Micro Mages, EarthBound and Undertale. Can you find the mistake?"
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "b1b1b1",
+        "575757",
+        "ffffff",
+        "666600",
+        "caca00",
+        "99004c",
+        "ff6bb5",
+        "00753a",
+        "00e572",
+        "0000a5",
+        "8989ff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "6032f7cdc5202c1249e5b76b",
+        "type": "palettes",
+        "count": 29,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,68 @@
+{
+    "_id": "5ffc7773bc7af119a67e001b",
+    "tags": [],
+    "colors": [
+        "08c8f0",
+        "146478",
+        "0a323c",
+        "05191e"
+    ],
+    "downloads": "235",
+    "featured": false,
+    "likes": 14,
+    "comments": 3,
+    "title": "GoodBoy",
+    "hashtag": "goodboy",
+    "description": "",
+    "creator": true,
+    "slug": "goodboy",
+    "publishedAt": "2021-04-01T11:30:00.156Z",
+    "user": {
+        "name": "fuzzygreen octopus",
+        "slug": "fuzzygreen-octopus"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-01-11T16:06:11.389Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "606c10109b1ff10431464805",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "GoodBoy Palette Example by Casei Solus",
+            "slug": "goodboy-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-06T19:25:00.021Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5ffc7773bc7af119a67e001b",
+            "image": "palette-examples/goodboy-palette-example-by-casei-solus-606c10.png",
+            "creator": true,
+            "description": "The moon stares down at a calm ocean.",
+            "createdAt": "2021-04-06T07:38:56.999Z",
+            "updatedAt": "2021-04-06T19:25:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "The moon stares down at a calm ocean."
+        }
+    ],
+    "colorsArray": [
+        "08c8f0",
+        "146478",
+        "0a323c",
+        "05191e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5ffc7773bc7af119a67e001b",
+        "type": "palettes",
+        "count": 14,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

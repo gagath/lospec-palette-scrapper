@@ -1,0 +1,47 @@
+{
+    "_id": "5f3c9c49cced5214a7b199ef",
+    "tags": [],
+    "colors": [
+        "c73218",
+        "c97a18",
+        "fff1d4",
+        "73674f",
+        "0a0a0a"
+    ],
+    "downloads": "118",
+    "featured": false,
+    "likes": 11,
+    "comments": 2,
+    "title": "Hammer & Sickle 5",
+    "hashtag": "hammersickle",
+    "description": "for all your comrade needs",
+    "creator": "1",
+    "slug": "hammer-sickle-5",
+    "publishedAt": "2020-08-21T16:25:00.203Z",
+    "user": {
+        "name": "SecT",
+        "slug": "sect-0r"
+    },
+    "numberOfColors": 5,
+    "createdAt": "2020-08-19T03:28:09.221Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "c73218",
+        "c97a18",
+        "fff1d4",
+        "73674f",
+        "0a0a0a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5f3c9c49cced5214a7b199ef",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

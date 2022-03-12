@@ -1,0 +1,71 @@
+{
+    "_id": "600b0f7b78b73b4e5f0f0fdc",
+    "tags": [
+        "warm",
+        " orange "
+    ],
+    "colors": [
+        "211e20",
+        "66605c",
+        "ff924f",
+        "ffd191"
+    ],
+    "downloads": "661",
+    "featured": false,
+    "likes": 66,
+    "comments": 1,
+    "title": "WarmLight",
+    "hashtag": "warmlight",
+    "description": "decided to give it a go. thoughts?",
+    "creator": true,
+    "slug": "warmlight",
+    "publishedAt": "2021-01-24T06:25:00.017Z",
+    "user": {
+        "name": "_sedona",
+        "slug": "sedona76"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-01-22T17:46:35.710Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "600b211278b73b4e5f0f10d1",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/warmlight-palette-example-by-sedona-600b21.png",
+            "creator": true,
+            "description": "",
+            "title": "WarmLight Palette Example by _sedona",
+            "slug": "warmlight-palette-example-by-sedona",
+            "publishedAt": "2021-01-23T18:35:00.011Z",
+            "user": {
+                "name": "_sedona",
+                "slug": "sedona76"
+            },
+            "parent": "600b0f7b78b73b4e5f0f0fdc",
+            "createdAt": "2021-01-22T19:01:38.825Z",
+            "updatedAt": "2021-01-23T18:35:00.012Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "211e20",
+        "66605c",
+        "ff924f",
+        "ffd191"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "600b0f7b78b73b4e5f0f0fdc",
+        "type": "palettes",
+        "count": 66,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

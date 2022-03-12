@@ -1,0 +1,72 @@
+{
+    "_id": "608b511959cf8474ac55b3f8",
+    "tags": [
+        "colorbind",
+        "limited"
+    ],
+    "colors": [
+        "000000",
+        "252525",
+        "676767",
+        "ffffff",
+        "171723",
+        "004949",
+        "009999",
+        "22cf22",
+        "490092",
+        "006ddb",
+        "b66dff",
+        "ff6db6",
+        "920000",
+        "8f4e00",
+        "db6d00",
+        "ffdf4d"
+    ],
+    "downloads": "148",
+    "featured": false,
+    "likes": 17,
+    "comments": 0,
+    "slug": "colorblind-16",
+    "publishedAt": "2021-05-13T22:45:00.099Z",
+    "user": {
+        "name": "Life Forever Together",
+        "slug": "life-forever-together"
+    },
+    "title": "Colorblind 16",
+    "hashtag": "colorblindpalette16",
+    "description": "This is a 16 color palette optimized for colorblind vision. It has been tested with various vision simulation tools as well as by a few colorblind people with various types of color blindness. It has been adapted from colorblind palettes such as the one IBM uses but was made with pixel art in mind. All colors should resolve to unique identifiable shades even if the hue is similar. Even for extreme cases such as Monochromancy which reduces all colors to grayscale it should still resolve to shades that are different enough to the eye. Can be used for pixel art or UI. There is a github project for it here\u00a0https://github.com/filipworksdev/colorblind-palette-16\u00a0. Note that since there are so many types of colorblindness there may be scenarios that I have not tested. Please report any issues at the repo above so we can fix it up!",
+    "creator": true,
+    "createdAt": "2021-04-30T00:36:41.230Z",
+    "numberOfColors": 16,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "252525",
+        "676767",
+        "ffffff",
+        "171723",
+        "004949",
+        "009999",
+        "22cf22",
+        "490092",
+        "006ddb",
+        "b66dff",
+        "ff6db6",
+        "920000",
+        "8f4e00",
+        "db6d00",
+        "ffdf4d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "608b511959cf8474ac55b3f8",
+        "type": "palettes",
+        "count": 17,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,73 @@
+{
+    "_id": "6007b506b06b6d7ad5e394eb",
+    "tags": [
+        "froeu",
+        "cool"
+    ],
+    "colors": [
+        "2e364d",
+        "425d87",
+        "7d95de",
+        "ddc8f9",
+        "fbfef9"
+    ],
+    "downloads": "368",
+    "featured": false,
+    "likes": 35,
+    "comments": 4,
+    "title": "sadness",
+    "hashtag": "sadness5",
+    "description": "some nice blue n purple hues :D",
+    "creator": true,
+    "slug": "sadness",
+    "publishedAt": "2021-01-26T00:25:00.024Z",
+    "user": {
+        "name": "finn",
+        "slug": "cuk"
+    },
+    "numberOfColors": 5,
+    "createdAt": "2021-01-20T04:43:50.572Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60182f413e97de30c22b6e7b",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/sadness-palette-example-by-smelliot-60182f.png",
+            "creator": true,
+            "description": "A Recreation of the album <b>Bones in the Ocean</b> by <b>The Longest Johns</b>",
+            "title": "sadness Palette Example by Smelliot",
+            "slug": "sadness-palette-example-by-smelliot",
+            "publishedAt": "2021-02-06T17:00:00.028Z",
+            "user": {
+                "name": "Smelliot",
+                "slug": "callmeeloy"
+            },
+            "parent": "6007b506b06b6d7ad5e394eb",
+            "createdAt": "2021-02-01T16:41:37.439Z",
+            "updatedAt": "2021-02-06T17:00:00.029Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A Recreation of the album Bones in the Ocean by The Longest Johns"
+        }
+    ],
+    "colorsArray": [
+        "2e364d",
+        "425d87",
+        "7d95de",
+        "ddc8f9",
+        "fbfef9"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "6007b506b06b6d7ad5e394eb",
+        "type": "palettes",
+        "count": 35,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

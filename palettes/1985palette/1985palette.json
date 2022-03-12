@@ -1,0 +1,62 @@
+{
+    "_id": "5fea006b8f99b469c6d45501",
+    "tags": [
+        "archera",
+        "1985",
+        "desaturated",
+        "duo"
+    ],
+    "colors": [
+        "ffffd9",
+        "bdb775",
+        "967d46",
+        "69533c",
+        "4d3635",
+        "2b2325",
+        "342f40",
+        "5d4769",
+        "8b6b8f",
+        "cc97be"
+    ],
+    "downloads": "175",
+    "featured": false,
+    "likes": 20,
+    "comments": 0,
+    "title": "1985",
+    "hashtag": "1985palette",
+    "description": "funky fresh",
+    "creator": true,
+    "slug": "1985",
+    "publishedAt": "2020-12-30T18:50:00.025Z",
+    "user": {
+        "name": "archer",
+        "slug": "archer-a"
+    },
+    "numberOfColors": 10,
+    "createdAt": "2020-12-28T15:57:31.790Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffffd9",
+        "bdb775",
+        "967d46",
+        "69533c",
+        "4d3635",
+        "2b2325",
+        "342f40",
+        "5d4769",
+        "8b6b8f",
+        "cc97be"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5fea006b8f99b469c6d45501",
+        "type": "palettes",
+        "count": 20,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,46 @@
+{
+    "_id": "6177bc18d5a4ba2668584e56",
+    "tags": [
+        "blood",
+        "three"
+    ],
+    "colors": [
+        "261737",
+        "bf162e",
+        "fff3f8"
+    ],
+    "downloads": "99",
+    "featured": false,
+    "likes": 11,
+    "comments": 0,
+    "slug": "the-bloody-three",
+    "publishedAt": "2021-10-26T21:35:00.030Z",
+    "user": {
+        "name": "pp nn",
+        "slug": "pp-nn"
+    },
+    "title": "The bloody three",
+    "hashtag": "thebloodythree",
+    "description": "the bloodiest tri pallet selection you will (hopefull) ever see, works well with pretty much any artstyle.",
+    "creator": true,
+    "numberOfColors": 3,
+    "createdAt": "2021-10-26T08:28:08.369Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "261737",
+        "bf162e",
+        "fff3f8"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 33.333333333333336,
+    "height": 32,
+    "likebutton": {
+        "content": "6177bc18d5a4ba2668584e56",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

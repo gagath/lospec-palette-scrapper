@@ -1,0 +1,48 @@
+{
+    "_id": "611ecc045f56da10918c19b0",
+    "tags": [
+        "hardware",
+        "nintendo"
+    ],
+    "colors": [
+        "2671ee",
+        "2e37ee",
+        "1f1aac",
+        "000000"
+    ],
+    "downloads": "64",
+    "featured": false,
+    "likes": 3,
+    "comments": 0,
+    "slug": "virtual-boy-blue",
+    "publishedAt": "2021-09-04T06:25:00.050Z",
+    "user": {
+        "name": "Vectorial Transcooler",
+        "slug": "stimu-contro-herbs"
+    },
+    "title": "Virtual Boy (Blue)",
+    "hashtag": "custom",
+    "description": "Blue variation of Virtual Boy's red limited color palette.",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-08-19T21:24:20.036Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "2671ee",
+        "2e37ee",
+        "1f1aac",
+        "000000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "611ecc045f56da10918c19b0",
+        "type": "palettes",
+        "count": 3,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

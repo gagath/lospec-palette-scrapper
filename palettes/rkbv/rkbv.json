@@ -1,0 +1,69 @@
+{
+    "_id": "5bd5ee1ce86a5e3664cf08cd",
+    "slug": "rkbv",
+    "description": "Created by /u/R3cl41m3r inspired by early 2-strip film coloring techniques.",
+    "colors": [
+        "15191a",
+        "8a4c58",
+        "d96275",
+        "e6b8c1",
+        "456b73",
+        "4b97a6",
+        "a5bdc2",
+        "fff5f7"
+    ],
+    "tags": [
+        "artist",
+        "R3cl41m3r"
+    ],
+    "downloads": "1,479",
+    "numberOfColors": 8,
+    "createdAt": "2018-10-28T17:13:00.963Z",
+    "likes": 53,
+    "comments": 1,
+    "hashtag": "rkbv",
+    "title": "RKBV",
+    "publishedAt": "2018-10-28T17:13:00.963Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5bd5ee49e86a5e3664cf08ce",
+            "description": "Various converted NES screenshots",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.152Z",
+            "creator": false,
+            "image": "palette-examples/rkbv-palette-example-various-converted-nes-screenshots-5bd5ee.png",
+            "likes": 0,
+            "parent": "5bd5ee1ce86a5e3664cf08cd",
+            "slug": "rkbv-palette-example-various-converted-nes-screenshots",
+            "title": "rkbv palette example various converted nes screenshots",
+            "updatedAt": "2020-07-31T03:56:11.152Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Various converted NES screenshots"
+        }
+    ],
+    "colorsArray": [
+        "15191a",
+        "8a4c58",
+        "d96275",
+        "e6b8c1",
+        "456b73",
+        "4b97a6",
+        "a5bdc2",
+        "fff5f7"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5bd5ee1ce86a5e3664cf08cd",
+        "type": "palettes",
+        "count": 53,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

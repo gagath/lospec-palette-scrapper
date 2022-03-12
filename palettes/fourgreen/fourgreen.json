@@ -1,0 +1,76 @@
+{
+    "_id": "60b581ca1557176a8f435314",
+    "tags": [
+        "4green",
+        "fourgreen",
+        "greenfour",
+        "onlygreen",
+        "greenandyellow",
+        "grass",
+        "greens"
+    ],
+    "colors": [
+        "588f3d",
+        "36633d",
+        "293d36",
+        "aabf40"
+    ],
+    "downloads": "365",
+    "featured": false,
+    "likes": 19,
+    "comments": 2,
+    "slug": "four-green",
+    "publishedAt": "2021-07-31T04:25:00.023Z",
+    "user": {
+        "name": "Kartheek raj",
+        "slug": "karrthik77"
+    },
+    "title": "Four Green",
+    "hashtag": "fourgreen",
+    "description": "4 color greens with a shift in hue to yellow. can be versatile if used carefully.",
+    "creator": true,
+    "createdAt": "2021-06-01T00:39:38.153Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60b587c21557176a8f435342",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Four Green Palette Example by Kartheek raj",
+            "slug": "four-green-palette-example-by-kartheek-raj",
+            "publishedAt": "2021-07-27T17:15:00.026Z",
+            "user": {
+                "name": "Kartheek raj",
+                "slug": "karrthik77"
+            },
+            "parent": "60b581ca1557176a8f435314",
+            "image": "palette-examples/four-green-palette-example-by-kartheek-raj-60b587.png",
+            "creator": true,
+            "description": "Example of FourGreen",
+            "createdAt": "2021-06-01T01:05:06.445Z",
+            "updatedAt": "2021-07-27T17:15:00.026Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Example of FourGreen"
+        }
+    ],
+    "colorsArray": [
+        "588f3d",
+        "36633d",
+        "293d36",
+        "aabf40"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60b581ca1557176a8f435314",
+        "type": "palettes",
+        "count": 19,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,76 @@
+{
+    "_id": "61718a7fe5095975f0aaf4c4",
+    "tags": [
+        "artist",
+        "thest1076",
+        "gb",
+        "gameboy",
+        "scarlet",
+        "red",
+        "rose"
+    ],
+    "colors": [
+        "260f0d",
+        "591616",
+        "991f27",
+        "cc3d50"
+    ],
+    "downloads": "277",
+    "featured": false,
+    "likes": 18,
+    "comments": 3,
+    "slug": "st-gameboy-redrose",
+    "publishedAt": "2021-10-22T23:45:00.028Z",
+    "user": {
+        "name": "Skiller Thomson",
+        "slug": "thest1076"
+    },
+    "title": "ST GameBoy RedRose",
+    "hashtag": "stgameboyrr",
+    "description": "Which side are you on? Blue (Auqa) or Red (RedRose)?",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-10-21T15:42:55.357Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61718b2de5095975f0aaf4cd",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "ST GameBoy RedRose Palette Example by Skiller Thomson",
+            "slug": "st-gameboy-redrose-palette-example-by-skiller-thomson",
+            "publishedAt": "2021-10-22T16:00:00.069Z",
+            "user": {
+                "name": "Skiller Thomson",
+                "slug": "thest1076"
+            },
+            "parent": "61718a7fe5095975f0aaf4c4",
+            "image": "palette-examples/st-gameboy-redrose-palette-example-by-skiller-thomson-61718b.png",
+            "creator": true,
+            "description": "\"Pokemon Red and Blue\" &amp; Castle with rose.",
+            "createdAt": "2021-10-21T15:45:49.045Z",
+            "updatedAt": "2021-10-22T16:00:00.070Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "\"Pokemon Red and Blue\" &amp; Castle with rose."
+        }
+    ],
+    "colorsArray": [
+        "260f0d",
+        "591616",
+        "991f27",
+        "cc3d50"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61718a7fe5095975f0aaf4c4",
+        "type": "palettes",
+        "count": 18,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,62 @@
+{
+    "_id": "58ffd171e15f242214faf192",
+    "createdAt": "2017-04-25T22:45:05.999Z",
+    "slug": "grafxkid-gameboy-pocket-green",
+    "description": "Custom <a href=\"https://en.wikipedia.org/wiki/Game_Boy\">Gameboy</a> alternative made by <a href=\"http://grafxkid.tumblr.com/palettes\" target=\"_blank\">GrafxKid</a>.",
+    "colors": [
+        "4c625a",
+        "7b9278",
+        "abc396",
+        "dbf4b4"
+    ],
+    "tags": [
+        "artist",
+        "grafxkid",
+        "gameboy"
+    ],
+    "downloads": "760",
+    "numberOfColors": 4,
+    "likes": 25,
+    "comments": 0,
+    "hashtag": "grafxkidgameboypocketgreen",
+    "title": "GrafxKid Gameboy Pocket (Green)",
+    "publishedAt": "2017-04-25T22:45:05.999Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "58ffd9e3e15f242214faf193",
+            "description": "Palette example by <a href=\"http://grafxkid.tumblr.com/grafxkidpalettes\">GrafxKid</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.052Z",
+            "creator": false,
+            "image": "palette-examples/gameboy-pocket-grafxkid-palette-example-palette-example-by-grafxkid-58ffd9.png",
+            "likes": 0,
+            "parent": "58ffd171e15f242214faf192",
+            "slug": "gameboy-pocket-grafxkid-palette-example-palette-example-by-grafxkid",
+            "title": "gameboy pocket grafxkid palette example palette example by grafxkid",
+            "updatedAt": "2020-07-31T03:56:11.052Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette example by GrafxKid"
+        }
+    ],
+    "colorsArray": [
+        "4c625a",
+        "7b9278",
+        "abc396",
+        "dbf4b4"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "58ffd171e15f242214faf192",
+        "type": "palettes",
+        "count": 25,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

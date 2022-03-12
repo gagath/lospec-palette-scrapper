@@ -1,0 +1,76 @@
+{
+    "_id": "61a2c542b6501059fc463252",
+    "tags": [],
+    "colors": [
+        "76a1f1",
+        "2f6a5d",
+        "69bf2b",
+        "fbf7b6",
+        "e98e33",
+        "a03030",
+        "151212",
+        "9e969b"
+    ],
+    "downloads": "252",
+    "featured": false,
+    "likes": 26,
+    "comments": 0,
+    "slug": "crayon-paint",
+    "publishedAt": "2021-12-03T17:00:00.051Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "crayon paint",
+    "hashtag": "crayonpaint",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-11-27T23:54:42.771Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61a2c78eb6501059fc46326e",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "crayon paint Palette Example by polyphorge",
+            "slug": "crayon-paint-palette-example-by-polyphorge",
+            "publishedAt": "2021-11-28T00:10:00.010Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "61a2c542b6501059fc463252",
+            "image": "palette-examples/crayon-paint-palette-example-by-polyphorge-61a2c7.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-11-28T00:04:30.206Z",
+            "updatedAt": "2021-11-28T00:10:00.010Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "76a1f1",
+        "2f6a5d",
+        "69bf2b",
+        "fbf7b6",
+        "e98e33",
+        "a03030",
+        "151212",
+        "9e969b"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61a2c542b6501059fc463252",
+        "type": "palettes",
+        "count": 26,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

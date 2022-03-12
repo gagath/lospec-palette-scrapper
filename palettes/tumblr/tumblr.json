@@ -1,0 +1,57 @@
+{
+    "_id": "5fbfc9dec27998246406dafa",
+    "tags": [
+        "tumblr"
+    ],
+    "colors": [
+        "dee9ff",
+        "fe371b",
+        "ff9700",
+        "f0d922",
+        "00dc23",
+        "00c9ff",
+        "7a4eff",
+        "ff54dc",
+        "000a21"
+    ],
+    "downloads": "79",
+    "featured": false,
+    "likes": 3,
+    "comments": 0,
+    "title": "toxic tumblr",
+    "hashtag": "tumblr",
+    "description": "",
+    "creator": true,
+    "slug": "toxic-tumblr",
+    "publishedAt": "2020-11-27T16:20:00.017Z",
+    "user": {
+        "name": "LKR0.5420820",
+        "slug": "l-k-r-0"
+    },
+    "numberOfColors": 9,
+    "createdAt": "2020-11-26T15:29:34.094Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "dee9ff",
+        "fe371b",
+        "ff9700",
+        "f0d922",
+        "00dc23",
+        "00c9ff",
+        "7a4eff",
+        "ff54dc",
+        "000a21"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5fbfc9dec27998246406dafa",
+        "type": "palettes",
+        "count": 3,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

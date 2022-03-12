@@ -1,0 +1,90 @@
+{
+    "_id": "60ede70f89ae425d7bbcb143",
+    "tags": [
+        "autumn",
+        "fall",
+        "warm",
+        "red",
+        "nostalgia"
+    ],
+    "colors": [
+        "5e0808",
+        "8f1313",
+        "d93838",
+        "290c07",
+        "4d1912",
+        "753128",
+        "9c2700",
+        "d1491b",
+        "f76c3e",
+        "5c282e",
+        "8f4f56",
+        "bd777f"
+    ],
+    "downloads": "373",
+    "featured": false,
+    "likes": 23,
+    "comments": 4,
+    "slug": "autumn-fire-12",
+    "publishedAt": "2021-08-31T12:00:00.078Z",
+    "user": {
+        "name": "River",
+        "slug": "witchy-rhisa"
+    },
+    "title": "Autumn Fire 12",
+    "hashtag": "autumnfire12",
+    "description": "Autumn Fire 12 is a small 12 color palette with warm tones and a comforting, nostalgic vibe. It has enough color to create a lot of visual variety, but it's also good for challenging yourself to work with simpler palettes.",
+    "creator": true,
+    "numberOfColors": 12,
+    "createdAt": "2021-07-13T19:18:39.663Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60edfcfc89ae425d7bbce46b",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Autumn Fire 12 Palette Example by Witchy Rhisa",
+            "slug": "autumn-fire-12-palette-example-by-witchy-rhisa",
+            "publishedAt": "2021-08-22T21:30:00.052Z",
+            "user": {
+                "name": "River",
+                "slug": "witchy-rhisa"
+            },
+            "parent": "60ede70f89ae425d7bbcb143",
+            "image": "palette-examples/autumn-fire-12-palette-example-by-witchy-rhisa-60edfc.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-07-13T20:52:12.702Z",
+            "updatedAt": "2021-08-22T21:30:00.053Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "5e0808",
+        "8f1313",
+        "d93838",
+        "290c07",
+        "4d1912",
+        "753128",
+        "9c2700",
+        "d1491b",
+        "f76c3e",
+        "5c282e",
+        "8f4f56",
+        "bd777f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "60ede70f89ae425d7bbcb143",
+        "type": "palettes",
+        "count": 23,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

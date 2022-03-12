@@ -1,0 +1,61 @@
+{
+    "_id": "5df557d7a4c9ac6dc77cd024",
+    "slug": "stormy-beach",
+    "description": "",
+    "colors": [
+        "423734",
+        "6e5852",
+        "93695d",
+        "c48a74",
+        "dcc5a5",
+        "f9e8ca",
+        "8f9e99",
+        "707d80",
+        "535d69"
+    ],
+    "creator": "1",
+    "hashtag": "stormybeach11",
+    "comments": 0,
+    "likes": 47,
+    "createdAt": "2019-12-14T21:44:55.260Z",
+    "featured": false,
+    "tags": [
+        "beach",
+        "brown",
+        "tan",
+        "blue",
+        "jimison3"
+    ],
+    "downloads": "919",
+    "numberOfColors": 9,
+    "title": "Stormy beach",
+    "user": {
+        "name": "Jimison3",
+        "slug": "jimison3"
+    },
+    "publishedAt": "2020-04-16T23:20:00.036Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "423734",
+        "6e5852",
+        "93695d",
+        "c48a74",
+        "dcc5a5",
+        "f9e8ca",
+        "8f9e99",
+        "707d80",
+        "535d69"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5df557d7a4c9ac6dc77cd024",
+        "type": "palettes",
+        "count": 47,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

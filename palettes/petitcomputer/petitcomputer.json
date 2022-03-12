@@ -1,0 +1,71 @@
+{
+    "_id": "5e34de2cb3515361fa12e133",
+    "slug": "petit-computer",
+    "description": "The default 15-color palette found on the\u00a0<a href=\"https://en.wikipedia.org/wiki/Petit_Computer\" target=\"_blank\">Petit Computer.</a>\u00a0(the sixteenth color is used as transparency in sprites)",
+    "colors": [
+        "000000",
+        "383838",
+        "fb1800",
+        "fb59c3",
+        "0038f3",
+        "7938fb",
+        "00bafb",
+        "925928",
+        "fba200",
+        "fbcba2",
+        "007900",
+        "00f318",
+        "fbe300",
+        "bababa",
+        "fbfbfb"
+    ],
+    "creator": false,
+    "hashtag": "petitcomputer",
+    "comments": 0,
+    "likes": 3,
+    "createdAt": "2020-02-01T02:10:52.766Z",
+    "featured": false,
+    "tags": [
+        "game",
+        "software",
+        "fantasyconsole"
+    ],
+    "downloads": "87",
+    "numberOfColors": 15,
+    "title": "Petit Computer",
+    "user": {
+        "name": "Superjustinbros",
+        "slug": "superjustinbros"
+    },
+    "publishedAt": "2020-03-29T00:29:13.983Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "383838",
+        "fb1800",
+        "fb59c3",
+        "0038f3",
+        "7938fb",
+        "00bafb",
+        "925928",
+        "fba200",
+        "fbcba2",
+        "007900",
+        "00f318",
+        "fbe300",
+        "bababa",
+        "fbfbfb"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5e34de2cb3515361fa12e133",
+        "type": "palettes",
+        "count": 3,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

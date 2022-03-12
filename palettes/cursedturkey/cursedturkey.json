@@ -1,0 +1,54 @@
+{
+    "_id": "5dc1b33d1492bd2cf77b2894",
+    "slug": "cursed-turkey",
+    "description": "For artists who like a using differing shades of one color, and the orange things",
+    "colors": [
+        "1e110c",
+        "b32a12",
+        "d65709",
+        "db7209",
+        "df8c00",
+        "d7ac64"
+    ],
+    "creator": true,
+    "comments": 0,
+    "likes": 13,
+    "createdAt": "2019-11-05T17:37:01.850Z",
+    "featured": false,
+    "tags": [
+        "artist",
+        "monochrome",
+        "monoramp",
+        "orange"
+    ],
+    "downloads": "504",
+    "numberOfColors": 6,
+    "hashtag": "cursedturkey",
+    "title": "Cursed Turkey",
+    "user": {
+        "name": "Mig Moog",
+        "slug": "migmoog"
+    },
+    "publishedAt": "2019-11-05T17:37:01.850Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "1e110c",
+        "b32a12",
+        "d65709",
+        "db7209",
+        "df8c00",
+        "d7ac64"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5dc1b33d1492bd2cf77b2894",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

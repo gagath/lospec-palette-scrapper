@@ -1,0 +1,73 @@
+{
+    "_id": "61a1499005fc8d694caa44e2",
+    "tags": [
+        "gb",
+        "lost",
+        "pokemon",
+        "creepypasta"
+    ],
+    "colors": [
+        "141319",
+        "30303d",
+        "7b7aa4",
+        "dadada"
+    ],
+    "downloads": "154",
+    "featured": false,
+    "likes": 13,
+    "comments": 2,
+    "slug": "lostgb",
+    "publishedAt": "2021-12-01T17:00:00.066Z",
+    "user": {
+        "name": "Malo",
+        "slug": "malo"
+    },
+    "title": "LostGB",
+    "hashtag": "lostgb",
+    "description": "A Gameboy Palette Based Off Of The Character Gold From The Creepypasta, Pokemon: Lost Silver, Taken From The Hypno Lullaby FNF Mod.",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-11-26T20:54:40.444Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61b8fb21bb02082a9a54d88c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "LostGB Palette Example by KingKelpo (comms closed)",
+            "slug": "lostgb-palette-example-by-kingkelpo-comms-closed",
+            "publishedAt": "2021-12-17T19:15:00.021Z",
+            "user": {
+                "name": "KingKelpo",
+                "slug": "kelpoking"
+            },
+            "parent": "61a1499005fc8d694caa44e2",
+            "image": "palette-examples/lostgb-palette-example-by-kingkelpo-comms-closed-61b8fb.png",
+            "creator": true,
+            "description": "Source",
+            "createdAt": "2021-12-14T20:14:25.675Z",
+            "updatedAt": "2021-12-17T19:15:00.022Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Source"
+        }
+    ],
+    "colorsArray": [
+        "141319",
+        "30303d",
+        "7b7aa4",
+        "dadada"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61a1499005fc8d694caa44e2",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

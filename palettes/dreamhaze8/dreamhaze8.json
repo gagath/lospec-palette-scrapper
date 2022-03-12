@@ -1,0 +1,78 @@
+{
+    "_id": "60b92e666faf782841614d35",
+    "tags": [
+        "pastel"
+    ],
+    "colors": [
+        "e8d3df",
+        "d1d0c2",
+        "a6b5ba",
+        "8f968c",
+        "726d7d",
+        "665a5a",
+        "464c4b",
+        "393b33"
+    ],
+    "downloads": "645",
+    "featured": false,
+    "likes": 51,
+    "comments": 1,
+    "slug": "dreamhaze8",
+    "publishedAt": "2021-06-06T16:35:00.034Z",
+    "user": {
+        "name": "500poundsofnothing",
+        "slug": "poundsofnothing"
+    },
+    "title": "DreamHaze8",
+    "hashtag": "dreamhaze8",
+    "description": "A small palette I made for a minecraft skin never made. Made to calm while also providing a chaotic swingy color range",
+    "creator": true,
+    "createdAt": "2021-06-03T19:32:54.739Z",
+    "numberOfColors": 8,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60b9804c22d86250e6575878",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "DreamHaze8 Palette Example by 500poundsofnothing",
+            "slug": "dreamhaze8-palette-example-by-500poundsofnothing-2",
+            "publishedAt": "2021-06-06T16:35:00.023Z",
+            "user": {
+                "name": "500poundsofnothing",
+                "slug": "poundsofnothing"
+            },
+            "parent": "60b92e666faf782841614d35",
+            "image": "palette-examples/dreamhaze8-palette-example-by-500poundsofnothing-2-60b980.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-06-04T01:22:20.845Z",
+            "updatedAt": "2021-06-06T16:35:00.024Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "e8d3df",
+        "d1d0c2",
+        "a6b5ba",
+        "8f968c",
+        "726d7d",
+        "665a5a",
+        "464c4b",
+        "393b33"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60b92e666faf782841614d35",
+        "type": "palettes",
+        "count": 51,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

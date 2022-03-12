@@ -1,0 +1,73 @@
+{
+    "_id": "5ccdb43a763a4a5e61845fab",
+    "createdAt": "2019-05-04T15:48:10.664Z",
+    "slug": "purpledawn",
+    "description": "Part of the <a target=\"_blank\" href=\"https://lospec.com/palette-list/tag/wildleoknightgameboy\">WildLeoKnight Gameboy Palettes Set</a>",
+    "colors": [
+        "eefded",
+        "9a7bbc",
+        "2d757e",
+        "001b2e"
+    ],
+    "featured": false,
+    "tags": [
+        "artist",
+        "wildleoknight",
+        "gameboy",
+        "wildleoknightgameboy"
+    ],
+    "downloads": "1,719",
+    "numberOfColors": 4,
+    "likes": 70,
+    "comments": 0,
+    "creator": true,
+    "hashtag": "purpledawn",
+    "title": "PurpleDawn",
+    "user": {
+        "name": "WildLeoKnight",
+        "slug": "wildleoknight"
+    },
+    "publishedAt": "2019-05-04T15:48:10.664Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6078db95b57ef03c5b5f1fcb",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "PurpleDawn Palette Example by Casei Solus",
+            "slug": "purpledawn-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-16T22:45:00.046Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5ccdb43a763a4a5e61845fab",
+            "image": "palette-examples/purpledawn-palette-example-by-casei-solus-6078db.png",
+            "creator": true,
+            "description": "Moonrise over a calm sea.",
+            "createdAt": "2021-04-16T00:34:29.113Z",
+            "updatedAt": "2021-04-16T22:45:00.047Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Moonrise over a calm sea."
+        }
+    ],
+    "colorsArray": [
+        "eefded",
+        "9a7bbc",
+        "2d757e",
+        "001b2e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5ccdb43a763a4a5e61845fab",
+        "type": "palettes",
+        "count": 70,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

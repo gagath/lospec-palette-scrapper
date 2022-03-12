@@ -1,0 +1,48 @@
+{
+    "_id": "6099b25f148438027844208e",
+    "tags": [
+        "monoramp",
+        "coffee"
+    ],
+    "colors": [
+        "e2c3a1",
+        "c19168",
+        "855839",
+        "4c2413"
+    ],
+    "downloads": "129",
+    "featured": false,
+    "likes": 11,
+    "comments": 1,
+    "slug": "cophee-4",
+    "publishedAt": "2021-05-12T10:45:00.025Z",
+    "user": {
+        "name": "CopheeMoth",
+        "slug": "copheemoth"
+    },
+    "title": "Cophee 4",
+    "hashtag": "cophee4",
+    "description": "A palette with a cozy feeling, inspired by a cup of mocha.",
+    "creator": true,
+    "createdAt": "2021-05-10T22:23:27.177Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "e2c3a1",
+        "c19168",
+        "855839",
+        "4c2413"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6099b25f148438027844208e",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

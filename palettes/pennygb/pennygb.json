@@ -1,0 +1,47 @@
+{
+    "_id": "5ecdfcacaae13102260a4f07",
+    "tags": [
+        "gameboy"
+    ],
+    "colors": [
+        "ffd2a4",
+        "d38147",
+        "2f8f9b",
+        "1b414a"
+    ],
+    "downloads": "205",
+    "featured": false,
+    "likes": 21,
+    "comments": 0,
+    "title": "Penny ",
+    "hashtag": "pennygb",
+    "description": "",
+    "creator": "1",
+    "slug": "penny",
+    "publishedAt": "2020-05-29T05:40:00.016Z",
+    "user": {
+        "name": "yoshi makes monsters",
+        "slug": "yoshimakes"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-05-27T05:37:48.001Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffd2a4",
+        "d38147",
+        "2f8f9b",
+        "1b414a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5ecdfcacaae13102260a4f07",
+        "type": "palettes",
+        "count": 21,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

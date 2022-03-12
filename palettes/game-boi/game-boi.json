@@ -1,0 +1,68 @@
+{
+    "_id": "5e934b04e0cfe14c49061d28",
+    "title": "game boi",
+    "hashtag": "game-boi",
+    "description": "",
+    "creator": true,
+    "colors": [
+        "071821",
+        "306850",
+        "86c06c",
+        "e0f8cf"
+    ],
+    "slug": "game-boi",
+    "user": {
+        "name": "TigerMateWasTaken",
+        "slug": "tigermatewastaken"
+    },
+    "numberOfColors": 4,
+    "publishedAt": "2020-04-17T05:20:00.012Z",
+    "createdAt": "2020-04-12T17:08:20.449Z",
+    "comments": 0,
+    "likes": 15,
+    "featured": false,
+    "downloads": "315",
+    "tags": [],
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f3df1f0f5a0306f8173e3db",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/game-boi-palette-example-by-carlos-emmanuel-manolo-5f3df1.png",
+            "creator": "1",
+            "description": "",
+            "title": "game boi Palette Example by Carlos Emmanuel (Manolo)",
+            "slug": "game-boi-palette-example-by-carlos-emmanuel-manolo",
+            "publishedAt": "2020-08-21T10:45:00.013Z",
+            "user": {
+                "name": "Carlos Emmanuel (Manolo)",
+                "slug": "carlos-emmanuel"
+            },
+            "parent": "5e934b04e0cfe14c49061d28",
+            "createdAt": "2020-08-20T03:45:52.186Z",
+            "updatedAt": "2020-08-21T10:45:00.014Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "071821",
+        "306850",
+        "86c06c",
+        "e0f8cf"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5e934b04e0cfe14c49061d28",
+        "type": "palettes",
+        "count": 15,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,57 @@
+{
+    "_id": "59d80d550323c15352a71ab7",
+    "createdAt": "2017-10-06T23:10:13.327Z",
+    "slug": "speedycube-11",
+    "description": "Entry for the <a href=\"http://http://pixeljoint.com/2016/05/06/4962/11_Color_Comp_Winners.htm\">PixelJoint 11 color palette competition</a> (2016). Created by SpeedyCube",
+    "colors": [
+        "f2fdff",
+        "85c8e2",
+        "97d374",
+        "93928d",
+        "5e5a93",
+        "222849",
+        "efdd8b",
+        "e5a57e",
+        "ce6d5c",
+        "875d4e",
+        "663358"
+    ],
+    "tags": [
+        "artist",
+        "pjcolorcomp11",
+        "pjcolorcomp"
+    ],
+    "downloads": "127",
+    "numberOfColors": 11,
+    "comments": 0,
+    "hashtag": "speedycube11",
+    "title": "SpeedyCube 11",
+    "publishedAt": "2017-10-06T23:10:13.327Z",
+    "likes": 2,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "f2fdff",
+        "85c8e2",
+        "97d374",
+        "93928d",
+        "5e5a93",
+        "222849",
+        "efdd8b",
+        "e5a57e",
+        "ce6d5c",
+        "875d4e",
+        "663358"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "59d80d550323c15352a71ab7",
+        "type": "palettes",
+        "count": 2,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

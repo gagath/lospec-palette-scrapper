@@ -1,0 +1,72 @@
+{
+    "_id": "62100cbf03fd4a7fad3ff0a3",
+    "tags": [
+        "choconana",
+        "chocolate",
+        "banana",
+        "black",
+        "brown",
+        "white",
+        "yellow"
+    ],
+    "colors": [
+        "ffffa1",
+        "250c02"
+    ],
+    "downloads": "96",
+    "featured": false,
+    "likes": 11,
+    "comments": 0,
+    "slug": "choconana-2",
+    "publishedAt": "2022-02-20T09:40:00.039Z",
+    "user": {
+        "name": "Beta Lyn",
+        "slug": "betalyn"
+    },
+    "title": "CHOCONANA-2",
+    "hashtag": "choconana2",
+    "description": "I remembered how much I liked to snack on bananas and chocolate chips when I was younger. This palette is inspired by that.",
+    "creator": true,
+    "numberOfColors": 2,
+    "createdAt": "2022-02-18T21:16:47.889Z",
+    "isNew": true,
+    "sortNewest": "2022-02-20T09:40:00.039Z",
+    "examples": [
+        {
+            "_id": "62100cf903fd4a7fad3ff0af",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "CHOCONANA-2 Palette Example by Beta Lyn",
+            "slug": "choconana-2-palette-example-by-beta-lyntbw8ol",
+            "publishedAt": "2022-02-19T21:45:00.049Z",
+            "user": {
+                "name": "Beta Lyn",
+                "slug": "betalyn"
+            },
+            "parent": "62100cbf03fd4a7fad3ff0a3",
+            "image": "palette-examples/choconana-2-palette-example-by-beta-lyntbw8ol.png",
+            "creator": true,
+            "description": "Example specifically inspired by the ancient murals in the video game Journey.",
+            "createdAt": "2022-02-18T21:17:45.420Z",
+            "updatedAt": "2022-02-19T21:45:00.049Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Example specifically inspired by the ancient murals in the video game Journey."
+        }
+    ],
+    "colorsArray": [
+        "ffffa1",
+        "250c02"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "62100cbf03fd4a7fad3ff0a3",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

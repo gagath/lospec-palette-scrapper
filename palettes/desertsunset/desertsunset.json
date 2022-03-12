@@ -1,0 +1,67 @@
+{
+    "_id": "60570702b20545297e197af2",
+    "tags": [
+        "orange",
+        " purple"
+    ],
+    "colors": [
+        "0b0012",
+        "ffc787"
+    ],
+    "downloads": "49",
+    "featured": false,
+    "likes": 4,
+    "comments": 0,
+    "title": "Desert Sunset",
+    "hashtag": "desertsunset",
+    "description": "A common 1 bit color combo that I changed a little.",
+    "creator": true,
+    "slug": "desert-sunset",
+    "publishedAt": "2021-03-28T17:30:00.051Z",
+    "user": {
+        "name": "Something Fishy",
+        "slug": "something-fishy"
+    },
+    "numberOfColors": 2,
+    "createdAt": "2021-03-21T08:42:42.744Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "606d340baf543a28402b1def",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Desert Sunset Palette Example by Casei Solus",
+            "slug": "desert-sunset-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-08T17:05:00.024Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "60570702b20545297e197af2",
+            "image": "palette-examples/desert-sunset-palette-example-by-casei-solus-606d34.png",
+            "creator": true,
+            "description": "The sun setting behind the desert.",
+            "createdAt": "2021-04-07T04:24:43.799Z",
+            "updatedAt": "2021-04-08T17:05:00.024Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "The sun setting behind the desert."
+        }
+    ],
+    "colorsArray": [
+        "0b0012",
+        "ffc787"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "60570702b20545297e197af2",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

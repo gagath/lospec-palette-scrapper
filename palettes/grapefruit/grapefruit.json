@@ -1,0 +1,62 @@
+{
+    "_id": "58ffe9d41827ac5c128149f1",
+    "createdAt": "2017-04-26T00:29:08.475Z",
+    "slug": "grapefruit",
+    "description": "A custom <a href=\"https://en.wikipedia.org/wiki/Game_Boy\">Gameboy</a> palette made by <a href=\"http://grafxkid.tumblr.com/palettes\" target=\"_blank\">GrafxKid</a>.",
+    "colors": [
+        "65296c",
+        "b76591",
+        "f4b26b",
+        "fff5dd"
+    ],
+    "tags": [
+        "artist",
+        "grafxkid",
+        "gameboy"
+    ],
+    "downloads": "1,051",
+    "numberOfColors": 4,
+    "likes": 38,
+    "comments": 0,
+    "hashtag": "grapefruit",
+    "title": "Grapefruit",
+    "publishedAt": "2017-04-26T00:29:08.475Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "58ffeaa51827ac5c128149f2",
+            "description": "<a href=\"https://en.wikipedia.org/wiki/Balloon_Kid\">Baloon Kid</a> screenshots.",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.054Z",
+            "creator": false,
+            "image": "palette-examples/grapefruit-palette-example-baloon-kid-screenshots-58ffea.png",
+            "likes": 0,
+            "parent": "58ffe9d41827ac5c128149f1",
+            "slug": "grapefruit-palette-example-baloon-kid-screenshots",
+            "title": "grapefruit palette example baloon kid screenshots",
+            "updatedAt": "2020-07-31T03:56:11.054Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Baloon Kid screenshots."
+        }
+    ],
+    "colorsArray": [
+        "65296c",
+        "b76591",
+        "f4b26b",
+        "fff5dd"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "58ffe9d41827ac5c128149f1",
+        "type": "palettes",
+        "count": 38,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

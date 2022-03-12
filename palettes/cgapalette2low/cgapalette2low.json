@@ -1,0 +1,43 @@
+{
+    "_id": "58e2dcf961e9e662184cf353",
+    "createdAt": "2017-04-03T23:38:33.173Z",
+    "slug": "cga-palette-2-low",
+    "description": "A 3rd unofficial palette for <a href=\"https://en.wikipedia.org/wiki/Color_Graphics_Adapter\">CGA</a>.",
+    "colors": [
+        "000000",
+        "aa0000",
+        "00aaaa",
+        "aaaaaa"
+    ],
+    "tags": [
+        "hardware",
+        "computer",
+        "cga"
+    ],
+    "downloads": "365",
+    "numberOfColors": 4,
+    "likes": 13,
+    "comments": 0,
+    "hashtag": "cgapalette2low",
+    "title": "CGA Palette 2 (Low)",
+    "publishedAt": "2017-04-03T23:38:33.173Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "aa0000",
+        "00aaaa",
+        "aaaaaa"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "58e2dcf961e9e662184cf353",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

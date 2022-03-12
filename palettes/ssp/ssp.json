@@ -1,0 +1,69 @@
+{
+    "_id": "5e8b22f7c746b519acbf5d62",
+    "title": "Spanish Sunset",
+    "hashtag": "ssp",
+    "description": "Range of warm colors inspired by a sunset on the beach<br />",
+    "creator": true,
+    "colors": [
+        "f5ddbc",
+        "fabb64",
+        "fd724e",
+        "a02f40",
+        "5f2f45"
+    ],
+    "slug": "spanish-sunset",
+    "user": {
+        "name": "NicoFerra",
+        "slug": "nicoferra"
+    },
+    "numberOfColors": 5,
+    "publishedAt": "2020-04-08T16:25:17.297Z",
+    "createdAt": "2020-04-06T12:39:19.886Z",
+    "comments": 5,
+    "likes": 90,
+    "featured": false,
+    "downloads": "1,674",
+    "tags": [
+        "warm",
+        "sunset"
+    ],
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5e8dfafc3c60785d17b02de3",
+            "description": "Palette usage example by NicoFerra",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.214Z",
+            "creator": false,
+            "image": "palette-examples/spanish-sunset-palette-example-palette-usage-example-by-nicoferra-5e8dfa.png",
+            "likes": 0,
+            "parent": "5e8b22f7c746b519acbf5d62",
+            "slug": "spanish-sunset-palette-example-palette-usage-example-by-nicoferra",
+            "title": "spanish sunset palette example palette usage example by nicoferra",
+            "updatedAt": "2020-07-31T03:56:11.214Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by NicoFerra"
+        }
+    ],
+    "colorsArray": [
+        "f5ddbc",
+        "fabb64",
+        "fd724e",
+        "a02f40",
+        "5f2f45"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5e8b22f7c746b519acbf5d62",
+        "type": "palettes",
+        "count": 90,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

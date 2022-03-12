@@ -1,0 +1,75 @@
+{
+    "_id": "5fb142ff26ca9d7a692d4249",
+    "tags": [
+        "metal",
+        " 5",
+        " palette",
+        " sk3ll"
+    ],
+    "colors": [
+        "2e0d20",
+        "451c1c",
+        "8f3808",
+        "cf7a3a",
+        "fadd93"
+    ],
+    "downloads": "601",
+    "featured": false,
+    "likes": 45,
+    "comments": 3,
+    "title": "Ru5ty",
+    "hashtag": "ru5ty",
+    "description": "",
+    "creator": true,
+    "slug": "ru5ty",
+    "publishedAt": "2020-11-15T17:50:00.034Z",
+    "user": {
+        "name": "Sk3ll Sk3ll",
+        "slug": "sk3ll2"
+    },
+    "numberOfColors": 5,
+    "createdAt": "2020-11-15T15:02:23.890Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fb167f926ca9d7a692d440d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/ru5ty-palette-example-by-sk3ll-sk3ll-5fb167.png",
+            "creator": false,
+            "description": "Skyline https://twitter.com/Sk3ll2/status/1328033333184442369?s=19",
+            "title": "Ru5ty Palette Example",
+            "slug": "ru5ty-palette-example-by-sk3ll-sk3ll",
+            "publishedAt": "2020-11-15T17:50:00.022Z",
+            "user": {
+                "name": "Sk3ll Sk3ll",
+                "slug": "sk3ll2"
+            },
+            "parent": "5fb142ff26ca9d7a692d4249",
+            "createdAt": "2020-11-15T17:40:09.339Z",
+            "updatedAt": "2020-11-15T19:33:21.347Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Skyline https://twitter.com/Sk3ll2/status/1328033333184442369?s=19"
+        }
+    ],
+    "colorsArray": [
+        "2e0d20",
+        "451c1c",
+        "8f3808",
+        "cf7a3a",
+        "fadd93"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5fb142ff26ca9d7a692d4249",
+        "type": "palettes",
+        "count": 45,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

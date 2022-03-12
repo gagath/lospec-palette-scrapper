@@ -1,0 +1,97 @@
+{
+    "_id": "61ca8d43d27b533765c0f453",
+    "tags": [
+        "artist",
+        "musthbly",
+        "general",
+        "desaturated"
+    ],
+    "colors": [
+        "333344",
+        "444455",
+        "774444",
+        "445566",
+        "bb5555",
+        "667788",
+        "996699",
+        "448888",
+        "dd8855",
+        "77aa66",
+        "66aa99",
+        "99aabb",
+        "ee99aa",
+        "88bbbb",
+        "eebb77",
+        "eeddcc"
+    ],
+    "downloads": "270",
+    "featured": false,
+    "likes": 16,
+    "comments": 0,
+    "slug": "bly16",
+    "publishedAt": "2021-12-30T00:15:00.046Z",
+    "user": {
+        "name": "musthbly",
+        "slug": "musthbly"
+    },
+    "title": "bly16",
+    "hashtag": "bly16",
+    "description": "A general use palette with desaturated colors",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2021-12-28T04:06:27.674Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61ca8d5bd27b533765c0f457",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "bly16 Palette Example by musthbly",
+            "slug": "bly16-palette-example-by-musthblyg4oihv",
+            "publishedAt": "2021-12-29T16:30:00.040Z",
+            "user": {
+                "name": "musthbly",
+                "slug": "musthbly"
+            },
+            "parent": "61ca8d43d27b533765c0f453",
+            "image": "palette-examples/bly16-palette-example-by-musthblyg4oihv.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-12-28T04:06:51.063Z",
+            "updatedAt": "2021-12-29T16:30:00.041Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "333344",
+        "444455",
+        "774444",
+        "445566",
+        "bb5555",
+        "667788",
+        "996699",
+        "448888",
+        "dd8855",
+        "77aa66",
+        "66aa99",
+        "99aabb",
+        "ee99aa",
+        "88bbbb",
+        "eebb77",
+        "eeddcc"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61ca8d43d27b533765c0f453",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

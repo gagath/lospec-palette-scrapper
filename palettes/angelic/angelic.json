@@ -1,0 +1,86 @@
+{
+    "_id": "60f9c5861bb3292b013c990a",
+    "tags": [
+        "gray",
+        "grey",
+        "sun",
+        "sunlight",
+        "moody"
+    ],
+    "colors": [
+        "e9db71",
+        "bf9c57",
+        "8c8781",
+        "91806a",
+        "667f7f",
+        "925c89",
+        "7d6969",
+        "70615b",
+        "645169",
+        "703d46"
+    ],
+    "downloads": "508",
+    "featured": false,
+    "likes": 29,
+    "comments": 1,
+    "slug": "angelic",
+    "publishedAt": "2021-07-28T16:25:00.017Z",
+    "user": {
+        "name": "Mememellow",
+        "slug": "mememellowa"
+    },
+    "title": "ANGELIC",
+    "hashtag": "angelic",
+    "description": "A palette to be used for all kinds of holy and heavenly objects",
+    "creator": true,
+    "numberOfColors": 10,
+    "createdAt": "2021-07-22T19:22:46.243Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60f9c5a01bb3292b013c9955",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "ANGELIC Palette Example by Mememellow",
+            "slug": "angelic-palette-example-by-mememellow",
+            "publishedAt": "2021-07-27T16:45:00.022Z",
+            "user": {
+                "name": "Mememellow",
+                "slug": "mememellowa"
+            },
+            "parent": "60f9c5861bb3292b013c990a",
+            "image": "palette-examples/angelic-palette-example-by-mememellow-60f9c5.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-07-22T19:23:12.886Z",
+            "updatedAt": "2021-07-27T16:45:00.022Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "e9db71",
+        "bf9c57",
+        "8c8781",
+        "91806a",
+        "667f7f",
+        "925c89",
+        "7d6969",
+        "70615b",
+        "645169",
+        "703d46"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "60f9c5861bb3292b013c990a",
+        "type": "palettes",
+        "count": 29,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

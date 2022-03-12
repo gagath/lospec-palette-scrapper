@@ -1,0 +1,79 @@
+{
+    "_id": "6159f5100e86c53c4f09353c",
+    "tags": [
+        "blue",
+        "moody",
+        "purple",
+        "7colors"
+    ],
+    "colors": [
+        "caebe0",
+        "729aa1",
+        "446077",
+        "2e3850",
+        "1e182e",
+        "14081a",
+        "070109"
+    ],
+    "downloads": "133",
+    "featured": false,
+    "likes": 13,
+    "comments": 0,
+    "slug": "punolite-streetlight",
+    "publishedAt": "2021-10-14T11:45:00.029Z",
+    "user": {
+        "name": "Punoli",
+        "slug": "punoli"
+    },
+    "title": "Punolite Streetlight",
+    "hashtag": "streetlite",
+    "description": "streetlite",
+    "creator": true,
+    "numberOfColors": 7,
+    "createdAt": "2021-10-03T18:23:12.761Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6159f53a0e86c53c4f093545",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Punolite Streetlight Palette Example by Punoli",
+            "slug": "streetlightbanner2",
+            "publishedAt": "2021-10-03T21:00:00.081Z",
+            "user": {
+                "name": "Punoli",
+                "slug": "punoli"
+            },
+            "parent": "6159f5100e86c53c4f09353c",
+            "image": "palette-examples/streetlightbanner2-6159f5.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-10-03T18:23:54.406Z",
+            "updatedAt": "2021-10-03T21:00:00.081Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "caebe0",
+        "729aa1",
+        "446077",
+        "2e3850",
+        "1e182e",
+        "14081a",
+        "070109"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "6159f5100e86c53c4f09353c",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

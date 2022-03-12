@@ -1,0 +1,95 @@
+{
+    "_id": "6096b4fae9720c656975fc99",
+    "tags": [
+        "magic",
+        "polyphrog"
+    ],
+    "colors": [
+        "160d13",
+        "31293e",
+        "4d6660",
+        "95b666",
+        "ef9e4e",
+        "ad4030",
+        "56212a",
+        "904b41",
+        "a69998",
+        "5f575e",
+        "8eb89e",
+        "f6f2c3",
+        "e79b7c",
+        "9b4c63",
+        "432142",
+        "d1935f"
+    ],
+    "downloads": "571",
+    "featured": false,
+    "likes": 35,
+    "comments": 2,
+    "slug": "mystic-16",
+    "publishedAt": "2021-05-08T16:25:00.032Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "mystic-16",
+    "hashtag": "mystic16",
+    "description": "",
+    "creator": true,
+    "createdAt": "2021-05-08T15:57:46.200Z",
+    "numberOfColors": 16,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "617c71d801cf81615fd0c474",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "mystic-16 Palette Example by VEXED",
+            "slug": "mystic-16-palette-example-by-vexed-2",
+            "publishedAt": "2021-10-30T18:05:00.029Z",
+            "user": {
+                "name": "VEXED",
+                "slug": "v3x3d"
+            },
+            "parent": "6096b4fae9720c656975fc99",
+            "image": "palette-examples/mystic-16-palette-example-by-vexed-2-617c71.png",
+            "creator": true,
+            "description": "Designed from tiles in my asset pack Demonic Dungeon.",
+            "createdAt": "2021-10-29T22:12:40.926Z",
+            "updatedAt": "2021-10-30T18:05:00.029Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Designed from tiles in my asset pack Demonic Dungeon."
+        }
+    ],
+    "colorsArray": [
+        "160d13",
+        "31293e",
+        "4d6660",
+        "95b666",
+        "ef9e4e",
+        "ad4030",
+        "56212a",
+        "904b41",
+        "a69998",
+        "5f575e",
+        "8eb89e",
+        "f6f2c3",
+        "e79b7c",
+        "9b4c63",
+        "432142",
+        "d1935f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6096b4fae9720c656975fc99",
+        "type": "palettes",
+        "count": 35,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

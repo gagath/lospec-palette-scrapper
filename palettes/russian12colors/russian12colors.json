@@ -1,0 +1,65 @@
+{
+    "_id": "61104b47b88dc572f9644ddf",
+    "tags": [
+        "russia",
+        "named",
+        "categories"
+    ],
+    "colors": [
+        "000000",
+        "777777",
+        "ffffff",
+        "cc3333",
+        "dd9922",
+        "eeee55",
+        "33cc33",
+        "55eeee",
+        "2244dd",
+        "774488",
+        "ffaaaa",
+        "996633"
+    ],
+    "downloads": "35",
+    "featured": false,
+    "likes": 3,
+    "comments": 0,
+    "slug": "russian12",
+    "publishedAt": "2021-08-29T06:00:00.079Z",
+    "user": {
+        "name": "A.J. Otero",
+        "slug": "aj-otero"
+    },
+    "title": "Russian12",
+    "hashtag": "russian12colors",
+    "description": "My approximations of the 12 \"basic color categories\" in the Russian language according to this video: https://www.youtube.com/watch?v=gMqZR3pqMjg",
+    "creator": true,
+    "numberOfColors": 12,
+    "createdAt": "2021-08-08T21:23:19.123Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "777777",
+        "ffffff",
+        "cc3333",
+        "dd9922",
+        "eeee55",
+        "33cc33",
+        "55eeee",
+        "2244dd",
+        "774488",
+        "ffaaaa",
+        "996633"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "61104b47b88dc572f9644ddf",
+        "type": "palettes",
+        "count": 3,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

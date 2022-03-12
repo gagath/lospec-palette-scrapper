@@ -1,0 +1,80 @@
+{
+    "_id": "5dd08fc96d54be5cde442a7c",
+    "slug": "winter-wonderland",
+    "description": "",
+    "colors": [
+        "20284e",
+        "2c4a78",
+        "3875a1",
+        "8bcadd",
+        "ffffff",
+        "d6e1e9",
+        "a7bcc9",
+        "738d9d"
+    ],
+    "creator": "1",
+    "comments": 1,
+    "likes": 113,
+    "createdAt": "2019-11-17T00:09:45.721Z",
+    "featured": false,
+    "tags": [
+        "winter",
+        "christmas",
+        "cold",
+        "snow",
+        "ice",
+        "blue",
+        "grey"
+    ],
+    "downloads": "3,206",
+    "numberOfColors": 8,
+    "hashtag": "winterwonderland48",
+    "title": "Winter Wonderland",
+    "user": {
+        "name": "Jimison3",
+        "slug": "jimison3"
+    },
+    "publishedAt": "2019-11-17T00:09:45.721Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5eebb6f1ca3bef72c7faf5ef",
+            "description": "Palette usage example by B_gel",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.224Z",
+            "creator": false,
+            "image": "palette-examples/winter-wonderland-palette-example-palette-usage-example-by-b_gel-5eebb6.png",
+            "likes": 0,
+            "parent": "5dd08fc96d54be5cde442a7c",
+            "slug": "winter-wonderland-palette-example-palette-usage-example-by-b_gel",
+            "title": "winter wonderland palette example palette usage example by b_gel",
+            "updatedAt": "2020-07-31T03:56:11.224Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by B_gel"
+        }
+    ],
+    "colorsArray": [
+        "20284e",
+        "2c4a78",
+        "3875a1",
+        "8bcadd",
+        "ffffff",
+        "d6e1e9",
+        "a7bcc9",
+        "738d9d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5dd08fc96d54be5cde442a7c",
+        "type": "palettes",
+        "count": 113,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

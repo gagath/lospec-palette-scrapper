@@ -1,0 +1,77 @@
+{
+    "_id": "5fbc041bb45c8d4d0efc3092",
+    "tags": [
+        "barrel",
+        " wood",
+        " ottito",
+        " five",
+        " 5",
+        " brown"
+    ],
+    "colors": [
+        "100f13",
+        "3a213a",
+        "693540",
+        "914e3c",
+        "c7955c"
+    ],
+    "downloads": "517",
+    "featured": false,
+    "likes": 36,
+    "comments": 2,
+    "title": "Barrel",
+    "hashtag": "barrelpalette",
+    "description": "A simple <b>desaturated </b>5 color palette which goes from a \"<i>latte</i>\" color to an almost-black blue, going through a reddish brown, a pinkish brown and a dark pinkish purple",
+    "creator": true,
+    "slug": "barrel",
+    "publishedAt": "2020-11-23T20:35:00.020Z",
+    "user": {
+        "name": "Ottito",
+        "slug": "ottofm"
+    },
+    "numberOfColors": 5,
+    "createdAt": "2020-11-23T18:48:59.503Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fbc1c58b45c8d4d0efc31c7",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/barrel-palette-example-by-ottito-5fbc1c.png",
+            "creator": true,
+            "description": "",
+            "title": "Barrel Palette Example by Ottito",
+            "slug": "barrel-palette-example-by-ottito",
+            "publishedAt": "2020-11-23T20:50:00.030Z",
+            "user": {
+                "name": "Ottito",
+                "slug": "ottofm"
+            },
+            "parent": "5fbc041bb45c8d4d0efc3092",
+            "createdAt": "2020-11-23T20:32:24.357Z",
+            "updatedAt": "2020-11-23T20:50:00.030Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "100f13",
+        "3a213a",
+        "693540",
+        "914e3c",
+        "c7955c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5fbc041bb45c8d4d0efc3092",
+        "type": "palettes",
+        "count": 36,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

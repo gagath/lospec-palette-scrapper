@@ -1,0 +1,55 @@
+{
+    "_id": "5e276dadd57b69658d906a93",
+    "slug": "beyond-the-sea-7",
+    "description": "I made this around 6 or more months ago, I can't remember. I wanted a monochrome palette that would look good for underwater artwork and figured that blue would be a good fit, I hope you enjoy!",
+    "colors": [
+        "1e1a2a",
+        "313b55",
+        "38647b",
+        "4fa6ae",
+        "6bd0b5",
+        "aceed1",
+        "f4fff7"
+    ],
+    "creator": true,
+    "hashtag": "beyondthesea7",
+    "comments": 2,
+    "likes": 45,
+    "createdAt": "2020-01-21T21:31:25.875Z",
+    "featured": false,
+    "tags": [
+        "bluephoenix",
+        "beyondthesea",
+        "monoramp"
+    ],
+    "downloads": "681",
+    "numberOfColors": 7,
+    "title": "Beyond The Sea 7",
+    "user": {
+        "name": "Blue Phoenix",
+        "slug": "phoenixartoffi1"
+    },
+    "publishedAt": "2020-01-21T21:31:25.875Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "1e1a2a",
+        "313b55",
+        "38647b",
+        "4fa6ae",
+        "6bd0b5",
+        "aceed1",
+        "f4fff7"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5e276dadd57b69658d906a93",
+        "type": "palettes",
+        "count": 45,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

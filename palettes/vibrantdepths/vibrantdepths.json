@@ -1,0 +1,73 @@
+{
+    "_id": "60f435c2bfadf917c0e693b2",
+    "tags": [
+        "vibrant",
+        "ocean",
+        "summer"
+    ],
+    "colors": [
+        "c22d4b",
+        "e45042",
+        "e35e3d",
+        "f09469",
+        "17233d",
+        "224168",
+        "67b6d0",
+        "45b3bf",
+        "67dcf0",
+        "7af0ee",
+        "bdece9",
+        "609884",
+        "79bc92",
+        "65c7ab",
+        "ace3c8",
+        "23988e"
+    ],
+    "downloads": "245",
+    "featured": false,
+    "likes": 10,
+    "comments": 0,
+    "slug": "vosp",
+    "publishedAt": "2021-07-23T07:20:00.017Z",
+    "user": {
+        "name": "Kyubo",
+        "slug": "kyubo"
+    },
+    "title": "V.O.S.P ",
+    "hashtag": "vibrantdepths",
+    "description": "V.O.S.P stands for Vibrant ocean summer pallete.",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2021-07-18T14:08:02.457Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "c22d4b",
+        "e45042",
+        "e35e3d",
+        "f09469",
+        "17233d",
+        "224168",
+        "67b6d0",
+        "45b3bf",
+        "67dcf0",
+        "7af0ee",
+        "bdece9",
+        "609884",
+        "79bc92",
+        "65c7ab",
+        "ace3c8",
+        "23988e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60f435c2bfadf917c0e693b2",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

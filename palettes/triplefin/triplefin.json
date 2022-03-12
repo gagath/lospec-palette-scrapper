@@ -1,0 +1,76 @@
+{
+    "_id": "60cca064fade111f8c9ab81d",
+    "tags": [
+        "finsexual",
+        "fin",
+        "finic",
+        "pride",
+        "pink",
+        "orange",
+        "burgundy"
+    ],
+    "colors": [
+        "ffcfb9",
+        "ffaec9",
+        "fe5ba9",
+        "b01550"
+    ],
+    "downloads": "225",
+    "featured": false,
+    "likes": 29,
+    "comments": 0,
+    "slug": "triple-fin",
+    "publishedAt": "2021-06-21T13:40:00.048Z",
+    "user": {
+        "name": "Phanpy100",
+        "slug": "phanpy100"
+    },
+    "title": "Triple Fin",
+    "hashtag": "triplefin",
+    "description": "Pallette based on the Finsexuality pride flag, with an additional burgundy.",
+    "creator": true,
+    "createdAt": "2021-06-18T13:32:20.818Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60cca084fade111f8c9ab849",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Triple Fin Palette Example by Phanpy100",
+            "slug": "triple-fin-palette-example-by-phanpy100",
+            "publishedAt": "2021-06-21T01:50:00.029Z",
+            "user": {
+                "name": "Phanpy100",
+                "slug": "phanpy100"
+            },
+            "parent": "60cca064fade111f8c9ab81d",
+            "image": "palette-examples/triple-fin-palette-example-by-phanpy100-60cca0.png",
+            "creator": true,
+            "description": "Logo for Triple Fin, the Finsexual colour pallete!",
+            "createdAt": "2021-06-18T13:32:52.810Z",
+            "updatedAt": "2021-06-21T01:50:00.030Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Logo for Triple Fin, the Finsexual colour pallete!"
+        }
+    ],
+    "colorsArray": [
+        "ffcfb9",
+        "ffaec9",
+        "fe5ba9",
+        "b01550"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60cca064fade111f8c9ab81d",
+        "type": "palettes",
+        "count": 29,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

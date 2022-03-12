@@ -1,0 +1,51 @@
+{
+    "_id": "6175cb35966c0e01c34297cb",
+    "tags": [
+        "6"
+    ],
+    "colors": [
+        "5b404e",
+        "775a5f",
+        "8e7470",
+        "ac9b90",
+        "d2ccb8",
+        "eeeee1"
+    ],
+    "downloads": "227",
+    "featured": false,
+    "likes": 9,
+    "comments": 0,
+    "slug": "mona",
+    "publishedAt": "2021-10-25T13:15:00.018Z",
+    "user": {
+        "name": "riley",
+        "slug": "spookkss"
+    },
+    "title": "mona",
+    "hashtag": "mona",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2021-10-24T21:08:05.465Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "5b404e",
+        "775a5f",
+        "8e7470",
+        "ac9b90",
+        "d2ccb8",
+        "eeeee1"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "6175cb35966c0e01c34297cb",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

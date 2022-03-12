@@ -1,0 +1,92 @@
+{
+    "_id": "5fb58ca9720e193e8a545d7e",
+    "tags": [
+        "1bit",
+        " ink",
+        " newspaper",
+        " vague",
+        " noire"
+    ],
+    "colors": [
+        "c6baac",
+        "1e1c32"
+    ],
+    "downloads": "745",
+    "featured": false,
+    "likes": 76,
+    "comments": 18,
+    "title": "Noire Truth",
+    "hashtag": "1bitnoire",
+    "description": "Noire truth is a 1-bit palette that asks questions.\u00a0Questions like why are you not using Noire truth yet. The white is stained with your afternoon coffee; the blue-black is the combination of your two favourite pen inks. You mixed them to save the time of choosing. you need to save all the time you can.\u00a0After all,\u00a0 you want to retire soon, right?",
+    "creator": true,
+    "slug": "noire-truth",
+    "publishedAt": "2020-11-19T19:45:00.034Z",
+    "user": {
+        "name": "Cheeseismysoul",
+        "slug": "nomz-toes-420"
+    },
+    "numberOfColors": 2,
+    "createdAt": "2020-11-18T21:05:45.443Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fb58ccb720e193e8a545d81",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/noire-truth-palette-example-by-cheeseismysoul-5fb58c.png",
+            "creator": true,
+            "description": "",
+            "title": "Noire Truth Palette Example by Cheeseismysoul",
+            "slug": "noire-truth-palette-example-by-cheeseismysoul",
+            "publishedAt": "2020-11-19T19:55:00.026Z",
+            "user": {
+                "name": "Cheeseismysoul",
+                "slug": "nomz-toes-420"
+            },
+            "parent": "5fb58ca9720e193e8a545d7e",
+            "createdAt": "2020-11-18T21:06:19.210Z",
+            "updatedAt": "2020-11-19T19:55:00.026Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "5fee79cf2d03fd5e06ff3e61",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/noire-truth-palette-example-by-casualjoe-5fee79.png",
+            "creator": true,
+            "description": "",
+            "title": "Noire Truth Palette Example by CasualJoe",
+            "slug": "noire-truth-palette-example-by-casualjoe",
+            "publishedAt": "2021-01-02T00:30:00.021Z",
+            "user": {
+                "name": "CasualJoe",
+                "slug": "casual-joe-3905"
+            },
+            "parent": "5fb58ca9720e193e8a545d7e",
+            "createdAt": "2021-01-01T01:24:31.244Z",
+            "updatedAt": "2021-01-02T00:30:00.022Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "c6baac",
+        "1e1c32"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "5fb58ca9720e193e8a545d7e",
+        "type": "palettes",
+        "count": 76,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

@@ -1,0 +1,74 @@
+{
+    "_id": "61dfb208e6490f7c3c465584",
+    "tags": [],
+    "colors": [
+        "c7ac5b",
+        "dbd879",
+        "dfd59e",
+        "ececd2",
+        "8eb3af",
+        "768fa3",
+        "627087"
+    ],
+    "downloads": "118",
+    "featured": false,
+    "likes": 12,
+    "comments": 0,
+    "slug": "sky5",
+    "publishedAt": "2022-01-16T21:55:00.055Z",
+    "user": {
+        "name": "MiniTe",
+        "slug": "mini-te"
+    },
+    "title": "sky5",
+    "hashtag": "sky5",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 7,
+    "createdAt": "2022-01-13T05:00:56.184Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61e6dd6ac7323c5836df88d7",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "sky5 Palette Example by MiniTe",
+            "slug": "sky5-palette-example-by-minitewt39gm",
+            "publishedAt": "2022-01-19T09:35:00.037Z",
+            "user": {
+                "name": "MiniTe",
+                "slug": "mini-te"
+            },
+            "parent": "61dfb208e6490f7c3c465584",
+            "image": "palette-examples/sky5-palette-example-by-minitewt39gm.png",
+            "creator": false,
+            "description": "",
+            "createdAt": "2022-01-18T15:31:54.867Z",
+            "updatedAt": "2022-01-19T09:35:00.038Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "c7ac5b",
+        "dbd879",
+        "dfd59e",
+        "ececd2",
+        "8eb3af",
+        "768fa3",
+        "627087"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "61dfb208e6490f7c3c465584",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

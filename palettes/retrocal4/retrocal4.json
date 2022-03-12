@@ -1,0 +1,94 @@
+{
+    "_id": "5fe8776d7518691b57c7a61f",
+    "tags": [
+        "gameboy",
+        "retro",
+        "polyphrog"
+    ],
+    "colors": [
+        "268856",
+        "dcd579",
+        "b03522",
+        "4b1d2b"
+    ],
+    "downloads": "134",
+    "featured": false,
+    "likes": 13,
+    "comments": 2,
+    "title": "retrocal-4",
+    "hashtag": "retrocal4",
+    "description": "the palette that inspired the\u00a04-color retro map tileset.",
+    "creator": true,
+    "slug": "retrocal-4",
+    "publishedAt": "2020-12-29T12:50:00.020Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-12-27T12:00:45.522Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fe877807518691b57c7a622",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/retrocal-4-palette-example-by-polyphorge-5fe877.png",
+            "creator": true,
+            "description": "",
+            "title": "retrocal-4 Palette Example by polyphorge",
+            "slug": "retrocal-4-palette-example-by-polyphorge",
+            "publishedAt": "2020-12-27T15:35:00.019Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "5fe8776d7518691b57c7a61f",
+            "createdAt": "2020-12-27T12:01:04.162Z",
+            "updatedAt": "2020-12-27T15:35:00.019Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "600d5d93ffe26d178e36115a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/retrocal-4-palette-example-by-polyphorge-2-600d5d.png",
+            "creator": true,
+            "description": "",
+            "title": "retrocal-4 Palette Example by polyphorge",
+            "slug": "retrocal-4-palette-example-by-polyphorge-2",
+            "publishedAt": "2021-01-28T17:50:00.019Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "5fe8776d7518691b57c7a61f",
+            "createdAt": "2021-01-24T11:44:19.819Z",
+            "updatedAt": "2021-01-28T17:50:00.019Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "268856",
+        "dcd579",
+        "b03522",
+        "4b1d2b"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5fe8776d7518691b57c7a61f",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

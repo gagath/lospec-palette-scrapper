@@ -1,0 +1,47 @@
+{
+    "_id": "615c4a77c50b7f1e2e60b2a8",
+    "tags": [],
+    "colors": [
+        "000000",
+        "1e1e33",
+        "65547a",
+        "b379b8",
+        "ffffff"
+    ],
+    "downloads": "68",
+    "featured": false,
+    "likes": 6,
+    "comments": 0,
+    "slug": "besalt",
+    "publishedAt": "2021-10-14T23:45:00.020Z",
+    "user": {
+        "name": "Zant",
+        "slug": "zant"
+    },
+    "title": "Besalt",
+    "hashtag": "besalt",
+    "description": "This pallet is a grey pink for a nice ramp.\u00a0",
+    "creator": true,
+    "numberOfColors": 5,
+    "createdAt": "2021-10-05T12:52:07.163Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "1e1e33",
+        "65547a",
+        "b379b8",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "615c4a77c50b7f1e2e60b2a8",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

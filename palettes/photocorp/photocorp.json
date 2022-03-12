@@ -1,0 +1,73 @@
+{
+    "_id": "60800a4ad372326560fb5ffc",
+    "tags": [
+        "purple",
+        "pink",
+        "polyphrog",
+        "gb"
+    ],
+    "colors": [
+        "f8f3ff",
+        "b67780",
+        "423568",
+        "0f0f0c"
+    ],
+    "downloads": "131",
+    "featured": false,
+    "likes": 25,
+    "comments": 2,
+    "slug": "photocorp",
+    "publishedAt": "2021-04-23T23:05:00.025Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "photo\u2022corp",
+    "hashtag": "photocorp",
+    "description": "\"watching over you\"\u266b\u266a\u266b\u266a",
+    "creator": true,
+    "createdAt": "2021-04-21T11:19:38.773Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60800a54d372326560fb5ffe",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "photo\u2022corp Palette Example by polyphorge",
+            "slug": "photocorp-palette-example-by-polyphorge",
+            "publishedAt": "2021-04-21T17:35:00.034Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "60800a4ad372326560fb5ffc",
+            "image": "palette-examples/photocorp-palette-example-by-polyphorge-60800a.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-04-21T11:19:48.341Z",
+            "updatedAt": "2021-04-21T17:35:00.035Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "f8f3ff",
+        "b67780",
+        "423568",
+        "0f0f0c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60800a4ad372326560fb5ffc",
+        "type": "palettes",
+        "count": 25,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,73 @@
+{
+    "_id": "61031828c47eb438e76a32c0",
+    "tags": [
+        "brown",
+        "orange"
+    ],
+    "colors": [
+        "faf5d8",
+        "d8ae8b",
+        "21181b",
+        "cd5f2a",
+        "f2ab37"
+    ],
+    "downloads": "909",
+    "featured": false,
+    "likes": 108,
+    "comments": 1,
+    "slug": "nicole-punk-82",
+    "publishedAt": "2021-07-31T16:25:00.030Z",
+    "user": {
+        "name": "RetroPunkZ",
+        "slug": "retropunkz"
+    },
+    "title": "Nicole Punk 82",
+    "hashtag": "np82",
+    "description": "A relaxing palette that any artist can use, also kinda limited i guess?",
+    "creator": true,
+    "numberOfColors": 5,
+    "createdAt": "2021-07-29T21:05:44.628Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61031d81c47eb438e76a3ece",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Nicole Punk 82 Palette Example by RetroPunkZ",
+            "slug": "nicole-punk-82-palette-example-by-retropunkz",
+            "publishedAt": "2021-07-29T21:30:00.037Z",
+            "user": {
+                "name": "RetroPunkZ",
+                "slug": "retropunkz"
+            },
+            "parent": "61031828c47eb438e76a32c0",
+            "image": "palette-examples/nicole-punk-82-palette-example-by-retropunkz-61031d.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-07-29T21:28:33.885Z",
+            "updatedAt": "2021-07-29T21:30:00.037Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "faf5d8",
+        "d8ae8b",
+        "21181b",
+        "cd5f2a",
+        "f2ab37"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "61031828c47eb438e76a32c0",
+        "type": "palettes",
+        "count": 108,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

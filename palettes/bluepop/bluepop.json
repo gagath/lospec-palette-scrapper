@@ -1,0 +1,47 @@
+{
+    "_id": "5ea9cad36c598f7c3f12cbf0",
+    "tags": [],
+    "colors": [
+        "26020d",
+        "661249",
+        "6346c2",
+        "72d8ff",
+        "ffffff"
+    ],
+    "downloads": "132",
+    "featured": false,
+    "likes": 18,
+    "comments": 0,
+    "title": "blue pop",
+    "hashtag": "bluepop",
+    "description": "",
+    "creator": true,
+    "slug": "blue-pop",
+    "publishedAt": "2020-05-03T19:55:00.015Z",
+    "user": {
+        "name": "ufoclock",
+        "slug": "ufoclock"
+    },
+    "numberOfColors": 5,
+    "createdAt": "2020-04-29T18:43:31.525Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "26020d",
+        "661249",
+        "6346c2",
+        "72d8ff",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5ea9cad36c598f7c3f12cbf0",
+        "type": "palettes",
+        "count": 18,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

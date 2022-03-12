@@ -1,0 +1,74 @@
+{
+    "_id": "5e38ad8de43a5673e7bc8ff3",
+    "slug": "waverator",
+    "description": "monoramp blue palette",
+    "colors": [
+        "0c0d14",
+        "181c28",
+        "23313d",
+        "33505d",
+        "4e7f7d",
+        "53a788",
+        "70d38b",
+        "cbffd8"
+    ],
+    "creator": true,
+    "hashtag": "waverator",
+    "comments": 0,
+    "likes": 98,
+    "createdAt": "2020-02-03T23:32:29.109Z",
+    "featured": false,
+    "tags": [
+        "monoramp"
+    ],
+    "downloads": "2,006",
+    "numberOfColors": 8,
+    "title": "waverator",
+    "user": {
+        "name": "Mig Moog",
+        "slug": "migmoog"
+    },
+    "publishedAt": "2020-02-03T23:32:29.109Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5e5143c5a936815f94fcc6f0",
+            "description": "Palette usage example by doctor manuadvance",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.212Z",
+            "creator": false,
+            "image": "palette-examples/waverator-palette-example-palette-usage-example-by-doctor-manuadvance-5e5143.png",
+            "likes": 0,
+            "parent": "5e38ad8de43a5673e7bc8ff3",
+            "slug": "waverator-palette-example-palette-usage-example-by-doctor-manuadvance",
+            "title": "waverator palette example palette usage example by doctor manuadvance",
+            "updatedAt": "2020-07-31T03:56:11.212Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by doctor manuadvance"
+        }
+    ],
+    "colorsArray": [
+        "0c0d14",
+        "181c28",
+        "23313d",
+        "33505d",
+        "4e7f7d",
+        "53a788",
+        "70d38b",
+        "cbffd8"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5e38ad8de43a5673e7bc8ff3",
+        "type": "palettes",
+        "count": 98,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

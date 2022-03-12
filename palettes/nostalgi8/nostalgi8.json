@@ -1,0 +1,83 @@
+{
+    "_id": "6197a28380ec3e117eefef8d",
+    "tags": [
+        "artist",
+        "anoob",
+        "nostalgi8",
+        "8",
+        "desaturated",
+        "pixelart"
+    ],
+    "colors": [
+        "bfbfbf",
+        "71a668",
+        "6a86b0",
+        "76568f",
+        "ab5c74",
+        "b89d6e",
+        "4c5b6b",
+        "2e253d"
+    ],
+    "downloads": "263",
+    "featured": false,
+    "likes": 32,
+    "comments": 0,
+    "slug": "nostalgi8",
+    "publishedAt": "2021-11-22T22:35:00.032Z",
+    "user": {
+        "name": "ANoob",
+        "slug": "anoob"
+    },
+    "title": "Nostalgi8",
+    "hashtag": "nostalgi8",
+    "description": "A modified and extended version of the\u00a0Nostalgi2\u00a0palette. equipped with 8 desaturated colors that can give a nostalgic feeling to your art.",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-11-19T13:11:31.182Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6197a29980ec3e117eefef90",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Nostalgi8 Palette Example by ANoob",
+            "slug": "nostalgi8-palette-example-by-anoob",
+            "publishedAt": "2021-11-19T19:55:00.023Z",
+            "user": {
+                "name": "ANoob",
+                "slug": "anoob"
+            },
+            "parent": "6197a28380ec3e117eefef8d",
+            "image": "palette-examples/nostalgi8-palette-example-by-anoob-6197a2.png",
+            "creator": true,
+            "description": "Heart of the City",
+            "createdAt": "2021-11-19T13:11:53.014Z",
+            "updatedAt": "2021-11-19T19:55:00.023Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Heart of the City"
+        }
+    ],
+    "colorsArray": [
+        "bfbfbf",
+        "71a668",
+        "6a86b0",
+        "76568f",
+        "ab5c74",
+        "b89d6e",
+        "4c5b6b",
+        "2e253d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6197a28380ec3e117eefef8d",
+        "type": "palettes",
+        "count": 32,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

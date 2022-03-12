@@ -1,0 +1,120 @@
+{
+    "_id": "613a3e7c4454ee49e315a2e8",
+    "tags": [
+        "nature",
+        "polyphrog",
+        "dirt",
+        "moss",
+        "stone"
+    ],
+    "colors": [
+        "1d1819",
+        "482632",
+        "273635",
+        "4d3d2f",
+        "933633",
+        "316436",
+        "825c3a",
+        "b95358",
+        "c77331",
+        "617a6f",
+        "7fa533",
+        "ca9864",
+        "afaa94",
+        "7dcfa8",
+        "e7dc58",
+        "f7f6db"
+    ],
+    "downloads": "415",
+    "featured": false,
+    "likes": 38,
+    "comments": 10,
+    "slug": "magicolor-16",
+    "publishedAt": "2021-10-06T20:45:00.041Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "magicolor 16",
+    "hashtag": "magicolor16",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2021-09-09T17:03:56.044Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "613a3e8b4454ee49e315a2eb",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "mossystone 16 Palette Example by polyphorge",
+            "slug": "mossystone-16-palette-example-by-polyphorge",
+            "publishedAt": "2021-09-09T17:30:00.033Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "613a3e7c4454ee49e315a2e8",
+            "image": "palette-examples/mossystone-16-palette-example-by-polyphorge-613a3e.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-09-09T17:04:11.657Z",
+            "updatedAt": "2021-09-09T17:30:00.033Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "614703b3d14776127e0b5d09",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "magicolor 16 Palette Example by polyphorge",
+            "slug": "magicolor-16-palette-example-by-polyphorge",
+            "publishedAt": "2021-09-19T09:40:00.014Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "613a3e7c4454ee49e315a2e8",
+            "image": "palette-examples/magicolor-16-palette-example-by-polyphorge-614703.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-09-19T09:32:35.599Z",
+            "updatedAt": "2021-09-19T09:40:00.014Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "1d1819",
+        "482632",
+        "273635",
+        "4d3d2f",
+        "933633",
+        "316436",
+        "825c3a",
+        "b95358",
+        "c77331",
+        "617a6f",
+        "7fa533",
+        "ca9864",
+        "afaa94",
+        "7dcfa8",
+        "e7dc58",
+        "f7f6db"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "613a3e7c4454ee49e315a2e8",
+        "type": "palettes",
+        "count": 38,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

@@ -1,0 +1,53 @@
+{
+    "_id": "601038461f416b57ab02113b",
+    "tags": [
+        "aqua",
+        " blue",
+        " pallete"
+    ],
+    "colors": [
+        "191919",
+        "1a3264",
+        "15426e",
+        "1f9998",
+        "40c9bc",
+        "13edb3"
+    ],
+    "downloads": "214",
+    "featured": false,
+    "likes": 16,
+    "comments": 0,
+    "title": "Aqua Colors",
+    "hashtag": "aquapalette",
+    "description": "aqua",
+    "creator": true,
+    "slug": "aqua-colors",
+    "publishedAt": "2021-03-30T23:30:00.269Z",
+    "user": {
+        "name": "Broliant 112",
+        "slug": "broliant-112"
+    },
+    "numberOfColors": 6,
+    "createdAt": "2021-01-26T15:41:58.408Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "191919",
+        "1a3264",
+        "15426e",
+        "1f9998",
+        "40c9bc",
+        "13edb3"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "601038461f416b57ab02113b",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

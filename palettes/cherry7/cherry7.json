@@ -1,0 +1,78 @@
+{
+    "_id": "603da5c9489f5763acf98d28",
+    "tags": [
+        "red",
+        " 7 color",
+        " 7 colour"
+    ],
+    "colors": [
+        "ffdcde",
+        "ffb2b6",
+        "ff868d",
+        "f8414e",
+        "d22247",
+        "ad1544",
+        "760f42"
+    ],
+    "downloads": "536",
+    "featured": false,
+    "likes": 39,
+    "comments": 3,
+    "title": "cherry7",
+    "hashtag": "cherry7",
+    "description": "think of this like a mid tone, with 3 colors on either side both respectively going to the darker and lighter values",
+    "creator": true,
+    "slug": "cherry7",
+    "publishedAt": "2021-03-29T23:30:00.054Z",
+    "user": {
+        "name": "Mustard",
+        "slug": "mustard"
+    },
+    "numberOfColors": 7,
+    "createdAt": "2021-03-02T02:41:13.017Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "603da5ef489f5763acf98d2a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/cherry7-palette-example-by-mustard-603da5.png",
+            "creator": true,
+            "description": "",
+            "title": "cherry7 Palette Example by Mustard",
+            "slug": "cherry7-palette-example-by-mustard",
+            "publishedAt": "2021-03-10T18:35:00.017Z",
+            "user": {
+                "name": "Mustard",
+                "slug": "mustard"
+            },
+            "parent": "603da5c9489f5763acf98d28",
+            "createdAt": "2021-03-02T02:41:51.503Z",
+            "updatedAt": "2021-03-10T18:35:00.017Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "ffdcde",
+        "ffb2b6",
+        "ff868d",
+        "f8414e",
+        "d22247",
+        "ad1544",
+        "760f42"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "603da5c9489f5763acf98d28",
+        "type": "palettes",
+        "count": 39,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

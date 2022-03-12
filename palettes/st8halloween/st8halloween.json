@@ -1,0 +1,83 @@
+{
+    "_id": "615dd36a2a67594eed9b61d8",
+    "tags": [
+        "artist",
+        "st8",
+        "thest1076",
+        "yellow",
+        "green",
+        "halloween"
+    ],
+    "colors": [
+        "020804",
+        "060d03",
+        "0d1a05",
+        "20330a",
+        "40590d",
+        "798113",
+        "c7aa1f",
+        "e5cf39"
+    ],
+    "downloads": "163",
+    "featured": false,
+    "likes": 12,
+    "comments": 0,
+    "slug": "st-8-halloween",
+    "publishedAt": "2021-10-15T13:45:00.020Z",
+    "user": {
+        "name": "Skiller Thomson",
+        "slug": "thest1076"
+    },
+    "title": "ST 8 Halloween",
+    "hashtag": "st8halloween",
+    "description": "\"8 colors, Halloween edition\". The Happy Halloween!",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-10-06T16:48:42.191Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "615dd3d62a67594eed9b61df",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "ST 8 Halloween Palette Example by Skiller Thomson",
+            "slug": "st-8-halloween-palette-example-by-skiller-thomson",
+            "publishedAt": "2021-10-07T19:45:00.025Z",
+            "user": {
+                "name": "Skiller Thomson",
+                "slug": "thest1076"
+            },
+            "parent": "615dd36a2a67594eed9b61d8",
+            "image": "palette-examples/st-8-halloween-palette-example-by-skiller-thomson-615dd3.png",
+            "creator": true,
+            "description": "The pumpkin is no the same!",
+            "createdAt": "2021-10-06T16:50:30.832Z",
+            "updatedAt": "2021-10-07T19:45:00.025Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "The pumpkin is no the same!"
+        }
+    ],
+    "colorsArray": [
+        "020804",
+        "060d03",
+        "0d1a05",
+        "20330a",
+        "40590d",
+        "798113",
+        "c7aa1f",
+        "e5cf39"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "615dd36a2a67594eed9b61d8",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

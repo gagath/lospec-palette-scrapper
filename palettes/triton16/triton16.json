@@ -1,0 +1,72 @@
+{
+    "_id": "5dd5fe4f0cdc743ddbc148f3",
+    "slug": "triton-16",
+    "description": "Inspired by the colors of Neptune's moon Triton.",
+    "colors": [
+        "000000",
+        "2b2232",
+        "473759",
+        "98879f",
+        "232433",
+        "5f6f87",
+        "829eb3",
+        "93abc2",
+        "1a2120",
+        "424849",
+        "5e7173",
+        "c3b3c8",
+        "866273",
+        "a2878a",
+        "b09ea0",
+        "daced3"
+    ],
+    "creator": true,
+    "comments": 0,
+    "likes": 38,
+    "createdAt": "2019-11-21T03:02:39.037Z",
+    "featured": false,
+    "tags": [
+        "pastel",
+        "moon"
+    ],
+    "downloads": "916",
+    "numberOfColors": 16,
+    "hashtag": "triton16",
+    "title": "Triton 16",
+    "user": {
+        "name": "Rhoq",
+        "slug": "rhoq"
+    },
+    "publishedAt": "2019-11-21T03:02:39.037Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "2b2232",
+        "473759",
+        "98879f",
+        "232433",
+        "5f6f87",
+        "829eb3",
+        "93abc2",
+        "1a2120",
+        "424849",
+        "5e7173",
+        "c3b3c8",
+        "866273",
+        "a2878a",
+        "b09ea0",
+        "daced3"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5dd5fe4f0cdc743ddbc148f3",
+        "type": "palettes",
+        "count": 38,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

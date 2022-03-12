@@ -1,0 +1,82 @@
+{
+    "_id": "60d0021ca7eedf6ca12375c7",
+    "tags": [
+        "hotgirl9",
+        "warm",
+        "red"
+    ],
+    "colors": [
+        "9c4660",
+        "d15656",
+        "c28574",
+        "eba278",
+        "fac68e",
+        "faefe3",
+        "3e4b73",
+        "408f76",
+        "63d6bb"
+    ],
+    "downloads": "120",
+    "featured": false,
+    "likes": 10,
+    "comments": 2,
+    "slug": "hotgirl9",
+    "publishedAt": "2021-07-12T04:05:00.023Z",
+    "user": {
+        "name": "pitzamachine",
+        "slug": "pitzamachine"
+    },
+    "title": "hotgirl9",
+    "hashtag": "hotgirl9",
+    "description": "I made this pallete to draw\u00a0 hot girl so do that, the original name of the pallete was hotfemaleyesthehotgirlyeshotfemale but i simplified it so it made sense",
+    "creator": true,
+    "createdAt": "2021-06-21T03:06:04.198Z",
+    "numberOfColors": 9,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60d00326a7eedf6ca123775a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "hotgirl9 Palette Example by pitzamachine",
+            "slug": "hotgirl9-palette-example-by-pitzamachine",
+            "publishedAt": "2021-07-05T23:35:00.018Z",
+            "user": {
+                "name": "pitzamachine",
+                "slug": "pitzamachine"
+            },
+            "parent": "60d0021ca7eedf6ca12375c7",
+            "image": "palette-examples/hotgirl9-palette-example-by-pitzamachine-60d003.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-06-21T03:10:30.856Z",
+            "updatedAt": "2021-07-05T23:35:00.018Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "9c4660",
+        "d15656",
+        "c28574",
+        "eba278",
+        "fac68e",
+        "faefe3",
+        "3e4b73",
+        "408f76",
+        "63d6bb"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "60d0021ca7eedf6ca12375c7",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

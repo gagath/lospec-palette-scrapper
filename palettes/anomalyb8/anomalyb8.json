@@ -1,0 +1,53 @@
+{
+    "_id": "6155a2d9fc87710849491c32",
+    "tags": [],
+    "colors": [
+        "080707",
+        "553d3d",
+        "cc3e47",
+        "f29cbd",
+        "f4f5f7",
+        "50ea9d",
+        "75847c",
+        "29625b"
+    ],
+    "downloads": "25",
+    "featured": false,
+    "likes": 6,
+    "comments": 1,
+    "slug": "anomaly-b8",
+    "publishedAt": "2021-10-13T15:45:00.040Z",
+    "user": {
+        "name": "Space Sandwich",
+        "slug": "spacesandwich"
+    },
+    "title": "Anomaly B8",
+    "hashtag": "anomalyb8",
+    "description": "An improved version of my palette Tritanopi8. 8 colours safe for people who have tritanopia",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-09-30T11:43:21.769Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "080707",
+        "553d3d",
+        "cc3e47",
+        "f29cbd",
+        "f4f5f7",
+        "50ea9d",
+        "75847c",
+        "29625b"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6155a2d9fc87710849491c32",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,49 @@
+{
+    "_id": "60f94aa4e926cb04dc42ec23",
+    "tags": [
+        "retro"
+    ],
+    "colors": [
+        "3f3f3f",
+        "3e7b7a",
+        "9ba2c8",
+        "f1b8de",
+        "ffffff"
+    ],
+    "downloads": "102",
+    "featured": false,
+    "likes": 20,
+    "comments": 0,
+    "slug": "virtual-sky",
+    "publishedAt": "2021-07-22T19:20:00.024Z",
+    "user": {
+        "name": "Space Sandwich",
+        "slug": "spacesandwich"
+    },
+    "title": "virtual sky",
+    "hashtag": "virtualsky",
+    "description": "This was originally a 4 colour palette but I added an extra colour to make a smoother ramp with a retro aesthetic or virtual vibe",
+    "creator": true,
+    "numberOfColors": 5,
+    "createdAt": "2021-07-22T10:38:28.214Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "3f3f3f",
+        "3e7b7a",
+        "9ba2c8",
+        "f1b8de",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "60f94aa4e926cb04dc42ec23",
+        "type": "palettes",
+        "count": 20,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

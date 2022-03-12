@@ -1,0 +1,94 @@
+{
+    "_id": "5fbd48d6283c4521d54e1737",
+    "tags": [
+        "hybrid"
+    ],
+    "colors": [
+        "0e0a16",
+        "353a41",
+        "575c53",
+        "90989e",
+        "f3f6f1",
+        "d78c8e",
+        "c6353d",
+        "432d2d",
+        "905429",
+        "de822e",
+        "e8d964",
+        "93c02a",
+        "3b7220",
+        "214879",
+        "448fdf",
+        "8fcedc"
+    ],
+    "downloads": "201",
+    "featured": false,
+    "likes": 17,
+    "comments": 1,
+    "title": "ADB hybrid 16",
+    "hashtag": "adb16",
+    "description": "A combination of\u00a0<a href=\"https://lospec.com/palette-list/arne-16\" target=\"_blank\">Arne 16</a>\u00a0and\u00a0<a href=\"https://lospec.com/palette-list/dawnbringer-16\" target=\"_blank\">Dawnbringer 16</a>.",
+    "creator": true,
+    "slug": "adb-hybrid-16",
+    "publishedAt": "2020-12-09T13:45:00.027Z",
+    "user": {
+        "name": "Space Sandwich",
+        "slug": "spacesandwich"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-11-24T17:54:30.970Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fc0c898c2028345be9d634c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/adb-hybrid-16-palette-example-by-space-sandwich-5fc0c8.png",
+            "creator": true,
+            "description": "",
+            "title": "ADB hybrid 16 Palette Example by Space Sandwich",
+            "slug": "adb-hybrid-16-palette-example-by-space-sandwich",
+            "publishedAt": "2020-12-04T02:35:00.021Z",
+            "user": {
+                "name": "Space Sandwich",
+                "slug": "spacesandwich"
+            },
+            "parent": "5fbd48d6283c4521d54e1737",
+            "createdAt": "2020-11-27T09:36:24.543Z",
+            "updatedAt": "2020-12-04T02:35:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "0e0a16",
+        "353a41",
+        "575c53",
+        "90989e",
+        "f3f6f1",
+        "d78c8e",
+        "c6353d",
+        "432d2d",
+        "905429",
+        "de822e",
+        "e8d964",
+        "93c02a",
+        "3b7220",
+        "214879",
+        "448fdf",
+        "8fcedc"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fbd48d6283c4521d54e1737",
+        "type": "palettes",
+        "count": 17,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

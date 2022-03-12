@@ -1,0 +1,49 @@
+{
+    "_id": "6197f5b46386802fd7467216",
+    "tags": [],
+    "colors": [
+        "2c2c39",
+        "7a7a93",
+        "96b0b3",
+        "7f6a62",
+        "d9c7b4",
+        "ebe7e5"
+    ],
+    "downloads": "101",
+    "featured": false,
+    "likes": 6,
+    "comments": 1,
+    "slug": "muted-ally-6",
+    "publishedAt": "2021-11-23T06:35:00.022Z",
+    "user": {
+        "name": "Danielle Lard",
+        "slug": "danielle-lard"
+    },
+    "title": "Muted Ally 6",
+    "hashtag": "mutedally6",
+    "description": "A six-color palette made from purples and bleeds into brown.\u00a0",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2021-11-19T19:06:28.556Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "2c2c39",
+        "7a7a93",
+        "96b0b3",
+        "7f6a62",
+        "d9c7b4",
+        "ebe7e5"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "6197f5b46386802fd7467216",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,120 @@
+{
+    "_id": "5fd7cc75074ea23ac93f2a48",
+    "tags": [
+        "weapons",
+        "metal",
+        "desaturated",
+        "soft",
+        "wood",
+        "warm",
+        "dark"
+    ],
+    "colors": [
+        "6b6974",
+        "3c3b45",
+        "231d24",
+        "000000",
+        "943c0c",
+        "7c2a19",
+        "6b403d",
+        "4d071d",
+        "31181e",
+        "7c4d19",
+        "5c200a",
+        "cca171",
+        "9a6654",
+        "55634d",
+        "3f4339"
+    ],
+    "downloads": "892",
+    "featured": false,
+    "likes": 38,
+    "comments": 12,
+    "title": "Gun Metal Russia",
+    "hashtag": "gunmetalrussia",
+    "description": "Soft but eyecatching, the perfect ingredients for the perfect weapons",
+    "creator": true,
+    "slug": "gun-metal-russia",
+    "publishedAt": "2021-04-07T17:30:00.055Z",
+    "user": {
+        "name": "Mack",
+        "slug": "mackiepalmer"
+    },
+    "numberOfColors": 15,
+    "createdAt": "2020-12-14T20:35:01.859Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "601311d74310c2050eb15dfd",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/gun-metal-russia-palette-example-by-mack-2-601311.png",
+            "creator": true,
+            "description": "A display of various firearms\u00a0",
+            "title": "Gun Metal Russia Palette Example by Mack",
+            "slug": "gun-metal-russia-palette-example-by-mack-2",
+            "publishedAt": "2021-03-27T19:40:00.021Z",
+            "user": {
+                "name": "Mack",
+                "slug": "mackiepalmer"
+            },
+            "parent": "5fd7cc75074ea23ac93f2a48",
+            "createdAt": "2021-01-28T19:34:47.889Z",
+            "updatedAt": "2021-03-27T19:40:00.022Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A display of various firearms\u00a0"
+        },
+        {
+            "_id": "6043d8eca581cf125a427d1e",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/gun-metal-russia-palette-example-by-mack-3-6043d8.png",
+            "creator": true,
+            "description": "",
+            "title": "Gun Metal Russia Palette Example by Mack",
+            "slug": "gun-metal-russia-palette-example-by-mack-3",
+            "publishedAt": "2021-03-18T19:35:00.036Z",
+            "user": {
+                "name": "Mack",
+                "slug": "mackiepalmer"
+            },
+            "parent": "5fd7cc75074ea23ac93f2a48",
+            "createdAt": "2021-03-06T19:33:00.556Z",
+            "updatedAt": "2021-03-18T19:35:00.036Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "6b6974",
+        "3c3b45",
+        "231d24",
+        "000000",
+        "943c0c",
+        "7c2a19",
+        "6b403d",
+        "4d071d",
+        "31181e",
+        "7c4d19",
+        "5c200a",
+        "cca171",
+        "9a6654",
+        "55634d",
+        "3f4339"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fd7cc75074ea23ac93f2a48",
+        "type": "palettes",
+        "count": 38,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

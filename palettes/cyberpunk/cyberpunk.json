@@ -1,0 +1,78 @@
+{
+    "_id": "6164b13bc00bdb582a1b159e",
+    "tags": [],
+    "colors": [
+        "23232b",
+        "241a44",
+        "292a50",
+        "285b77",
+        "0b959f",
+        "06cfce",
+        "ececed",
+        "d3167c",
+        "8d155e"
+    ],
+    "downloads": "166",
+    "featured": false,
+    "likes": 17,
+    "comments": 0,
+    "slug": "cyber-punk",
+    "publishedAt": "2021-10-16T19:45:00.019Z",
+    "user": {
+        "name": "Netic",
+        "slug": "frenetic-wallaby"
+    },
+    "title": "Cyber Punk",
+    "hashtag": "cyberpunk",
+    "description": "Esta es una paleta que encontr\u00e9 cuando busqu\u00e9 en Google CyberPunk - Origin: https://img.itch.zone/aW1nLzMwMjA4ODEucG5n/original/I%2FrvgN.png",
+    "creator": false,
+    "numberOfColors": 9,
+    "createdAt": "2021-10-11T21:48:43.617Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "616b4a146be8c95c1a1826b1",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Cyber Punk Palette Example by Angel V.",
+            "slug": "cyber-punk-palette-example-by-angel-v",
+            "publishedAt": "2021-10-17T16:35:00.020Z",
+            "user": {
+                "name": "Angel V.",
+                "slug": "angel-v"
+            },
+            "parent": "6164b13bc00bdb582a1b159e",
+            "image": "palette-examples/cyber-punk-palette-example-by-angel-v-616b4a.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-10-16T21:54:28.976Z",
+            "updatedAt": "2021-10-17T16:35:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "23232b",
+        "241a44",
+        "292a50",
+        "285b77",
+        "0b959f",
+        "06cfce",
+        "ececed",
+        "d3167c",
+        "8d155e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "6164b13bc00bdb582a1b159e",
+        "type": "palettes",
+        "count": 17,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

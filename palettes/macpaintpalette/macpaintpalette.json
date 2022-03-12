@@ -1,0 +1,73 @@
+{
+    "_id": "60f967a7e926cb04dc43168e",
+    "tags": [
+        "1bit",
+        "applemac",
+        "macintosh",
+        "applemac",
+        "blue",
+        "simple",
+        "lowspecification",
+        "hardware"
+    ],
+    "colors": [
+        "8bc8fe",
+        "051b2c"
+    ],
+    "downloads": "308",
+    "featured": false,
+    "likes": 47,
+    "comments": 1,
+    "slug": "mac-paint",
+    "publishedAt": "2021-07-23T21:05:00.027Z",
+    "user": {
+        "name": "Polyducks",
+        "slug": "polyducks"
+    },
+    "title": "Mac Paint",
+    "hashtag": "macpaintpalette",
+    "description": "Sampled from a genuine Apple Macintosh CRT in 2021, it uses the light blue and faded black to carry 1bit art in the closest you can get to looking at an Apple Macintosh screen's colours without sitting in front of one. Take note that the colours are sampled from a daylight photograph of actual hardware then manually adjusted to best match the image, and is thus a representation of how the art displays as opposed to how it's recorded in software (which definitely would've been true black or white). Anyone has permission to use this palette for any purpose.",
+    "creator": true,
+    "numberOfColors": 2,
+    "createdAt": "2021-07-22T12:42:15.297Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60f9681fe926cb04dc43173f",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Mac Paint Palette Example",
+            "slug": "apple-mac-1bit-crt-palette-example-by-polyducks",
+            "publishedAt": "2021-07-22T19:35:00.035Z",
+            "user": {
+                "name": "Polyducks",
+                "slug": "polyducks"
+            },
+            "parent": "60f967a7e926cb04dc43168e",
+            "image": "palette-examples/apple-mac-1bit-crt-palette-example-by-polyducks-60f968.png",
+            "creator": true,
+            "description": "A remix of the Mac Paint interface and Susan Kare's 1bit Geisha, which was shipped alongside Mac Paint and famously used to promote its potential as an art program.",
+            "createdAt": "2021-07-22T12:44:15.073Z",
+            "updatedAt": "2021-07-22T19:42:32.297Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A remix of the Mac Paint interface and Susan Kare's 1bit Geisha, which was shipped alongside Mac Paint and famously used to promote its potential as an art program."
+        }
+    ],
+    "colorsArray": [
+        "8bc8fe",
+        "051b2c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "60f967a7e926cb04dc43168e",
+        "type": "palettes",
+        "count": 47,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

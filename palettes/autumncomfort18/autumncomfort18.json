@@ -1,0 +1,102 @@
+{
+    "_id": "6133f2e14d270a66fb28eee9",
+    "tags": [
+        "autumn",
+        "fall",
+        "18",
+        "warm",
+        "seasonal"
+    ],
+    "colors": [
+        "827b85",
+        "3d3640",
+        "14070e",
+        "95ab54",
+        "556641",
+        "31422d",
+        "ebd575",
+        "c9a455",
+        "946a2f",
+        "de5a21",
+        "8a3c0f",
+        "45240d",
+        "ad4737",
+        "7d2822",
+        "4a1309",
+        "945664",
+        "61202f",
+        "30101d"
+    ],
+    "downloads": "296",
+    "featured": false,
+    "likes": 18,
+    "comments": 0,
+    "slug": "autumn-comfort-18",
+    "publishedAt": "2021-10-02T20:40:00.064Z",
+    "user": {
+        "name": "River",
+        "slug": "witchy-rhisa"
+    },
+    "title": "Autumn Comfort 18",
+    "hashtag": "autumncomfort18",
+    "description": "Autumn Comfort 18 is a versatile 18 color palette with all your fall color needs. It has several easy to use color ramps with a lot of ways to mix and match shades to get those perfect autumn vibes. ",
+    "creator": true,
+    "numberOfColors": 18,
+    "createdAt": "2021-09-04T22:27:45.427Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6135a620eb2e3b57c1cf2c94",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Autumn Comfort 18 Palette Example by Witchy Rhisa",
+            "slug": "autumn-comfort-18-palette-example-by-witchy-rhisa",
+            "publishedAt": "2021-09-06T12:35:00.010Z",
+            "user": {
+                "name": "River",
+                "slug": "witchy-rhisa"
+            },
+            "parent": "6133f2e14d270a66fb28eee9",
+            "image": "palette-examples/autumn-comfort-18-palette-example-by-witchy-rhisa-6135a6.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-09-06T05:24:48.540Z",
+            "updatedAt": "2021-09-06T12:35:00.010Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "827b85",
+        "3d3640",
+        "14070e",
+        "95ab54",
+        "556641",
+        "31422d",
+        "ebd575",
+        "c9a455",
+        "946a2f",
+        "de5a21",
+        "8a3c0f",
+        "45240d",
+        "ad4737",
+        "7d2822",
+        "4a1309",
+        "945664",
+        "61202f",
+        "30101d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 11.11111111111111,
+    "height": 32,
+    "likebutton": {
+        "content": "6133f2e14d270a66fb28eee9",
+        "type": "palettes",
+        "count": 18,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

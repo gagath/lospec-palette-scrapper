@@ -1,0 +1,75 @@
+{
+    "_id": "60be7692ea0dcf4c4658983b",
+    "tags": [
+        "blood",
+        "red",
+        "dark",
+        "4",
+        "4color",
+        "4colour"
+    ],
+    "colors": [
+        "290707",
+        "766161",
+        "bb9d9d",
+        "ba0000"
+    ],
+    "downloads": "261",
+    "featured": false,
+    "likes": 20,
+    "comments": 0,
+    "slug": "crimson-blood-4",
+    "publishedAt": "2021-09-01T06:00:00.112Z",
+    "user": {
+        "name": "DedLei",
+        "slug": "pixel-zs"
+    },
+    "title": "Crimson Blood 4",
+    "hashtag": "crimsonblood4",
+    "description": "A bloody palette that can be used for a variety of pieces.",
+    "creator": true,
+    "createdAt": "2021-06-07T19:42:10.146Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60be7c22a31d0059f1b8aff5",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Crimson Blood 4 Palette Example by Pixel_ Zs",
+            "slug": "crimson-blood-4-palette-example-by-pixel-zs-2",
+            "publishedAt": "2021-08-22T21:44:41.834Z",
+            "user": {
+                "name": "DedLei",
+                "slug": "pixel-zs"
+            },
+            "parent": "60be7692ea0dcf4c4658983b",
+            "image": "palette-examples/crimson-blood-4-palette-example-by-pixel-zs-2-60be7c.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-06-07T20:05:54.748Z",
+            "updatedAt": "2021-08-22T21:44:41.834Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "290707",
+        "766161",
+        "bb9d9d",
+        "ba0000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60be7692ea0dcf4c4658983b",
+        "type": "palettes",
+        "count": 20,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

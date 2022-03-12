@@ -1,0 +1,100 @@
+{
+    "_id": "618f4ddccca4796d6f543b9c",
+    "tags": [
+        "kawaii",
+        "arisuki",
+        "cloudcafe",
+        "vibrant",
+        "cute",
+        "rainbow",
+        "anime"
+    ],
+    "colors": [
+        "65471e",
+        "b57075",
+        "dcab80",
+        "f8d8ab",
+        "b8aaaa",
+        "fff5f5",
+        "fca5c2",
+        "ec4646",
+        "ffa322",
+        "f9fa93",
+        "7bc188",
+        "8ed3f8",
+        "5989a3",
+        "d793fa",
+        "74518e",
+        "1d173c"
+    ],
+    "downloads": "427",
+    "featured": false,
+    "likes": 23,
+    "comments": 1,
+    "slug": "kawaii16",
+    "publishedAt": "2021-11-16T02:10:00.044Z",
+    "user": {
+        "name": "Arisuki",
+        "slug": "arisuki"
+    },
+    "title": "Kawaii16",
+    "hashtag": "kawaii16",
+    "description": "This palette is designed to meet pc-98 16-colour limits, while offering enough rainbow colours to depict a wide variety of anime characters. For the following quilt: https://fy.do/quilt/197",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2021-11-13T05:32:12.378Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "618f655d8ce57b06cd7500ca",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Kawaii16 Palette Example by Arisuki",
+            "slug": "kawaii16-palette-example-by-arisuki",
+            "publishedAt": "2021-11-13T08:15:00.030Z",
+            "user": {
+                "name": "Arisuki",
+                "slug": "arisuki"
+            },
+            "parent": "618f4ddccca4796d6f543b9c",
+            "image": "palette-examples/kawaii16-palette-example-by-arisuki-618f65.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-11-13T07:12:29.413Z",
+            "updatedAt": "2021-11-13T08:15:00.030Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "65471e",
+        "b57075",
+        "dcab80",
+        "f8d8ab",
+        "b8aaaa",
+        "fff5f5",
+        "fca5c2",
+        "ec4646",
+        "ffa322",
+        "f9fa93",
+        "7bc188",
+        "8ed3f8",
+        "5989a3",
+        "d793fa",
+        "74518e",
+        "1d173c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "618f4ddccca4796d6f543b9c",
+        "type": "palettes",
+        "count": 23,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

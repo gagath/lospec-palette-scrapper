@@ -1,0 +1,82 @@
+{
+    "_id": "614f3c90bf0e9657db2bbe0a",
+    "tags": [
+        "halloween",
+        "spooky",
+        "orange",
+        "purple",
+        "dark"
+    ],
+    "colors": [
+        "000000",
+        "150050",
+        "3f0071",
+        "610094",
+        "872717",
+        "ad460b",
+        "e68014",
+        "fff75a"
+    ],
+    "downloads": "208",
+    "featured": false,
+    "likes": 14,
+    "comments": 1,
+    "slug": "ween-8",
+    "publishedAt": "2021-10-11T23:45:00.032Z",
+    "user": {
+        "name": "\ud83e\udd87 \ud835\udd6e\ud835\udd8d\ud835\udd91\ud835\udd94\ud835\udd97\ud835\udd86 \ud83e\udd87",
+        "slug": "chloracreates"
+    },
+    "title": "Ween-8",
+    "hashtag": "ween8",
+    "description": "8 color palette meant to create the spoopy atmosphere in pixels",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-09-25T15:13:20.895Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "614f3d26bf0e9657db2bbe12",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Halloween-8 Palette Example by \ud83e\udd87 \ud835\udd6e\ud835\udd8d\ud835\udd91\ud835\udd94\ud835\udd97\ud835\udd86 \ud83e\udd87",
+            "slug": "halloween-8-palette-example-by",
+            "publishedAt": "2021-09-27T20:45:00.067Z",
+            "user": {
+                "name": "\ud83e\udd87 \ud835\udd6e\ud835\udd8d\ud835\udd91\ud835\udd94\ud835\udd97\ud835\udd86 \ud83e\udd87",
+                "slug": "chloracreates"
+            },
+            "parent": "614f3c90bf0e9657db2bbe0a",
+            "image": "palette-examples/halloween-8-palette-example-by-614f3d.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-09-25T15:15:50.991Z",
+            "updatedAt": "2021-09-27T20:45:00.067Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "150050",
+        "3f0071",
+        "610094",
+        "872717",
+        "ad460b",
+        "e68014",
+        "fff75a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "614f3c90bf0e9657db2bbe0a",
+        "type": "palettes",
+        "count": 14,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

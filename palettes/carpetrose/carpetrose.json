@@ -1,0 +1,77 @@
+{
+    "_id": "5fe714a328739278720ccca1",
+    "tags": [
+        "rose",
+        "6colour",
+        "6color",
+        "groxguy"
+    ],
+    "colors": [
+        "3b392a",
+        "655d4a",
+        "6f4143",
+        "a46a66",
+        "a4825d",
+        "d6baa5"
+    ],
+    "downloads": "443",
+    "featured": false,
+    "likes": 62,
+    "comments": 2,
+    "title": "Carpet Rose",
+    "hashtag": "carpetrose",
+    "description": "A 6 colour palette with rather dark and desaturated colours.",
+    "creator": true,
+    "slug": "carpet-rose",
+    "publishedAt": "2020-12-27T00:50:00.025Z",
+    "user": {
+        "name": "Groxguy",
+        "slug": "groxguy"
+    },
+    "numberOfColors": 6,
+    "createdAt": "2020-12-26T10:46:59.069Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fe714ac28739278720ccca4",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/carpet-rose-palette-example-by-groxguy-5fe714.png",
+            "creator": true,
+            "description": "",
+            "title": "Carpet Rose Palette Example by Groxguy",
+            "slug": "carpet-rose-palette-example-by-groxguy",
+            "publishedAt": "2020-12-26T18:55:00.010Z",
+            "user": {
+                "name": "Groxguy",
+                "slug": "groxguy"
+            },
+            "parent": "5fe714a328739278720ccca1",
+            "createdAt": "2020-12-26T10:47:08.709Z",
+            "updatedAt": "2020-12-26T18:55:00.010Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "3b392a",
+        "655d4a",
+        "6f4143",
+        "a46a66",
+        "a4825d",
+        "d6baa5"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5fe714a328739278720ccca1",
+        "type": "palettes",
+        "count": 62,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

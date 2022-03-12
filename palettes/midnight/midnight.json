@@ -1,0 +1,49 @@
+{
+    "_id": "6137b63ac642ad3491e51148",
+    "tags": [
+        "midnight"
+    ],
+    "colors": [
+        "ff1714",
+        "b91740",
+        "69173d",
+        "37173d",
+        "05173d"
+    ],
+    "downloads": "137",
+    "featured": false,
+    "likes": 12,
+    "comments": 0,
+    "slug": "midnight",
+    "publishedAt": "2021-10-05T14:45:00.043Z",
+    "user": {
+        "name": "Razor",
+        "slug": "mason-mirabile"
+    },
+    "title": "Midnight ",
+    "hashtag": "midnight",
+    "description": "midnight\u00a0",
+    "creator": true,
+    "numberOfColors": 5,
+    "createdAt": "2021-09-07T18:58:02.233Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ff1714",
+        "b91740",
+        "69173d",
+        "37173d",
+        "05173d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "6137b63ac642ad3491e51148",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

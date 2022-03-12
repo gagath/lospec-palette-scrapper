@@ -1,0 +1,76 @@
+{
+    "_id": "600c96c21444d402ead672a4",
+    "tags": [],
+    "colors": [
+        "000000",
+        "1f246a",
+        "8a1181",
+        "d14444",
+        "2ca53e",
+        "68cbcb",
+        "e3c72d",
+        "ffffff"
+    ],
+    "downloads": "526",
+    "featured": false,
+    "likes": 52,
+    "comments": 4,
+    "title": "Argeebey 8",
+    "hashtag": "argeebey8",
+    "description": "A 3-bit RGB palette, available now from all good dungeons.",
+    "creator": true,
+    "slug": "argeebey-8",
+    "publishedAt": "2021-01-31T12:25:00.021Z",
+    "user": {
+        "name": "GooGroker",
+        "slug": "googroker"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2021-01-23T21:36:02.674Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "600c972f1444d402ead672a7",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/argeebey-8-palette-example-by-googroker-600c97.png",
+            "creator": true,
+            "description": "",
+            "title": "Argeebey 8 Palette Example by GooGroker",
+            "slug": "argeebey-8-palette-example-by-googroker",
+            "publishedAt": "2021-01-23T21:50:00.013Z",
+            "user": {
+                "name": "GooGroker",
+                "slug": "googroker"
+            },
+            "parent": "600c96c21444d402ead672a4",
+            "createdAt": "2021-01-23T21:37:51.852Z",
+            "updatedAt": "2021-01-23T21:50:00.013Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "1f246a",
+        "8a1181",
+        "d14444",
+        "2ca53e",
+        "68cbcb",
+        "e3c72d",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "600c96c21444d402ead672a4",
+        "type": "palettes",
+        "count": 52,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

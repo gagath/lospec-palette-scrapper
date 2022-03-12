@@ -1,0 +1,64 @@
+{
+    "_id": "601886281015b54f8f997989",
+    "tags": [],
+    "colors": [
+        "c7f0d8",
+        "43523d"
+    ],
+    "downloads": "143",
+    "featured": false,
+    "likes": 14,
+    "comments": 0,
+    "title": "Nokia 3310",
+    "hashtag": "nokia3310",
+    "description": "Nokia 3310 palette.",
+    "creator": false,
+    "slug": "nokia-3310",
+    "publishedAt": "2021-02-16T02:40:00.028Z",
+    "user": {
+        "name": "Marcos Padilha",
+        "slug": "marcos-padilha"
+    },
+    "numberOfColors": 2,
+    "createdAt": "2021-02-01T22:52:24.074Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "606e7315b81b9874a979ce2e",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Nokia 3310 Palette Example by Casei Solus",
+            "slug": "nokia-3310-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-08T16:05:00.030Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "601886281015b54f8f997989",
+            "image": "palette-examples/nokia-3310-palette-example-by-casei-solus-606e73.png",
+            "creator": true,
+            "description": "A Nokia phone.",
+            "createdAt": "2021-04-08T03:05:57.201Z",
+            "updatedAt": "2021-04-08T16:05:00.030Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A Nokia phone."
+        }
+    ],
+    "colorsArray": [
+        "c7f0d8",
+        "43523d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "601886281015b54f8f997989",
+        "type": "palettes",
+        "count": 14,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

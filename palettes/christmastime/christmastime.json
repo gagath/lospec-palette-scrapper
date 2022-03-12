@@ -1,0 +1,54 @@
+{
+    "_id": "5fc073f5c27998246406e4bb",
+    "tags": [
+        "red",
+        " green",
+        " white",
+        " christmas"
+    ],
+    "colors": [
+        "910000",
+        "d24b52",
+        "efb7a9",
+        "ffffff",
+        "46d26c",
+        "006a3c"
+    ],
+    "downloads": "97",
+    "featured": false,
+    "likes": 8,
+    "comments": 0,
+    "title": "Christmas Time",
+    "hashtag": "christmastime",
+    "description": "A festive palette to bring you cheer!",
+    "creator": true,
+    "slug": "christmas-time",
+    "publishedAt": "2020-12-08T13:45:00.036Z",
+    "user": {
+        "name": "dots!",
+        "slug": "dotsandpans"
+    },
+    "numberOfColors": 6,
+    "createdAt": "2020-11-27T03:35:17.032Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "910000",
+        "d24b52",
+        "efb7a9",
+        "ffffff",
+        "46d26c",
+        "006a3c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5fc073f5c27998246406e4bb",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

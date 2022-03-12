@@ -1,0 +1,50 @@
+{
+    "_id": "5ccdb3c4763a4a5e61845fa8",
+    "createdAt": "2019-05-04T15:46:12.530Z",
+    "slug": "lightgreen",
+    "description": "Part of the <a target=\"_blank\" href=\"https://lospec.com/palette-list/tag/wildleoknightgameboy\">WildLeoKnight Gameboy Palettes Set</a>",
+    "colors": [
+        "f4fbd0",
+        "68cf68",
+        "1e9178",
+        "05241f"
+    ],
+    "featured": false,
+    "tags": [
+        "artist",
+        "wildleoknight",
+        "gameboy",
+        "wildleoknightgameboy"
+    ],
+    "downloads": "675",
+    "numberOfColors": 4,
+    "likes": 28,
+    "comments": 0,
+    "creator": true,
+    "hashtag": "lightgreen",
+    "title": "LightGreen",
+    "user": {
+        "name": "WildLeoKnight",
+        "slug": "wildleoknight"
+    },
+    "publishedAt": "2019-05-04T15:46:12.530Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "f4fbd0",
+        "68cf68",
+        "1e9178",
+        "05241f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5ccdb3c4763a4a5e61845fa8",
+        "type": "palettes",
+        "count": 28,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

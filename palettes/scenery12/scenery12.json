@@ -1,0 +1,86 @@
+{
+    "_id": "60265a15ccb7233f9c061e85",
+    "tags": [
+        "versatile"
+    ],
+    "colors": [
+        "462321",
+        "6b291d",
+        "b8471a",
+        "ea7d2a",
+        "ffb732",
+        "ffda45",
+        "fcf760",
+        "8bd155",
+        "3e9f49",
+        "237350",
+        "245756",
+        "1b2e3d"
+    ],
+    "downloads": "452",
+    "featured": false,
+    "likes": 31,
+    "comments": 6,
+    "title": "Scenery12",
+    "hashtag": "scenery12",
+    "description": "enjoy xD",
+    "creator": true,
+    "slug": "scenery12",
+    "publishedAt": "2021-02-20T08:40:00.016Z",
+    "user": {
+        "name": "Joe",
+        "slug": "joe1"
+    },
+    "numberOfColors": 12,
+    "createdAt": "2021-02-12T10:36:05.429Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6026699f93fe4751b3f39602",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/scenery12-palette-example-by-joe-602669.png",
+            "creator": true,
+            "description": "",
+            "title": "Scenery12 Palette Example by Joe",
+            "slug": "scenery12-palette-example-by-joe",
+            "publishedAt": "2021-02-13T18:05:00.019Z",
+            "user": {
+                "name": "Joe",
+                "slug": "joe1"
+            },
+            "parent": "60265a15ccb7233f9c061e85",
+            "createdAt": "2021-02-12T11:42:23.517Z",
+            "updatedAt": "2021-02-13T18:05:00.020Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "462321",
+        "6b291d",
+        "b8471a",
+        "ea7d2a",
+        "ffb732",
+        "ffda45",
+        "fcf760",
+        "8bd155",
+        "3e9f49",
+        "237350",
+        "245756",
+        "1b2e3d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "60265a15ccb7233f9c061e85",
+        "type": "palettes",
+        "count": 31,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

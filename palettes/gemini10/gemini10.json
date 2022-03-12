@@ -1,0 +1,61 @@
+{
+    "_id": "5e91b00697b66f3b003883a8",
+    "title": "Gemini10",
+    "hashtag": "gemini10",
+    "description": "Toned down palette with high contrast.",
+    "creator": true,
+    "colors": [
+        "4c3052",
+        "778aa6",
+        "ffffff",
+        "d4c957",
+        "3e9c3e",
+        "1f585c",
+        "141a54",
+        "000000",
+        "660000",
+        "9c5106"
+    ],
+    "slug": "gemini10",
+    "user": {
+        "name": "Sabaku\ud83c\udfa9",
+        "slug": "sabbitabbi"
+    },
+    "numberOfColors": 10,
+    "publishedAt": "2020-04-11T21:10:55.859Z",
+    "createdAt": "2020-04-11T11:54:46.927Z",
+    "comments": 0,
+    "likes": 9,
+    "featured": false,
+    "downloads": "80",
+    "tags": [
+        "sabaku",
+        "artist",
+        "subdued"
+    ],
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "4c3052",
+        "778aa6",
+        "ffffff",
+        "d4c957",
+        "3e9c3e",
+        "1f585c",
+        "141a54",
+        "000000",
+        "660000",
+        "9c5106"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5e91b00697b66f3b003883a8",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

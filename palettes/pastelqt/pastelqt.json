@@ -1,0 +1,78 @@
+{
+    "_id": "6087deea2f53d829de2d8773",
+    "tags": [
+        "pastel",
+        "cute",
+        "polyphrog"
+    ],
+    "colors": [
+        "cb8175",
+        "e2a97e",
+        "f0cf8e",
+        "f6edcd",
+        "a8c8a6",
+        "6d8d8a",
+        "655057"
+    ],
+    "downloads": "2,259",
+    "featured": false,
+    "likes": 183,
+    "comments": 11,
+    "slug": "pastel-qt",
+    "publishedAt": "2021-04-27T15:50:00.034Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "pastel qt",
+    "hashtag": "pastelqt",
+    "description": "",
+    "creator": false,
+    "createdAt": "2021-04-27T09:52:42.534Z",
+    "numberOfColors": 7,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6087df072f53d829de2d8775",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "pastel qt Palette Example by polyphorge",
+            "slug": "pastel-qt-palette-example-by-polyphorge",
+            "publishedAt": "2021-04-27T15:50:00.017Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "6087deea2f53d829de2d8773",
+            "image": "palette-examples/pastel-qt-palette-example-by-polyphorge-6087df.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-04-27T09:53:11.696Z",
+            "updatedAt": "2021-04-27T15:50:00.017Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "cb8175",
+        "e2a97e",
+        "f0cf8e",
+        "f6edcd",
+        "a8c8a6",
+        "6d8d8a",
+        "655057"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "6087deea2f53d829de2d8773",
+        "type": "palettes",
+        "count": 183,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

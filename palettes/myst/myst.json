@@ -1,0 +1,68 @@
+{
+    "_id": "6011f5094310c2050eb14d9f",
+    "tags": [],
+    "colors": [
+        "303236",
+        "6a7173",
+        "4ba2ad",
+        "bcd1d1"
+    ],
+    "downloads": "168",
+    "featured": false,
+    "likes": 8,
+    "comments": 0,
+    "title": "Myst 4",
+    "hashtag": "myst",
+    "description": "",
+    "creator": true,
+    "slug": "myst-4",
+    "publishedAt": "2021-02-02T00:25:00.022Z",
+    "user": {
+        "name": "Sk3ll Sk3ll",
+        "slug": "sk3ll2"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-01-27T23:19:37.757Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607e9394f9d2ea407c993d03",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Myst 4 Palette Example by Casei Solus",
+            "slug": "myst-4-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-21T16:25:00.026Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "6011f5094310c2050eb14d9f",
+            "image": "palette-examples/myst-4-palette-example-by-casei-solus-607e93.png",
+            "creator": true,
+            "description": "Some mist.",
+            "createdAt": "2021-04-20T08:40:52.747Z",
+            "updatedAt": "2021-04-21T16:25:00.027Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Some mist."
+        }
+    ],
+    "colorsArray": [
+        "303236",
+        "6a7173",
+        "4ba2ad",
+        "bcd1d1"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6011f5094310c2050eb14d9f",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

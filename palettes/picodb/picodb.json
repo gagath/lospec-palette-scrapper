@@ -1,0 +1,98 @@
+{
+    "_id": "5f067f26b3ba1152fbb0d06f",
+    "tags": [
+        "artist",
+        "pico8",
+        "dawnbringer",
+        "pureasbestos",
+        "hybrid"
+    ],
+    "colors": [
+        "120919",
+        "1b1f4b",
+        "592942",
+        "106836",
+        "854a2f",
+        "4d4b44",
+        "a4b2bf",
+        "deeed6",
+        "d04648",
+        "ed8f3b",
+        "ebd951",
+        "61ad36",
+        "5190c8",
+        "776e87",
+        "e384a2",
+        "e5bba7"
+    ],
+    "downloads": "400",
+    "featured": false,
+    "likes": 29,
+    "comments": 0,
+    "title": "PICO-DB",
+    "hashtag": "picodb",
+    "description": "Follows the structure of <a href=\"https://lospec.com/palette-list/pico-8\" target=\"_blank\">PICO-8</a>, but in the style of <a href=\"https://lospec.com/palette-list/dawnbringer-16\" target=\"_blank\">Dawnbringer 16</a>. Intended to be usable as a drop-in replacement for the PICO-8 palette. ",
+    "creator": true,
+    "slug": "pico-db",
+    "publishedAt": "2020-07-09T18:50:00.014Z",
+    "user": {
+        "name": "PureAsbestos",
+        "slug": "pureasbestos"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-07-09T02:21:26.461Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60cfe944a7eedf6ca123562c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "PICO-DB Palette Example by PureAsbestos",
+            "slug": "pico-db-palette-example-by-pureasbestos",
+            "publishedAt": "2021-07-22T19:45:00.029Z",
+            "user": {
+                "name": "PureAsbestos",
+                "slug": "pureasbestos"
+            },
+            "parent": "5f067f26b3ba1152fbb0d06f",
+            "image": "palette-examples/pico-db-palette-example-by-pureasbestos-60cfe9.png",
+            "creator": false,
+            "description": "Same example used for Pico-8 palette",
+            "createdAt": "2021-06-21T01:20:04.284Z",
+            "updatedAt": "2021-07-22T19:45:00.029Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Same example used for Pico-8 palette"
+        }
+    ],
+    "colorsArray": [
+        "120919",
+        "1b1f4b",
+        "592942",
+        "106836",
+        "854a2f",
+        "4d4b44",
+        "a4b2bf",
+        "deeed6",
+        "d04648",
+        "ed8f3b",
+        "ebd951",
+        "61ad36",
+        "5190c8",
+        "776e87",
+        "e384a2",
+        "e5bba7"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5f067f26b3ba1152fbb0d06f",
+        "type": "palettes",
+        "count": 29,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

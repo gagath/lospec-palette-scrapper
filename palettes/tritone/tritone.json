@@ -1,0 +1,45 @@
+{
+    "_id": "617bf7b92128b26f9c16f4fe",
+    "tags": [
+        "music"
+    ],
+    "colors": [
+        "1f1111",
+        "b3acac",
+        "b86161"
+    ],
+    "downloads": "59",
+    "featured": false,
+    "likes": 4,
+    "comments": 1,
+    "slug": "tritone",
+    "publishedAt": "2021-11-04T07:00:00.052Z",
+    "user": {
+        "name": "Skeleton_Cat",
+        "slug": "skeleton-cat"
+    },
+    "title": "Tritone",
+    "hashtag": "tritone",
+    "description": "The Devils Interval",
+    "creator": true,
+    "numberOfColors": 3,
+    "createdAt": "2021-10-29T13:31:37.296Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "1f1111",
+        "b3acac",
+        "b86161"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 33.333333333333336,
+    "height": 32,
+    "likebutton": {
+        "content": "617bf7b92128b26f9c16f4fe",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

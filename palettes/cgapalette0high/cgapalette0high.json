@@ -1,0 +1,62 @@
+{
+    "_id": "58e2da6861e9e662184cf352",
+    "createdAt": "2017-04-03T23:27:36.940Z",
+    "slug": "cga-palette-0-high",
+    "description": "One of the palettes available in the standard mode on the <a href=\"https://en.wikipedia.org/wiki/Color_Graphics_Adapter\">CGA</a>. The black can be replaced by any of the other colors in the full CGA palette.",
+    "colors": [
+        "000000",
+        "55ff55",
+        "ff5555",
+        "ffff55"
+    ],
+    "tags": [
+        "hardware",
+        "computer",
+        "cga"
+    ],
+    "downloads": "1,046",
+    "numberOfColors": 4,
+    "likes": 43,
+    "comments": 0,
+    "hashtag": "cgapalette0high",
+    "title": "CGA Palette 0 (High)",
+    "publishedAt": "2017-04-03T23:27:36.940Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "58ebd1c10ccc891b2bbe384c",
+            "description": "<a href=\"http://pixeljoint.com/pixelart/65805.htm\">Warcraft CGA</a> by <a href=\"http://pixeljoint.com/p/17621.htm\">Jinn</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.039Z",
+            "creator": false,
+            "image": "palette-examples/cga-palette-0-high-palette-example-warcraft-cga-by-jinn-58ebd1.png",
+            "likes": 0,
+            "parent": "58e2da6861e9e662184cf352",
+            "slug": "cga-palette-0-high-palette-example-warcraft-cga-by-jinn",
+            "title": "cga palette 0 high palette example warcraft cga by jinn",
+            "updatedAt": "2020-07-31T03:56:11.039Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Warcraft CGA by Jinn"
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "55ff55",
+        "ff5555",
+        "ffff55"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "58e2da6861e9e662184cf352",
+        "type": "palettes",
+        "count": 43,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,73 @@
+{
+    "_id": "61fef2948f08cf6d0728df16",
+    "tags": [
+        "earthy",
+        "pinks",
+        "4",
+        "gameboy"
+    ],
+    "colors": [
+        "4c263d",
+        "665452",
+        "b29c98",
+        "ffeae6"
+    ],
+    "downloads": "208",
+    "featured": false,
+    "likes": 21,
+    "comments": 0,
+    "slug": "b-l-u-s-h-r-o-o-m",
+    "publishedAt": "2022-02-08T07:35:00.047Z",
+    "user": {
+        "name": "RABBITKING",
+        "slug": "rabbitking"
+    },
+    "title": "B L U S H R O O M",
+    "hashtag": "blushroom",
+    "description": "A night palette for bloodshot bedroom eyes.",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2022-02-05T21:56:36.053Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61ff53fa395a5934e487a9b8",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "B L U S H R O O M Palette Example by RABBITKING",
+            "slug": "b-l-u-s-h-r-o-o-m-palette-example-by-rabbitkingz2gmno",
+            "publishedAt": "2022-02-09T18:15:00.029Z",
+            "user": {
+                "name": "RABBITKING",
+                "slug": "rabbitking"
+            },
+            "parent": "61fef2948f08cf6d0728df16",
+            "image": "palette-examples/b-l-u-s-h-r-o-o-m-palette-example-by-rabbitkingz2gmno.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-02-06T04:52:10.391Z",
+            "updatedAt": "2022-02-09T18:15:00.030Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "4c263d",
+        "665452",
+        "b29c98",
+        "ffeae6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61fef2948f08cf6d0728df16",
+        "type": "palettes",
+        "count": 21,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,56 @@
+{
+    "_id": "5ae5cf38dfcc7e58c8d5f19c",
+    "createdAt": "2018-04-29T13:57:12.162Z",
+    "slug": "endesga-8",
+    "description": "",
+    "colors": [
+        "fdfdf8",
+        "d32734",
+        "da7d22",
+        "e6da29",
+        "28c641",
+        "2d93dd",
+        "7b53ad",
+        "1b1c33"
+    ],
+    "tags": [
+        "artist",
+        "endesga"
+    ],
+    "downloads": "973",
+    "numberOfColors": 8,
+    "featured": false,
+    "likes": 28,
+    "comments": 0,
+    "creator": true,
+    "hashtag": "edg8",
+    "title": "Endesga 8",
+    "user": {
+        "name": "ENDESGA",
+        "slug": "endesga"
+    },
+    "publishedAt": "2018-04-29T13:57:12.162Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "fdfdf8",
+        "d32734",
+        "da7d22",
+        "e6da29",
+        "28c641",
+        "2d93dd",
+        "7b53ad",
+        "1b1c33"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5ae5cf38dfcc7e58c8d5f19c",
+        "type": "palettes",
+        "count": 28,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

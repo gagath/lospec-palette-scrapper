@@ -1,0 +1,75 @@
+{
+    "_id": "61549fc08c27cc352f167568",
+    "tags": [
+        "artist",
+        "gb",
+        "gameboy",
+        "thest1076",
+        "aqua",
+        "blue"
+    ],
+    "colors": [
+        "141433",
+        "141f66",
+        "244ab3",
+        "668fcc"
+    ],
+    "downloads": "120",
+    "featured": false,
+    "likes": 8,
+    "comments": 0,
+    "slug": "st-gameboy-aqua",
+    "publishedAt": "2021-10-13T05:45:00.035Z",
+    "user": {
+        "name": "Skiller Thomson",
+        "slug": "thest1076"
+    },
+    "title": "ST GameBoy Aqua",
+    "hashtag": "stgameboyaqua",
+    "description": "ST GameBoy, but aqua color edition.",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-09-29T17:17:52.802Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6154b36a762b2a40152f9823",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "ST-GameBoy-Aqua Palette Example by Skiller Thomson",
+            "slug": "st-gameboy-aqua-palette-example-by-skiller-thomson",
+            "publishedAt": "2021-09-29T23:20:00.033Z",
+            "user": {
+                "name": "Skiller Thomson",
+                "slug": "thest1076"
+            },
+            "parent": "61549fc08c27cc352f167568",
+            "image": "palette-examples/st-gameboy-aqua-palette-example-by-skiller-thomson-6154b3.png",
+            "creator": true,
+            "description": "Just a my example, and no more... Wh-What are you doing? Man? Go back!!",
+            "createdAt": "2021-09-29T18:41:46.463Z",
+            "updatedAt": "2021-09-29T23:20:00.033Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Just a my example, and no more... Wh-What are you doing? Man? Go back!!"
+        }
+    ],
+    "colorsArray": [
+        "141433",
+        "141f66",
+        "244ab3",
+        "668fcc"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61549fc08c27cc352f167568",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

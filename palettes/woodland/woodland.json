@@ -1,0 +1,51 @@
+{
+    "_id": "5fdd8d59998bf0170a55e9f1",
+    "tags": [
+        "5",
+        "colors",
+        "forest"
+    ],
+    "colors": [
+        "4e1826",
+        "6b3e3f",
+        "8b8571",
+        "b8b98a",
+        "f6ebc3"
+    ],
+    "downloads": "188",
+    "featured": false,
+    "likes": 18,
+    "comments": 1,
+    "title": "Woodland 5",
+    "hashtag": "woodland",
+    "description": "A small palette I made!<img class=\"emoji p16\" src=\"/emoji/lospec-discord/laughing.png\" />\u00a0",
+    "creator": true,
+    "slug": "woodland-5",
+    "publishedAt": "2020-12-30T12:50:00.022Z",
+    "user": {
+        "name": "Orbitron",
+        "slug": "orbitron"
+    },
+    "numberOfColors": 5,
+    "createdAt": "2020-12-19T05:19:21.712Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "4e1826",
+        "6b3e3f",
+        "8b8571",
+        "b8b98a",
+        "f6ebc3"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5fdd8d59998bf0170a55e9f1",
+        "type": "palettes",
+        "count": 18,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

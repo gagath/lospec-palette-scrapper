@@ -1,0 +1,92 @@
+{
+    "_id": "6115f0c32ec74230a422bfe0",
+    "tags": [
+        "neon",
+        "technical",
+        "jamestdg",
+        "artist",
+        "retro"
+    ],
+    "colors": [
+        "0b0600",
+        "1c2841",
+        "0b6b9f",
+        "586090",
+        "a9bed9",
+        "ffffff",
+        "4dc462",
+        "4ee6b2",
+        "f13441",
+        "f49c57",
+        "f7e918",
+        "dd31e6",
+        "eb9bf0"
+    ],
+    "downloads": "105",
+    "featured": false,
+    "likes": 7,
+    "comments": 0,
+    "slug": "derezzed",
+    "publishedAt": "2021-09-03T18:25:00.041Z",
+    "user": {
+        "name": "JamesTDG",
+        "slug": "tdgjames"
+    },
+    "title": "Derezzed",
+    "hashtag": "derezzed",
+    "description": "A pseudo-technical palette inspired by the Daft Punk music video\u00a0Derezzed. Good for using in neon-style pieces!",
+    "creator": true,
+    "numberOfColors": 13,
+    "createdAt": "2021-08-13T04:10:43.804Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6115fc484792113b6db43f6a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Derezzed Palette Example by JamesTDG",
+            "slug": "derezzed-palette-example-by-jamestdg",
+            "publishedAt": "2021-08-22T21:44:46.958Z",
+            "user": {
+                "name": "JamesTDG",
+                "slug": "tdgjames"
+            },
+            "parent": "6115f0c32ec74230a422bfe0",
+            "image": "palette-examples/derezzed-palette-example-by-jamestdg-6115fc.png",
+            "creator": true,
+            "description": "An example for Derezzed meant to imply the neon aesthetic.",
+            "createdAt": "2021-08-13T04:59:52.232Z",
+            "updatedAt": "2021-08-22T21:44:46.958Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "An example for Derezzed meant to imply the neon aesthetic."
+        }
+    ],
+    "colorsArray": [
+        "0b0600",
+        "1c2841",
+        "0b6b9f",
+        "586090",
+        "a9bed9",
+        "ffffff",
+        "4dc462",
+        "4ee6b2",
+        "f13441",
+        "f49c57",
+        "f7e918",
+        "dd31e6",
+        "eb9bf0"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "6115f0c32ec74230a422bfe0",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

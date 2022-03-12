@@ -1,0 +1,106 @@
+{
+    "_id": "5efd6c99a3cb1620f99fe5ea",
+    "tags": [
+        "deepfry"
+    ],
+    "colors": [
+        "140404",
+        "bf100d",
+        "ff0000",
+        "2e0df4",
+        "0efff9",
+        "00f62b",
+        "abfbbe",
+        "e401ff",
+        "ffb3ff",
+        "fff622",
+        "edf2ee"
+    ],
+    "downloads": "85",
+    "featured": false,
+    "likes": 11,
+    "comments": 4,
+    "title": "Deepfry",
+    "hashtag": "deepfry",
+    "description": "Deepfry meme palette.",
+    "creator": true,
+    "slug": "deepfry",
+    "publishedAt": "2020-07-08T12:50:00.012Z",
+    "user": {
+        "name": "Grunion",
+        "slug": "kinggrunion"
+    },
+    "numberOfColors": 11,
+    "createdAt": "2020-07-02T05:11:53.672Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f80c103c4373a11f295a2fc",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/deepfry-palette-example-by-grinen-5f80c1.png",
+            "creator": true,
+            "description": "",
+            "title": "Deepfry Palette Example by GRINEN",
+            "slug": "deepfry-palette-example-by-grinen",
+            "publishedAt": "2020-10-12T16:30:00.037Z",
+            "user": {
+                "name": "Grunion",
+                "slug": "kinggrunion"
+            },
+            "parent": "5efd6c99a3cb1620f99fe5ea",
+            "createdAt": "2020-10-09T19:58:59.206Z",
+            "updatedAt": "2020-10-12T16:30:00.038Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "5f85e8e8618725484a4e38e6",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/deepfry-palette-example-by-grinen-2-5f85e8.png",
+            "creator": true,
+            "description": "Created by: Grunion, Glacier, Sk3ll, Isa",
+            "title": "Deepfry Palette Example",
+            "slug": "deepfry-palette-example-by-grinen-2",
+            "publishedAt": "2020-10-14T16:20:00.024Z",
+            "user": {
+                "name": "Grunion",
+                "slug": "kinggrunion"
+            },
+            "parent": "5efd6c99a3cb1620f99fe5ea",
+            "createdAt": "2020-10-13T17:50:32.493Z",
+            "updatedAt": "2020-10-14T21:02:57.838Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": "Created by: Grunion, Glacier, Sk3ll, Isa"
+        }
+    ],
+    "colorsArray": [
+        "140404",
+        "bf100d",
+        "ff0000",
+        "2e0df4",
+        "0efff9",
+        "00f62b",
+        "abfbbe",
+        "e401ff",
+        "ffb3ff",
+        "fff622",
+        "edf2ee"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5efd6c99a3cb1620f99fe5ea",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

@@ -1,0 +1,53 @@
+{
+    "_id": "6196a05a45f0e52ee31828a9",
+    "tags": [],
+    "colors": [
+        "252945",
+        "7d309c",
+        "7994d4",
+        "d9d9cc",
+        "515369",
+        "848fa1",
+        "d4996a",
+        "e06767"
+    ],
+    "downloads": "74",
+    "featured": false,
+    "likes": 9,
+    "comments": 2,
+    "slug": "the-purrfect-crime-gamejam",
+    "publishedAt": "2021-11-22T14:35:00.034Z",
+    "user": {
+        "name": "WestyDesign",
+        "slug": "squidgeneral10"
+    },
+    "title": "'The Purrfect Crime' Gamejam",
+    "hashtag": "crownedcrow",
+    "description": "The 8 colours that we used to make 'The Purrfect Crime' during Palette Jam 2.",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-11-18T18:50:02.544Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "252945",
+        "7d309c",
+        "7994d4",
+        "d9d9cc",
+        "515369",
+        "848fa1",
+        "d4996a",
+        "e06767"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6196a05a45f0e52ee31828a9",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

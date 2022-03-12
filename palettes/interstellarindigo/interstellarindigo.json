@@ -1,0 +1,49 @@
+{
+    "_id": "61d0e2adc9581447411db7d3",
+    "tags": [
+        "monoramp"
+    ],
+    "colors": [
+        "2b0921",
+        "3b0432",
+        "551a63",
+        "674099",
+        "86a6c7"
+    ],
+    "downloads": "111",
+    "featured": false,
+    "likes": 9,
+    "comments": 2,
+    "slug": "interstellar-indigo",
+    "publishedAt": "2022-01-17T13:55:00.046Z",
+    "user": {
+        "name": "Brennan Patrick",
+        "slug": "brennan-patrick"
+    },
+    "title": "Interstellar Indigo",
+    "hashtag": "interstellarindigo",
+    "description": "Out of this world Purple/Indigo palette",
+    "creator": true,
+    "numberOfColors": 5,
+    "createdAt": "2022-01-01T23:24:29.407Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "2b0921",
+        "3b0432",
+        "551a63",
+        "674099",
+        "86a6c7"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "61d0e2adc9581447411db7d3",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

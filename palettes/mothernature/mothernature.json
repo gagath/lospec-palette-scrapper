@@ -1,0 +1,63 @@
+{
+    "_id": "613681de55c9fd17b72ecbfc",
+    "tags": [
+        "nature",
+        "mountain",
+        "mountains"
+    ],
+    "colors": [
+        "6a8a99",
+        "84ada7",
+        "afcfc2",
+        "637f67",
+        "4e6e60",
+        "456356",
+        "2d434d",
+        "2b3e47",
+        "364d57",
+        "81967e",
+        "385450"
+    ],
+    "downloads": "212",
+    "featured": false,
+    "likes": 7,
+    "comments": 0,
+    "slug": "mother-nature",
+    "publishedAt": "2021-10-04T02:45:00.055Z",
+    "user": {
+        "name": "Razor",
+        "slug": "mason-mirabile"
+    },
+    "title": "Mother nature",
+    "hashtag": "mothernature",
+    "description": "https://www.pixilart.com/art/mountain-8c70d46a340b940. \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0A collection of soft greens and blues. \u00a0",
+    "creator": true,
+    "numberOfColors": 11,
+    "createdAt": "2021-09-06T21:02:22.489Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "6a8a99",
+        "84ada7",
+        "afcfc2",
+        "637f67",
+        "4e6e60",
+        "456356",
+        "2d434d",
+        "2b3e47",
+        "364d57",
+        "81967e",
+        "385450"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "613681de55c9fd17b72ecbfc",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

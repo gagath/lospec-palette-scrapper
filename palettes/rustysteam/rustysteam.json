@@ -1,0 +1,70 @@
+{
+    "_id": "60323d14c5202c1249e5adae",
+    "tags": [
+        "gbc",
+        "rust",
+        "steampunk"
+    ],
+    "colors": [
+        "314e52",
+        "f2a154",
+        "d3d3d3"
+    ],
+    "downloads": "132",
+    "featured": false,
+    "likes": 13,
+    "comments": 0,
+    "title": "Rusty-Steam",
+    "hashtag": "rustysteam",
+    "description": "This is a small palette inspired by few colors I saw on\u00a0color-hunt.\u00a0I thought the colors had a steampunk aesthetic and would well with pixel-art. Feel free to use it how you want.",
+    "creator": true,
+    "slug": "rusty-steam",
+    "publishedAt": "2021-03-05T21:40:00.024Z",
+    "user": {
+        "name": "Sumedh Natu",
+        "slug": "sumedh-natu"
+    },
+    "numberOfColors": 3,
+    "createdAt": "2021-02-21T10:59:32.856Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607671e604e1942783973256",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Rusty-Steam Palette Example by Casei Solus",
+            "slug": "rusty-steam-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-17T00:25:00.018Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "60323d14c5202c1249e5adae",
+            "image": "palette-examples/rusty-steam-palette-example-by-casei-solus-607671.png",
+            "creator": true,
+            "description": "Cogs and gears.",
+            "createdAt": "2021-04-14T04:39:02.039Z",
+            "updatedAt": "2021-04-17T00:25:00.019Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Cogs and gears."
+        }
+    ],
+    "colorsArray": [
+        "314e52",
+        "f2a154",
+        "d3d3d3"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 33.333333333333336,
+    "height": 32,
+    "likebutton": {
+        "content": "60323d14c5202c1249e5adae",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

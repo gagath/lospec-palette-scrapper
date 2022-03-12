@@ -1,0 +1,69 @@
+{
+    "_id": "5b017f1fd5b01975cbbb0b4f",
+    "createdAt": "2018-05-20T13:58:55.543Z",
+    "slug": "haretro8",
+    "description": "Created by <a target=\"_blank\" href=\"https://twitter.com/haretroDev\">Haretro</a>, emphasizes on having soft yet bright colors. <a target=\"_blank\" href=\"https://haretro.itch.io/haretro8\">Source</a>.",
+    "colors": [
+        "ffe6d2",
+        "ffb400",
+        "32b4ff",
+        "0ac832",
+        "cc66cc",
+        "c73b32",
+        "995f3d",
+        "1e2832"
+    ],
+    "tags": [
+        "artist",
+        "haretro"
+    ],
+    "downloads": "204",
+    "numberOfColors": 8,
+    "comments": 0,
+    "hashtag": "haretro8",
+    "title": "haretro8",
+    "publishedAt": "2018-05-20T13:58:55.543Z",
+    "likes": 5,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5b017f32d5b01975cbbb0b50",
+            "description": "Palette usage example by Haretro.",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.104Z",
+            "creator": false,
+            "image": "palette-examples/haretro8-palette-example-palette-usage-example-by-haretro-5b017f.png",
+            "likes": 0,
+            "parent": "5b017f1fd5b01975cbbb0b4f",
+            "slug": "haretro8-palette-example-palette-usage-example-by-haretro",
+            "title": "haretro8 palette example palette usage example by haretro",
+            "updatedAt": "2020-07-31T03:56:11.104Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Haretro."
+        }
+    ],
+    "colorsArray": [
+        "ffe6d2",
+        "ffb400",
+        "32b4ff",
+        "0ac832",
+        "cc66cc",
+        "c73b32",
+        "995f3d",
+        "1e2832"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5b017f1fd5b01975cbbb0b4f",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

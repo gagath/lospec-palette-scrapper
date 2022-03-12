@@ -1,0 +1,131 @@
+{
+    "_id": "5ee04dd87931e73727165f11",
+    "tags": [
+        "cyan",
+        "cyan",
+        "5yan",
+        "blue",
+        "monochrome",
+        "hue shift",
+        "windfallapples",
+        "glacier",
+        "quilt",
+        "fydotiles",
+        "tiles",
+        "collab",
+        "midsaturation",
+        "monoramp",
+        "quilt",
+        "five"
+    ],
+    "colors": [
+        "050505",
+        "050555",
+        "055555",
+        "55a5a5",
+        "a5f5f5"
+    ],
+    "downloads": "539",
+    "featured": false,
+    "likes": 47,
+    "comments": 1,
+    "title": "5yan",
+    "hashtag": "5yan",
+    "description": "A five-colour, '5'-themed monochrome colour palette in blue for\u00a0<a href=\"https://fy.do/quilt/125\" target=\"_blank\">fydoTiles' 125th collaborative pixel art quilt!</a>\u00a0 Palette of the Day for February 17th, 2021.",
+    "creator": true,
+    "slug": "5yan",
+    "publishedAt": "2020-06-10T18:45:00.011Z",
+    "user": {
+        "name": "windfallapples (glacier)",
+        "slug": "windfallapples"
+    },
+    "numberOfColors": 5,
+    "createdAt": "2020-06-10T03:04:56.203Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f4d097b19badc09af3f6d00",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/5yan-palette-example-by-windfallapples-glacier-2-5f4d09.png",
+            "creator": false,
+            "description": "A few more fantastic tiles from the\u00a0<a href=\"https://fy.do/quilt/125\" target=\"_blank\"><i>What A Time To Be A Five!</i></a>\u00a0125th collaborative quilt extravaganza on fydoTiles! This sample features work by ChocoBoo, Sk3ll, Risky Biznu, and reverie!",
+            "title": "5yan Palette Example by windfallapples (glacier)",
+            "slug": "5yan-palette-example-by-windfallapples-glacier-2",
+            "publishedAt": "2020-08-31T15:35:00.014Z",
+            "user": {
+                "name": "windfallapples (glacier)",
+                "slug": "windfallapples"
+            },
+            "parent": "5ee04dd87931e73727165f11",
+            "createdAt": "2020-08-31T14:30:19.796Z",
+            "updatedAt": "2020-08-31T15:35:00.014Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A few more fantastic tiles from the\u00a0What A Time To Be A Five!\u00a0125th collaborative quilt extravaganza on fydoTiles! This sample features work by ChocoBoo, Sk3ll, Risky Biznu, and reverie!"
+        },
+        {
+            "_id": "5f4d285219badc09af3f6ecc",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/5yan-palette-example-by-windfallapples-glacier-3-5f4d28.png",
+            "creator": false,
+            "description": "But a few of the many exciting tiles from the\u00a0<a href=\"https://fy.do/quilt/125\" target=\"_blank\"><i>What A Time To Be A Five!</i></a>\u00a0125th collaborative quilt extravaganza on fydoTiles! \r\nThis sample features artwork by ButtbuttTheNobelButt, glacier, fydo, and Grunion!\r\n",
+            "title": "5yan Palette Example by windfallapples (glacier)",
+            "slug": "5yan-palette-example-by-windfallapples-glacier-3",
+            "publishedAt": "2020-09-01T17:30:00.041Z",
+            "user": {
+                "name": "windfallapples (glacier)",
+                "slug": "windfallapples"
+            },
+            "parent": "5ee04dd87931e73727165f11",
+            "createdAt": "2020-08-31T16:41:54.219Z",
+            "updatedAt": "2020-09-01T17:30:00.041Z",
+            "__v": 0,
+            "thumbnailOffset": 50,
+            "descriptionText": "But a few of the many exciting tiles from the\u00a0What A Time To Be A Five!\u00a0125th collaborative quilt extravaganza on fydoTiles! \r\nThis sample features artwork by ButtbuttTheNobelButt, glacier, fydo, and Grunion!\r\n"
+        },
+        {
+            "_id": "5f4d293c142d953531bee542",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/5yan-palette-example-by-windfallapples-glacier-4-5f4d29.png",
+            "creator": false,
+            "description": "A few more fantastic tiles from the\u00a0<a href=\"https://fy.do/quilt/125\" target=\"_blank\"><i>What A Time To Be A Five!</i></a>\u00a0125th collaborative quilt extravaganza on fydoTiles! \r\nThis sample features work by ChocoBoo, Sk3ll, Risky Biznu, and reverie!",
+            "title": "5yan Palette Example by windfallapples (glacier)",
+            "slug": "5yan-palette-example-by-windfallapples-glacier-4",
+            "publishedAt": "2020-09-01T17:35:00.010Z",
+            "user": {
+                "name": "windfallapples (glacier)",
+                "slug": "windfallapples"
+            },
+            "parent": "5ee04dd87931e73727165f11",
+            "createdAt": "2020-08-31T16:45:48.268Z",
+            "updatedAt": "2020-09-01T17:35:00.011Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": "A few more fantastic tiles from the\u00a0What A Time To Be A Five!\u00a0125th collaborative quilt extravaganza on fydoTiles! \r\nThis sample features work by ChocoBoo, Sk3ll, Risky Biznu, and reverie!"
+        }
+    ],
+    "colorsArray": [
+        "050505",
+        "050555",
+        "055555",
+        "55a5a5",
+        "a5f5f5"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5ee04dd87931e73727165f11",
+        "type": "palettes",
+        "count": 47,
+        "liked": 0
+    },
+    "thumbnailWidth": 33.333333333333336
+}

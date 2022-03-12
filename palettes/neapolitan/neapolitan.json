@@ -1,0 +1,56 @@
+{
+    "_id": "61f83d2c2418673dd72fac93",
+    "tags": [
+        "neapolitan",
+        "palette",
+        "warm",
+        "bright",
+        "pink",
+        "pop",
+        "magenta",
+        "vanilla",
+        "chocolate",
+        "strawberry"
+    ],
+    "colors": [
+        "ecdcbc",
+        "dc5cb4",
+        "744c5c",
+        "3c3c4c"
+    ],
+    "downloads": "75",
+    "featured": false,
+    "likes": 9,
+    "comments": 0,
+    "slug": "neapolitan",
+    "publishedAt": "2022-02-01T15:55:00.043Z",
+    "user": {
+        "name": "jediment",
+        "slug": "jediment"
+    },
+    "title": "Neapolitan",
+    "hashtag": "neapolitan",
+    "description": "A warm limited-colour palette anchored by a vibrant pink. High contrast can give images a pop-art feel.",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2022-01-31T19:49:00.888Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ecdcbc",
+        "dc5cb4",
+        "744c5c",
+        "3c3c4c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61f83d2c2418673dd72fac93",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

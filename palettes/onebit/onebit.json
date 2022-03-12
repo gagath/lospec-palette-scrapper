@@ -1,0 +1,67 @@
+{
+    "_id": "600fcb438f3f0246485682ba",
+    "tags": [
+        "ong",
+        " black"
+    ],
+    "colors": [
+        "151d24",
+        "ed8463"
+    ],
+    "downloads": "89",
+    "featured": false,
+    "likes": 10,
+    "comments": 0,
+    "title": "ongbit",
+    "hashtag": "onebit",
+    "description": "my colors yea<img class=\"emoji p16\" src=\"/emoji/shibmoji/cry.png\" />\u00a0",
+    "creator": true,
+    "slug": "ongbit",
+    "publishedAt": "2021-02-18T14:40:00.016Z",
+    "user": {
+        "name": "P0keePanda P",
+        "slug": "p0keepanda-p"
+    },
+    "numberOfColors": 2,
+    "createdAt": "2021-01-26T07:56:51.325Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60702c5ecfb8204304b3d0d3",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "ongbit Palette Example by Casei Solus",
+            "slug": "ongbit-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-09T14:30:00.044Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "600fcb438f3f0246485682ba",
+            "image": "palette-examples/ongbit-palette-example-by-casei-solus-60702c.png",
+            "creator": true,
+            "description": "A butterfly drinking from a flower.",
+            "createdAt": "2021-04-09T10:28:46.124Z",
+            "updatedAt": "2021-04-09T14:30:00.045Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A butterfly drinking from a flower."
+        }
+    ],
+    "colorsArray": [
+        "151d24",
+        "ed8463"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "600fcb438f3f0246485682ba",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

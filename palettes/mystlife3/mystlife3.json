@@ -1,0 +1,96 @@
+{
+    "_id": "5fccd5b0659e9e6c8623a08f",
+    "tags": [
+        "mystique",
+        " purple",
+        " blue",
+        " aqua",
+        " light",
+        " soft",
+        " magic"
+    ],
+    "colors": [
+        "502a45",
+        "816ea0",
+        "87bac5"
+    ],
+    "downloads": "317",
+    "featured": false,
+    "likes": 23,
+    "comments": 1,
+    "title": "Mystique life 3",
+    "hashtag": "mystlife3",
+    "description": "Inspired by a combination of two opposing forces found in my surroundings. The\u00a0 nightlife and its aqua-neon signs and magical energy that fills the night with their dance. This contrasts with the dark shade of purple, which to the church represents loss and sorrow. Together, this represents the life of a mystic, through its inspirational highs and oft-spectacular lows.\u00a0",
+    "creator": true,
+    "slug": "mystique-life-3",
+    "publishedAt": "2020-12-13T20:30:00.022Z",
+    "user": {
+        "name": "Cheeseismysoul",
+        "slug": "nomz-toes-420"
+    },
+    "numberOfColors": 3,
+    "createdAt": "2020-12-06T12:59:28.651Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fccde47659e9e6c8623a0f3",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/mystique-life-3-palette-example-by-cheeseismysoul-2-5fccde.png",
+            "creator": true,
+            "description": "Reductive and Minimalist representation of biblical events in left to right order",
+            "title": "Mystique life 3 Palette Example by Cheeseismysoul",
+            "slug": "mystique-life-3-palette-example-by-cheeseismysoul-2",
+            "publishedAt": "2020-12-11T19:55:00.014Z",
+            "user": {
+                "name": "Cheeseismysoul",
+                "slug": "nomz-toes-420"
+            },
+            "parent": "5fccd5b0659e9e6c8623a08f",
+            "createdAt": "2020-12-06T13:36:07.172Z",
+            "updatedAt": "2020-12-11T19:55:00.014Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Reductive and Minimalist representation of biblical events in left to right order"
+        },
+        {
+            "_id": "614fac188d4418318c351a37",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Mystique life 3 Palette Example by nkoder",
+            "slug": "mystique-life-3-palette-example-by-nkoder",
+            "publishedAt": "2021-09-27T20:25:00.012Z",
+            "user": {
+                "name": "Beetroot Paul",
+                "slug": "beetrootpaul"
+            },
+            "parent": "5fccd5b0659e9e6c8623a08f",
+            "image": "palette-examples/mystique-life-3-palette-example-by-nkoder-614fac.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-09-25T23:09:12.558Z",
+            "updatedAt": "2021-09-27T20:25:00.013Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "502a45",
+        "816ea0",
+        "87bac5"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 33.333333333333336,
+    "height": 32,
+    "likebutton": {
+        "content": "5fccd5b0659e9e6c8623a08f",
+        "type": "palettes",
+        "count": 23,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

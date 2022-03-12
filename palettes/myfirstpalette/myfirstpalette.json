@@ -1,0 +1,102 @@
+{
+    "_id": "60b883d211117656103835ac",
+    "tags": [
+        "bold",
+        "blue",
+        "orange",
+        "cyan",
+        "purple",
+        "cool",
+        "cold",
+        "16",
+        "lyn"
+    ],
+    "colors": [
+        "10539f",
+        "194576",
+        "102c4d",
+        "0d1b2b",
+        "9f4310",
+        "763619",
+        "4d2310",
+        "2b160d",
+        "109f9f",
+        "19766e",
+        "104d45",
+        "0d2b25",
+        "38109f",
+        "2f1976",
+        "21104d",
+        "140d2b"
+    ],
+    "downloads": "147",
+    "featured": false,
+    "likes": 8,
+    "comments": 0,
+    "slug": "boldsouls16",
+    "publishedAt": "2021-09-10T09:20:00.024Z",
+    "user": {
+        "name": "Lyn",
+        "slug": "lynwastaken"
+    },
+    "title": "BoldSouls16",
+    "hashtag": "myfirstpalette",
+    "description": "My first palette. Made up of three cold colors with an added brown orange, all with four shades each. I'm interested to see what can be made of this, and please give me feedback!",
+    "creator": true,
+    "createdAt": "2021-06-03T07:25:06.551Z",
+    "numberOfColors": 16,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60b893153153746a56706ebf",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "BoldSouls16 Palette Example by Lyn",
+            "slug": "boldsouls16-palette-example-by-lyn",
+            "publishedAt": "2021-08-22T21:44:57.738Z",
+            "user": {
+                "name": "Lyn",
+                "slug": "lynwastaken"
+            },
+            "parent": "60b883d211117656103835ac",
+            "image": "palette-examples/boldsouls16-palette-example-by-lyn-60b893.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-06-03T08:30:13.341Z",
+            "updatedAt": "2021-08-22T21:44:57.738Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "10539f",
+        "194576",
+        "102c4d",
+        "0d1b2b",
+        "9f4310",
+        "763619",
+        "4d2310",
+        "2b160d",
+        "109f9f",
+        "19766e",
+        "104d45",
+        "0d2b25",
+        "38109f",
+        "2f1976",
+        "21104d",
+        "140d2b"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60b883d211117656103835ac",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

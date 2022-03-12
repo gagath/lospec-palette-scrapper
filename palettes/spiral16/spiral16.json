@@ -1,0 +1,94 @@
+{
+    "_id": "607e1c3168bf7d3600426db2",
+    "tags": [
+        "linear"
+    ],
+    "colors": [
+        "000000",
+        "808080",
+        "ffffff",
+        "ffcc99",
+        "ff99cc",
+        "aa55ff",
+        "00aaff",
+        "00ff00",
+        "ffff00",
+        "ff8000",
+        "ff0000",
+        "aa0055",
+        "5500aa",
+        "0000ff",
+        "00aa55",
+        "663300"
+    ],
+    "downloads": "55",
+    "featured": false,
+    "likes": 5,
+    "comments": 2,
+    "slug": "spiral-16",
+    "publishedAt": "2021-05-03T21:45:00.026Z",
+    "user": {
+        "name": "A.J. Otero",
+        "slug": "aj-otero"
+    },
+    "title": "Spiral 16",
+    "hashtag": "spiral16",
+    "description": "Meant to be a master pallete for general use in video games.\u00a0 While it was inspired heavily by the palette of the Pico-8, I actually constructed this one by setting aside black, white, and 1 indermediate grey, then, in what can be seen as an idiosyncratic color ramp, drastically shifting the hues of the rest of the colors as I gradually changed the value, so that the hues go through two full \"cycles\" throughout.\u00a0 This should (hopefully) form a \"spiral\" in the RGB color space, hence the name.",
+    "creator": true,
+    "createdAt": "2021-04-20T00:11:29.188Z",
+    "numberOfColors": 16,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607f54129a7a1369656e7c13",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Spiral 16 Palette Example by A.J. Otero",
+            "slug": "spiral-16-palette-example-by-aj-otero",
+            "publishedAt": "2021-04-21T00:10:00.024Z",
+            "user": {
+                "name": "A.J. Otero",
+                "slug": "aj-otero"
+            },
+            "parent": "607e1c3168bf7d3600426db2",
+            "image": "palette-examples/spiral-16-palette-example-by-aj-otero-607f54.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-04-20T22:22:10.829Z",
+            "updatedAt": "2021-04-21T00:10:00.024Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "808080",
+        "ffffff",
+        "ffcc99",
+        "ff99cc",
+        "aa55ff",
+        "00aaff",
+        "00ff00",
+        "ffff00",
+        "ff8000",
+        "ff0000",
+        "aa0055",
+        "5500aa",
+        "0000ff",
+        "00aa55",
+        "663300"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "607e1c3168bf7d3600426db2",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

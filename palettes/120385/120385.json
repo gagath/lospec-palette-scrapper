@@ -1,0 +1,55 @@
+{
+    "_id": "5e5cf7adb473375ab30cf318",
+    "slug": "120385",
+    "description": "",
+    "colors": [
+        "e49a80",
+        "e4b884",
+        "e4d488",
+        "b4b884",
+        "849a78",
+        "5c7c68",
+        "849aac",
+        "4c547a",
+        "8e8897"
+    ],
+    "creator": true,
+    "hashtag": "120385",
+    "comments": 0,
+    "likes": 13,
+    "createdAt": "2020-03-02T12:10:21.726Z",
+    "featured": false,
+    "tags": [],
+    "downloads": "242",
+    "numberOfColors": 9,
+    "title": "120385",
+    "user": {
+        "name": "Lujain Hakmee",
+        "slug": "lujain-hakmee"
+    },
+    "publishedAt": "2020-03-25T18:10:17.780Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "e49a80",
+        "e4b884",
+        "e4d488",
+        "b4b884",
+        "849a78",
+        "5c7c68",
+        "849aac",
+        "4c547a",
+        "8e8897"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5e5cf7adb473375ab30cf318",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

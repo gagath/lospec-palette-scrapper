@@ -1,0 +1,56 @@
+{
+    "_id": "5ddcbe4ef057085ac2858ddf",
+    "slug": "molten",
+    "description": "",
+    "colors": [
+        "201727",
+        "261b2e",
+        "382d43",
+        "5f2f45",
+        "a02f40",
+        "fd724e"
+    ],
+    "creator": "1",
+    "hashtag": "molten12",
+    "comments": 5,
+    "likes": 93,
+    "createdAt": "2019-11-26T05:55:26.192Z",
+    "featured": false,
+    "tags": [
+        "hot",
+        "warm",
+        "red",
+        "lava",
+        "molten",
+        "monoramp"
+    ],
+    "downloads": "1,923",
+    "numberOfColors": 6,
+    "title": "Molten",
+    "user": {
+        "name": "Jimison3",
+        "slug": "jimison3"
+    },
+    "publishedAt": "2019-11-26T05:55:26.192Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "201727",
+        "261b2e",
+        "382d43",
+        "5f2f45",
+        "a02f40",
+        "fd724e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5ddcbe4ef057085ac2858ddf",
+        "type": "palettes",
+        "count": 93,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

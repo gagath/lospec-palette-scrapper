@@ -1,0 +1,68 @@
+{
+    "_id": "61681b467cc6783750ee19dc",
+    "tags": [
+        "1bit",
+        "calm",
+        "coffee"
+    ],
+    "colors": [
+        "211912",
+        "d9d9d9"
+    ],
+    "downloads": "119",
+    "featured": false,
+    "likes": 13,
+    "comments": 1,
+    "slug": "ys-coffe-calm",
+    "publishedAt": "2021-10-18T01:45:00.024Z",
+    "user": {
+        "name": "Yelta",
+        "slug": "yelta8"
+    },
+    "title": "Y's Coffe Calm",
+    "hashtag": "yscoffeecalm",
+    "description": "A clear, clean and calm palette for dark art with a hint of softness.",
+    "creator": true,
+    "numberOfColors": 2,
+    "createdAt": "2021-10-14T11:57:58.395Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61681ce67cc6783750ee1a05",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Y's Coffe Calm Palette Example by Yelta",
+            "slug": "ys-coffe-calm-palette-example-by-yelta",
+            "publishedAt": "2021-10-14T14:55:00.031Z",
+            "user": {
+                "name": "Yelta",
+                "slug": "yelta8"
+            },
+            "parent": "61681b467cc6783750ee19dc",
+            "image": "palette-examples/ys-coffe-calm-palette-example-by-yelta-61681c.png",
+            "creator": true,
+            "description": "Some of my artworks with the Coffe Calm palette applied to them.",
+            "createdAt": "2021-10-14T12:04:54.291Z",
+            "updatedAt": "2021-10-14T14:55:00.031Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Some of my artworks with the Coffe Calm palette applied to them."
+        }
+    ],
+    "colorsArray": [
+        "211912",
+        "d9d9d9"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "61681b467cc6783750ee19dc",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

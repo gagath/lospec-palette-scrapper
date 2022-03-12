@@ -1,0 +1,67 @@
+{
+    "_id": "5eab503ef062642763f0a446",
+    "tags": [
+        "alpha10",
+        " 10colors",
+        " unique",
+        " small",
+        " colorful",
+        " colors",
+        " simple",
+        " easy",
+        " aesthetic"
+    ],
+    "colors": [
+        "221d2e",
+        "708085",
+        "adc1c7",
+        "f0f0e4",
+        "385c42",
+        "94a664",
+        "4d6285",
+        "79a7b5",
+        "874d6e",
+        "bfa07a"
+    ],
+    "downloads": "124",
+    "featured": false,
+    "likes": 7,
+    "comments": 1,
+    "title": "Alpha-10",
+    "hashtag": "alpha10",
+    "description": "a simple pallet with great colors, useful for a variety of artwork! simple and quick to use this pallet will give any drawing life and mood.",
+    "creator": true,
+    "slug": "alpha-10",
+    "publishedAt": "2020-05-03T19:50:00.010Z",
+    "user": {
+        "name": "Alpha6",
+        "slug": "max-mandrych"
+    },
+    "numberOfColors": 10,
+    "createdAt": "2020-04-30T22:25:02.716Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "221d2e",
+        "708085",
+        "adc1c7",
+        "f0f0e4",
+        "385c42",
+        "94a664",
+        "4d6285",
+        "79a7b5",
+        "874d6e",
+        "bfa07a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5eab503ef062642763f0a446",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

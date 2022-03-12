@@ -1,0 +1,70 @@
+{
+    "_id": "5f2f3142b60c1b14c6794a66",
+    "tags": [
+        "isasstudio"
+    ],
+    "colors": [
+        "1c1530",
+        "2a308b",
+        "367dd8",
+        "8de2f6"
+    ],
+    "downloads": "560",
+    "featured": false,
+    "likes": 46,
+    "comments": 0,
+    "title": "Ocean GB",
+    "hashtag": "oceangb",
+    "description": "My first Gameboy Palette!\u00a0\u00a0",
+    "creator": true,
+    "slug": "ocean-gb",
+    "publishedAt": "2020-08-15T08:35:00.015Z",
+    "user": {
+        "name": "Isa",
+        "slug": "isas-studio"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-08-08T23:12:02.930Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f3abc4f3b0169032d9d70a8",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/ocean-gb-palette-example-by-isagamer-2-5f3abc.png",
+            "creator": true,
+            "description": "",
+            "title": "Ocean GB Palette Example by IsaGamer",
+            "slug": "ocean-gb-palette-example-by-isagamer-2",
+            "publishedAt": "2020-08-18T10:30:00.052Z",
+            "user": {
+                "name": "Isa",
+                "slug": "isas-studio"
+            },
+            "parent": "5f2f3142b60c1b14c6794a66",
+            "createdAt": "2020-08-17T17:20:15.643Z",
+            "updatedAt": "2020-08-18T10:30:00.052Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "1c1530",
+        "2a308b",
+        "367dd8",
+        "8de2f6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f2f3142b60c1b14c6794a66",
+        "type": "palettes",
+        "count": 46,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

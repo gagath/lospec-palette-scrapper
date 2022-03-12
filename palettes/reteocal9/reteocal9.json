@@ -1,0 +1,82 @@
+{
+    "_id": "6030eeddb2c02e32290b88a9",
+    "tags": [
+        "retro",
+        "cartoony",
+        "polyphorge"
+    ],
+    "colors": [
+        "7aadb4",
+        "364e57",
+        "3aa64f",
+        "fff1b2",
+        "d78d5b",
+        "77433e",
+        "3e1d3d",
+        "a2304d",
+        "748e86"
+    ],
+    "downloads": "549",
+    "featured": false,
+    "likes": 35,
+    "comments": 4,
+    "title": "reteocal-9",
+    "hashtag": "reteocal9",
+    "description": "",
+    "creator": true,
+    "slug": "reteocal-9",
+    "publishedAt": "2021-02-24T09:20:00.027Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "numberOfColors": 9,
+    "createdAt": "2021-02-20T11:13:33.303Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6030eefbb2c02e32290b88ac",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/reteocal-9-palette-example-by-polyphorge-6030ee.png",
+            "creator": true,
+            "description": "(outdated image)",
+            "title": "reteocal-9 Palette Example",
+            "slug": "reteocal-9-palette-example-by-polyphorge",
+            "publishedAt": "2021-02-20T22:50:00.016Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "6030eeddb2c02e32290b88a9",
+            "createdAt": "2021-02-20T11:14:03.958Z",
+            "updatedAt": "2021-02-23T21:20:32.933Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "(outdated image)"
+        }
+    ],
+    "colorsArray": [
+        "7aadb4",
+        "364e57",
+        "3aa64f",
+        "fff1b2",
+        "d78d5b",
+        "77433e",
+        "3e1d3d",
+        "a2304d",
+        "748e86"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "6030eeddb2c02e32290b88a9",
+        "type": "palettes",
+        "count": 35,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

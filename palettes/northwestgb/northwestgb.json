@@ -1,0 +1,68 @@
+{
+    "_id": "603f3c7b8ce37d0d1b52e3c0",
+    "tags": [],
+    "colors": [
+        "05192f",
+        "602222",
+        "67a0b4",
+        "cab89c"
+    ],
+    "downloads": "54",
+    "featured": false,
+    "likes": 8,
+    "comments": 0,
+    "title": "Northwest GB",
+    "hashtag": "northwestgb",
+    "description": "A palette based off of Native American art of the Pacific Northwest",
+    "creator": true,
+    "slug": "northwest-gb",
+    "publishedAt": "2021-03-14T11:40:00.025Z",
+    "user": {
+        "name": "Clorox_Cappuccino",
+        "slug": "chris-anstead"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-03-03T07:36:27.046Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607f94c39227cd7cfff626dd",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Northwest GB Palette Example by Casei Solus",
+            "slug": "northwest-gb-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-21T17:05:00.018Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "603f3c7b8ce37d0d1b52e3c0",
+            "image": "palette-examples/northwest-gb-palette-example-by-casei-solus-607f94.png",
+            "creator": true,
+            "description": "Inspired by Native American art of the Pacific Northwest.",
+            "createdAt": "2021-04-21T02:58:11.010Z",
+            "updatedAt": "2021-04-21T17:05:00.018Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Inspired by Native American art of the Pacific Northwest."
+        }
+    ],
+    "colorsArray": [
+        "05192f",
+        "602222",
+        "67a0b4",
+        "cab89c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "603f3c7b8ce37d0d1b52e3c0",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

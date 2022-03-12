@@ -1,0 +1,57 @@
+{
+    "_id": "615dd5b14adfec597f0f36a1",
+    "tags": [],
+    "colors": [
+        "ffffff",
+        "ffe84f",
+        "95d9ff",
+        "e67294",
+        "5b9f39",
+        "666666",
+        "8a3524",
+        "1d2e83",
+        "200f42",
+        "000000"
+    ],
+    "downloads": "18",
+    "featured": false,
+    "likes": 2,
+    "comments": 0,
+    "slug": "what-the-dec-21",
+    "publishedAt": "2021-10-15T11:45:00.028Z",
+    "user": {
+        "name": "Noah Rowlands",
+        "slug": "noah-rowlands1"
+    },
+    "title": "What the Dec 2.1",
+    "hashtag": "whatthedec21",
+    "description": "A small improvement over What the Dec 2.0 with similar colors. And it somehow screams \"Easter egg\" to me.",
+    "creator": true,
+    "numberOfColors": 10,
+    "createdAt": "2021-10-06T16:58:25.054Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffffff",
+        "ffe84f",
+        "95d9ff",
+        "e67294",
+        "5b9f39",
+        "666666",
+        "8a3524",
+        "1d2e83",
+        "200f42",
+        "000000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "615dd5b14adfec597f0f36a1",
+        "type": "palettes",
+        "count": 2,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,75 @@
+{
+    "_id": "5fc5def4b03144494fbdf439",
+    "tags": [
+        "lgbt",
+        " trans",
+        " transgender",
+        " queer",
+        " nonbinary",
+        " agender",
+        " genderqueer",
+        " androgynous",
+        " gender",
+        " dadaism"
+    ],
+    "colors": [
+        "0020a5",
+        "ff89ff"
+    ],
+    "downloads": "48",
+    "featured": false,
+    "likes": 9,
+    "comments": 2,
+    "title": "Gender Binary",
+    "hashtag": "genderbinarypalette",
+    "description": "Restrictive, huh?",
+    "creator": true,
+    "slug": "gender-binary",
+    "publishedAt": "2020-12-10T07:45:00.018Z",
+    "user": {
+        "name": "P-Tux7",
+        "slug": "p-tux7"
+    },
+    "numberOfColors": 2,
+    "createdAt": "2020-12-01T06:13:08.790Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60710f6fda554726aff06c2b",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Gender Binary Palette Example by Casei Solus",
+            "slug": "gender-binary-palette-example-by-casei-solus-2",
+            "publishedAt": "2021-04-10T15:35:00.025Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5fc5def4b03144494fbdf439",
+            "image": "palette-examples/gender-binary-palette-example-by-casei-solus-2-60710f.png",
+            "creator": true,
+            "description": "Shiny dials.",
+            "createdAt": "2021-04-10T02:37:35.852Z",
+            "updatedAt": "2021-04-10T15:35:00.025Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Shiny dials."
+        }
+    ],
+    "colorsArray": [
+        "0020a5",
+        "ff89ff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "5fc5def4b03144494fbdf439",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

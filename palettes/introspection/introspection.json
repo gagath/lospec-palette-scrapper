@@ -1,0 +1,74 @@
+{
+    "_id": "5fbdd7cf6ad6297925f8da0d",
+    "tags": [],
+    "colors": [
+        "5b1e67",
+        "cb7387",
+        "287055",
+        "96ceff",
+        "8f896c",
+        "ffdb82",
+        "fff1fd"
+    ],
+    "downloads": "228",
+    "featured": false,
+    "likes": 28,
+    "comments": 1,
+    "title": "introspection-01",
+    "hashtag": "introspection",
+    "description": "",
+    "creator": true,
+    "slug": "introspection-01",
+    "publishedAt": "2020-12-08T19:45:00.026Z",
+    "user": {
+        "name": "bloo",
+        "slug": "bloo42"
+    },
+    "numberOfColors": 7,
+    "createdAt": "2020-11-25T04:04:31.103Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fbe9e7ded55de1ec460da4a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/introspection-01-palette-example-by-bloo-5fbe9e.png",
+            "creator": true,
+            "description": "get in the eva",
+            "title": "introspection-01 Palette Example by bloo",
+            "slug": "introspection-01-palette-example-by-bloo",
+            "publishedAt": "2020-11-26T05:30:00.046Z",
+            "user": {
+                "name": "bloo",
+                "slug": "bloo42"
+            },
+            "parent": "5fbdd7cf6ad6297925f8da0d",
+            "createdAt": "2020-11-25T18:12:13.772Z",
+            "updatedAt": "2020-11-26T05:30:00.047Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "get in the eva"
+        }
+    ],
+    "colorsArray": [
+        "5b1e67",
+        "cb7387",
+        "287055",
+        "96ceff",
+        "8f896c",
+        "ffdb82",
+        "fff1fd"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5fbdd7cf6ad6297925f8da0d",
+        "type": "palettes",
+        "count": 28,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

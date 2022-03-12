@@ -1,0 +1,81 @@
+{
+    "_id": "6026071236012a4031c176b7",
+    "tags": [
+        "blue",
+        " cyan",
+        " azul",
+        " sky",
+        " underwater",
+        " nightsky"
+    ],
+    "colors": [
+        "ffffff",
+        "0ce6f2",
+        "0098db",
+        "1e579c",
+        "203562",
+        "252446",
+        "201533"
+    ],
+    "downloads": "4,072",
+    "featured": false,
+    "likes": 248,
+    "comments": 3,
+    "title": "Eulbink",
+    "hashtag": "eulbink",
+    "description": "",
+    "creator": true,
+    "slug": "eulbink",
+    "publishedAt": "2021-02-19T02:40:00.018Z",
+    "user": {
+        "name": "Inkpendude ",
+        "slug": "inkpendude"
+    },
+    "numberOfColors": 7,
+    "createdAt": "2021-02-12T04:41:54.177Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6026084736012a4031c176cf",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/eulbink-palette-example-by-inkpendude-602608.png",
+            "creator": true,
+            "description": "",
+            "title": "Eulbink Palette Example by Inkpendude ",
+            "slug": "eulbink-palette-example-by-inkpendude",
+            "publishedAt": "2021-02-12T05:10:00.012Z",
+            "user": {
+                "name": "Inkpendude ",
+                "slug": "inkpendude"
+            },
+            "parent": "6026071236012a4031c176b7",
+            "createdAt": "2021-02-12T04:47:03.888Z",
+            "updatedAt": "2021-02-12T05:10:00.012Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "ffffff",
+        "0ce6f2",
+        "0098db",
+        "1e579c",
+        "203562",
+        "252446",
+        "201533"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "6026071236012a4031c176b7",
+        "type": "palettes",
+        "count": 248,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

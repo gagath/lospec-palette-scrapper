@@ -1,0 +1,71 @@
+{
+    "_id": "6008f30669ec30231de3cd20",
+    "tags": [
+        "froeu",
+        "gameboy"
+    ],
+    "colors": [
+        "462a16",
+        "593856",
+        "78917f",
+        "dfdebd"
+    ],
+    "downloads": "85",
+    "featured": false,
+    "likes": 11,
+    "comments": 0,
+    "title": "gum gameboy",
+    "hashtag": "gum4",
+    "description": "wacky, could be used as a gameboy palette maybe ?",
+    "creator": true,
+    "slug": "gum-gameboy",
+    "publishedAt": "2021-02-15T14:40:00.026Z",
+    "user": {
+        "name": "finn",
+        "slug": "cuk"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-01-21T03:20:38.555Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607f7870f65947763bd0ac59",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "gum gameboy Palette Example by Casei Solus",
+            "slug": "gum-gameboy-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-21T16:45:00.060Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "6008f30669ec30231de3cd20",
+            "image": "palette-examples/gum-gameboy-palette-example-by-casei-solus-607f78.png",
+            "creator": true,
+            "description": "Some abstract shapes.",
+            "createdAt": "2021-04-21T00:57:20.157Z",
+            "updatedAt": "2021-04-21T16:45:00.060Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Some abstract shapes."
+        }
+    ],
+    "colorsArray": [
+        "462a16",
+        "593856",
+        "78917f",
+        "dfdebd"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6008f30669ec30231de3cd20",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

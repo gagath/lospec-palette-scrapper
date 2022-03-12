@@ -1,0 +1,72 @@
+{
+    "_id": "60733d449845984d04e8dcbe",
+    "tags": [],
+    "colors": [
+        "f6240f",
+        "1df60f",
+        "270ff6",
+        "f2f60f",
+        "f6890f",
+        "ffffff"
+    ],
+    "downloads": "26",
+    "featured": false,
+    "likes": 2,
+    "comments": 0,
+    "slug": "rubiks-cube-colors",
+    "publishedAt": "2021-04-18T06:15:00.025Z",
+    "user": {
+        "name": "Andrey",
+        "slug": "andrey"
+    },
+    "title": "Rubiks Cube Colors",
+    "hashtag": "rubicube",
+    "description": "The colors of a standard Rubik's Cube",
+    "creator": false,
+    "createdAt": "2021-04-11T18:17:40.068Z",
+    "numberOfColors": 6,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607d63673e379c37072b13a7",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Cubes colour Palette Example by Casei Solus",
+            "slug": "cubes-colour-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-20T23:45:00.030Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "60733d449845984d04e8dcbe",
+            "image": "palette-examples/cubes-colour-palette-example-by-casei-solus-607d63.png",
+            "creator": true,
+            "description": "A Rubick's cube.",
+            "createdAt": "2021-04-19T11:03:03.809Z",
+            "updatedAt": "2021-04-20T23:45:00.030Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A Rubick's cube."
+        }
+    ],
+    "colorsArray": [
+        "f6240f",
+        "1df60f",
+        "270ff6",
+        "f2f60f",
+        "f6890f",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "60733d449845984d04e8dcbe",
+        "type": "palettes",
+        "count": 2,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

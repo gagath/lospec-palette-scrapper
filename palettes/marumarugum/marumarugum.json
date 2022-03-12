@@ -1,0 +1,76 @@
+{
+    "_id": "60f1ea286653e751da238678",
+    "tags": [
+        "kawaii",
+        "cute",
+        "pink",
+        "pastel",
+        "bubblegum"
+    ],
+    "colors": [
+        "fda9a9",
+        "f3eded",
+        "b9eedc",
+        "96beb1",
+        "82939b"
+    ],
+    "downloads": "634",
+    "featured": false,
+    "likes": 84,
+    "comments": 0,
+    "slug": "marumaru-gum",
+    "publishedAt": "2021-07-20T13:55:00.018Z",
+    "user": {
+        "name": "sukinapan",
+        "slug": "sukinapan"
+    },
+    "title": "marumaru gum",
+    "hashtag": "marumarugum",
+    "description": "a cute pastel palette, tweaked from Sadakiyo5\u00a0",
+    "creator": true,
+    "numberOfColors": 5,
+    "createdAt": "2021-07-16T20:20:56.153Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60f1ef666653e751da23961c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "marumaru gum Palette Example by sukinapan",
+            "slug": "marumaru-gum-palette-example-by-sukinapan",
+            "publishedAt": "2021-07-19T20:10:00.023Z",
+            "user": {
+                "name": "sukinapan",
+                "slug": "sukinapan"
+            },
+            "parent": "60f1ea286653e751da238678",
+            "image": "palette-examples/marumaru-gum-palette-example-by-sukinapan-60f1ef.png",
+            "creator": true,
+            "description": "uploading again because the previous one got glithced when i edited it.",
+            "createdAt": "2021-07-16T20:43:18.366Z",
+            "updatedAt": "2021-07-19T20:10:00.024Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "uploading again because the previous one got glithced when i edited it."
+        }
+    ],
+    "colorsArray": [
+        "fda9a9",
+        "f3eded",
+        "b9eedc",
+        "96beb1",
+        "82939b"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "60f1ea286653e751da238678",
+        "type": "palettes",
+        "count": 84,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

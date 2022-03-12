@@ -1,0 +1,47 @@
+{
+    "_id": "5fc8c237e735e16b0b992171",
+    "tags": [],
+    "colors": [
+        "3b3149",
+        "d47563",
+        "5c6181",
+        "ecc197",
+        "ecece0"
+    ],
+    "downloads": "130",
+    "featured": false,
+    "likes": 18,
+    "comments": 0,
+    "title": "+100",
+    "hashtag": "100",
+    "description": "",
+    "creator": false,
+    "slug": "100",
+    "publishedAt": "2020-12-09T19:45:00.021Z",
+    "user": {
+        "name": "GROM 002",
+        "slug": "grom-002"
+    },
+    "numberOfColors": 5,
+    "createdAt": "2020-12-03T10:47:19.602Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "3b3149",
+        "d47563",
+        "5c6181",
+        "ecc197",
+        "ecece0"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5fc8c237e735e16b0b992171",
+        "type": "palettes",
+        "count": 18,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

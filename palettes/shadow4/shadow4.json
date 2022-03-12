@@ -1,0 +1,68 @@
+{
+    "_id": "60dcbecc006f6d06b5b8b34a",
+    "tags": [],
+    "colors": [
+        "1b1114",
+        "30091c",
+        "d36020",
+        "f0a42c"
+    ],
+    "downloads": "182",
+    "featured": false,
+    "likes": 10,
+    "comments": 0,
+    "slug": "shadow-4",
+    "publishedAt": "2021-07-16T04:05:00.022Z",
+    "user": {
+        "name": "Sans 7657",
+        "slug": "sans-7657"
+    },
+    "title": "Shadow-4",
+    "hashtag": "shadow4",
+    "description": "A dark spooky 4 color themed palate.",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-06-30T18:58:20.858Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60fb5bcf53873d25d66b7758",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Shadow-4 Palette Example by LuisAlfredo92",
+            "slug": "shadow-4-palette-example-by-luisalfredo92",
+            "publishedAt": "2021-07-27T16:50:00.006Z",
+            "user": {
+                "name": "LuisAlfredo92",
+                "slug": "luisalfredo92"
+            },
+            "parent": "60dcbecc006f6d06b5b8b34a",
+            "image": "palette-examples/shadow-4-palette-example-by-luisalfredo92-60fb5b.png",
+            "creator": true,
+            "description": "A sunset landscape",
+            "createdAt": "2021-07-24T00:16:15.506Z",
+            "updatedAt": "2021-07-27T16:50:00.006Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A sunset landscape"
+        }
+    ],
+    "colorsArray": [
+        "1b1114",
+        "30091c",
+        "d36020",
+        "f0a42c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60dcbecc006f6d06b5b8b34a",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

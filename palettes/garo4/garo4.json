@@ -1,0 +1,72 @@
+{
+    "_id": "60042ffb81728e0e69d05c62",
+    "tags": [
+        "artist",
+        " mtk",
+        " gameboy"
+    ],
+    "colors": [
+        "071821",
+        "145ecc",
+        "e64d22",
+        "ebf8ce"
+    ],
+    "downloads": "91",
+    "featured": false,
+    "likes": 11,
+    "comments": 0,
+    "title": "GARO4",
+    "hashtag": "garo4",
+    "description": "Blue and red shades can be used together, but it's also a very good 3 color palette if you decide to use only red or only blue",
+    "creator": true,
+    "slug": "garo4",
+    "publishedAt": "2021-01-27T12:25:00.028Z",
+    "user": {
+        "name": "mtk",
+        "slug": "mtk538"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-01-17T12:39:23.289Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "608914dc02370835e7a852db",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "GARO4 Palette Example by Casei Solus",
+            "slug": "garo4-palette-example-by-casei-solus",
+            "publishedAt": "2021-05-10T13:50:00.041Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "60042ffb81728e0e69d05c62",
+            "image": "palette-examples/garo4-palette-example-by-casei-solus-608914.png",
+            "creator": true,
+            "description": "Blastoise against a Charizard.",
+            "createdAt": "2021-04-28T07:55:08.450Z",
+            "updatedAt": "2021-05-10T13:50:00.041Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Blastoise against a Charizard."
+        }
+    ],
+    "colorsArray": [
+        "071821",
+        "145ecc",
+        "e64d22",
+        "ebf8ce"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60042ffb81728e0e69d05c62",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

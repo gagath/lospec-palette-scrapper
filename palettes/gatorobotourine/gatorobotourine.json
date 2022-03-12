@@ -1,0 +1,65 @@
+{
+    "_id": "5dc86eb0a5731c47cdeef331",
+    "slug": "gato-roboto-urine",
+    "description": "A palette from the game <i><a href=\"https://gatoroboto.com/\" target=\"_blank\">Gato Roboto</a></i>.<br />",
+    "colors": [
+        "002f40",
+        "ffd500"
+    ],
+    "creator": false,
+    "comments": 2,
+    "likes": 16,
+    "createdAt": "2019-11-10T20:10:24.355Z",
+    "featured": false,
+    "tags": [
+        "game",
+        "gatoroboto",
+        "software",
+        "1bit"
+    ],
+    "downloads": "205",
+    "numberOfColors": 2,
+    "hashtag": "gatorobotourine",
+    "title": "Gato Roboto - Urine",
+    "user": {
+        "name": "PureAsbestos",
+        "slug": "pureasbestos"
+    },
+    "publishedAt": "2019-11-10T20:10:24.355Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5eb722cc5179c1162f48bf4f",
+            "description": "Palette usage example by Euler",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.217Z",
+            "creator": false,
+            "image": "palette-examples/gato-roboto-urine-palette-example-palette-usage-example-by-euler-5eb722.png",
+            "likes": 0,
+            "parent": "5dc86eb0a5731c47cdeef331",
+            "slug": "gato-roboto-urine-palette-example-palette-usage-example-by-euler",
+            "title": "gato roboto urine palette example palette usage example by euler",
+            "updatedAt": "2020-07-31T03:56:11.217Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Euler"
+        }
+    ],
+    "colorsArray": [
+        "002f40",
+        "ffd500"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "5dc86eb0a5731c47cdeef331",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

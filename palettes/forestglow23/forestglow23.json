@@ -1,0 +1,56 @@
+{
+    "_id": "5dd090436d54be5cde442a7f",
+    "slug": "forest-glow",
+    "description": "",
+    "colors": [
+        "00070d",
+        "0b162a",
+        "1f2c3d",
+        "26464b",
+        "5f6d43",
+        "97933a",
+        "deca54"
+    ],
+    "creator": "1",
+    "comments": 0,
+    "likes": 37,
+    "createdAt": "2019-11-17T00:11:47.297Z",
+    "featured": false,
+    "tags": [
+        "green",
+        "blue",
+        "dark",
+        "monoramp"
+    ],
+    "downloads": "882",
+    "numberOfColors": 7,
+    "hashtag": "forestglow23",
+    "title": "Forest Glow",
+    "user": {
+        "name": "Jimison3",
+        "slug": "jimison3"
+    },
+    "publishedAt": "2019-11-17T00:11:47.297Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "00070d",
+        "0b162a",
+        "1f2c3d",
+        "26464b",
+        "5f6d43",
+        "97933a",
+        "deca54"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5dd090436d54be5cde442a7f",
+        "type": "palettes",
+        "count": 37,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

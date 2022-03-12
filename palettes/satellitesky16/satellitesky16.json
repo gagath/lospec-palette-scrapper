@@ -1,0 +1,71 @@
+{
+    "_id": "61d1f39a03ab6f599ac131dc",
+    "tags": [
+        "eclipse89"
+    ],
+    "colors": [
+        "87d6ff",
+        "87b3ff",
+        "8791ff",
+        "7d84d2",
+        "875dbd",
+        "414ccc",
+        "0b147c",
+        "040a48",
+        "1c2798",
+        "333c9f",
+        "5058b2",
+        "747ab6",
+        "9f88cb",
+        "cc8ce0",
+        "ee97e7",
+        "ffa5cf"
+    ],
+    "downloads": "307",
+    "featured": false,
+    "likes": 18,
+    "comments": 0,
+    "slug": "satellite-sky-16",
+    "publishedAt": "2022-01-03T12:55:00.046Z",
+    "user": {
+        "name": "Eclipse89",
+        "slug": "eclipse89"
+    },
+    "title": "Satellite Sky 16",
+    "hashtag": "satellitesky16",
+    "description": "16 pastel colors, mostly in the blue and pink/purple hues.\u00a0",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2022-01-02T18:48:58.354Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "87d6ff",
+        "87b3ff",
+        "8791ff",
+        "7d84d2",
+        "875dbd",
+        "414ccc",
+        "0b147c",
+        "040a48",
+        "1c2798",
+        "333c9f",
+        "5058b2",
+        "747ab6",
+        "9f88cb",
+        "cc8ce0",
+        "ee97e7",
+        "ffa5cf"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61d1f39a03ab6f599ac131dc",
+        "type": "palettes",
+        "count": 18,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

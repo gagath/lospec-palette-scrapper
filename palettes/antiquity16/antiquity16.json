@@ -1,0 +1,141 @@
+{
+    "_id": "60a5fef13fe0e51dc3d78f27",
+    "tags": [
+        "muted",
+        "desaturated",
+        "retro",
+        "vintage"
+    ],
+    "colors": [
+        "202020",
+        "2d211e",
+        "452923",
+        "6d3d29",
+        "b16b4a",
+        "e89f6e",
+        "e8be82",
+        "5d7557",
+        "8e9257",
+        "707b88",
+        "8aa7ac",
+        "e55d4d",
+        "f1866c",
+        "d26730",
+        "de9a28",
+        "e8d8a5"
+    ],
+    "downloads": "1,421",
+    "featured": false,
+    "likes": 98,
+    "comments": 10,
+    "slug": "antiquity16",
+    "publishedAt": "2021-05-23T23:00:00.068Z",
+    "user": {
+        "name": "ILTA",
+        "slug": "iltailtailta"
+    },
+    "title": "antiquity16",
+    "hashtag": "antiquity16",
+    "description": "A celebration for getting to 2k followers on my Twitter! \ud83c\udf89 Nostalgic palette based on old vintage ads. Includes a variety of skintones!",
+    "creator": true,
+    "createdAt": "2021-05-20T06:17:21.790Z",
+    "numberOfColors": 16,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60a601413fe0e51dc3d78f30",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "antiquity16 Palette Example by \ud835\udd40\ud835\udd43\ud835\udd4b\ud835\udd38",
+            "slug": "antiquity16-palette-example-by",
+            "publishedAt": "2021-05-23T17:05:00.023Z",
+            "user": {
+                "name": "ILTA",
+                "slug": "iltailtailta"
+            },
+            "parent": "60a5fef13fe0e51dc3d78f27",
+            "image": "palette-examples/antiquity16-palette-example-by-60a601.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-05-20T06:27:13.665Z",
+            "updatedAt": "2021-05-23T17:05:00.023Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "60a602233fe0e51dc3d78f46",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "antiquity16 Palette Example by \ud835\udd40\ud835\udd43\ud835\udd4b\ud835\udd38",
+            "slug": "antiquity16-palette-example-by-2",
+            "publishedAt": "2021-05-23T17:00:00.045Z",
+            "user": {
+                "name": "ILTA",
+                "slug": "iltailtailta"
+            },
+            "parent": "60a5fef13fe0e51dc3d78f27",
+            "image": "palette-examples/antiquity16-palette-example-by-2-60a602.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-05-20T06:30:59.244Z",
+            "updatedAt": "2021-05-23T17:00:00.046Z",
+            "__v": 0,
+            "thumbnailOffset": 50,
+            "descriptionText": ""
+        },
+        {
+            "_id": "6207db1240c1d85835da491f",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "antiquity16 Palette Example by dudewiththecolors",
+            "slug": "antiquity16-palette-example-by-dudewiththecolorslvwkfm",
+            "publishedAt": "2022-02-14T04:05:00.041Z",
+            "user": {
+                "name": "dudewiththecolors",
+                "slug": "dudewiththecolors"
+            },
+            "parent": "60a5fef13fe0e51dc3d78f27",
+            "image": "palette-examples/antiquity16-palette-example-by-dudewiththecolorslvwkfm.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-02-12T16:06:42.306Z",
+            "updatedAt": "2022-02-14T04:05:00.042Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "202020",
+        "2d211e",
+        "452923",
+        "6d3d29",
+        "b16b4a",
+        "e89f6e",
+        "e8be82",
+        "5d7557",
+        "8e9257",
+        "707b88",
+        "8aa7ac",
+        "e55d4d",
+        "f1866c",
+        "d26730",
+        "de9a28",
+        "e8d8a5"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60a5fef13fe0e51dc3d78f27",
+        "type": "palettes",
+        "count": 98,
+        "liked": 0
+    },
+    "thumbnailWidth": 33.333333333333336
+}

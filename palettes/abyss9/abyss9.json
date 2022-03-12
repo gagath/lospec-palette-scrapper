@@ -1,0 +1,83 @@
+{
+    "_id": "602755a380009636af8bb219",
+    "tags": [
+        "cool",
+        " ramp",
+        " smooth",
+        " glow"
+    ],
+    "colors": [
+        "000000",
+        "1f123a",
+        "3a1e7e",
+        "5429c2",
+        "5463d9",
+        "62aadd",
+        "7fe3dc",
+        "a0f5c6",
+        "ddf8d0"
+    ],
+    "downloads": "1,228",
+    "featured": false,
+    "likes": 89,
+    "comments": 2,
+    "title": "ABYSS-9",
+    "hashtag": "abyss9",
+    "description": "A single-ramp cool-colored palette I put together for one of my\u00a0<a href=\"https://twitter.com/Jusiv_/status/1360436943499087873\" target=\"_blank\">Pixel Dailies pieces</a>. It's geared towards making glowing things.",
+    "creator": true,
+    "slug": "abyss-9",
+    "publishedAt": "2021-02-19T08:40:00.021Z",
+    "user": {
+        "name": "Jusiv",
+        "slug": "jusiv"
+    },
+    "numberOfColors": 9,
+    "createdAt": "2021-02-13T04:29:23.821Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60275e1580009636af8bb2a0",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/abyss-9-palette-example-by-jusiv-60275e.png",
+            "creator": true,
+            "description": "",
+            "title": "ABYSS-9 Palette Example by Jusiv",
+            "slug": "abyss-9-palette-example-by-jusiv",
+            "publishedAt": "2021-02-13T17:50:00.021Z",
+            "user": {
+                "name": "Jusiv",
+                "slug": "jusiv"
+            },
+            "parent": "602755a380009636af8bb219",
+            "createdAt": "2021-02-13T05:05:25.391Z",
+            "updatedAt": "2021-02-13T17:50:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "1f123a",
+        "3a1e7e",
+        "5429c2",
+        "5463d9",
+        "62aadd",
+        "7fe3dc",
+        "a0f5c6",
+        "ddf8d0"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "602755a380009636af8bb219",
+        "type": "palettes",
+        "count": 89,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

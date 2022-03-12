@@ -1,0 +1,49 @@
+{
+    "_id": "5f41846c7205e647b9e1eae2",
+    "tags": [],
+    "colors": [
+        "d3473d",
+        "f6ad0f",
+        "f5efeb",
+        "86bcd1",
+        "316a96",
+        "2e243f"
+    ],
+    "downloads": "280",
+    "featured": false,
+    "likes": 20,
+    "comments": 1,
+    "title": "theo",
+    "hashtag": "theo",
+    "description": "",
+    "creator": true,
+    "slug": "theo",
+    "publishedAt": "2020-08-28T14:10:00.030Z",
+    "user": {
+        "name": "luis gustavo",
+        "slug": "luisgstvin"
+    },
+    "numberOfColors": 6,
+    "createdAt": "2020-08-22T20:47:40.573Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "d3473d",
+        "f6ad0f",
+        "f5efeb",
+        "86bcd1",
+        "316a96",
+        "2e243f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5f41846c7205e647b9e1eae2",
+        "type": "palettes",
+        "count": 20,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

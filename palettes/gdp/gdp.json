@@ -1,0 +1,73 @@
+{
+    "_id": "61fe2334e064cc4d1323f890",
+    "tags": [
+        "purple",
+        "green",
+        "gameboy",
+        "4"
+    ],
+    "colors": [
+        "ccbdad",
+        "998a6b",
+        "666647",
+        "330533"
+    ],
+    "downloads": "240",
+    "featured": false,
+    "likes": 16,
+    "comments": 0,
+    "slug": "g-e-e-d-e-e-p-e-e",
+    "publishedAt": "2022-02-05T21:10:00.043Z",
+    "user": {
+        "name": "RABBITKING",
+        "slug": "rabbitking"
+    },
+    "title": "G E E D E E P E E",
+    "hashtag": "gdp",
+    "description": "Simple at 4 colors but broad... and sticky",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2022-02-05T07:11:48.939Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61fe2355e064cc4d1323f895",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "GEEDEEPEE Palette Example by RABBITKING",
+            "slug": "geedeepee-palette-example-by-rabbitkingjdkxmw",
+            "publishedAt": "2022-02-05T17:15:00.045Z",
+            "user": {
+                "name": "RABBITKING",
+                "slug": "rabbitking"
+            },
+            "parent": "61fe2334e064cc4d1323f890",
+            "image": "palette-examples/geedeepee-palette-example-by-rabbitkingjdkxmw.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-02-05T07:12:21.469Z",
+            "updatedAt": "2022-02-05T17:15:00.046Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "ccbdad",
+        "998a6b",
+        "666647",
+        "330533"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61fe2334e064cc4d1323f890",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

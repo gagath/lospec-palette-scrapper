@@ -1,0 +1,71 @@
+{
+    "_id": "61a0598c3f5e31067e2c31db",
+    "tags": [
+        "bright",
+        "yedamameday",
+        "cartoon"
+    ],
+    "colors": [
+        "130900",
+        "402000",
+        "734300",
+        "9a6700",
+        "c19200",
+        "f3ce00",
+        "ffea00",
+        "f3ffbe",
+        "f6ff7e",
+        "ffff3d",
+        "e2ff57",
+        "c8ff31",
+        "aaff00",
+        "7ae700",
+        "2bb900"
+    ],
+    "downloads": "56",
+    "featured": false,
+    "likes": 2,
+    "comments": 0,
+    "slug": "banana-cartoon",
+    "publishedAt": "2021-11-30T17:00:00.068Z",
+    "user": {
+        "name": "yedamameday",
+        "slug": "yedamameday"
+    },
+    "title": "Banana cartoon",
+    "hashtag": "bananacartoon",
+    "description": "A cartoon-ish pallete inspired from a banana",
+    "creator": true,
+    "numberOfColors": 15,
+    "createdAt": "2021-11-26T03:50:36.354Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "130900",
+        "402000",
+        "734300",
+        "9a6700",
+        "c19200",
+        "f3ce00",
+        "ffea00",
+        "f3ffbe",
+        "f6ff7e",
+        "ffff3d",
+        "e2ff57",
+        "c8ff31",
+        "aaff00",
+        "7ae700",
+        "2bb900"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61a0598c3f5e31067e2c31db",
+        "type": "palettes",
+        "count": 2,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

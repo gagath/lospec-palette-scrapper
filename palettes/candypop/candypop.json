@@ -1,0 +1,94 @@
+{
+    "_id": "60149cc0f83efe5ab8648364",
+    "tags": [
+        "2bit",
+        "candypop",
+        "gameboy"
+    ],
+    "colors": [
+        "301221",
+        "854576",
+        "9e81d0",
+        "eebff5"
+    ],
+    "downloads": "443",
+    "featured": false,
+    "likes": 46,
+    "comments": 5,
+    "title": "CandyPop!",
+    "hashtag": "candypop",
+    "description": "I like me some purples and pinks. And candy.",
+    "creator": true,
+    "slug": "candypop",
+    "publishedAt": "2021-02-10T08:40:00.011Z",
+    "user": {
+        "name": "Poltergasm",
+        "slug": "iampoltergasm"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-01-29T23:39:44.903Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60149d7ef83efe5ab8648370",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/candypop-palette-example-by-poltergasm-60149d.png",
+            "creator": true,
+            "description": "",
+            "title": "CandyPop! Palette Example by Poltergasm",
+            "slug": "candypop-palette-example-by-poltergasm",
+            "publishedAt": "2021-02-06T02:10:00.009Z",
+            "user": {
+                "name": "Poltergasm",
+                "slug": "iampoltergasm"
+            },
+            "parent": "60149cc0f83efe5ab8648364",
+            "createdAt": "2021-01-29T23:42:54.931Z",
+            "updatedAt": "2021-02-06T02:10:00.009Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "6025cd7136012a4031c17381",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/candypop-palette-example-by-funghi-6025cd.png",
+            "creator": true,
+            "description": "",
+            "title": "CandyPop! Palette Example by Funghi",
+            "slug": "candypop-palette-example-by-funghi",
+            "publishedAt": "2021-03-27T19:05:00.013Z",
+            "user": {
+                "name": "Funghi",
+                "slug": "funghi09931933"
+            },
+            "parent": "60149cc0f83efe5ab8648364",
+            "createdAt": "2021-02-12T00:36:01.525Z",
+            "updatedAt": "2021-03-27T19:05:00.013Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "301221",
+        "854576",
+        "9e81d0",
+        "eebff5"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60149cc0f83efe5ab8648364",
+        "type": "palettes",
+        "count": 46,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

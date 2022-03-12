@@ -1,0 +1,49 @@
+{
+    "_id": "5dd9b0c5e15d8d2821211015",
+    "slug": "blues-gb",
+    "description": "A monochrome blue four color palette<br />",
+    "colors": [
+        "08263b",
+        "30617b",
+        "7ba8b8",
+        "e5f1f3"
+    ],
+    "creator": true,
+    "hashtag": "bluesgb",
+    "comments": 0,
+    "likes": 16,
+    "createdAt": "2019-11-23T22:20:53.631Z",
+    "featured": false,
+    "tags": [
+        "blue",
+        "monochrome",
+        "gameboy"
+    ],
+    "downloads": "447",
+    "numberOfColors": 4,
+    "title": "Blues GB",
+    "user": {
+        "name": "Acid147",
+        "slug": "acid147"
+    },
+    "publishedAt": "2019-11-23T22:20:53.631Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "08263b",
+        "30617b",
+        "7ba8b8",
+        "e5f1f3"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5dd9b0c5e15d8d2821211015",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

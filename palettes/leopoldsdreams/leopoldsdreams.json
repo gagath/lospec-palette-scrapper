@@ -1,0 +1,98 @@
+{
+    "_id": "606e297b53c285103101a3d6",
+    "tags": [
+        "blue",
+        "aqua",
+        "water",
+        "space",
+        "scifi"
+    ],
+    "colors": [
+        "372134",
+        "474476",
+        "4888b7",
+        "6dbcb9",
+        "8cefb6"
+    ],
+    "downloads": "1,144",
+    "featured": false,
+    "likes": 89,
+    "comments": 3,
+    "slug": "leopolds-dreams",
+    "publishedAt": "2021-04-13T11:30:00.057Z",
+    "user": {
+        "name": "sukinapan",
+        "slug": "sukinapan"
+    },
+    "title": "leopold's dreams",
+    "hashtag": "leopoldsdreams",
+    "description": "a blueish melancholic palette, good for water and/or sci-fi scenarios",
+    "creator": true,
+    "createdAt": "2021-04-07T21:51:55.535Z",
+    "numberOfColors": 5,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "606e312e53c285103101a41b",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "leopold's dreams Palette Example by i was looking for a job and then i found a job",
+            "slug": "leopolds-dreams-palette-example-by-i-was-looking-for-a-job-and-then-i-found-a-job",
+            "publishedAt": "2021-04-08T15:45:00.018Z",
+            "user": {
+                "name": "sukinapan",
+                "slug": "sukinapan"
+            },
+            "parent": "606e297b53c285103101a3d6",
+            "image": "palette-examples/leopolds-dreams-palette-example-by-i-was-looking-for-a-job-and-then-i-found-a-job-606e31.png",
+            "creator": false,
+            "description": "",
+            "createdAt": "2021-04-07T22:24:46.482Z",
+            "updatedAt": "2021-04-08T15:45:00.019Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "606e317253c285103101a424",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "leopold's dreams Palette Example by i was looking for a job and then i found a job",
+            "slug": "leopolds-dreams-palette-example-by-i-was-looking-for-a-job-and-then-i-found-a-job-2",
+            "publishedAt": "2021-04-08T15:50:00.016Z",
+            "user": {
+                "name": "sukinapan",
+                "slug": "sukinapan"
+            },
+            "parent": "606e297b53c285103101a3d6",
+            "image": "palette-examples/leopolds-dreams-palette-example-by-i-was-looking-for-a-job-and-then-i-found-a-job-2-606e31.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-04-07T22:25:54.651Z",
+            "updatedAt": "2021-04-08T15:50:00.016Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "372134",
+        "474476",
+        "4888b7",
+        "6dbcb9",
+        "8cefb6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "606e297b53c285103101a3d6",
+        "type": "palettes",
+        "count": 89,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

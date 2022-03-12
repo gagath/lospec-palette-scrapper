@@ -1,0 +1,68 @@
+{
+    "_id": "60b02b18c2aedf5a591577c1",
+    "tags": [
+        "candy",
+        "12",
+        "funny",
+        "interesting",
+        "colours",
+        "colors"
+    ],
+    "colors": [
+        "19394d",
+        "38786f",
+        "7eb97a",
+        "eef2ae",
+        "fcb475",
+        "d13e58",
+        "772858",
+        "48284f",
+        "26222f",
+        "535c7d",
+        "5c9bca",
+        "9af3f6"
+    ],
+    "downloads": "246",
+    "featured": false,
+    "likes": 19,
+    "comments": 4,
+    "slug": "candy-12",
+    "publishedAt": "2021-05-29T20:00:00.068Z",
+    "user": {
+        "name": "Orbitron",
+        "slug": "joseph"
+    },
+    "title": "Candy-12",
+    "hashtag": "candy12",
+    "description": "A candyish palette",
+    "creator": true,
+    "createdAt": "2021-05-27T23:28:24.981Z",
+    "numberOfColors": 12,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "19394d",
+        "38786f",
+        "7eb97a",
+        "eef2ae",
+        "fcb475",
+        "d13e58",
+        "772858",
+        "48284f",
+        "26222f",
+        "535c7d",
+        "5c9bca",
+        "9af3f6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "60b02b18c2aedf5a591577c1",
+        "type": "palettes",
+        "count": 19,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

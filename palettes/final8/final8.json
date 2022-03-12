@@ -1,0 +1,58 @@
+{
+    "_id": "604f6f8f3629b66ce98a508c",
+    "tags": [
+        "final",
+        " 8",
+        " bfdi",
+        " bfb"
+    ],
+    "colors": [
+        "ffffff",
+        "ff8ad0",
+        "9b5bb4",
+        "413c74",
+        "5183b9",
+        "61d478",
+        "ffdc6d",
+        "e67d4c"
+    ],
+    "downloads": "88",
+    "featured": false,
+    "likes": 12,
+    "comments": 0,
+    "title": "Final 8",
+    "hashtag": "final8",
+    "description": "",
+    "creator": false,
+    "slug": "final-8",
+    "publishedAt": "2021-03-18T06:10:00.025Z",
+    "user": {
+        "name": "Adam Barrett",
+        "slug": "adam-barrett"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2021-03-15T14:30:39.364Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffffff",
+        "ff8ad0",
+        "9b5bb4",
+        "413c74",
+        "5183b9",
+        "61d478",
+        "ffdc6d",
+        "e67d4c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "604f6f8f3629b66ce98a508c",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

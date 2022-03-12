@@ -1,0 +1,91 @@
+{
+    "_id": "612161546d8de545ae0d4a5b",
+    "tags": [
+        "witch",
+        "halloween",
+        "green",
+        "purple",
+        "yellow",
+        "gold",
+        "9",
+        "nine",
+        "brown",
+        "fall",
+        "autumn",
+        "spooky"
+    ],
+    "colors": [
+        "1a171c",
+        "3f2f5e",
+        "4a4789",
+        "447866",
+        "a1796c",
+        "fc7e35",
+        "ffa994",
+        "ffe098",
+        "ffffdb"
+    ],
+    "downloads": "112",
+    "featured": false,
+    "likes": 15,
+    "comments": 2,
+    "slug": "feelinwitchy9",
+    "publishedAt": "2021-08-23T00:15:00.032Z",
+    "user": {
+        "name": "Sarahboev",
+        "slug": "sarah-boeving"
+    },
+    "title": "FeelinWitchy9",
+    "hashtag": "feelinwitchy9",
+    "description": "Just a halloween-ish inspired palette",
+    "creator": true,
+    "numberOfColors": 9,
+    "createdAt": "2021-08-21T20:25:56.143Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "612162bb6d8de545ae0d4abe",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "FeelinWitchy9 Palette Example by Sarahboev",
+            "slug": "feelinwitchy9-palette-example-by-sarahboev-2",
+            "publishedAt": "2021-08-22T18:20:00.036Z",
+            "user": {
+                "name": "Sarahboev",
+                "slug": "sarah-boeving"
+            },
+            "parent": "612161546d8de545ae0d4a5b",
+            "image": "palette-examples/feelinwitchy9-palette-example-by-sarahboev-2-612162.png",
+            "creator": true,
+            "description": "witchy example",
+            "createdAt": "2021-08-21T20:31:55.426Z",
+            "updatedAt": "2021-08-22T18:20:00.038Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "witchy example"
+        }
+    ],
+    "colorsArray": [
+        "1a171c",
+        "3f2f5e",
+        "4a4789",
+        "447866",
+        "a1796c",
+        "fc7e35",
+        "ffa994",
+        "ffe098",
+        "ffffdb"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "612161546d8de545ae0d4a5b",
+        "type": "palettes",
+        "count": 15,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,47 @@
+{
+    "_id": "6139b4ba238e9b59617966a6",
+    "tags": [],
+    "colors": [
+        "000000",
+        "ffb557",
+        "ffffff",
+        "300085",
+        "f7d875"
+    ],
+    "downloads": "16",
+    "featured": false,
+    "likes": 4,
+    "comments": 2,
+    "slug": "pixel-mage",
+    "publishedAt": "2021-10-06T14:45:00.041Z",
+    "user": {
+        "name": "Jens Nyland",
+        "slug": "jens-nyland"
+    },
+    "title": "Pixel Mage",
+    "hashtag": "pixelmage",
+    "description": "i used this for a game dont @ me",
+    "creator": true,
+    "numberOfColors": 5,
+    "createdAt": "2021-09-09T07:16:10.757Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "ffb557",
+        "ffffff",
+        "300085",
+        "f7d875"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "6139b4ba238e9b59617966a6",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

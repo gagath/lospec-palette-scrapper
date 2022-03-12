@@ -1,0 +1,49 @@
+{
+    "_id": "619f06daa29eda7c0ede88e1",
+    "tags": [],
+    "colors": [
+        "ffff00",
+        "ff0000",
+        "00ff00",
+        "0000ff",
+        "ffffff",
+        "000000"
+    ],
+    "downloads": "31",
+    "featured": false,
+    "likes": 3,
+    "comments": 0,
+    "slug": "minimalist-retro",
+    "publishedAt": "2021-12-03T09:00:00.066Z",
+    "user": {
+        "name": "Marquis de Lafayette",
+        "slug": "marquis-de-lafayette"
+    },
+    "title": "Minimalist Retro",
+    "hashtag": "retro",
+    "description": "the retro pallatte im using for my simple games (very limiting)",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2021-11-25T03:45:30.596Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffff00",
+        "ff0000",
+        "00ff00",
+        "0000ff",
+        "ffffff",
+        "000000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "619f06daa29eda7c0ede88e1",
+        "type": "palettes",
+        "count": 3,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

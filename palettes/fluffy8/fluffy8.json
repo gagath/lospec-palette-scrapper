@@ -1,0 +1,120 @@
+{
+    "_id": "60eb107bc5580167a4c79148",
+    "tags": [],
+    "colors": [
+        "933a63",
+        "ff95b1",
+        "ffc4cf",
+        "ffecf0",
+        "d4d5f6",
+        "96b3fd",
+        "7679db",
+        "44387a"
+    ],
+    "downloads": "1,048",
+    "featured": false,
+    "likes": 85,
+    "comments": 2,
+    "slug": "fluffy8",
+    "publishedAt": "2021-07-30T22:25:00.024Z",
+    "user": {
+        "name": "vee\ud83d\udd2a\ud83d\udc30",
+        "slug": "veebiejeebies"
+    },
+    "title": "fluffy8",
+    "hashtag": "fluffy8",
+    "description": "cotton candy inspired palette!",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-07-11T15:38:35.671Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60eb1176c5580167a4c793ee",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "fluffy8 Palette Example by vee\ud83d\udd2a\ud83d\udc30",
+            "slug": "fluffy8-palette-example-by-vee",
+            "publishedAt": "2021-07-27T17:10:00.007Z",
+            "user": {
+                "name": "vee\ud83d\udd2a\ud83d\udc30",
+                "slug": "veebiejeebies"
+            },
+            "parent": "60eb107bc5580167a4c79148",
+            "image": "palette-examples/fluffy8-palette-example-by-vee-60eb11.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-07-11T15:42:46.933Z",
+            "updatedAt": "2021-07-27T17:10:00.008Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "6109b4f08fc4f817a1aa31f9",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "fluffy8 Palette Example by The Bois",
+            "slug": "fluffy8-palette-example-by-the-bois",
+            "publishedAt": "2021-08-22T20:50:00.032Z",
+            "user": {
+                "name": "The Bois",
+                "slug": "the-bois"
+            },
+            "parent": "60eb107bc5580167a4c79148",
+            "image": "palette-examples/fluffy8-palette-example-by-the-bois-6109b4.png",
+            "creator": true,
+            "description": "A little picture of a private series.",
+            "createdAt": "2021-08-03T21:28:16.020Z",
+            "updatedAt": "2021-08-22T20:50:00.033Z",
+            "__v": 0,
+            "thumbnailOffset": 50,
+            "descriptionText": "A little picture of a private series."
+        },
+        {
+            "_id": "61dd81538aa5f04d0d491708",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "fluffy8 Palette Example by Pixelbat",
+            "slug": "fluffy8-palette-example-by-pixelbatjngalh",
+            "publishedAt": "2022-01-11T16:00:00.063Z",
+            "user": {
+                "name": "Pixelbat",
+                "slug": "pixelbat"
+            },
+            "parent": "60eb107bc5580167a4c79148",
+            "image": "palette-examples/fluffy8-palette-example-by-pixelbatjngalh.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-01-11T13:08:35.132Z",
+            "updatedAt": "2022-01-11T16:00:00.064Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "933a63",
+        "ff95b1",
+        "ffc4cf",
+        "ffecf0",
+        "d4d5f6",
+        "96b3fd",
+        "7679db",
+        "44387a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60eb107bc5580167a4c79148",
+        "type": "palettes",
+        "count": 85,
+        "liked": 0
+    },
+    "thumbnailWidth": 33.333333333333336
+}

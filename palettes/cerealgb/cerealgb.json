@@ -1,0 +1,70 @@
+{
+    "_id": "5f107076f9544b677fa1d6ec",
+    "tags": [
+        "gameboy"
+    ],
+    "colors": [
+        "2b061e",
+        "875053",
+        "d8c86e",
+        "ffeed6"
+    ],
+    "downloads": "185",
+    "featured": false,
+    "likes": 31,
+    "comments": 0,
+    "title": "cereal GB",
+    "hashtag": "cerealgb",
+    "description": "yfsjfbhwf another gb palette weee",
+    "creator": false,
+    "slug": "cereal-gb",
+    "publishedAt": "2020-07-20T04:55:00.007Z",
+    "user": {
+        "name": "fro",
+        "slug": "its-fro"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-07-16T15:21:26.151Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607a5a0af7d44826c568a35b",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "cereal GB Palette Example by Casei Solus",
+            "slug": "cereal-gb-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-20T23:10:00.020Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5f107076f9544b677fa1d6ec",
+            "image": "palette-examples/cereal-gb-palette-example-by-casei-solus-607a5a.png",
+            "creator": true,
+            "description": "Some cereal.",
+            "createdAt": "2021-04-17T03:46:18.289Z",
+            "updatedAt": "2021-04-20T23:10:00.020Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Some cereal."
+        }
+    ],
+    "colorsArray": [
+        "2b061e",
+        "875053",
+        "d8c86e",
+        "ffeed6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f107076f9544b677fa1d6ec",
+        "type": "palettes",
+        "count": 31,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

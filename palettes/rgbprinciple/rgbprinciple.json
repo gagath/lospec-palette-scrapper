@@ -1,0 +1,67 @@
+{
+    "_id": "5dc0c4871253902e63f4d1ed",
+    "slug": "rgb-principle",
+    "description": "<p>I've been using these colors for over 10 years. It started simple with just Red/White/Black, (which I still use). As time went on, I wanted to add some related brands that ultimately do very different things. (Music, Pixel Art, Sprite Sheets, Character Design and Audio Engineering to name a few.)<br /></p><p>The principle was simple. Use the letters \"RGB\", and have the resulting color relate to one another. Most often use #FFFFFF and #232323.<br /></p><p>I've used these colors for Character Design, Pixel Art, Sprite Sheets and even Music Branding. As you can see, at one point I combined the R/B in \"RGB\" to create a strong, saturated purple. #E1E1E1 and #4c4646 are used very rarely.<br /></p>",
+    "colors": [
+        "ffffff",
+        "e1e1e1",
+        "4c4646",
+        "232323",
+        "ba0000",
+        "870000",
+        "2fbf00",
+        "186500",
+        "14cfde",
+        "179aa5",
+        "5e0057",
+        "43003d"
+    ],
+    "creator": true,
+    "comments": 0,
+    "likes": 8,
+    "createdAt": "2019-11-05T00:38:31.715Z",
+    "featured": false,
+    "tags": [
+        "artist",
+        "pixel",
+        "branding",
+        "logo",
+        "character"
+    ],
+    "downloads": "140",
+    "numberOfColors": 12,
+    "hashtag": "rgbprinciple",
+    "title": "RGB Principle",
+    "user": {
+        "name": "GravityWeeb",
+        "slug": "gravityweeb"
+    },
+    "publishedAt": "2019-11-05T00:38:31.715Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffffff",
+        "e1e1e1",
+        "4c4646",
+        "232323",
+        "ba0000",
+        "870000",
+        "2fbf00",
+        "186500",
+        "14cfde",
+        "179aa5",
+        "5e0057",
+        "43003d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5dc0c4871253902e63f4d1ed",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

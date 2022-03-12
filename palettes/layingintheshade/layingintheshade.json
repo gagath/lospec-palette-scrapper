@@ -1,0 +1,47 @@
+{
+    "_id": "61c4ffeb447eab0d717d05de",
+    "tags": [],
+    "colors": [
+        "533a71",
+        "6184d8",
+        "4fc2b7",
+        "9aed5d",
+        "f1f465"
+    ],
+    "downloads": "64",
+    "featured": false,
+    "likes": 2,
+    "comments": 0,
+    "slug": "laying-in-the-shade",
+    "publishedAt": "2021-12-24T16:30:00.051Z",
+    "user": {
+        "name": "tokki",
+        "slug": "tokkiblossom"
+    },
+    "title": "Laying in the Shade",
+    "hashtag": "layingintheshade",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 5,
+    "createdAt": "2021-12-23T23:02:03.278Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "533a71",
+        "6184d8",
+        "4fc2b7",
+        "9aed5d",
+        "f1f465"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "61c4ffeb447eab0d717d05de",
+        "type": "palettes",
+        "count": 2,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

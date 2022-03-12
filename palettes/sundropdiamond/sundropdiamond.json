@@ -1,0 +1,76 @@
+{
+    "_id": "6159ffc7237c924767ef9d9d",
+    "tags": [
+        "warm",
+        "yellows",
+        "honey"
+    ],
+    "colors": [
+        "801414",
+        "a63508",
+        "bd580e",
+        "d0a331",
+        "b4da5d",
+        "dcf961"
+    ],
+    "downloads": "70",
+    "featured": false,
+    "likes": 11,
+    "comments": 1,
+    "slug": "sundrop-diamond",
+    "publishedAt": "2021-10-14T13:45:00.064Z",
+    "user": {
+        "name": "patchouli",
+        "slug": "patchoulitei"
+    },
+    "title": "Sundrop Diamond",
+    "hashtag": "sundropdiamond",
+    "description": "may the sun shine on your future",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2021-10-03T19:08:55.947Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6159fffe237c924767ef9da0",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Sundrop Diamond Palette Example by patchoulitei",
+            "slug": "sundrop-diamond-palette-example-by-patchoulitei",
+            "publishedAt": "2021-10-03T20:50:00.021Z",
+            "user": {
+                "name": "patchouli",
+                "slug": "patchoulitei"
+            },
+            "parent": "6159ffc7237c924767ef9d9d",
+            "image": "palette-examples/sundrop-diamond-palette-example-by-patchoulitei-6159ff.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-10-03T19:09:50.655Z",
+            "updatedAt": "2021-10-03T20:50:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "801414",
+        "a63508",
+        "bd580e",
+        "d0a331",
+        "b4da5d",
+        "dcf961"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "6159ffc7237c924767ef9d9d",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

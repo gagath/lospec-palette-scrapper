@@ -1,0 +1,72 @@
+{
+    "_id": "5da63506a91f383502e0935b",
+    "slug": "wilson16",
+    "description": "A 16 colour palette based upon Klei entertainment's \"Don't Starve\" mainly drawn from the base game .<br />",
+    "colors": [
+        "110209",
+        "3d485a",
+        "584f28",
+        "8a9599",
+        "8f7b74",
+        "dcd175",
+        "f0f5cd",
+        "f3f3eb",
+        "421915",
+        "a8584f",
+        "b48156",
+        "c9a865",
+        "3c2418",
+        "493421",
+        "6b5434",
+        "7e663a"
+    ],
+    "creator": true,
+    "comments": 0,
+    "likes": 13,
+    "createdAt": "2019-10-25T18:23:59.761Z",
+    "featured": false,
+    "tags": [
+        "greywyrd",
+        "dontstarve"
+    ],
+    "downloads": "205",
+    "numberOfColors": 16,
+    "hashtag": "wilson16",
+    "title": "WILSON16",
+    "user": {
+        "name": "Greywyrd",
+        "slug": "greywyrd"
+    },
+    "publishedAt": "2019-10-25T18:23:59.761Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "110209",
+        "3d485a",
+        "584f28",
+        "8a9599",
+        "8f7b74",
+        "dcd175",
+        "f0f5cd",
+        "f3f3eb",
+        "421915",
+        "a8584f",
+        "b48156",
+        "c9a865",
+        "3c2418",
+        "493421",
+        "6b5434",
+        "7e663a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5da63506a91f383502e0935b",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

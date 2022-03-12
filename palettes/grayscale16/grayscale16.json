@@ -1,0 +1,72 @@
+{
+    "_id": "60d4460fe378e86be02c1909",
+    "tags": [
+        "grayscale",
+        "adamszieberth"
+    ],
+    "colors": [
+        "000000",
+        "181818",
+        "282828",
+        "383838",
+        "474747",
+        "565656",
+        "646464",
+        "717171",
+        "7e7e7e",
+        "8c8c8c",
+        "9b9b9b",
+        "ababab",
+        "bdbdbd",
+        "d1d1d1",
+        "e7e7e7",
+        "ffffff"
+    ],
+    "downloads": "403",
+    "featured": false,
+    "likes": 11,
+    "comments": 1,
+    "slug": "grayscale-16",
+    "publishedAt": "2021-09-05T18:25:00.038Z",
+    "user": {
+        "name": "\u00c1d\u00e1m Szieberth",
+        "slug": "adam-szieberth"
+    },
+    "title": "GRAYSCALE 16",
+    "hashtag": "grayscale16",
+    "description": "Most distinctive 16 grays (Delta E = 4.82).\u00a0 \u00a0 https://adam.szieberth.hu/post/e-graysc.htm",
+    "creator": true,
+    "createdAt": "2021-06-24T08:45:03.116Z",
+    "numberOfColors": 16,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "181818",
+        "282828",
+        "383838",
+        "474747",
+        "565656",
+        "646464",
+        "717171",
+        "7e7e7e",
+        "8c8c8c",
+        "9b9b9b",
+        "ababab",
+        "bdbdbd",
+        "d1d1d1",
+        "e7e7e7",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60d4460fe378e86be02c1909",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

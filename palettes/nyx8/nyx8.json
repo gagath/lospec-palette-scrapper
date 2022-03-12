@@ -1,0 +1,89 @@
+{
+    "_id": "5aaa85dc8e1f5e7392e77823",
+    "createdAt": "2018-03-15T14:40:28.717Z",
+    "slug": "nyx8",
+    "description": "Palette created by <a target=\"_blank\" href=\"https://twitter.com/Xavier_Gd/status/878378320878022661\">Javier Guerrero</a>.",
+    "colors": [
+        "08141e",
+        "0f2a3f",
+        "20394f",
+        "f6d6bd",
+        "c3a38a",
+        "997577",
+        "816271",
+        "4e495f"
+    ],
+    "tags": [
+        "artist",
+        "monochrome"
+    ],
+    "downloads": "13,448",
+    "numberOfColors": 8,
+    "likes": 516,
+    "comments": 5,
+    "creator": false,
+    "featured": false,
+    "hashtag": "nyx8",
+    "title": "Nyx8",
+    "publishedAt": "2018-03-15T14:40:28.717Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5aaa86788e1f5e7392e77824",
+            "description": "<a href=\"https://twitter.com/skyborg0/status/958117832562282497\">Astronaut in his #spacesuit drifting in space</a> for @Pixel_Dailies by <a href=\"https://twitter.com/skyborg0\">Skyborg</a>.",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.087Z",
+            "creator": false,
+            "image": "palette-examples/nyx8-palette-example-astronaut-in-his-spacesuit-drifting-in-space-for-pixel_dailies-by-skyborg-5aaa86.png",
+            "likes": 0,
+            "parent": "5aaa85dc8e1f5e7392e77823",
+            "slug": "nyx8-palette-example-astronaut-in-his-spacesuit-drifting-in-space-for-pixel_dailies-by-skyborg",
+            "title": "nyx8 palette example astronaut in his spacesuit drifting in space for pixel_dailies by skyborg",
+            "updatedAt": "2020-07-31T03:56:11.087Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Astronaut in his #spacesuit drifting in space for @Pixel_Dailies by Skyborg."
+        },
+        {
+            "_id": "5aaa873d8e1f5e7392e77825",
+            "description": "<a href=\"https://twitter.com/LtFarian/status/962383039086170112\">They say there is an old abandoned #mine somewhere in the woods...</a> for @Pixel_Dailies by <a href=\"https://twitter.com/LtFarian\">Farian</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.088Z",
+            "creator": false,
+            "image": "palette-examples/nyx8-palette-example-they-say-there-is-an-old-abandoned-mine-somewhere-in-the-woods-for-pixel_dailies-by-farian-5aaa87.png",
+            "likes": 0,
+            "parent": "5aaa85dc8e1f5e7392e77823",
+            "slug": "nyx8-palette-example-they-say-there-is-an-old-abandoned-mine-somewhere-in-the-woods-for-pixel_dailies-by-farian",
+            "title": "nyx8 palette example they say there is an old abandoned mine somewhere in the woods for pixel_dailies by farian",
+            "updatedAt": "2020-07-31T03:56:11.088Z",
+            "user": null,
+            "thumbnailOffset": 100,
+            "descriptionText": "They say there is an old abandoned #mine somewhere in the woods... for @Pixel_Dailies by Farian"
+        }
+    ],
+    "colorsArray": [
+        "08141e",
+        "0f2a3f",
+        "20394f",
+        "f6d6bd",
+        "c3a38a",
+        "997577",
+        "816271",
+        "4e495f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5aaa85dc8e1f5e7392e77823",
+        "type": "palettes",
+        "count": 516,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

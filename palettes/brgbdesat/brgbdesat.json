@@ -1,0 +1,50 @@
+{
+    "_id": "60b521afe9b7cc1578d16c7b",
+    "tags": [
+        "br",
+        "epico",
+        "gameboy",
+        "desaturated"
+    ],
+    "colors": [
+        "e6e5d5",
+        "dbca8e",
+        "7f8d7b",
+        "4f5d61"
+    ],
+    "downloads": "79",
+    "featured": false,
+    "likes": 7,
+    "comments": 0,
+    "slug": "br-gb-desaturated",
+    "publishedAt": "2021-09-10T21:20:00.047Z",
+    "user": {
+        "name": "epic0_0",
+        "slug": "epico"
+    },
+    "title": "br gb desaturated",
+    "hashtag": "brgbdesat",
+    "description": "Brazil flag desaturated",
+    "creator": true,
+    "createdAt": "2021-05-31T17:49:35.887Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "e6e5d5",
+        "dbca8e",
+        "7f8d7b",
+        "4f5d61"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60b521afe9b7cc1578d16c7b",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

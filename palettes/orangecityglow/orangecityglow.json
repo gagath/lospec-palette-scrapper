@@ -1,0 +1,84 @@
+{
+    "_id": "6204d4021176bd2e9e3c7e1a",
+    "tags": [
+        "orange",
+        "tungsten",
+        "warm",
+        "streetlights",
+        "sunset",
+        "fire",
+        "night",
+        "cityglow",
+        "monoramp",
+        "saturated",
+        "6colors"
+    ],
+    "colors": [
+        "0d0000",
+        "260300",
+        "4d0d00",
+        "a63700",
+        "ffff00",
+        "ffffff"
+    ],
+    "downloads": "104",
+    "featured": false,
+    "likes": 4,
+    "comments": 0,
+    "slug": "orange-city-glow",
+    "publishedAt": "2022-02-10T17:50:00.066Z",
+    "user": {
+        "name": "The Pixel Expedition",
+        "slug": "pixelexpedition"
+    },
+    "title": "Orange City Glow",
+    "hashtag": "orangecityglow",
+    "description": "A palette of six colors inspired by the orange glow of tungsten streetlights at night that also embraces the warmth of a sunset and bonfire. The colors themselves were handpicked from a photograph online and manually adjusted for hue and value while maintaining maximum saturation for a bold look. Source Image: https://imgur.com/gallery/AOZ9V",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2022-02-10T08:59:46.452Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6204dfdd1176bd2e9e3c7fd2",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Orange City Glow Palette Example by The Pixel Expedition",
+            "slug": "orange-city-glow-palette-example-by-the-pixel-expeditionmfjfne",
+            "publishedAt": "2022-02-10T13:50:00.033Z",
+            "user": {
+                "name": "The Pixel Expedition",
+                "slug": "pixelexpedition"
+            },
+            "parent": "6204d4021176bd2e9e3c7e1a",
+            "image": "palette-examples/orange-city-glow-palette-example-by-the-pixel-expeditionmfjfne.png",
+            "creator": true,
+            "description": "A game mockup using this color palette.",
+            "createdAt": "2022-02-10T09:50:21.345Z",
+            "updatedAt": "2022-02-10T13:50:00.033Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A game mockup using this color palette."
+        }
+    ],
+    "colorsArray": [
+        "0d0000",
+        "260300",
+        "4d0d00",
+        "a63700",
+        "ffff00",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "6204d4021176bd2e9e3c7e1a",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

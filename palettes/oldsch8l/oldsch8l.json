@@ -1,0 +1,55 @@
+{
+    "_id": "5fd1163c3b3a4808ec2231a2",
+    "tags": [
+        "retro"
+    ],
+    "colors": [
+        "000000",
+        "333300",
+        "993300",
+        "6666cc",
+        "003366",
+        "339933",
+        "999933",
+        "cccccc"
+    ],
+    "downloads": "47",
+    "featured": false,
+    "likes": 5,
+    "comments": 1,
+    "title": "Old Sch8l",
+    "hashtag": "oldsch8l",
+    "description": "Retro palette, just 8 colours from the feel of early 8bit computer and console palettes",
+    "creator": true,
+    "slug": "old-sch8l",
+    "publishedAt": "2020-12-16T02:30:00.038Z",
+    "user": {
+        "name": "Space Sandwich",
+        "slug": "spacesandwich"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2020-12-09T18:23:56.814Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "333300",
+        "993300",
+        "6666cc",
+        "003366",
+        "339933",
+        "999933",
+        "cccccc"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fd1163c3b3a4808ec2231a2",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

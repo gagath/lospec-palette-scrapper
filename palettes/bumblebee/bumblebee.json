@@ -1,0 +1,74 @@
+{
+    "_id": "603fff3120c56e2d975da748",
+    "tags": [
+        "bee",
+        " yellow",
+        " black",
+        " gameboy",
+        " 2bit"
+    ],
+    "colors": [
+        "f8c868",
+        "ff8e65",
+        "f6f6f6",
+        "3b3c40"
+    ],
+    "downloads": "218",
+    "featured": false,
+    "likes": 25,
+    "comments": 0,
+    "title": "Bumble Bee",
+    "hashtag": "bumblebee",
+    "description": "",
+    "creator": true,
+    "slug": "bumble-bee",
+    "publishedAt": "2021-04-10T11:30:00.188Z",
+    "user": {
+        "name": "Mason Kaplan",
+        "slug": "mason-kaplan"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-03-03T21:27:13.119Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6072321f08afae7f3097f1d9",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Bumble Bee Palette Example by Casei Solus",
+            "slug": "bumble-bee-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-12T15:55:00.036Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "603fff3120c56e2d975da748",
+            "image": "palette-examples/bumble-bee-palette-example-by-casei-solus-607232.png",
+            "creator": true,
+            "description": "A bumble bee at a flower.",
+            "createdAt": "2021-04-10T23:17:51.977Z",
+            "updatedAt": "2021-04-12T15:55:00.037Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A bumble bee at a flower."
+        }
+    ],
+    "colorsArray": [
+        "f8c868",
+        "ff8e65",
+        "f6f6f6",
+        "3b3c40"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "603fff3120c56e2d975da748",
+        "type": "palettes",
+        "count": 25,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

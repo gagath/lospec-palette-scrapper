@@ -1,0 +1,69 @@
+{
+    "_id": "5b797e59e06d9a4fc5b04edf",
+    "createdAt": "2018-08-19T14:27:37.425Z",
+    "slug": "fantastic-8",
+    "description": "Created by <a target=\"_blank\" href=\"https://twitter.com/RetrosaurDev\">Retrosaur</a>.",
+    "colors": [
+        "dbdbdd",
+        "9c8e8e",
+        "524ba3",
+        "1f1e23",
+        "6a9254",
+        "dcac6c",
+        "e55656",
+        "73493c"
+    ],
+    "tags": [
+        "artist",
+        "retrosaur"
+    ],
+    "downloads": "988",
+    "numberOfColors": 8,
+    "likes": 27,
+    "comments": 0,
+    "hashtag": "fantastic8",
+    "title": "Fantastic 8",
+    "publishedAt": "2018-08-19T14:27:37.425Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5b797edde06d9a4fc5b04ee0",
+            "description": "Palette usage example by <a target=\"_blank\" href=\"https://twitter.com/RetrosaurDev\">Retrosaur</a>.",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.124Z",
+            "creator": false,
+            "image": "palette-examples/fantastic-8-palette-example-palette-usage-example-by-retrosaur-5b797e.png",
+            "likes": 0,
+            "parent": "5b797e59e06d9a4fc5b04edf",
+            "slug": "fantastic-8-palette-example-palette-usage-example-by-retrosaur",
+            "title": "fantastic 8 palette example palette usage example by retrosaur",
+            "updatedAt": "2020-07-31T03:56:11.124Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Retrosaur."
+        }
+    ],
+    "colorsArray": [
+        "dbdbdd",
+        "9c8e8e",
+        "524ba3",
+        "1f1e23",
+        "6a9254",
+        "dcac6c",
+        "e55656",
+        "73493c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5b797e59e06d9a4fc5b04edf",
+        "type": "palettes",
+        "count": 27,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

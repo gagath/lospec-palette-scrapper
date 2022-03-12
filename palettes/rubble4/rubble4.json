@@ -1,0 +1,71 @@
+{
+    "_id": "61660c3b9b60377c7adbe72e",
+    "tags": [
+        "dark",
+        "cave"
+    ],
+    "colors": [
+        "d6e2b3",
+        "d1b250",
+        "488880",
+        "362d43"
+    ],
+    "downloads": "149",
+    "featured": false,
+    "likes": 19,
+    "comments": 1,
+    "slug": "rubble4",
+    "publishedAt": "2021-10-16T23:45:00.023Z",
+    "user": {
+        "name": "Snowy Owl",
+        "slug": "snowy-owl"
+    },
+    "title": "rubble4",
+    "hashtag": "rubble4",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-10-12T22:29:15.846Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61660c529b60377c7adbe733",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "rubble4 Palette Example by Snowy Owl",
+            "slug": "rubble4-palette-example-by-snowy-owl",
+            "publishedAt": "2021-10-13T05:15:00.031Z",
+            "user": {
+                "name": "Snowy Owl",
+                "slug": "snowy-owl"
+            },
+            "parent": "61660c3b9b60377c7adbe72e",
+            "image": "palette-examples/rubble4-palette-example-by-snowy-owl-61660c.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-10-12T22:29:38.154Z",
+            "updatedAt": "2021-10-13T05:15:00.032Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "d6e2b3",
+        "d1b250",
+        "488880",
+        "362d43"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61660c3b9b60377c7adbe72e",
+        "type": "palettes",
+        "count": 19,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,45 @@
+{
+    "_id": "608993a3afcf1e6f2e5081d0",
+    "tags": [],
+    "colors": [
+        "8080c0",
+        "9a9bd6",
+        "c2c4e7",
+        "f0f0f0"
+    ],
+    "downloads": "106",
+    "featured": false,
+    "likes": 8,
+    "comments": 0,
+    "slug": "spemge",
+    "publishedAt": "2021-05-17T21:35:00.033Z",
+    "user": {
+        "name": "Joseph Timmons",
+        "slug": "joseph-timmons"
+    },
+    "title": "spemge",
+    "hashtag": "purple",
+    "description": "colors!",
+    "creator": true,
+    "createdAt": "2021-04-28T16:56:03.298Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "8080c0",
+        "9a9bd6",
+        "c2c4e7",
+        "f0f0f0"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "608993a3afcf1e6f2e5081d0",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

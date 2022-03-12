@@ -1,0 +1,83 @@
+{
+    "_id": "5eab52b8f062642763f0a45b",
+    "tags": [
+        "greypink",
+        " pastel7",
+        " fun",
+        " aesthetic",
+        " wow",
+        " colors",
+        " pink",
+        " grey"
+    ],
+    "colors": [
+        "484c57",
+        "877182",
+        "9e9c9e",
+        "eb8d95",
+        "f5beae",
+        "ffeaba",
+        "ffffff"
+    ],
+    "downloads": "383",
+    "featured": false,
+    "likes": 34,
+    "comments": 1,
+    "title": "Pastel7",
+    "hashtag": "pastel7",
+    "description": "veery Pastel, great for sketching in pinkish grey, a simply fun pallet.",
+    "creator": true,
+    "slug": "pastel7",
+    "publishedAt": "2020-05-03T19:40:00.013Z",
+    "user": {
+        "name": "Alpha6",
+        "slug": "max-mandrych"
+    },
+    "numberOfColors": 7,
+    "createdAt": "2020-04-30T22:35:36.708Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60b38cb1f3238b28a036dcaa",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Pastel7 Palette Example by Kartheek raj",
+            "slug": "pastel7-palette-example-by-kartheek-raj",
+            "publishedAt": "2021-05-30T18:37:57.790Z",
+            "user": {
+                "name": "Kartheek raj",
+                "slug": "karrthik77"
+            },
+            "parent": "5eab52b8f062642763f0a45b",
+            "image": "palette-examples/pastel7-palette-example-by-kartheek-raj-60b38c.png",
+            "creator": true,
+            "description": "Konark temple drawing using pastel7 color palette the original art was cropped to fit the example aspect ration I created the original in 256 X256 px",
+            "createdAt": "2021-05-30T13:01:37.664Z",
+            "updatedAt": "2021-05-30T18:37:57.791Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Konark temple drawing using pastel7 color palette the original art was cropped to fit the example aspect ration I created the original in 256 X256 px"
+        }
+    ],
+    "colorsArray": [
+        "484c57",
+        "877182",
+        "9e9c9e",
+        "eb8d95",
+        "f5beae",
+        "ffeaba",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5eab52b8f062642763f0a45b",
+        "type": "palettes",
+        "count": 34,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

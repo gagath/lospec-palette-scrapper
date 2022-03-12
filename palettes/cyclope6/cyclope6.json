@@ -1,0 +1,99 @@
+{
+    "_id": "607693a1a97ddc728126985d",
+    "tags": [
+        "red",
+        "blue",
+        "tritanopia",
+        "complementary"
+    ],
+    "colors": [
+        "411d31",
+        "631b34",
+        "32535f",
+        "0b8a8f",
+        "0eaf9b",
+        "30e1b9"
+    ],
+    "downloads": "1,191",
+    "featured": false,
+    "likes": 104,
+    "comments": 5,
+    "slug": "cyclope6",
+    "publishedAt": "2021-04-23T11:05:00.050Z",
+    "user": {
+        "name": "Royal_Naym",
+        "slug": "royalnaym"
+    },
+    "title": "Cyclope6",
+    "hashtag": "cyclope6",
+    "description": "A quick 6 color palette based on the tritanopic color spectrum.\u00a0",
+    "creator": true,
+    "createdAt": "2021-04-14T07:02:57.830Z",
+    "numberOfColors": 6,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607c1a7e6fd1812d1bcaaf44",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Cyclope6 Palette Example by Royal_Naym",
+            "slug": "cyclope6-palette-example-by-royalnaym-3",
+            "publishedAt": "2021-04-21T00:00:00.079Z",
+            "user": {
+                "name": "Royal_Naym",
+                "slug": "royalnaym"
+            },
+            "parent": "607693a1a97ddc728126985d",
+            "image": "palette-examples/cyclope6-palette-example-by-royalnaym-3-607c1a.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-04-18T11:39:42.285Z",
+            "updatedAt": "2021-04-21T00:00:00.080Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "607c1af96fd1812d1bcaaf4d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Cyclope6 Palette Example by Royal_Naym",
+            "slug": "cyclope6-palette-example-by-royalnaym-4",
+            "publishedAt": "2021-04-20T23:55:00.035Z",
+            "user": {
+                "name": "Royal_Naym",
+                "slug": "royalnaym"
+            },
+            "parent": "607693a1a97ddc728126985d",
+            "image": "palette-examples/cyclope6-palette-example-by-royalnaym-4-607c1a.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-04-18T11:41:45.368Z",
+            "updatedAt": "2021-04-20T23:55:00.036Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "411d31",
+        "631b34",
+        "32535f",
+        "0b8a8f",
+        "0eaf9b",
+        "30e1b9"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "607693a1a97ddc728126985d",
+        "type": "palettes",
+        "count": 104,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

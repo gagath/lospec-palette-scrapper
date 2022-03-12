@@ -1,0 +1,73 @@
+{
+    "_id": "606b5bfaa1123f71115beddc",
+    "tags": [
+        "spider",
+        "monster",
+        "earth",
+        "brown"
+    ],
+    "colors": [
+        "b1b38c",
+        "ab9d46",
+        "7d490f",
+        "35271b"
+    ],
+    "downloads": "130",
+    "featured": false,
+    "likes": 10,
+    "comments": 1,
+    "slug": "gbfriendlyspider",
+    "publishedAt": "2021-04-08T23:30:00.046Z",
+    "user": {
+        "name": "Jose Revilla",
+        "slug": "jose-revilla"
+    },
+    "title": "GBFriendlySpider",
+    "hashtag": "spider",
+    "description": "spider colors",
+    "creator": true,
+    "createdAt": "2021-04-05T18:50:34.024Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "606ff02ed70ac85e80cef75c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "GBFriendlySpider Palette Example by Casei Solus",
+            "slug": "gbfriendlyspider-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-09T14:50:00.021Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "606b5bfaa1123f71115beddc",
+            "image": "palette-examples/gbfriendlyspider-palette-example-by-casei-solus-606ff0.png",
+            "creator": true,
+            "description": "A giant spider chasing someone. She's friendly, I promise!",
+            "createdAt": "2021-04-09T06:11:58.679Z",
+            "updatedAt": "2021-04-09T14:50:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A giant spider chasing someone. She's friendly, I promise!"
+        }
+    ],
+    "colorsArray": [
+        "b1b38c",
+        "ab9d46",
+        "7d490f",
+        "35271b"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "606b5bfaa1123f71115beddc",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

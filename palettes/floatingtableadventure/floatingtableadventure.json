@@ -1,0 +1,83 @@
+{
+    "_id": "5ff66d29bb6b36352c926f72",
+    "tags": [
+        "adventure",
+        " exiting",
+        " brown",
+        " grey",
+        " green",
+        " swamp"
+    ],
+    "colors": [
+        "22211b",
+        "3e4836",
+        "5d6677",
+        "778194",
+        "514136",
+        "725449",
+        "ce9513",
+        "efc156"
+    ],
+    "downloads": "269",
+    "featured": false,
+    "likes": 13,
+    "comments": 0,
+    "title": "Adventure",
+    "hashtag": "floatingtableadventure",
+    "description": "An Indiana Jones-type palette for pixelated adventures!",
+    "creator": true,
+    "slug": "adventure",
+    "publishedAt": "2021-01-09T12:20:00.020Z",
+    "user": {
+        "name": "Floatingtable Studios",
+        "slug": "floatingtable-studios"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2021-01-07T02:08:41.783Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5ff66d4fbb6b36352c926f75",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/adventure-palette-example-by-floatingtable-studios-5ff66d.png",
+            "creator": true,
+            "description": "A quest for the golden piggybank!",
+            "title": "Adventure Palette Example by Floatingtable Studios",
+            "slug": "adventure-palette-example-by-floatingtable-studios",
+            "publishedAt": "2021-01-07T18:40:00.012Z",
+            "user": {
+                "name": "Floatingtable Studios",
+                "slug": "floatingtable-studios"
+            },
+            "parent": "5ff66d29bb6b36352c926f72",
+            "createdAt": "2021-01-07T02:09:19.661Z",
+            "updatedAt": "2021-01-07T18:40:00.012Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A quest for the golden piggybank!"
+        }
+    ],
+    "colorsArray": [
+        "22211b",
+        "3e4836",
+        "5d6677",
+        "778194",
+        "514136",
+        "725449",
+        "ce9513",
+        "efc156"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5ff66d29bb6b36352c926f72",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

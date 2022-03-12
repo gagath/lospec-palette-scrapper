@@ -1,0 +1,78 @@
+{
+    "_id": "5deebb6127f24b4935001260",
+    "slug": "earth-gb",
+    "description": "A 4-colour Gameboy palette with greens and warm browns/oranges to give an earthy feel to your art or game.\u00a0",
+    "colors": [
+        "774346",
+        "b87652",
+        "acb965",
+        "f5f29e"
+    ],
+    "creator": true,
+    "hashtag": "earthgb",
+    "comments": 1,
+    "likes": 52,
+    "createdAt": "2019-12-09T21:23:45.651Z",
+    "featured": false,
+    "tags": [
+        "earthgb",
+        "earth",
+        "gb",
+        "gameboy",
+        "kerrielake",
+        "green",
+        "brown",
+        "orange",
+        "warm"
+    ],
+    "downloads": "926",
+    "numberOfColors": 4,
+    "title": "Earth GB",
+    "user": {
+        "name": "Kerrie Lake",
+        "slug": "kerrielake"
+    },
+    "publishedAt": "2019-12-09T21:23:45.651Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6078ddacb57ef03c5b5f1fe7",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Earth GB Palette Example by Casei Solus",
+            "slug": "earth-gb-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-16T22:40:00.025Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5deebb6127f24b4935001260",
+            "image": "palette-examples/earth-gb-palette-example-by-casei-solus-6078dd.png",
+            "creator": true,
+            "description": "A prarie.",
+            "createdAt": "2021-04-16T00:43:24.304Z",
+            "updatedAt": "2021-04-16T22:40:00.026Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A prarie."
+        }
+    ],
+    "colorsArray": [
+        "774346",
+        "b87652",
+        "acb965",
+        "f5f29e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5deebb6127f24b4935001260",
+        "type": "palettes",
+        "count": 52,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

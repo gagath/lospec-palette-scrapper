@@ -1,0 +1,57 @@
+{
+    "_id": "59d80ffe0323c15352a71aba",
+    "createdAt": "2017-10-06T23:21:34.163Z",
+    "slug": "night-11",
+    "description": "Entry for the <a href=\"http://http://pixeljoint.com/2016/05/06/4962/11_Color_Comp_Winners.htm\">PixelJoint 11 color palette competition</a> (2016). Created by <a href=\"pixeljoint.com/p/26118.htm\r\n\">Night</a>.",
+    "colors": [
+        "183048",
+        "507088",
+        "b0e0d8",
+        "98b880",
+        "fff0b8",
+        "e8b4a0",
+        "9890a8",
+        "705180",
+        "743838",
+        "986858",
+        "d07050"
+    ],
+    "tags": [
+        "artist",
+        "pjcolorcomp11",
+        "pjcolorcomp"
+    ],
+    "downloads": "162",
+    "numberOfColors": 11,
+    "likes": 5,
+    "comments": 0,
+    "hashtag": "night11",
+    "title": "Night 11",
+    "publishedAt": "2017-10-06T23:21:34.163Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "183048",
+        "507088",
+        "b0e0d8",
+        "98b880",
+        "fff0b8",
+        "e8b4a0",
+        "9890a8",
+        "705180",
+        "743838",
+        "986858",
+        "d07050"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "59d80ffe0323c15352a71aba",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

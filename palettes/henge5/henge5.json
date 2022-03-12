@@ -1,0 +1,75 @@
+{
+    "_id": "605a3109aa08805fc092927a",
+    "tags": [
+        "henge",
+        " henge5",
+        " soup",
+        " soup time"
+    ],
+    "colors": [
+        "807c79",
+        "7a6f6f",
+        "535a63",
+        "39394b",
+        "1d1d2e"
+    ],
+    "downloads": "420",
+    "featured": false,
+    "likes": 25,
+    "comments": 0,
+    "title": "HENGE5",
+    "hashtag": "henge5",
+    "description": "",
+    "creator": true,
+    "slug": "henge5",
+    "publishedAt": "2021-04-13T17:30:00.063Z",
+    "user": {
+        "name": "soup time",
+        "slug": "s0uptimed"
+    },
+    "numberOfColors": 5,
+    "createdAt": "2021-03-23T18:18:49.973Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "605a316eaa08805fc0929282",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/henge5-palette-example-by-soup-time-605a31.png",
+            "creator": false,
+            "description": "Examples by\u00a0<a href=\"https://twitter.com/_zachgriffin_\" target=\"_blank\">Zach</a>,\u00a0<a href=\"https://twitter.com/MoebiusOrSmth\" target=\"_blank\">Moebius</a>,\u00a0<a href=\"https://twitter.com/cuniwastaken\" target=\"_blank\">Cuni</a>\u00a0and\u00a0<a href=\"https://twitter.com/RedstoneCo_Foxy\" target=\"_blank\">Redstone.co</a>",
+            "title": "HENGE5 Palette Example by soup time",
+            "slug": "henge5-palette-example-by-soup-time",
+            "publishedAt": "2021-03-27T17:45:00.028Z",
+            "user": {
+                "name": "soup time",
+                "slug": "s0uptimed"
+            },
+            "parent": "605a3109aa08805fc092927a",
+            "createdAt": "2021-03-23T18:20:30.977Z",
+            "updatedAt": "2021-03-27T17:45:00.028Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Examples by\u00a0Zach,\u00a0Moebius,\u00a0Cuni\u00a0and\u00a0Redstone.co"
+        }
+    ],
+    "colorsArray": [
+        "807c79",
+        "7a6f6f",
+        "535a63",
+        "39394b",
+        "1d1d2e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "605a3109aa08805fc092927a",
+        "type": "palettes",
+        "count": 25,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

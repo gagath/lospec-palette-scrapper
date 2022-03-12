@@ -1,0 +1,71 @@
+{
+    "_id": "6191a4948c2fc05d92ecf2ef",
+    "tags": [
+        "vaporwave",
+        "polyphrog"
+    ],
+    "colors": [
+        "33003b",
+        "4449af",
+        "dd5994",
+        "e0de62"
+    ],
+    "downloads": "151",
+    "featured": false,
+    "likes": 17,
+    "comments": 1,
+    "slug": "digital-disco",
+    "publishedAt": "2021-11-17T02:10:00.045Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "digital disco",
+    "hashtag": "digitaldisco",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-11-15T00:06:44.861Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6191a4a38c2fc05d92ecf2f1",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "digital disco Palette Example by polyphorge",
+            "slug": "digital-disco-palette-example-by-polyphorge",
+            "publishedAt": "2021-11-15T09:35:00.033Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "6191a4948c2fc05d92ecf2ef",
+            "image": "palette-examples/digital-disco-palette-example-by-polyphorge-6191a4.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-11-15T00:06:59.995Z",
+            "updatedAt": "2021-11-15T09:35:00.034Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "33003b",
+        "4449af",
+        "dd5994",
+        "e0de62"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6191a4948c2fc05d92ecf2ef",
+        "type": "palettes",
+        "count": 17,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

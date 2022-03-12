@@ -1,0 +1,68 @@
+{
+    "_id": "5f4aaeb3012ace35a660eb98",
+    "tags": [],
+    "colors": [
+        "012824",
+        "ff4d6d",
+        "7995a5",
+        "fcdeea"
+    ],
+    "downloads": "117",
+    "featured": false,
+    "likes": 11,
+    "comments": 0,
+    "title": "Hags-4",
+    "hashtag": "hags4",
+    "description": "A simple 4-color pink punk palette, developed for the Hags of Goatskull Mountain game.\u00a0",
+    "creator": true,
+    "slug": "hags-4",
+    "publishedAt": "2020-09-08T19:15:00.013Z",
+    "user": {
+        "name": "Brain in a Bowl",
+        "slug": "braininabowl"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-08-29T19:38:27.864Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607fa30d9227cd7cfff6275d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Hags-4 Palette Example by Casei Solus",
+            "slug": "hags-4-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-21T17:25:00.033Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5f4aaeb3012ace35a660eb98",
+            "image": "palette-examples/hags-4-palette-example-by-casei-solus-607fa3.png",
+            "creator": true,
+            "description": "A goat skull.",
+            "createdAt": "2021-04-21T03:59:09.139Z",
+            "updatedAt": "2021-04-21T17:25:00.034Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A goat skull."
+        }
+    ],
+    "colorsArray": [
+        "012824",
+        "ff4d6d",
+        "7995a5",
+        "fcdeea"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f4aaeb3012ace35a660eb98",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,68 @@
+{
+    "_id": "5adf3699d64cda308df721b8",
+    "createdAt": "2018-04-24T13:52:25.860Z",
+    "slug": "wish-gb",
+    "description": "",
+    "colors": [
+        "622e4c",
+        "7550e8",
+        "608fcf",
+        "8be5ff"
+    ],
+    "tags": [
+        "kerrielake",
+        "artist",
+        "gameboy"
+    ],
+    "downloads": "4,762",
+    "numberOfColors": 4,
+    "featured": false,
+    "likes": 257,
+    "comments": 8,
+    "creator": true,
+    "hashtag": "wishgb",
+    "title": "Wish GB",
+    "user": {
+        "name": "Kerrie Lake",
+        "slug": "kerrielake"
+    },
+    "publishedAt": "2018-04-24T13:52:25.860Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5d950002228915499c35f382",
+            "description": "Palette usage example by <a target=\"_blank\" href=\"/rhoq\">Rhoq</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.201Z",
+            "creator": false,
+            "image": "palette-examples/wish-gb-palette-example-palette-usage-example-by-rhoq-5d9500.png",
+            "likes": 0,
+            "parent": "5adf3699d64cda308df721b8",
+            "slug": "wish-gb-palette-example-palette-usage-example-by-rhoq",
+            "title": "wish gb palette example palette usage example by rhoq",
+            "updatedAt": "2020-07-31T03:56:11.201Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Rhoq"
+        }
+    ],
+    "colorsArray": [
+        "622e4c",
+        "7550e8",
+        "608fcf",
+        "8be5ff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5adf3699d64cda308df721b8",
+        "type": "palettes",
+        "count": 257,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

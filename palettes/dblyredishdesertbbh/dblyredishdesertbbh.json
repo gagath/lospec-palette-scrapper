@@ -1,0 +1,82 @@
+{
+    "_id": "5fce628e636dd41e09e93374",
+    "tags": [
+        "desert",
+        " red",
+        " dbly"
+    ],
+    "colors": [
+        "fbfecf",
+        "ddb687",
+        "c37648",
+        "222034",
+        "33161d",
+        "45283c",
+        "66313d",
+        "ac3232",
+        "17090d"
+    ],
+    "downloads": "213",
+    "featured": false,
+    "likes": 8,
+    "comments": 0,
+    "title": "Red-ish DB LY Desert-Like pallet",
+    "hashtag": "dblyredishdesertbbh",
+    "description": "I don't think this one ir really umm, \"original\", I guess it's a pretty famous and common idea, yes, I did make it, but there are lots of one that look like mine, so not really an original idea, but certainly, not copied.",
+    "creator": true,
+    "slug": "red-ish-db-ly-desert-like-pallet",
+    "publishedAt": "2021-04-12T11:30:00.112Z",
+    "user": {
+        "name": "BreadBoyHalo",
+        "slug": "breadboyhalo"
+    },
+    "numberOfColors": 9,
+    "createdAt": "2020-12-07T17:12:46.325Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60757a4d796b6e54ef2612a4",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Red-ish DB LY Desert-Like pallet Palette Example by Casei Solus",
+            "slug": "red-ish-db-ly-desert-like-pallet-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-13T13:20:00.025Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5fce628e636dd41e09e93374",
+            "image": "palette-examples/red-ish-db-ly-desert-like-pallet-palette-example-by-casei-solus-60757a.png",
+            "creator": true,
+            "description": "Sunrise in the desert.",
+            "createdAt": "2021-04-13T11:02:37.616Z",
+            "updatedAt": "2021-04-13T13:20:00.026Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Sunrise in the desert."
+        }
+    ],
+    "colorsArray": [
+        "fbfecf",
+        "ddb687",
+        "c37648",
+        "222034",
+        "33161d",
+        "45283c",
+        "66313d",
+        "ac3232",
+        "17090d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5fce628e636dd41e09e93374",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

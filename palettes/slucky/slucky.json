@@ -1,0 +1,81 @@
+{
+    "_id": "61fe8e419c696316470ec87d",
+    "tags": [
+        "artist",
+        "anoob",
+        "slucky",
+        "versatile",
+        "colorful",
+        "7"
+    ],
+    "colors": [
+        "ab6187",
+        "ebc686",
+        "d8e8e6",
+        "65db73",
+        "709dcf",
+        "5a687d",
+        "211e33"
+    ],
+    "downloads": "214",
+    "featured": false,
+    "likes": 21,
+    "comments": 0,
+    "slug": "s-lucky",
+    "publishedAt": "2022-02-05T17:10:00.056Z",
+    "user": {
+        "name": "ANoob",
+        "slug": "anoob"
+    },
+    "title": "S-Lucky",
+    "hashtag": "slucky",
+    "description": "Seven-Lucky (or S-Lucky, for short) is a palette aiming at providing as many different colors in a restricted amount, which results in 7 colors distributed along 3 ramps (red, blue, gray). Perfect for your limited needs.\u00a0",
+    "creator": true,
+    "numberOfColors": 7,
+    "createdAt": "2022-02-05T14:48:33.634Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61fe8e849c696316470ec887",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "S-Lucky Palette Example by ANoob",
+            "slug": "s-lucky-palette-example-by-anoobxuwndp",
+            "publishedAt": "2022-02-05T17:10:00.024Z",
+            "user": {
+                "name": "ANoob",
+                "slug": "anoob"
+            },
+            "parent": "61fe8e419c696316470ec87d",
+            "image": "palette-examples/s-lucky-palette-example-by-anoobxuwndp.png",
+            "creator": true,
+            "description": "Some examples, along with the possible color ramps at the side.",
+            "createdAt": "2022-02-05T14:49:40.364Z",
+            "updatedAt": "2022-02-05T17:10:00.025Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Some examples, along with the possible color ramps at the side."
+        }
+    ],
+    "colorsArray": [
+        "ab6187",
+        "ebc686",
+        "d8e8e6",
+        "65db73",
+        "709dcf",
+        "5a687d",
+        "211e33"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "61fe8e419c696316470ec87d",
+        "type": "palettes",
+        "count": 21,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

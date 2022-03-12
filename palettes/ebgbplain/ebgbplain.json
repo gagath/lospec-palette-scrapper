@@ -1,0 +1,72 @@
+{
+    "_id": "5fb2d04e1659793338d04a7f",
+    "tags": [
+        "earthbound",
+        " gameboy",
+        " spacesandwich"
+    ],
+    "colors": [
+        "d5e6cb",
+        "9594c0",
+        "564295",
+        "1b1b1b"
+    ],
+    "downloads": "292",
+    "featured": false,
+    "likes": 33,
+    "comments": 0,
+    "title": "EB GB Plain Flavour",
+    "hashtag": "ebgbplain",
+    "description": "A GameBoy compatible palette based on EarthBound's plain window flavour.",
+    "creator": true,
+    "slug": "eb-gb-plain-flavour",
+    "publishedAt": "2020-11-17T07:15:00.034Z",
+    "user": {
+        "name": "Space Sandwich",
+        "slug": "spacesandwich"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-11-16T19:17:34.996Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fb2d1a61659793338d04a93",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/eb-gb-plain-flavour-palette-example-by-space-sandwich-5fb2d1.png",
+            "creator": true,
+            "description": "",
+            "title": "EB GB Plain Flavour Palette Example by Space Sandwich",
+            "slug": "eb-gb-plain-flavour-palette-example-by-space-sandwich",
+            "publishedAt": "2020-11-17T01:35:00.021Z",
+            "user": {
+                "name": "Space Sandwich",
+                "slug": "spacesandwich"
+            },
+            "parent": "5fb2d04e1659793338d04a7f",
+            "createdAt": "2020-11-16T19:23:18.348Z",
+            "updatedAt": "2020-11-17T01:35:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "d5e6cb",
+        "9594c0",
+        "564295",
+        "1b1b1b"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5fb2d04e1659793338d04a7f",
+        "type": "palettes",
+        "count": 33,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

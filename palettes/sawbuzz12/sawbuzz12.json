@@ -1,0 +1,65 @@
+{
+    "_id": "61557f1a5fec7668c1278b8c",
+    "tags": [
+        "grey",
+        "desturated",
+        "machine"
+    ],
+    "colors": [
+        "111219",
+        "1e2c31",
+        "2b3a33",
+        "335153",
+        "3f5243",
+        "4d5e4a",
+        "282840",
+        "35394e",
+        "414c5b",
+        "32231c",
+        "433322",
+        "564b29"
+    ],
+    "downloads": "100",
+    "featured": false,
+    "likes": 5,
+    "comments": 0,
+    "slug": "sawbuzz-12",
+    "publishedAt": "2021-10-13T21:45:00.027Z",
+    "user": {
+        "name": "Zzap",
+        "slug": "zzap"
+    },
+    "title": "SAWBUZZ-12",
+    "hashtag": "sawbuzz12",
+    "description": "use this palette for machines",
+    "creator": true,
+    "numberOfColors": 12,
+    "createdAt": "2021-09-30T09:10:50.012Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "111219",
+        "1e2c31",
+        "2b3a33",
+        "335153",
+        "3f5243",
+        "4d5e4a",
+        "282840",
+        "35394e",
+        "414c5b",
+        "32231c",
+        "433322",
+        "564b29"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "61557f1a5fec7668c1278b8c",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

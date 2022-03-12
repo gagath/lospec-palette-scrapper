@@ -1,0 +1,79 @@
+{
+    "_id": "6207a29010e5362fddc4d3b0",
+    "tags": [
+        "artist",
+        "duotone"
+    ],
+    "colors": [
+        "e5dabf",
+        "9dc492",
+        "60a79b",
+        "423f7a",
+        "3f1f32",
+        "6f3f7a",
+        "a7609d",
+        "d89a9a"
+    ],
+    "downloads": "467",
+    "featured": false,
+    "likes": 50,
+    "comments": 1,
+    "slug": "poison-bubble-8",
+    "publishedAt": "2022-02-12T14:15:00.072Z",
+    "user": {
+        "name": "Frosty Rabbid \ud83d\udc30",
+        "slug": "frostyrabbid"
+    },
+    "title": "Poison Bubble 8",
+    "hashtag": "poisonbubble8",
+    "description": "A mix of pink and teal\u00a0",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2022-02-12T12:05:36.018Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6207a61510e5362fddc4d40e",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Poison Bubble 8 Palette Example by Frosty Rabbid \ud83d\udc30",
+            "slug": "poison-bubble-8-palette-example-by-frosty-rabbidv8fm7d",
+            "publishedAt": "2022-02-12T14:15:00.049Z",
+            "user": {
+                "name": "Frosty Rabbid \ud83d\udc30",
+                "slug": "frostyrabbid"
+            },
+            "parent": "6207a29010e5362fddc4d3b0",
+            "image": "palette-examples/poison-bubble-8-palette-example-by-frosty-rabbidv8fm7d.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-02-12T12:20:37.088Z",
+            "updatedAt": "2022-02-12T14:15:00.049Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "e5dabf",
+        "9dc492",
+        "60a79b",
+        "423f7a",
+        "3f1f32",
+        "6f3f7a",
+        "a7609d",
+        "d89a9a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6207a29010e5362fddc4d3b0",
+        "type": "palettes",
+        "count": 50,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

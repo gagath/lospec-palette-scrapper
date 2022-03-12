@@ -1,0 +1,89 @@
+{
+    "_id": "5a0de9e5e8a1031a12d039b7",
+    "createdAt": "2017-11-16T19:41:25.994Z",
+    "slug": "kirokaze-gameboy",
+    "description": "",
+    "colors": [
+        "332c50",
+        "46878f",
+        "94e344",
+        "e2f3e4"
+    ],
+    "tags": [
+        "artist",
+        "gameboy"
+    ],
+    "downloads": "13,908",
+    "numberOfColors": 4,
+    "likes": 374,
+    "featured": false,
+    "comments": 7,
+    "creator": true,
+    "hashtag": "kirokazegameboy",
+    "title": "Kirokaze Gameboy",
+    "user": {
+        "name": "Kirokaze",
+        "slug": "kirokaze"
+    },
+    "publishedAt": "2017-11-16T19:41:25.994Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5a0deaa0e8a1031a12d039b8",
+            "description": " <a href=\"https://kirokaze.deviantart.com/art/Digital-Egg-628390825\">Digital Egg</a> by <a href=\"https://kirokaze.deviantart.com/\">Kirokaze</a>.",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.067Z",
+            "creator": false,
+            "image": "palette-examples/kirokaze-gameboy-palette-example-digital-egg-by-kirokaze-5a0dea.png",
+            "likes": 0,
+            "parent": "5a0de9e5e8a1031a12d039b7",
+            "slug": "kirokaze-gameboy-palette-example-digital-egg-by-kirokaze",
+            "title": "kirokaze gameboy palette example digital egg by kirokaze",
+            "updatedAt": "2020-07-31T03:56:11.067Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": " Digital Egg by Kirokaze."
+        },
+        {
+            "_id": "61dd82948aa5f04d0d491714",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Kirokaze Gameboy Palette Example by Pixelbat",
+            "slug": "kirokaze-gameboy-palette-example-by-pixelbatuawanq",
+            "publishedAt": "2022-01-11T15:55:00.037Z",
+            "user": {
+                "name": "Pixelbat",
+                "slug": "pixelbat"
+            },
+            "parent": "5a0de9e5e8a1031a12d039b7",
+            "image": "palette-examples/kirokaze-gameboy-palette-example-by-pixelbatuawanq.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-01-11T13:13:56.764Z",
+            "updatedAt": "2022-01-11T15:55:00.037Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "332c50",
+        "46878f",
+        "94e344",
+        "e2f3e4"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5a0de9e5e8a1031a12d039b7",
+        "type": "palettes",
+        "count": 374,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

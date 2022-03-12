@@ -1,0 +1,94 @@
+{
+    "_id": "614392415111625a99b30e4a",
+    "tags": [
+        "fantasyconsole"
+    ],
+    "colors": [
+        "e03c28",
+        "871646",
+        "a328b3",
+        "ff82ce",
+        "ffffff",
+        "9ba0ef",
+        "7b7b7b",
+        "415d66",
+        "0d2030",
+        "0a89ff",
+        "25e2cd",
+        "00604b",
+        "939717",
+        "ffbb31",
+        "ae6c37",
+        "000000"
+    ],
+    "downloads": "54",
+    "featured": false,
+    "likes": 14,
+    "comments": 0,
+    "slug": "famicube-16",
+    "publishedAt": "2021-10-09T19:45:00.040Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "famicube 16",
+    "hashtag": "famicube16",
+    "description": "a simplified version of the\u00a0famicube\u00a0palette. this is just a remix so please also check out the original too!",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2021-09-16T18:51:45.724Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "614399a45111625a99b30eb6",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "famicube 16 Palette Example by polyphorge",
+            "slug": "famicube-16-palette-example-by-polyphorge",
+            "publishedAt": "2021-09-16T21:25:00.017Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "614392415111625a99b30e4a",
+            "image": "palette-examples/famicube-16-palette-example-by-polyphorge-614399.png",
+            "creator": false,
+            "description": "",
+            "createdAt": "2021-09-16T19:23:16.548Z",
+            "updatedAt": "2021-09-16T21:25:00.017Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "e03c28",
+        "871646",
+        "a328b3",
+        "ff82ce",
+        "ffffff",
+        "9ba0ef",
+        "7b7b7b",
+        "415d66",
+        "0d2030",
+        "0a89ff",
+        "25e2cd",
+        "00604b",
+        "939717",
+        "ffbb31",
+        "ae6c37",
+        "000000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "614392415111625a99b30e4a",
+        "type": "palettes",
+        "count": 14,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

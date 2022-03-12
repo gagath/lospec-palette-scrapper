@@ -1,0 +1,94 @@
+{
+    "_id": "61dc2f664832665569d7cb99",
+    "tags": [
+        "isasstudio"
+    ],
+    "colors": [
+        "2e3b43",
+        "486970",
+        "5a9e89",
+        "9adcae",
+        "f9fcf1"
+    ],
+    "downloads": "297",
+    "featured": false,
+    "likes": 22,
+    "comments": 0,
+    "slug": "hypernova-5",
+    "publishedAt": "2022-01-11T12:25:00.034Z",
+    "user": {
+        "name": "Isa",
+        "slug": "isas-studio"
+    },
+    "title": "Hypernova 5",
+    "hashtag": "hn5",
+    "description": "Colour palette for a drawing I made:\u00a0https://www.pixilart.com/photo/you-32e1313098f9c95",
+    "creator": true,
+    "numberOfColors": 5,
+    "createdAt": "2022-01-10T13:06:46.589Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61dc305d4832665569d7cba5",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Hypernova 5 Palette Example by Isa",
+            "slug": "hypernova-5-palette-example-by-isamdkufj",
+            "publishedAt": "2022-01-11T16:05:00.048Z",
+            "user": {
+                "name": "Isa",
+                "slug": "isas-studio"
+            },
+            "parent": "61dc2f664832665569d7cb99",
+            "image": "palette-examples/hypernova-5-palette-example-by-isamdkufj.png",
+            "creator": true,
+            "description": "Full drawing:\u00a0<a href=\"https://www.pixilart.com/photo/you-32e1313098f9c95\" target=\"_blank\">https://www.pixilart.com/photo/you-32e1313098f9c95</a>",
+            "createdAt": "2022-01-10T13:10:53.396Z",
+            "updatedAt": "2022-01-11T16:05:00.048Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Full drawing:\u00a0https://www.pixilart.com/photo/you-32e1313098f9c95"
+        },
+        {
+            "_id": "61f48cf15179e2173cd967e0",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Hypernova 5 Palette Example by ink",
+            "slug": "hypernova-5-palette-example-by-ink9xcp0l",
+            "publishedAt": "2022-01-29T01:30:00.126Z",
+            "user": {
+                "name": "ink",
+                "slug": "inkbug"
+            },
+            "parent": "61dc2f664832665569d7cb99",
+            "image": "palette-examples/hypernova-5-palette-example-by-ink9xcp0l.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-01-29T00:40:17.355Z",
+            "updatedAt": "2022-01-29T01:30:00.127Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "2e3b43",
+        "486970",
+        "5a9e89",
+        "9adcae",
+        "f9fcf1"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "61dc2f664832665569d7cb99",
+        "type": "palettes",
+        "count": 22,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

@@ -1,0 +1,91 @@
+{
+    "_id": "5b4de1f0d0e0cb0253955663",
+    "createdAt": "2018-07-17T12:32:48.260Z",
+    "slug": "steam-lords",
+    "description": "Created for <a target=\"_blank\" href=\"https://www.patreon.com/slynyrd\">Patreon</a>.",
+    "colors": [
+        "213b25",
+        "3a604a",
+        "4f7754",
+        "a19f7c",
+        "77744f",
+        "775c4f",
+        "603b3a",
+        "3b2137",
+        "170e19",
+        "2f213b",
+        "433a60",
+        "4f5277",
+        "65738c",
+        "7c94a1",
+        "a0b9ba",
+        "c0d1cc"
+    ],
+    "tags": [
+        "arist",
+        "slynyrd"
+    ],
+    "downloads": "13,940",
+    "numberOfColors": 16,
+    "featured": false,
+    "likes": 480,
+    "comments": 6,
+    "creator": true,
+    "hashtag": "steamlords",
+    "title": "Steam Lords",
+    "user": {
+        "name": "Slynyrd",
+        "slug": "rayslynyrd"
+    },
+    "publishedAt": "2018-07-17T12:32:48.260Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5b4de218d0e0cb0253955664",
+            "description": "Palette usage example by <a target=\"_blank\" href=\"https://twitter.com/rayslynyrd\">Slynyrd</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.116Z",
+            "creator": false,
+            "image": "palette-examples/steam-lords-palette-example-palette-usage-example-by-slynyrd-5b4de2.png",
+            "likes": 0,
+            "parent": "5b4de1f0d0e0cb0253955663",
+            "slug": "steam-lords-palette-example-palette-usage-example-by-slynyrd",
+            "title": "steam lords palette example palette usage example by slynyrd",
+            "updatedAt": "2020-07-31T03:56:11.116Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Slynyrd"
+        }
+    ],
+    "colorsArray": [
+        "213b25",
+        "3a604a",
+        "4f7754",
+        "a19f7c",
+        "77744f",
+        "775c4f",
+        "603b3a",
+        "3b2137",
+        "170e19",
+        "2f213b",
+        "433a60",
+        "4f5277",
+        "65738c",
+        "7c94a1",
+        "a0b9ba",
+        "c0d1cc"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5b4de1f0d0e0cb0253955663",
+        "type": "palettes",
+        "count": 480,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

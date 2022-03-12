@@ -1,0 +1,57 @@
+{
+    "_id": "5dbc921668b1f05fae5a8ae7",
+    "slug": "couleurs-de-bebe",
+    "description": "",
+    "colors": [
+        "e9e0e0",
+        "ff94f9",
+        "f9ff94",
+        "94f9ff",
+        "94ff94",
+        "9494ff",
+        "ff9494",
+        "e894ff",
+        "aaffc3"
+    ],
+    "creator": true,
+    "comments": 0,
+    "likes": 9,
+    "createdAt": "2019-11-01T20:14:14.594Z",
+    "featured": false,
+    "tags": [
+        "light"
+    ],
+    "downloads": "116",
+    "numberOfColors": 9,
+    "hashtag": "couleursdebebe",
+    "title": " Couleurs de bebe",
+    "user": {
+        "name": "AzozL",
+        "slug": "azoz"
+    },
+    "publishedAt": "2019-11-01T20:14:14.594Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "e9e0e0",
+        "ff94f9",
+        "f9ff94",
+        "94f9ff",
+        "94ff94",
+        "9494ff",
+        "ff9494",
+        "e894ff",
+        "aaffc3"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5dbc921668b1f05fae5a8ae7",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

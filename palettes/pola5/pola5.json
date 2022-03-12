@@ -1,0 +1,73 @@
+{
+    "_id": "5e495fecc4014957e4d1abd8",
+    "slug": "pola5",
+    "description": "Take a trip to the <i>cold</i> regions! With this <i>chill</i> palette. ~ ~Created for the PixelCollab community's\u00a0<a href=\"https://fy.do/quilt/73\" target=\"_blank\">5th pixel quilt - Arctic Wasteland.</a><a href=\"https://fy.do/quilt/73\" target=\"_blank\"></a>",
+    "colors": [
+        "ebf9ff",
+        "acd6f6",
+        "52a5de",
+        "18284a",
+        "070810"
+    ],
+    "creator": true,
+    "hashtag": "pola5",
+    "comments": 3,
+    "likes": 88,
+    "createdAt": "2020-02-16T15:29:48.185Z",
+    "featured": false,
+    "tags": [
+        "cold",
+        "monoramp",
+        "blue",
+        "snow",
+        "ice",
+        "fydotiles"
+    ],
+    "downloads": "1,536",
+    "numberOfColors": 5,
+    "title": "POLA5",
+    "user": {
+        "name": "|NOXITIVE|",
+        "slug": "noxitive"
+    },
+    "publishedAt": "2020-02-16T15:29:48.185Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5ef61a6f0df3ca409af288bc",
+            "description": "Palette usage example by Noxitive",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.225Z",
+            "creator": false,
+            "image": "palette-examples/pola5-palette-example-palette-usage-example-by-noxitive-5ef61a.png",
+            "likes": 0,
+            "parent": "5e495fecc4014957e4d1abd8",
+            "slug": "pola5-palette-example-palette-usage-example-by-noxitive",
+            "title": "pola5 palette example palette usage example by noxitive",
+            "updatedAt": "2020-07-31T03:56:11.225Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Noxitive"
+        }
+    ],
+    "colorsArray": [
+        "ebf9ff",
+        "acd6f6",
+        "52a5de",
+        "18284a",
+        "070810"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5e495fecc4014957e4d1abd8",
+        "type": "palettes",
+        "count": 88,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

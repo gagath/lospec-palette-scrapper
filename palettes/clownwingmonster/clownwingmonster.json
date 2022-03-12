@@ -1,0 +1,57 @@
+{
+    "_id": "618ebfba97c27e02154299b2",
+    "tags": [],
+    "colors": [
+        "000000",
+        "e31919",
+        "e35819",
+        "e3cc19",
+        "53c140",
+        "4f22df",
+        "d422df",
+        "fbfbfb",
+        "c52020",
+        "969062"
+    ],
+    "downloads": "22",
+    "featured": false,
+    "likes": 1,
+    "comments": 0,
+    "slug": "clown-wing-monster",
+    "publishedAt": "2021-11-18T18:10:00.033Z",
+    "user": {
+        "name": "Monkee",
+        "slug": "monkee"
+    },
+    "title": "Clown wing monster",
+    "hashtag": "clownwingmonster",
+    "description": "this is a monster yes",
+    "creator": true,
+    "numberOfColors": 10,
+    "createdAt": "2021-11-12T19:25:47.001Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "e31919",
+        "e35819",
+        "e3cc19",
+        "53c140",
+        "4f22df",
+        "d422df",
+        "fbfbfb",
+        "c52020",
+        "969062"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "618ebfba97c27e02154299b2",
+        "type": "palettes",
+        "count": 1,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

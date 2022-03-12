@@ -1,0 +1,73 @@
+{
+    "_id": "60874c295e7757203e9b52c6",
+    "tags": [
+        "owl",
+        "gameboy",
+        "roar",
+        "cool"
+    ],
+    "colors": [
+        "83e6cd",
+        "66adc6",
+        "4f53ab",
+        "3e2469"
+    ],
+    "downloads": "407",
+    "featured": false,
+    "likes": 30,
+    "comments": 1,
+    "slug": "the-roar-of-the-owl",
+    "publishedAt": "2021-05-18T03:35:00.709Z",
+    "user": {
+        "name": "Lautaro Salas Cismondi",
+        "slug": "lautaro-salas-cismondi"
+    },
+    "title": "the roar of the owl",
+    "hashtag": "owlroar4",
+    "description": "A cool gameboy palette",
+    "creator": true,
+    "createdAt": "2021-04-26T23:26:33.135Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60ac9dffb8ef4f638c5ce00f",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "the roar of the owl Palette Example by kg .t",
+            "slug": "the-roar-of-the-owl-palette-example-by-kg-t",
+            "publishedAt": "2021-05-25T18:15:00.021Z",
+            "user": {
+                "name": "kg .t",
+                "slug": "kg-t"
+            },
+            "parent": "60874c295e7757203e9b52c6",
+            "image": "palette-examples/the-roar-of-the-owl-palette-example-by-kg-t-60ac9d.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-05-25T06:49:35.897Z",
+            "updatedAt": "2021-05-25T18:15:00.022Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "83e6cd",
+        "66adc6",
+        "4f53ab",
+        "3e2469"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60874c295e7757203e9b52c6",
+        "type": "palettes",
+        "count": 30,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

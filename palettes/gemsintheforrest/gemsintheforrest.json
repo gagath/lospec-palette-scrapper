@@ -1,0 +1,47 @@
+{
+    "_id": "5fac4d51c184e0421288c2b3",
+    "tags": [],
+    "colors": [
+        "ff3282",
+        "5b1284",
+        "3171ee",
+        "4ff5fc",
+        "aefdd5"
+    ],
+    "downloads": "120",
+    "featured": false,
+    "likes": 8,
+    "comments": 0,
+    "title": "gems in the  forrest",
+    "hashtag": "gemsintheforrest",
+    "description": "",
+    "creator": false,
+    "slug": "gems-in-the-forrest",
+    "publishedAt": "2020-11-23T07:45:00.017Z",
+    "user": {
+        "name": "Rachel Harris",
+        "slug": "rachel-harris"
+    },
+    "numberOfColors": 5,
+    "createdAt": "2020-11-11T20:45:05.322Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ff3282",
+        "5b1284",
+        "3171ee",
+        "4ff5fc",
+        "aefdd5"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5fac4d51c184e0421288c2b3",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

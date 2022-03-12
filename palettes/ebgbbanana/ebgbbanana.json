@@ -1,0 +1,72 @@
+{
+    "_id": "5fbe3a306ad6297925f8de67",
+    "tags": [
+        "earthbound",
+        " gameboy",
+        " spacesandwich"
+    ],
+    "colors": [
+        "edf2b8",
+        "c4d23a",
+        "876a4e",
+        "382137"
+    ],
+    "downloads": "194",
+    "featured": false,
+    "likes": 19,
+    "comments": 2,
+    "title": "EB GB Banana Flavour",
+    "hashtag": "ebgbbanana",
+    "description": "A GameBoy compatible palette based on EarthBound's banana window flavour.",
+    "creator": true,
+    "slug": "eb-gb-banana-flavour",
+    "publishedAt": "2020-11-26T04:20:00.016Z",
+    "user": {
+        "name": "Space Sandwich",
+        "slug": "spacesandwich"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-11-25T11:04:16.431Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fbe3a756ad6297925f8de6e",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/eb-gb-banana-flavour-palette-example-by-space-sandwich-5fbe3a.png",
+            "creator": true,
+            "description": "",
+            "title": "EB GB Banana Flavour Palette Example by Space Sandwich",
+            "slug": "eb-gb-banana-flavour-palette-example-by-space-sandwich",
+            "publishedAt": "2020-11-25T16:20:00.018Z",
+            "user": {
+                "name": "Space Sandwich",
+                "slug": "spacesandwich"
+            },
+            "parent": "5fbe3a306ad6297925f8de67",
+            "createdAt": "2020-11-25T11:05:25.661Z",
+            "updatedAt": "2020-11-25T16:20:00.018Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "edf2b8",
+        "c4d23a",
+        "876a4e",
+        "382137"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5fbe3a306ad6297925f8de67",
+        "type": "palettes",
+        "count": 19,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

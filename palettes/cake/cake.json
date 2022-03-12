@@ -1,0 +1,99 @@
+{
+    "_id": "618ec35197c27e02154299f7",
+    "tags": [
+        "pastel",
+        "morado",
+        "rosado",
+        "marron",
+        "relajante",
+        "agradable",
+        "tranquilo",
+        "inocente"
+    ],
+    "colors": [
+        "820082",
+        "ac4197",
+        "d683ac",
+        "d28fc1",
+        "ce9cd6",
+        "4b0085",
+        "7b43b9",
+        "ab87ed",
+        "aa96e1",
+        "a9a5d4",
+        "4d0021",
+        "772a4b",
+        "a15576",
+        "b2728e",
+        "c48fa6"
+    ],
+    "downloads": "102",
+    "featured": false,
+    "likes": 9,
+    "comments": 0,
+    "slug": "piece-of-cake",
+    "publishedAt": "2021-11-18T02:10:00.039Z",
+    "user": {
+        "name": "YeimsBaxter",
+        "slug": "jhoan-marin"
+    },
+    "title": " piece of cake",
+    "hashtag": "cake",
+    "description": "una paleta colorida y viv\u00e1z",
+    "creator": true,
+    "numberOfColors": 15,
+    "createdAt": "2021-11-12T19:41:05.084Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "618ee41a7a1e3b2164093c9a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": " piece of cake Palette Example by YeimsBaxter",
+            "slug": "piece-of-cake-palette-example-by-yeimsbaxter-2",
+            "publishedAt": "2021-11-14T16:50:00.023Z",
+            "user": {
+                "name": "YeimsBaxter",
+                "slug": "jhoan-marin"
+            },
+            "parent": "618ec35197c27e02154299f7",
+            "image": "palette-examples/piece-of-cake-palette-example-by-yeimsbaxter-2-618ee4.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-11-12T22:00:58.089Z",
+            "updatedAt": "2021-11-14T16:50:00.023Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "820082",
+        "ac4197",
+        "d683ac",
+        "d28fc1",
+        "ce9cd6",
+        "4b0085",
+        "7b43b9",
+        "ab87ed",
+        "aa96e1",
+        "a9a5d4",
+        "4d0021",
+        "772a4b",
+        "a15576",
+        "b2728e",
+        "c48fa6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "618ec35197c27e02154299f7",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

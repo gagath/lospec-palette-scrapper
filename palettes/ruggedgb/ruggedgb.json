@@ -1,0 +1,72 @@
+{
+    "_id": "603c1f280c542b3d99c679e9",
+    "tags": [
+        "collaboration",
+        "gameboy",
+        "isasstudio"
+    ],
+    "colors": [
+        "f3d5a8",
+        "b78568",
+        "396234",
+        "462e24"
+    ],
+    "downloads": "92",
+    "featured": false,
+    "likes": 15,
+    "comments": 2,
+    "title": "Rugged GB",
+    "hashtag": "ruggedgb",
+    "description": "A dirty-looking palette I made for a collab on the Lospec discord",
+    "creator": true,
+    "slug": "rugged-gb",
+    "publishedAt": "2021-03-06T15:40:00.028Z",
+    "user": {
+        "name": "Isa",
+        "slug": "isas-studio"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-02-28T22:54:32.626Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "603c1f5a0c542b3d99c679ef",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/rugged-gb-palette-example-by-isa-603c1f.png",
+            "creator": false,
+            "description": "Art made by Lady Marigold for the collab the palette was made for",
+            "title": "Rugged GB Palette Example by Isa",
+            "slug": "rugged-gb-palette-example-by-isa",
+            "publishedAt": "2021-03-01T01:10:00.017Z",
+            "user": {
+                "name": "Isa",
+                "slug": "isas-studio"
+            },
+            "parent": "603c1f280c542b3d99c679e9",
+            "createdAt": "2021-02-28T22:55:22.898Z",
+            "updatedAt": "2021-03-01T01:10:00.017Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Art made by Lady Marigold for the collab the palette was made for"
+        }
+    ],
+    "colorsArray": [
+        "f3d5a8",
+        "b78568",
+        "396234",
+        "462e24"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "603c1f280c542b3d99c679e9",
+        "type": "palettes",
+        "count": 15,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

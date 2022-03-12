@@ -1,0 +1,71 @@
+{
+    "_id": "61675f5bc00104216d2478a0",
+    "tags": [
+        "octobit"
+    ],
+    "colors": [
+        "d3d4c1",
+        "87a8a2",
+        "335d7d",
+        "303d5e",
+        "3f5b5e",
+        "132b2a",
+        "354212",
+        "68680f",
+        "302418",
+        "603d1a",
+        "885d24",
+        "a18d1b",
+        "c9590e",
+        "942925",
+        "5c293b",
+        "18181a"
+    ],
+    "downloads": "102",
+    "featured": false,
+    "likes": 4,
+    "comments": 2,
+    "slug": "autumnal-16",
+    "publishedAt": "2021-10-17T15:45:00.023Z",
+    "user": {
+        "name": "SalamiChild",
+        "slug": "salamichild"
+    },
+    "title": "Autumnal 16",
+    "hashtag": "autumnal16",
+    "description": "A simple and muted 16 colour palette, first created and used for Octobit 2020.",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2021-10-13T22:36:11.818Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "d3d4c1",
+        "87a8a2",
+        "335d7d",
+        "303d5e",
+        "3f5b5e",
+        "132b2a",
+        "354212",
+        "68680f",
+        "302418",
+        "603d1a",
+        "885d24",
+        "a18d1b",
+        "c9590e",
+        "942925",
+        "5c293b",
+        "18181a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61675f5bc00104216d2478a0",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

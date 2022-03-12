@@ -1,0 +1,81 @@
+{
+    "_id": "61cf2c2feb32731d937ee1ff",
+    "tags": [
+        "artist",
+        "musthbly",
+        "desaturated",
+        "versatile"
+    ],
+    "colors": [
+        "1e2733",
+        "423834",
+        "514257",
+        "496c88",
+        "a06a77",
+        "7ca296",
+        "dcac7f",
+        "e3ddce"
+    ],
+    "downloads": "315",
+    "featured": false,
+    "likes": 32,
+    "comments": 2,
+    "slug": "fishfighters8",
+    "publishedAt": "2022-01-01T22:10:00.041Z",
+    "user": {
+        "name": "musthbly",
+        "slug": "musthbly"
+    },
+    "title": "fishfighters8",
+    "hashtag": "fishfighters8",
+    "description": "A desaturated palette with versatile colors",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-12-31T16:13:35.789Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61cf82734dd9d75aa38964ec",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "fishfighters8 Palette Example by musthbly",
+            "slug": "fishfighters8-palette-example-by-musthblywtpus6",
+            "publishedAt": "2022-01-01T18:15:00.035Z",
+            "user": {
+                "name": "musthbly",
+                "slug": "musthbly"
+            },
+            "parent": "61cf2c2feb32731d937ee1ff",
+            "image": "palette-examples/fishfighters8-palette-example-by-musthblywtpus6.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-12-31T22:21:39.653Z",
+            "updatedAt": "2022-01-01T18:15:00.035Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "1e2733",
+        "423834",
+        "514257",
+        "496c88",
+        "a06a77",
+        "7ca296",
+        "dcac7f",
+        "e3ddce"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61cf2c2feb32731d937ee1ff",
+        "type": "palettes",
+        "count": 32,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

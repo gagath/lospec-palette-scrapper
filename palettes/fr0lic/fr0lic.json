@@ -1,0 +1,53 @@
+{
+    "_id": "60e82b1abc75a03a98467e54",
+    "tags": [
+        "undeady"
+    ],
+    "colors": [
+        "ffffff",
+        "d8f04a",
+        "fa4141",
+        "279165",
+        "2a4578",
+        "6d183a",
+        "260000"
+    ],
+    "downloads": "26",
+    "featured": false,
+    "likes": 5,
+    "comments": 1,
+    "slug": "fr0lic",
+    "publishedAt": "2021-09-09T15:20:00.045Z",
+    "user": {
+        "name": "un_deady",
+        "slug": "undeady"
+    },
+    "title": "FR0LIC",
+    "hashtag": "fr0lic",
+    "description": "A small palette I made out of boredom. Several colours are supposed to be contextually repurposeable, i.e. the soft red can be orange. If you use the palette I'd appreciate if you mention me.",
+    "creator": true,
+    "numberOfColors": 7,
+    "createdAt": "2021-07-09T10:55:22.962Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffffff",
+        "d8f04a",
+        "fa4141",
+        "279165",
+        "2a4578",
+        "6d183a",
+        "260000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "60e82b1abc75a03a98467e54",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

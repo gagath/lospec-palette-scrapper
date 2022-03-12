@@ -1,0 +1,57 @@
+{
+    "_id": "5f1f1f95933a24422e92f8e2",
+    "tags": [
+        "artist",
+        "calmradish",
+        "warm",
+        "yellow",
+        "metal",
+        "gold",
+        "monoramp"
+    ],
+    "colors": [
+        "fafee7",
+        "f2f09d",
+        "dbc064",
+        "ad8041",
+        "674936",
+        "2c2321"
+    ],
+    "downloads": "938",
+    "featured": false,
+    "likes": 29,
+    "comments": 2,
+    "title": "Golden 6",
+    "hashtag": "golden6palette",
+    "description": "My first ever palette, extracted directly from memories",
+    "creator": true,
+    "slug": "golden-6",
+    "publishedAt": "2020-07-29T00:00:00.018Z",
+    "user": {
+        "name": "CalmRadish",
+        "slug": "calmradish"
+    },
+    "numberOfColors": 6,
+    "createdAt": "2020-07-27T18:40:21.209Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "fafee7",
+        "f2f09d",
+        "dbc064",
+        "ad8041",
+        "674936",
+        "2c2321"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5f1f1f95933a24422e92f8e2",
+        "type": "palettes",
+        "count": 29,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

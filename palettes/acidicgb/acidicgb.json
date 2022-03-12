@@ -1,0 +1,45 @@
+{
+    "_id": "61b20a463f430171ab2b3774",
+    "tags": [],
+    "colors": [
+        "253a38",
+        "7aa44d",
+        "91ea3a",
+        "d2deca"
+    ],
+    "downloads": "61",
+    "featured": false,
+    "likes": 7,
+    "comments": 1,
+    "slug": "acidic-gb",
+    "publishedAt": "2021-12-15T17:00:00.073Z",
+    "user": {
+        "name": "popcorn",
+        "slug": "pixilpoppy"
+    },
+    "title": "acidic gb",
+    "hashtag": "acidicgb",
+    "description": "A small, gameboy-like pallette to match the green of an evil lab, the stew of a witch, or the leafness of spring.",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-12-09T13:53:10.222Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "253a38",
+        "7aa44d",
+        "91ea3a",
+        "d2deca"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61b20a463f430171ab2b3774",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,49 @@
+{
+    "_id": "5fdbbd97f2bcbc157ceaa45e",
+    "tags": [
+        "gameboy",
+        " monoramp",
+        " cold"
+    ],
+    "colors": [
+        "071127",
+        "2d5b78",
+        "6fa5b3",
+        "e8e6d9"
+    ],
+    "downloads": "298",
+    "featured": false,
+    "likes": 13,
+    "comments": 3,
+    "title": "Gothic Winter (GB)",
+    "hashtag": "gothicwinter",
+    "description": "Cold, Gameboy ramp.",
+    "creator": true,
+    "slug": "gothic-winter-gb",
+    "publishedAt": "2020-12-18T20:30:00.038Z",
+    "user": {
+        "name": "Brennan Patrick",
+        "slug": "brennan-patrick"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-12-17T20:20:39.445Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "071127",
+        "2d5b78",
+        "6fa5b3",
+        "e8e6d9"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5fdbbd97f2bcbc157ceaa45e",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

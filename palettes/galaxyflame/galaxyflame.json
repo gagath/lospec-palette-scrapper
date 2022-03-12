@@ -1,0 +1,91 @@
+{
+    "_id": "5d9a2153dc982c67d873d7c1",
+    "slug": "galaxy-flame",
+    "description": "Made this for the \"Let the Galaxy Burn\" event (though I did not finish my wip in time). Warm tones for distant galactic gas clouds, flames and stars, and the cool tones for skies, spaceships, and other science-fictional constructs. Semi-saturated darks in red, blue, and green to keep some life in the deep places.",
+    "colors": [
+        "699fad",
+        "3a708e",
+        "2b454f",
+        "111215",
+        "151d1a",
+        "1d3230",
+        "314e3f",
+        "4f5d42",
+        "9a9f87",
+        "ede6cb",
+        "f5d893",
+        "e8b26f",
+        "b6834c",
+        "704d2b",
+        "40231e",
+        "151015"
+    ],
+    "comments": 0,
+    "likes": 132,
+    "createdAt": "2019-10-06T17:16:03.733Z",
+    "featured": false,
+    "tags": [
+        "artist",
+        "rhoq"
+    ],
+    "downloads": "3,070",
+    "numberOfColors": 16,
+    "creator": true,
+    "hashtag": "galaxyflame",
+    "title": "Galaxy Flame",
+    "user": {
+        "name": "Rhoq",
+        "slug": "rhoq"
+    },
+    "publishedAt": "2019-10-06T17:16:03.733Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5d9a2182dc982c67d873d7c4",
+            "description": "Palette usage example by Rhoq",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.203Z",
+            "creator": false,
+            "image": "palette-examples/galaxy-flame-palette-example-palette-usage-example-by-rhoq-5d9a21.png",
+            "likes": 0,
+            "parent": "5d9a2153dc982c67d873d7c1",
+            "slug": "galaxy-flame-palette-example-palette-usage-example-by-rhoq",
+            "title": "galaxy flame palette example palette usage example by rhoq",
+            "updatedAt": "2020-07-31T03:56:11.203Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Rhoq"
+        }
+    ],
+    "colorsArray": [
+        "699fad",
+        "3a708e",
+        "2b454f",
+        "111215",
+        "151d1a",
+        "1d3230",
+        "314e3f",
+        "4f5d42",
+        "9a9f87",
+        "ede6cb",
+        "f5d893",
+        "e8b26f",
+        "b6834c",
+        "704d2b",
+        "40231e",
+        "151015"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5d9a2153dc982c67d873d7c1",
+        "type": "palettes",
+        "count": 132,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

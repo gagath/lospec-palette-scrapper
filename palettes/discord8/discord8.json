@@ -1,0 +1,53 @@
+{
+    "_id": "61423b6fb60658436304c808",
+    "tags": [],
+    "colors": [
+        "000000",
+        "151517",
+        "232323",
+        "1e243d",
+        "3737b3",
+        "5865f2",
+        "bdd8e6",
+        "ffffff"
+    ],
+    "downloads": "37",
+    "featured": false,
+    "likes": 3,
+    "comments": 0,
+    "slug": "discord-8",
+    "publishedAt": "2021-10-09T17:45:00.042Z",
+    "user": {
+        "name": "popcorn",
+        "slug": "pixilpoppy"
+    },
+    "title": "discord-8",
+    "hashtag": "discord8",
+    "description": "a pallette that i made with the discord blurple and other fan colors. meant to give colder vibes.",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-09-15T18:29:03.354Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "151517",
+        "232323",
+        "1e243d",
+        "3737b3",
+        "5865f2",
+        "bdd8e6",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61423b6fb60658436304c808",
+        "type": "palettes",
+        "count": 3,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

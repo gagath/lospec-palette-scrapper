@@ -1,0 +1,73 @@
+{
+    "_id": "603156ef519724514cc28fb9",
+    "tags": [
+        "gameboy",
+        " 2bits",
+        " pink",
+        " valentineday"
+    ],
+    "colors": [
+        "e5bedd",
+        "db6cb1",
+        "c33574",
+        "7a0030"
+    ],
+    "downloads": "166",
+    "featured": false,
+    "likes": 19,
+    "comments": 2,
+    "title": "Late Valentine's",
+    "hashtag": "latevalentinespalette",
+    "description": "Just some pink colors.",
+    "creator": true,
+    "slug": "late-valentines",
+    "publishedAt": "2021-02-24T03:20:00.029Z",
+    "user": {
+        "name": "AleJ",
+        "slug": "bluecactusguy"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-02-20T18:37:35.181Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607f85db9227cd7cfff6264a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Late Valentine's Palette Example by Casei Solus",
+            "slug": "late-valentines-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-21T16:50:00.023Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "603156ef519724514cc28fb9",
+            "image": "palette-examples/late-valentines-palette-example-by-casei-solus-607f85.png",
+            "creator": true,
+            "description": "A Valentines-inspired design.",
+            "createdAt": "2021-04-21T01:54:35.675Z",
+            "updatedAt": "2021-04-21T16:50:00.023Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A Valentines-inspired design."
+        }
+    ],
+    "colorsArray": [
+        "e5bedd",
+        "db6cb1",
+        "c33574",
+        "7a0030"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "603156ef519724514cc28fb9",
+        "type": "palettes",
+        "count": 19,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

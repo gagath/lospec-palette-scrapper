@@ -1,0 +1,57 @@
+{
+    "_id": "5e8b31b839285f6fb4a37423",
+    "title": "Channel F v2",
+    "hashtag": "channelf",
+    "description": "Colors used in for the '70s game console \"Fairchild Channel F\". I apparently left out a shade of gray in my first upload, just wanna make sure all colors are correct and preserved appropriately.\u00a0",
+    "creator": false,
+    "colors": [
+        "e0e0e0",
+        "101010",
+        "91ffa6",
+        "ced0ff",
+        "fcfcfc",
+        "ff3153",
+        "02cc5d",
+        "4b3ff3"
+    ],
+    "slug": "channel-f-v2",
+    "user": {
+        "name": "Jubb Obunga",
+        "slug": "jubb-obunga"
+    },
+    "numberOfColors": 8,
+    "publishedAt": "2020-05-03T20:05:00.014Z",
+    "createdAt": "2020-04-06T13:42:16.104Z",
+    "comments": 0,
+    "likes": 2,
+    "featured": false,
+    "downloads": "60",
+    "tags": [
+        "70s",
+        "channel f",
+        "8 bit"
+    ],
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "e0e0e0",
+        "101010",
+        "91ffa6",
+        "ced0ff",
+        "fcfcfc",
+        "ff3153",
+        "02cc5d",
+        "4b3ff3"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5e8b31b839285f6fb4a37423",
+        "type": "palettes",
+        "count": 2,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,48 @@
+{
+    "_id": "620a246b4016d2112c9135a7",
+    "tags": [
+        "gb",
+        "polyphrog"
+    ],
+    "colors": [
+        "c8c6b2",
+        "747759",
+        "3a4222",
+        "142209"
+    ],
+    "downloads": "75",
+    "featured": false,
+    "likes": 7,
+    "comments": 0,
+    "slug": "marble-olive",
+    "publishedAt": "2022-02-16T03:40:00.051Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "marble olive",
+    "hashtag": "marbleolive",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2022-02-14T09:44:11.020Z",
+    "isNew": true,
+    "sortNewest": "2022-02-16T03:40:00.051Z",
+    "examples": [],
+    "colorsArray": [
+        "c8c6b2",
+        "747759",
+        "3a4222",
+        "142209"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "620a246b4016d2112c9135a7",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

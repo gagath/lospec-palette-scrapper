@@ -1,0 +1,72 @@
+{
+    "_id": "5f08ab8537f6487a36ef8f76",
+    "tags": [
+        "isasstudio",
+        "smooth"
+    ],
+    "colors": [
+        "0d1521",
+        "350629",
+        "ffffee",
+        "6eebf2",
+        "308ace",
+        "254371",
+        "192140",
+        "2b6276",
+        "36ad6e",
+        "a1ff7b",
+        "ffca5c",
+        "eb6e21",
+        "9f2a38",
+        "57102e",
+        "a44141",
+        "ffcc9d"
+    ],
+    "downloads": "295",
+    "featured": false,
+    "likes": 19,
+    "comments": 3,
+    "title": "Smooth 16",
+    "hashtag": "smooth16",
+    "description": "",
+    "creator": true,
+    "slug": "smooth-16",
+    "publishedAt": "2020-07-15T21:45:00.014Z",
+    "user": {
+        "name": "Isa",
+        "slug": "isas-studio"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-07-10T17:55:17.238Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "0d1521",
+        "350629",
+        "ffffee",
+        "6eebf2",
+        "308ace",
+        "254371",
+        "192140",
+        "2b6276",
+        "36ad6e",
+        "a1ff7b",
+        "ffca5c",
+        "eb6e21",
+        "9f2a38",
+        "57102e",
+        "a44141",
+        "ffcc9d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5f08ab8537f6487a36ef8f76",
+        "type": "palettes",
+        "count": 19,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,71 @@
+{
+    "_id": "60d7abf70c86b01bfd665d1d",
+    "tags": [
+        "eclipse89"
+    ],
+    "colors": [
+        "ece0d3",
+        "a6afb7",
+        "937c65",
+        "625c5a",
+        "371b1b",
+        "713725",
+        "b73a2f",
+        "e17e39",
+        "f2c237",
+        "6ca239",
+        "36753d",
+        "3b4ca8",
+        "5f91c1",
+        "6bc7ab",
+        "d0589f",
+        "8d55ae"
+    ],
+    "downloads": "166",
+    "featured": false,
+    "likes": 7,
+    "comments": 1,
+    "slug": "bounce-16",
+    "publishedAt": "2021-07-10T04:55:00.019Z",
+    "user": {
+        "name": "Eclipse89",
+        "slug": "eclipse89"
+    },
+    "title": "Bounce-16",
+    "hashtag": "bounce16",
+    "description": "Small but vibrant 16 color palette, useful for a cartoony aesthetic and simpler designs.",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2021-06-26T22:36:39.505Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ece0d3",
+        "a6afb7",
+        "937c65",
+        "625c5a",
+        "371b1b",
+        "713725",
+        "b73a2f",
+        "e17e39",
+        "f2c237",
+        "6ca239",
+        "36753d",
+        "3b4ca8",
+        "5f91c1",
+        "6bc7ab",
+        "d0589f",
+        "8d55ae"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60d7abf70c86b01bfd665d1d",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

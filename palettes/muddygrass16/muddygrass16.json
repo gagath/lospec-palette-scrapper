@@ -1,0 +1,119 @@
+{
+    "_id": "61ddb7331d7d8378f6110755",
+    "tags": [
+        "muddy",
+        "grass",
+        "16",
+        "soundsdotzip"
+    ],
+    "colors": [
+        "100a0a",
+        "333025",
+        "585e53",
+        "a5a589",
+        "eae5d1",
+        "dec666",
+        "97ab50",
+        "516b38",
+        "25150f",
+        "522732",
+        "9c323c",
+        "c4663d",
+        "e48d80",
+        "6392af",
+        "2c3c6a",
+        "2c1d34"
+    ],
+    "downloads": "398",
+    "featured": false,
+    "likes": 41,
+    "comments": 4,
+    "slug": "muddygrass16",
+    "publishedAt": "2022-01-12T12:25:00.088Z",
+    "user": {
+        "name": "SoundsDotZip",
+        "slug": "soundsdotzip"
+    },
+    "title": "MuddyGrass16",
+    "hashtag": "muddygrass16",
+    "description": "This is my second 16 colours palette, and I really like its colours! Hope you like it too!",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2022-01-11T16:58:27.238Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61ddb76f1d7d8378f6110758",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "MuddyGrass16 Palette Example by SoundsDotZip",
+            "slug": "muddygrass16-palette-example-by-soundsdotziph9m986",
+            "publishedAt": "2022-01-11T17:10:00.026Z",
+            "user": {
+                "name": "SoundsDotZip",
+                "slug": "soundsdotzip"
+            },
+            "parent": "61ddb7331d7d8378f6110755",
+            "image": "palette-examples/muddygrass16-palette-example-by-soundsdotziph9m986.png",
+            "creator": true,
+            "description": "Small example on the right is made by Polyphrog",
+            "createdAt": "2022-01-11T16:59:27.546Z",
+            "updatedAt": "2022-01-11T17:10:00.026Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Small example on the right is made by Polyphrog"
+        },
+        {
+            "_id": "61df3b37171ab11fe2aa0654",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "MuddyGrass16 Palette Example by Isa",
+            "slug": "muddygrass16-palette-example-by-isasrzgyd",
+            "publishedAt": "2022-01-15T04:50:00.030Z",
+            "user": {
+                "name": "Isa",
+                "slug": "isas-studio"
+            },
+            "parent": "61ddb7331d7d8378f6110755",
+            "image": "palette-examples/muddygrass16-palette-example-by-isasrzgyd.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-01-12T20:33:59.784Z",
+            "updatedAt": "2022-01-15T04:50:00.031Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "100a0a",
+        "333025",
+        "585e53",
+        "a5a589",
+        "eae5d1",
+        "dec666",
+        "97ab50",
+        "516b38",
+        "25150f",
+        "522732",
+        "9c323c",
+        "c4663d",
+        "e48d80",
+        "6392af",
+        "2c3c6a",
+        "2c1d34"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61ddb7331d7d8378f6110755",
+        "type": "palettes",
+        "count": 41,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

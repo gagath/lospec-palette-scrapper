@@ -1,0 +1,102 @@
+{
+    "_id": "5f298fba47fd03175a154829",
+    "tags": [
+        "fruitcake",
+        " antarctica",
+        " centennial"
+    ],
+    "colors": [
+        "cacbcc",
+        "c3b9a1",
+        "adb095",
+        "858d8f",
+        "6d727c",
+        "3e3937",
+        "241e1e",
+        "484232",
+        "7b6d37",
+        "948558",
+        "b7a082",
+        "b59062",
+        "9e6c47",
+        "7d5a4f",
+        "564b49",
+        "55271e",
+        "844624",
+        "965d25",
+        "d19f3f"
+    ],
+    "downloads": "1,108",
+    "featured": false,
+    "likes": 70,
+    "comments": 4,
+    "title": "Centennial Fruitcake",
+    "hashtag": "centennialfruitcake",
+    "description": "A palette designed to please your palate - colors extracted from a 100 year old fruitcake that was found in Antarctica, in excellent condition.",
+    "creator": true,
+    "slug": "centennial-fruitcake",
+    "publishedAt": "2020-08-06T20:10:00.029Z",
+    "user": {
+        "name": "Gors",
+        "slug": "spritergors"
+    },
+    "numberOfColors": 19,
+    "createdAt": "2020-08-04T16:41:30.339Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f29914247fd03175a154845",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/centennial-fruitcake-palette-example-by-gors-5f2991.png",
+            "creator": true,
+            "description": "",
+            "title": "Centennial Fruitcake Palette Example by Gors",
+            "slug": "centennial-fruitcake-palette-example-by-gors",
+            "publishedAt": "2020-08-06T14:15:00.012Z",
+            "user": {
+                "name": "Gors",
+                "slug": "spritergors"
+            },
+            "parent": "5f298fba47fd03175a154829",
+            "createdAt": "2020-08-04T16:48:02.537Z",
+            "updatedAt": "2020-08-06T14:15:00.013Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "cacbcc",
+        "c3b9a1",
+        "adb095",
+        "858d8f",
+        "6d727c",
+        "3e3937",
+        "241e1e",
+        "484232",
+        "7b6d37",
+        "948558",
+        "b7a082",
+        "b59062",
+        "9e6c47",
+        "7d5a4f",
+        "564b49",
+        "55271e",
+        "844624",
+        "965d25",
+        "d19f3f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 10,
+    "height": 32,
+    "likebutton": {
+        "content": "5f298fba47fd03175a154829",
+        "type": "palettes",
+        "count": 70,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

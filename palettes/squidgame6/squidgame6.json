@@ -1,0 +1,53 @@
+{
+    "_id": "6161f3ba844c2907c8be732d",
+    "tags": [
+        "squidgame",
+        "tvshow",
+        "squid"
+    ],
+    "colors": [
+        "c1d5a0",
+        "cb82b9",
+        "179cbd",
+        "004a3d",
+        "bc1f3a",
+        "2f2725"
+    ],
+    "downloads": "37",
+    "featured": false,
+    "likes": 4,
+    "comments": 0,
+    "slug": "squidgame6",
+    "publishedAt": "2021-10-16T13:45:00.013Z",
+    "user": {
+        "name": "Marisa B",
+        "slug": "marisa-b"
+    },
+    "title": "SquidGame6",
+    "hashtag": "squidgame6",
+    "description": "6 colors from the costumes and stairs in \"Squid Game\"",
+    "creator": false,
+    "numberOfColors": 6,
+    "createdAt": "2021-10-09T19:55:38.119Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "c1d5a0",
+        "cb82b9",
+        "179cbd",
+        "004a3d",
+        "bc1f3a",
+        "2f2725"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "6161f3ba844c2907c8be732d",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,80 @@
+{
+    "_id": "5f7ea784907ea92b045e3e58",
+    "tags": [
+        "tarot",
+        "paper",
+        "3bit"
+    ],
+    "colors": [
+        "0c0c0c",
+        "273dd9",
+        "007738",
+        "ff3f14",
+        "e3c72b",
+        "ffb080",
+        "94b3ff",
+        "ffd8cc"
+    ],
+    "downloads": "189",
+    "featured": false,
+    "likes": 20,
+    "comments": 0,
+    "title": "Palette of Marseille",
+    "hashtag": "paletteofmarseille",
+    "description": "A palette based on the colours found in the Tarot of Marseille, specifically Nicholas Conver's version.",
+    "creator": true,
+    "slug": "palette-of-marseille",
+    "publishedAt": "2020-10-08T15:20:00.039Z",
+    "user": {
+        "name": "R3cl41m3r",
+        "slug": "r3cl41m3r"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2020-10-08T05:45:40.092Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f7eba96907ea92b045e3f1e",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/palette-of-marseille-palette-example-by-r3cl41m3r-5f7eba.png",
+            "creator": true,
+            "description": "",
+            "title": "Palette of Marseille Palette Example by R3cl41m3r",
+            "slug": "palette-of-marseille-palette-example-by-r3cl41m3r",
+            "publishedAt": "2020-10-08T15:20:00.026Z",
+            "user": {
+                "name": "R3cl41m3r",
+                "slug": "r3cl41m3r"
+            },
+            "parent": "5f7ea784907ea92b045e3e58",
+            "createdAt": "2020-10-08T07:07:02.031Z",
+            "updatedAt": "2020-10-08T15:20:00.026Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "0c0c0c",
+        "273dd9",
+        "007738",
+        "ff3f14",
+        "e3c72b",
+        "ffb080",
+        "94b3ff",
+        "ffd8cc"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5f7ea784907ea92b045e3e58",
+        "type": "palettes",
+        "count": 20,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

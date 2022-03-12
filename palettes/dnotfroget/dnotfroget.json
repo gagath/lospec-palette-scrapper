@@ -1,0 +1,77 @@
+{
+    "_id": "609f48127301f724f47c6f30",
+    "tags": [
+        "pink",
+        "pastel",
+        "lavender",
+        "soft"
+    ],
+    "colors": [
+        "253657",
+        "6f4367",
+        "e76d8a",
+        "f5a1a1",
+        "f8e9e5",
+        "a69aca"
+    ],
+    "downloads": "1,375",
+    "featured": false,
+    "likes": 122,
+    "comments": 2,
+    "slug": "dnot-froget",
+    "publishedAt": "2021-05-16T21:35:00.026Z",
+    "user": {
+        "name": "sukinapan",
+        "slug": "sukinapan"
+    },
+    "title": "Dno't Froget",
+    "hashtag": "dnotfroget",
+    "description": "a pinkish palette with a touch of lavender",
+    "creator": true,
+    "createdAt": "2021-05-15T04:03:30.051Z",
+    "numberOfColors": 6,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "609f48987301f724f47c6f38",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Dno't Froget Palette Example by sukinapan",
+            "slug": "dnot-froget-palette-example-by-sukinapan",
+            "publishedAt": "2021-05-16T15:40:00.011Z",
+            "user": {
+                "name": "sukinapan",
+                "slug": "sukinapan"
+            },
+            "parent": "609f48127301f724f47c6f30",
+            "image": "palette-examples/dnot-froget-palette-example-by-sukinapan-609f48.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-05-15T04:05:44.557Z",
+            "updatedAt": "2021-05-16T15:40:00.011Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "253657",
+        "6f4367",
+        "e76d8a",
+        "f5a1a1",
+        "f8e9e5",
+        "a69aca"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "609f48127301f724f47c6f30",
+        "type": "palettes",
+        "count": 122,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

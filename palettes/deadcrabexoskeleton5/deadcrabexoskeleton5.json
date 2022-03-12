@@ -1,0 +1,77 @@
+{
+    "_id": "606687a822de9454015abd26",
+    "tags": [
+        "crab",
+        "red",
+        "yellow",
+        "blue",
+        "braquen",
+        "artist"
+    ],
+    "colors": [
+        "f6f4e4",
+        "e5cf2b",
+        "c72515",
+        "2e3282",
+        "02031f"
+    ],
+    "downloads": "42",
+    "featured": false,
+    "likes": 7,
+    "comments": 0,
+    "slug": "dead-crab-exoskeleton",
+    "publishedAt": "2021-04-06T05:30:00.050Z",
+    "user": {
+        "name": "Braquen",
+        "slug": "braquen"
+    },
+    "title": "Dead Crab Exoskeleton",
+    "hashtag": "deadcrabexoskeleton5",
+    "description": "A palette made for Taks for winning my palette raffle. The taste of Maryland crab seasoning in color form. Crab Rave!",
+    "creator": true,
+    "createdAt": "2021-04-02T02:55:36.373Z",
+    "numberOfColors": 5,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "606c250d7a460f0902a7a78e",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Dead Crab Exoskeleton Palette Example by Casei Solus",
+            "slug": "dead-crab-exoskeleton-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-06T19:30:02.286Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "606687a822de9454015abd26",
+            "image": "palette-examples/dead-crab-exoskeleton-palette-example-by-casei-solus-606c25.png",
+            "creator": true,
+            "description": "A crab on waves colored like the Maryland state flag.",
+            "createdAt": "2021-04-06T09:08:29.942Z",
+            "updatedAt": "2021-04-06T19:30:02.287Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A crab on waves colored like the Maryland state flag."
+        }
+    ],
+    "colorsArray": [
+        "f6f4e4",
+        "e5cf2b",
+        "c72515",
+        "2e3282",
+        "02031f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "606687a822de9454015abd26",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

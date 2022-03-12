@@ -1,0 +1,73 @@
+{
+    "_id": "5f9f0fafcacc576d6ab19b4b",
+    "tags": [
+        "love",
+        " cute",
+        " breakup"
+    ],
+    "colors": [
+        "f1f2da",
+        "514e61",
+        "00232b",
+        "500f22",
+        "761f28",
+        "cc3636",
+        "6e3f73",
+        "ce4b7a",
+        "eea0d3",
+        "ff7777",
+        "ffce96",
+        "f2ef91",
+        "9c9ee7",
+        "477777",
+        "33517d",
+        "25334d"
+    ],
+    "downloads": "163",
+    "featured": false,
+    "likes": 12,
+    "comments": 0,
+    "title": "Lovey-Dovey 16",
+    "hashtag": "loveydovey16",
+    "description": "A 16 color pallete inspired by the feelings associated with love and all that fun stuff, made for aid with a school project.",
+    "creator": true,
+    "slug": "lovey-dovey-16",
+    "publishedAt": "2021-01-30T18:25:00.026Z",
+    "user": {
+        "name": "gavino",
+        "slug": "gavino"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-11-01T19:42:39.375Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "f1f2da",
+        "514e61",
+        "00232b",
+        "500f22",
+        "761f28",
+        "cc3636",
+        "6e3f73",
+        "ce4b7a",
+        "eea0d3",
+        "ff7777",
+        "ffce96",
+        "f2ef91",
+        "9c9ee7",
+        "477777",
+        "33517d",
+        "25334d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5f9f0fafcacc576d6ab19b4b",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

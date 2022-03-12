@@ -1,0 +1,55 @@
+{
+    "_id": "61816f3a55880d0fde587e7f",
+    "tags": [],
+    "colors": [
+        "26140a",
+        "4a2626",
+        "5d4447",
+        "af5823",
+        "b46f24",
+        "808123",
+        "627344",
+        "747f74",
+        "968a70"
+    ],
+    "downloads": "94",
+    "featured": false,
+    "likes": 10,
+    "comments": 1,
+    "slug": "dark-autumn",
+    "publishedAt": "2021-11-06T02:10:00.039Z",
+    "user": {
+        "name": "John Sergheiv",
+        "slug": "john-sergheiv"
+    },
+    "title": "Dark autumn",
+    "hashtag": "halloween",
+    "description": "Get inspired and paint with this palette, I'll be very happy to see art using it!",
+    "creator": true,
+    "numberOfColors": 9,
+    "createdAt": "2021-11-02T17:02:50.152Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "26140a",
+        "4a2626",
+        "5d4447",
+        "af5823",
+        "b46f24",
+        "808123",
+        "627344",
+        "747f74",
+        "968a70"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "61816f3a55880d0fde587e7f",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

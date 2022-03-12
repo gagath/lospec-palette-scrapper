@@ -1,0 +1,73 @@
+{
+    "_id": "61b216acd1656e7649fd9368",
+    "tags": [
+        "gb",
+        "garfield",
+        "lumpytouch",
+        "lumpy"
+    ],
+    "colors": [
+        "102533",
+        "42678e",
+        "6f9edf",
+        "cecece"
+    ],
+    "downloads": "91",
+    "featured": false,
+    "likes": 9,
+    "comments": 2,
+    "slug": "garfield-gameboyd-blue",
+    "publishedAt": "2021-12-15T09:00:00.074Z",
+    "user": {
+        "name": "le",
+        "slug": "le"
+    },
+    "title": "Garfield Gameboy'd: Blue",
+    "hashtag": "lumpygbblue",
+    "description": "The Blue Gameboy Palette Used In The Animations By The Name Of\u00a0Garfield: Gameboy'd, Created By\u00a0Lumpy Touch",
+    "creator": false,
+    "numberOfColors": 4,
+    "createdAt": "2021-12-09T14:46:04.518Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61baac8fd119f20912cf15b2",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Garfield Gameboy'd: Blue Palette Example by Miguel Angel Garcia Salinas",
+            "slug": "garfield-gameboyd-blue-palette-example-by-miguel-angel-garcia-salinas",
+            "publishedAt": "2021-12-17T19:10:00.023Z",
+            "user": {
+                "name": "Miguel Angel Garcia Salinas",
+                "slug": "miguel-angel-garcia-salinas"
+            },
+            "parent": "61b216acd1656e7649fd9368",
+            "image": "palette-examples/garfield-gameboyd-blue-palette-example-by-miguel-angel-garcia-salinas-61baac.png",
+            "creator": true,
+            "description": "Hise mi primer dibujo ejemplo de una Paleta de color digan como queod :)",
+            "createdAt": "2021-12-16T03:03:43.197Z",
+            "updatedAt": "2021-12-17T19:10:00.023Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Hise mi primer dibujo ejemplo de una Paleta de color digan como queod :)"
+        }
+    ],
+    "colorsArray": [
+        "102533",
+        "42678e",
+        "6f9edf",
+        "cecece"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61b216acd1656e7649fd9368",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

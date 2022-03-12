@@ -1,0 +1,78 @@
+{
+    "_id": "5fc0c2a6c2028345be9d630e",
+    "tags": [
+        "contrast"
+    ],
+    "colors": [
+        "ffffff",
+        "e7d6e9",
+        "b2a3bd",
+        "ecff1a",
+        "507474",
+        "1d3131",
+        "169ec5",
+        "cc1900"
+    ],
+    "downloads": "143",
+    "featured": false,
+    "likes": 21,
+    "comments": 2,
+    "title": "Stella Saturn",
+    "hashtag": "stellasaturn",
+    "description": "",
+    "creator": true,
+    "slug": "stella-saturn",
+    "publishedAt": "2020-12-06T07:45:00.026Z",
+    "user": {
+        "name": "Sonnenstein",
+        "slug": "sonnenstein"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2020-11-27T09:11:02.432Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fc17729d3eeec693954b281",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/stella-saturn-palette-example-by-sonnenstein-5fc177.png",
+            "creator": true,
+            "description": "",
+            "title": "Stella Saturn Palette Example by Sonnenstein",
+            "slug": "stella-saturn-palette-example-by-sonnenstein",
+            "publishedAt": "2020-12-03T20:40:00.019Z",
+            "user": {
+                "name": "Sonnenstein",
+                "slug": "sonnenstein"
+            },
+            "parent": "5fc0c2a6c2028345be9d630e",
+            "createdAt": "2020-11-27T22:01:13.881Z",
+            "updatedAt": "2020-12-03T20:40:00.019Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "ffffff",
+        "e7d6e9",
+        "b2a3bd",
+        "ecff1a",
+        "507474",
+        "1d3131",
+        "169ec5",
+        "cc1900"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fc0c2a6c2028345be9d630e",
+        "type": "palettes",
+        "count": 21,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

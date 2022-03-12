@@ -1,0 +1,100 @@
+{
+    "_id": "602cf9b67823045903c15fc1",
+    "tags": [
+        "monochrom",
+        "alien",
+        "red",
+        "gameboy",
+        "arcade",
+        "flashy",
+        "science",
+        "stress",
+        "space"
+    ],
+    "colors": [
+        "fffcfe",
+        "ff0015",
+        "860020",
+        "11070a"
+    ],
+    "downloads": "413",
+    "featured": false,
+    "likes": 28,
+    "comments": 4,
+    "title": "Red is Dead",
+    "hashtag": "redisdead",
+    "description": "A flashy red palette inspired by akira. It was actually designed for a fight game I was going to make but it works really well with science-fiction and space theme.",
+    "creator": true,
+    "slug": "red-is-dead",
+    "publishedAt": "2021-03-01T15:40:00.030Z",
+    "user": {
+        "name": "Devine Devine",
+        "slug": "devine-devine"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-02-17T11:10:46.803Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "602cfa367823045903c15fc6",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/red-is-dead-palette-example-by-devine-devine-602cfa.png",
+            "creator": false,
+            "description": "The sprites comes from metroid II return of samus on the gameboy.",
+            "title": "Red is Dead Palette Example by Devine Devine",
+            "slug": "red-is-dead-palette-example-by-devine-devine",
+            "publishedAt": "2021-03-10T18:45:00.017Z",
+            "user": {
+                "name": "Devine Devine",
+                "slug": "devine-devine"
+            },
+            "parent": "602cf9b67823045903c15fc1",
+            "createdAt": "2021-02-17T11:12:54.101Z",
+            "updatedAt": "2021-03-10T18:45:00.017Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "The sprites comes from metroid II return of samus on the gameboy."
+        },
+        {
+            "_id": "6046f4d8e8f135358a432a66",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/red-is-dead-palette-example-by-manuadvance-6046f4.png",
+            "creator": true,
+            "description": "",
+            "title": "Red is Dead Palette Example by manuadvance",
+            "slug": "red-is-dead-palette-example-by-manuadvance",
+            "publishedAt": "2021-03-10T18:05:00.015Z",
+            "user": {
+                "name": "manuadvance",
+                "slug": "manuadvance"
+            },
+            "parent": "602cf9b67823045903c15fc1",
+            "createdAt": "2021-03-09T04:08:56.703Z",
+            "updatedAt": "2021-03-10T18:05:00.015Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "fffcfe",
+        "ff0015",
+        "860020",
+        "11070a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "602cf9b67823045903c15fc1",
+        "type": "palettes",
+        "count": 28,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

@@ -1,0 +1,68 @@
+{
+    "_id": "601ae8809e9ddd32ff8c5486",
+    "tags": [],
+    "colors": [
+        "1e1e3c",
+        "50506e",
+        "bebee6",
+        "e6e6ff"
+    ],
+    "downloads": "544",
+    "featured": false,
+    "likes": 41,
+    "comments": 2,
+    "title": "luxA",
+    "hashtag": "luxa",
+    "description": "A palette I created for a sci-fi interactive fiction thing I'm working on. Meant to have cool terminal vibes.",
+    "creator": true,
+    "slug": "luxa",
+    "publishedAt": "2021-02-09T20:40:00.033Z",
+    "user": {
+        "name": "Absolute Error Field",
+        "slug": "bagelbyheart"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-02-03T18:16:32.302Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "601ae8e59e9ddd32ff8c548c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/luxa-palette-example-by-absolute-error-field-601ae8.png",
+            "creator": false,
+            "description": "Palette is color swapped version of Sedona's example for Warmlight. https://lospec.com/palette-list/warmlight and https://lospec.com/palette-examples/warmlight-palette-example-by-sedona.png",
+            "title": "luxA Palette Example by Absolute Error Field",
+            "slug": "luxa-palette-example-by-absolute-error-field",
+            "publishedAt": "2021-02-06T17:05:00.017Z",
+            "user": {
+                "name": "Absolute Error Field",
+                "slug": "bagelbyheart"
+            },
+            "parent": "601ae8809e9ddd32ff8c5486",
+            "createdAt": "2021-02-03T18:18:13.300Z",
+            "updatedAt": "2021-02-06T17:05:00.018Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette is color swapped version of Sedona's example for Warmlight. https://lospec.com/palette-list/warmlight and https://lospec.com/palette-examples/warmlight-palette-example-by-sedona.png"
+        }
+    ],
+    "colorsArray": [
+        "1e1e3c",
+        "50506e",
+        "bebee6",
+        "e6e6ff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "601ae8809e9ddd32ff8c5486",
+        "type": "palettes",
+        "count": 41,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,95 @@
+{
+    "_id": "5fecb52be87237381e0a385e",
+    "tags": [
+        "2bit",
+        "greyscale",
+        "grayscale",
+        "gameboy"
+    ],
+    "colors": [
+        "211e20",
+        "555568",
+        "a0a08b",
+        "e9efec"
+    ],
+    "downloads": "4,638",
+    "featured": false,
+    "likes": 293,
+    "comments": 4,
+    "title": "2bit demichrome",
+    "hashtag": "2bitdemichrome",
+    "description": "A 4 colour palette meant to look very robotic or mechanical, with a cold metallic dark grey and a warm dated plastic light grey balancing perfectly",
+    "creator": true,
+    "slug": "2bit-demichrome",
+    "publishedAt": "2020-12-31T00:50:00.021Z",
+    "user": {
+        "name": "Space Sandwich",
+        "slug": "spacesandwich"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-12-30T17:13:15.930Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fedbec939593652e54d19b5",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/2bit-demichrome-palette-example-by-space-sandwich-5fedbe.png",
+            "creator": true,
+            "description": "",
+            "title": "2bit demichrome Palette Example by Space Sandwich",
+            "slug": "2bit-demichrome-palette-example-by-space-sandwich",
+            "publishedAt": "2021-01-02T00:25:00.021Z",
+            "user": {
+                "name": "Space Sandwich",
+                "slug": "spacesandwich"
+            },
+            "parent": "5fecb52be87237381e0a385e",
+            "createdAt": "2020-12-31T12:06:33.589Z",
+            "updatedAt": "2021-01-02T00:25:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "61352cb96717ec6e5647322c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "2bit demichrome Palette Example by 30pixels",
+            "slug": "2bit-demichrome-palette-example-by-30pixels",
+            "publishedAt": "2021-09-06T12:30:00.035Z",
+            "user": {
+                "name": "30pixels",
+                "slug": "30pixels"
+            },
+            "parent": "5fecb52be87237381e0a385e",
+            "image": "palette-examples/2bit-demichrome-palette-example-by-30pixels-61352c.png",
+            "creator": true,
+            "description": "These is some the work i created with this palette.",
+            "createdAt": "2021-09-05T20:46:49.458Z",
+            "updatedAt": "2021-09-06T12:30:00.035Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": "These is some the work i created with this palette."
+        }
+    ],
+    "colorsArray": [
+        "211e20",
+        "555568",
+        "a0a08b",
+        "e9efec"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5fecb52be87237381e0a385e",
+        "type": "palettes",
+        "count": 293,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

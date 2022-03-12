@@ -1,0 +1,70 @@
+{
+    "_id": "616ada40be48434b541001fa",
+    "tags": [
+        "anoob",
+        "nostalgi2",
+        "1bit",
+        "retro",
+        "grayscale"
+    ],
+    "colors": [
+        "2e253d",
+        "b0b0b0"
+    ],
+    "downloads": "141",
+    "featured": false,
+    "likes": 20,
+    "comments": 0,
+    "slug": "nostalgi2",
+    "publishedAt": "2021-10-18T23:45:00.025Z",
+    "user": {
+        "name": "ANoob",
+        "slug": "anoob"
+    },
+    "title": "Nostalgi2",
+    "hashtag": "nostalgi2",
+    "description": "A reduced version of a grayscale palette I've made some time ago. Meant to give a softer look to 1-bit art.",
+    "creator": true,
+    "numberOfColors": 2,
+    "createdAt": "2021-10-16T13:57:20.316Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "616ada57be48434b541001fe",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Nostalgi2 Palette Example by ANoob",
+            "slug": "nostalgi2-palette-example-by-anoob",
+            "publishedAt": "2021-10-16T18:40:00.011Z",
+            "user": {
+                "name": "ANoob",
+                "slug": "anoob"
+            },
+            "parent": "616ada40be48434b541001fa",
+            "image": "palette-examples/nostalgi2-palette-example-by-anoob-616ada.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-10-16T13:57:43.334Z",
+            "updatedAt": "2021-10-16T18:40:00.011Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "2e253d",
+        "b0b0b0"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "616ada40be48434b541001fa",
+        "type": "palettes",
+        "count": 20,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

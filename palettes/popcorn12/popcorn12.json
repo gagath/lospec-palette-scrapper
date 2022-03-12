@@ -1,0 +1,61 @@
+{
+    "_id": "61bb557d8fe2860dcdbc387f",
+    "tags": [],
+    "colors": [
+        "0e1012",
+        "654e78",
+        "7a73ff",
+        "ffdbab",
+        "a33665",
+        "ff524c",
+        "ff8cd7",
+        "539c81",
+        "4cff79",
+        "f7a359",
+        "ffed78",
+        "fff9d6"
+    ],
+    "downloads": "48",
+    "featured": false,
+    "likes": 7,
+    "comments": 0,
+    "slug": "popcorn-12",
+    "publishedAt": "2021-12-22T00:30:00.054Z",
+    "user": {
+        "name": "popcorn",
+        "slug": "pixilpoppy"
+    },
+    "title": "popcorn-12",
+    "hashtag": "popcorn12",
+    "description": "a little self insert palette that I worked hard on with versatility in mind. it focuses on warm, pastel-like colors and is something I am proud of.",
+    "creator": true,
+    "numberOfColors": 12,
+    "createdAt": "2021-12-16T15:04:29.949Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "0e1012",
+        "654e78",
+        "7a73ff",
+        "ffdbab",
+        "a33665",
+        "ff524c",
+        "ff8cd7",
+        "539c81",
+        "4cff79",
+        "f7a359",
+        "ffed78",
+        "fff9d6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "61bb557d8fe2860dcdbc387f",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

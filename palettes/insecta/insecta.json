@@ -1,0 +1,80 @@
+{
+    "_id": "613f923022abca262035eb4e",
+    "tags": [
+        "warm",
+        "natural",
+        "insect"
+    ],
+    "colors": [
+        "1a1417",
+        "67413a",
+        "af4b3b",
+        "c18549",
+        "d9cbae",
+        "8db35e",
+        "7c8381",
+        "384d64"
+    ],
+    "downloads": "262",
+    "featured": false,
+    "likes": 38,
+    "comments": 1,
+    "slug": "insecta",
+    "publishedAt": "2021-10-09T03:45:00.039Z",
+    "user": {
+        "name": "Space Sandwich",
+        "slug": "spacesandwich"
+    },
+    "title": "Insecta",
+    "hashtag": "insecta",
+    "description": "It was going to be a 6 colour palette but it was better if I added red. This is the first time I do a non linear palette so unbalanced and it turned nice",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-09-13T18:02:24.549Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6146e9dcfe21617a39467550",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Insecta Palette Example by Space Sandwich",
+            "slug": "insecta-palette-example-by-space-sandwich-2",
+            "publishedAt": "2021-09-19T08:25:00.017Z",
+            "user": {
+                "name": "Space Sandwich",
+                "slug": "spacesandwich"
+            },
+            "parent": "613f923022abca262035eb4e",
+            "image": "palette-examples/insecta-palette-example-by-space-sandwich-2-6146e9.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-09-19T07:42:20.899Z",
+            "updatedAt": "2021-09-19T08:25:00.017Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "1a1417",
+        "67413a",
+        "af4b3b",
+        "c18549",
+        "d9cbae",
+        "8db35e",
+        "7c8381",
+        "384d64"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "613f923022abca262035eb4e",
+        "type": "palettes",
+        "count": 38,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

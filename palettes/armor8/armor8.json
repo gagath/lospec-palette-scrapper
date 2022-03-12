@@ -1,0 +1,69 @@
+{
+    "_id": "5c069e8756dc7d3e6258abcd",
+    "slug": "armor-8",
+    "description": "Created by <a target=\"_blank\" href=\"https://twitter.com/RetrosaurDev\">Retrosaur</a>.",
+    "colors": [
+        "181819",
+        "857d7d",
+        "f6f6f5",
+        "444d8e",
+        "463737",
+        "aa3d33",
+        "e9b370",
+        "4a9042"
+    ],
+    "tags": [
+        "artist",
+        "retrosaur"
+    ],
+    "downloads": "483",
+    "numberOfColors": 8,
+    "createdAt": "2018-12-04T15:34:31.604Z",
+    "likes": 14,
+    "comments": 0,
+    "hashtag": "armor8",
+    "title": "Armor 8",
+    "publishedAt": "2018-12-04T15:34:31.604Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5c069edd56dc7d3e6258abce",
+            "description": "Palette usage example by <a target=\"_blank\" href=\"https://twitter.com/RetrosaurDev\">Retrosaur</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.157Z",
+            "creator": false,
+            "image": "palette-examples/armor-8-palette-example-palette-usage-example-by-retrosaur-5c069e.png",
+            "likes": 0,
+            "parent": "5c069e8756dc7d3e6258abcd",
+            "slug": "armor-8-palette-example-palette-usage-example-by-retrosaur",
+            "title": "armor 8 palette example palette usage example by retrosaur",
+            "updatedAt": "2020-07-31T03:56:11.157Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Retrosaur"
+        }
+    ],
+    "colorsArray": [
+        "181819",
+        "857d7d",
+        "f6f6f5",
+        "444d8e",
+        "463737",
+        "aa3d33",
+        "e9b370",
+        "4a9042"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5c069e8756dc7d3e6258abcd",
+        "type": "palettes",
+        "count": 14,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

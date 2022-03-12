@@ -1,0 +1,47 @@
+{
+    "_id": "6043d46ea581cf125a427ce4",
+    "tags": [],
+    "colors": [
+        "f7c38a",
+        "ff8d8d",
+        "ff6666",
+        "a81734",
+        "620d1e"
+    ],
+    "downloads": "127",
+    "featured": false,
+    "likes": 12,
+    "comments": 0,
+    "title": "Cherry Poptarts",
+    "hashtag": "cherrypoptarts",
+    "description": "A simple, cute palette of shades of pink and red, inspired by its namesake.",
+    "creator": true,
+    "slug": "cherry-poptarts",
+    "publishedAt": "2021-03-13T11:40:00.018Z",
+    "user": {
+        "name": "Blue Canary",
+        "slug": "bluecanary"
+    },
+    "numberOfColors": 5,
+    "createdAt": "2021-03-06T19:13:50.279Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "f7c38a",
+        "ff8d8d",
+        "ff6666",
+        "a81734",
+        "620d1e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "6043d46ea581cf125a427ce4",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

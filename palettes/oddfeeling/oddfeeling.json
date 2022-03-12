@@ -1,0 +1,76 @@
+{
+    "_id": "5f3bef3a8b8fd323e4b37b4d",
+    "tags": [],
+    "colors": [
+        "900c3f",
+        "e84a5f",
+        "ff847c",
+        "fc9d9d",
+        "feceab",
+        "ccafaf",
+        "99b898",
+        "ffffff"
+    ],
+    "downloads": "1,876",
+    "featured": false,
+    "likes": 210,
+    "comments": 0,
+    "title": "Odd feeling",
+    "hashtag": "oddfeeling",
+    "description": "",
+    "creator": "1",
+    "slug": "odd-feeling",
+    "publishedAt": "2020-08-21T10:25:00.030Z",
+    "user": {
+        "name": "XENO",
+        "slug": "markphilip"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2020-08-18T15:09:46.681Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f3c5039cced5214a7b19565",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/odd-feeling-palette-example-by-xeno-2-5f3c50.png",
+            "creator": true,
+            "description": "",
+            "title": "Odd feeling Palette Example by XENO",
+            "slug": "odd-feeling-palette-example-by-xeno-2",
+            "publishedAt": "2020-08-21T10:30:00.014Z",
+            "user": {
+                "name": "XENO",
+                "slug": "markphilip"
+            },
+            "parent": "5f3bef3a8b8fd323e4b37b4d",
+            "createdAt": "2020-08-18T22:03:37.950Z",
+            "updatedAt": "2020-08-21T10:30:00.015Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "900c3f",
+        "e84a5f",
+        "ff847c",
+        "fc9d9d",
+        "feceab",
+        "ccafaf",
+        "99b898",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5f3bef3a8b8fd323e4b37b4d",
+        "type": "palettes",
+        "count": 210,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

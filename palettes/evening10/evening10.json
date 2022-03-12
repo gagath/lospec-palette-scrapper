@@ -1,0 +1,63 @@
+{
+    "_id": "5da7484aaa69083e54c812fa",
+    "slug": "evening10",
+    "description": "A desaturated 10-color palette.<br />",
+    "colors": [
+        "ce9a93",
+        "b5725d",
+        "68212d",
+        "1b0d1f",
+        "47446d",
+        "6a8da7",
+        "bcd5ca",
+        "ddddc6",
+        "729f7c",
+        "344233"
+    ],
+    "creator": true,
+    "comments": 1,
+    "likes": 4,
+    "createdAt": "2019-10-16T16:41:46.355Z",
+    "featured": false,
+    "tags": [
+        "desaturated",
+        "10",
+        "evening",
+        "artist",
+        "slavfox"
+    ],
+    "downloads": "125",
+    "numberOfColors": 10,
+    "hashtag": "evening10",
+    "title": "Evening10",
+    "user": {
+        "name": "Slavfox",
+        "slug": "slavfoxman"
+    },
+    "publishedAt": "2019-10-16T16:41:46.355Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ce9a93",
+        "b5725d",
+        "68212d",
+        "1b0d1f",
+        "47446d",
+        "6a8da7",
+        "bcd5ca",
+        "ddddc6",
+        "729f7c",
+        "344233"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5da7484aaa69083e54c812fa",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

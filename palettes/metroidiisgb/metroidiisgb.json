@@ -1,0 +1,62 @@
+{
+    "_id": "58fa9892e15f242214faf173",
+    "createdAt": "2017-04-21T23:41:06.395Z",
+    "slug": "metroid-ii-sgb",
+    "description": "A palette used by <a href=\"https://en.wikipedia.org/wiki/Metroid_II:_Return_of_Samus\">Metroid II: Return of Samus</a> when played on the <a href=\"https://en.wikipedia.org/wiki/Super_Game_Boy\">Super Gameboy</a>.",
+    "colors": [
+        "2c1700",
+        "047e60",
+        "b62558",
+        "aedf1e"
+    ],
+    "tags": [
+        "hardware",
+        "gameboy",
+        "supergameboy"
+    ],
+    "downloads": "775",
+    "numberOfColors": 4,
+    "likes": 23,
+    "comments": 0,
+    "hashtag": "metroidiisgb",
+    "title": "Metroid II (SGB)",
+    "publishedAt": "2017-04-21T23:41:06.395Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "58fa9d90e15f242214faf174",
+            "description": "<a href=\"https://en.wikipedia.org/wiki/Metroid_II:_Return_of_Samus\">Metroid II: Return of Samus</a> Screenshots",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.043Z",
+            "creator": false,
+            "image": "palette-examples/metroid-ii-sgb-palette-example-metroid-ii-return-of-samus-screenshots-58fa9d.png",
+            "likes": 0,
+            "parent": "58fa9892e15f242214faf173",
+            "slug": "metroid-ii-sgb-palette-example-metroid-ii-return-of-samus-screenshots",
+            "title": "metroid ii sgb palette example metroid ii return of samus screenshots",
+            "updatedAt": "2020-07-31T03:56:11.043Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Metroid II: Return of Samus Screenshots"
+        }
+    ],
+    "colorsArray": [
+        "2c1700",
+        "047e60",
+        "b62558",
+        "aedf1e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "58fa9892e15f242214faf173",
+        "type": "palettes",
+        "count": 23,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

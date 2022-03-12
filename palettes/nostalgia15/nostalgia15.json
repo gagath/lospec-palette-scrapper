@@ -1,0 +1,117 @@
+{
+    "_id": "6088ea8a41a9e20db5f2faa0",
+    "tags": [
+        "ghibli",
+        "nostalgic",
+        "landscapes",
+        "arisuki"
+    ],
+    "colors": [
+        "efd0ae",
+        "f6d937",
+        "f8a153",
+        "ef6361",
+        "c7555e",
+        "501733",
+        "71323c",
+        "975e5e",
+        "755b6c",
+        "808faa",
+        "c4bbb8",
+        "74a8a2",
+        "186f5e",
+        "46a45f",
+        "88af92"
+    ],
+    "downloads": "1,463",
+    "featured": false,
+    "likes": 107,
+    "comments": 2,
+    "slug": "nostalgia15",
+    "publishedAt": "2021-06-23T13:15:00.026Z",
+    "user": {
+        "name": "Arisuki",
+        "slug": "arisuki"
+    },
+    "title": "NOSTALGIA15",
+    "hashtag": "nostalgia15",
+    "description": "A fairly limited palette perfect for painting charming, rustic landscapes, reminiscent of the works of Studio Ghibli. A variety of earthy, natural tones are presented in a minimal way that invokes childhood memories and nostalgia. This is a modified and condensed variation of Haboo's\u00a0Neapolitan45\u00a0but more muted (posted with permission!)\u00a0",
+    "creator": true,
+    "createdAt": "2021-04-28T04:54:34.720Z",
+    "numberOfColors": 15,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60ab89a2eb4c445a0cff95e5",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "NOSTALGIA-15 Palette Example by Arisuki",
+            "slug": "nostalgia-15-palette-example-by-arisuki-2",
+            "publishedAt": "2021-05-24T14:55:00.023Z",
+            "user": {
+                "name": "Arisuki",
+                "slug": "arisuki"
+            },
+            "parent": "6088ea8a41a9e20db5f2faa0",
+            "image": "palette-examples/nostalgia-15-palette-example-by-arisuki-2-60ab89.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-05-24T11:10:26.871Z",
+            "updatedAt": "2021-05-24T14:55:00.023Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "610439c23516da7a43be7d4a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "NOSTALGIA-15 Palette Example by Haboo",
+            "slug": "nostalgia-15-palette-example-by-haboo",
+            "publishedAt": "2021-08-22T21:15:00.021Z",
+            "user": {
+                "name": "Haboo",
+                "slug": "haboocas"
+            },
+            "parent": "6088ea8a41a9e20db5f2faa0",
+            "image": "palette-examples/nostalgia-15-palette-example-by-haboo-610439.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-07-30T17:41:22.114Z",
+            "updatedAt": "2021-08-22T21:15:00.022Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "efd0ae",
+        "f6d937",
+        "f8a153",
+        "ef6361",
+        "c7555e",
+        "501733",
+        "71323c",
+        "975e5e",
+        "755b6c",
+        "808faa",
+        "c4bbb8",
+        "74a8a2",
+        "186f5e",
+        "46a45f",
+        "88af92"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6088ea8a41a9e20db5f2faa0",
+        "type": "palettes",
+        "count": 107,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

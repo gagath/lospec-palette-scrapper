@@ -1,0 +1,94 @@
+{
+    "_id": "60da2fcb216989248f19996b",
+    "tags": [
+        "isasstudio"
+    ],
+    "colors": [
+        "0c0b0f",
+        "af3f52",
+        "5f3959",
+        "2e2937",
+        "905c9a",
+        "d78d42",
+        "93593b",
+        "8d92ac",
+        "d47fb0",
+        "dddd50",
+        "75b546",
+        "4a6db2",
+        "f3cb94",
+        "eff0e9",
+        "a7d6da",
+        "56a1c8"
+    ],
+    "downloads": "591",
+    "featured": false,
+    "likes": 35,
+    "comments": 5,
+    "slug": "versitle-16",
+    "publishedAt": "2021-06-29T19:30:00.077Z",
+    "user": {
+        "name": "Isa",
+        "slug": "isas-studio"
+    },
+    "title": "Versitle 16",
+    "hashtag": "versitle16",
+    "description": "Originally based off\u00a0NA-16",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2021-06-28T20:23:39.173Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60da2feb216989248f1999ad",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Versitle 8 Palette Example by Isa",
+            "slug": "versitle-8-palette-example-by-isa",
+            "publishedAt": "2021-06-29T19:30:00.046Z",
+            "user": {
+                "name": "Isa",
+                "slug": "isas-studio"
+            },
+            "parent": "60da2fcb216989248f19996b",
+            "image": "palette-examples/versitle-8-palette-example-by-isa-60da2f.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-06-28T20:24:11.454Z",
+            "updatedAt": "2021-06-29T19:30:00.046Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "0c0b0f",
+        "af3f52",
+        "5f3959",
+        "2e2937",
+        "905c9a",
+        "d78d42",
+        "93593b",
+        "8d92ac",
+        "d47fb0",
+        "dddd50",
+        "75b546",
+        "4a6db2",
+        "f3cb94",
+        "eff0e9",
+        "a7d6da",
+        "56a1c8"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60da2fcb216989248f19996b",
+        "type": "palettes",
+        "count": 35,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

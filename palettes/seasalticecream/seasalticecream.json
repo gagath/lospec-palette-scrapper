@@ -1,0 +1,72 @@
+{
+    "_id": "5f48e8a749fcd5561a0d6281",
+    "tags": [
+        "gameboy",
+        " blue",
+        " ice cream"
+    ],
+    "colors": [
+        "fff6d3",
+        "8be6ff",
+        "608ecf",
+        "3336e8"
+    ],
+    "downloads": "177",
+    "featured": false,
+    "likes": 18,
+    "comments": 0,
+    "title": "Sea Salt Ice Cream",
+    "hashtag": "seasalticecream",
+    "description": "",
+    "creator": "1",
+    "slug": "sea-salt-ice-cream",
+    "publishedAt": "2020-09-08T01:15:00.022Z",
+    "user": {
+        "name": "Bold&Brash",
+        "slug": "boldandbrash"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-08-28T11:21:11.976Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607fa0e59227cd7cfff62750",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Sea Salt Ice Cream Palette Example by Casei Solus",
+            "slug": "sea-salt-ice-cream-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-21T17:20:00.051Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5f48e8a749fcd5561a0d6281",
+            "image": "palette-examples/sea-salt-ice-cream-palette-example-by-casei-solus-607fa0.png",
+            "creator": true,
+            "description": "Snow and snowballs.",
+            "createdAt": "2021-04-21T03:49:57.736Z",
+            "updatedAt": "2021-04-21T17:20:00.052Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Snow and snowballs."
+        }
+    ],
+    "colorsArray": [
+        "fff6d3",
+        "8be6ff",
+        "608ecf",
+        "3336e8"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f48e8a749fcd5561a0d6281",
+        "type": "palettes",
+        "count": 18,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

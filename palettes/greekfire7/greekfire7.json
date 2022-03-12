@@ -1,0 +1,54 @@
+{
+    "_id": "5fb6c7b32005144adafd4a66",
+    "tags": [
+        "7 colors",
+        " green"
+    ],
+    "colors": [
+        "1b1b1b",
+        "432f43",
+        "5853af",
+        "4db0b7",
+        "7ef780",
+        "f7ff1d",
+        "ffffff"
+    ],
+    "downloads": "76",
+    "featured": false,
+    "likes": 17,
+    "comments": 0,
+    "title": "GreekFire7",
+    "hashtag": "greekfire7",
+    "description": "",
+    "creator": true,
+    "slug": "greekfire7",
+    "publishedAt": "2020-11-21T19:45:00.063Z",
+    "user": {
+        "name": "George",
+        "slug": "funnilyunfunny"
+    },
+    "numberOfColors": 7,
+    "createdAt": "2020-11-19T19:29:55.836Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "1b1b1b",
+        "432f43",
+        "5853af",
+        "4db0b7",
+        "7ef780",
+        "f7ff1d",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5fb6c7b32005144adafd4a66",
+        "type": "palettes",
+        "count": 17,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

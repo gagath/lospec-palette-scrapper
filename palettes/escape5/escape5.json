@@ -1,0 +1,49 @@
+{
+    "_id": "61d4c0c5c3ab2f3f41a9b1cf",
+    "tags": [
+        "desaturated"
+    ],
+    "colors": [
+        "2c4239",
+        "75564a",
+        "ba7270",
+        "dec871",
+        "efe4e1"
+    ],
+    "downloads": "36",
+    "featured": false,
+    "likes": 6,
+    "comments": 0,
+    "slug": "escape",
+    "publishedAt": "2022-01-12T04:25:00.076Z",
+    "user": {
+        "name": "maine",
+        "slug": "maine"
+    },
+    "title": "escape",
+    "hashtag": "escape5",
+    "description": "decently versatile 5 color palette",
+    "creator": true,
+    "numberOfColors": 5,
+    "createdAt": "2022-01-04T21:48:53.352Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "2c4239",
+        "75564a",
+        "ba7270",
+        "dec871",
+        "efe4e1"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "61d4c0c5c3ab2f3f41a9b1cf",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

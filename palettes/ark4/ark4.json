@@ -1,0 +1,72 @@
+{
+    "_id": "618585ce7582b4189a633fbc",
+    "tags": [
+        "retro",
+        "green",
+        "satiration"
+    ],
+    "colors": [
+        "1dff00",
+        "0068af",
+        "49006a",
+        "450000"
+    ],
+    "downloads": "51",
+    "featured": false,
+    "likes": 9,
+    "comments": 1,
+    "slug": "ark-4",
+    "publishedAt": "2021-11-11T02:10:00.018Z",
+    "user": {
+        "name": "Blylzz",
+        "slug": "blylzz"
+    },
+    "title": "ARK-4",
+    "hashtag": "ark4",
+    "description": "Paleta de cuatro colores de mucha saturaci\u00f3n con ambiente retro",
+    "creator": false,
+    "numberOfColors": 4,
+    "createdAt": "2021-11-05T19:28:14.748Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6185862e7582b4189a633fbf",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "ARK-4 Palette Example by Blylzz",
+            "slug": "ark-4-palette-example-by-blylzz",
+            "publishedAt": "2021-11-06T09:20:00.021Z",
+            "user": {
+                "name": "Blylzz",
+                "slug": "blylzz"
+            },
+            "parent": "618585ce7582b4189a633fbc",
+            "image": "palette-examples/ark-4-palette-example-by-blylzz-618586.png",
+            "creator": true,
+            "description": "IImagen de un terreno de como usar los colores",
+            "createdAt": "2021-11-05T19:29:50.177Z",
+            "updatedAt": "2021-11-06T09:20:00.022Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "IImagen de un terreno de como usar los colores"
+        }
+    ],
+    "colorsArray": [
+        "1dff00",
+        "0068af",
+        "49006a",
+        "450000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "618585ce7582b4189a633fbc",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

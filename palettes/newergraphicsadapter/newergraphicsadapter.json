@@ -1,0 +1,71 @@
+{
+    "_id": "5dcf502c1c9290626c07889a",
+    "slug": "newer-graphics-adapter",
+    "description": "You heard of Cga right? well i made that but Newer",
+    "colors": [
+        "ffffff",
+        "bfbfbf",
+        "ff0000",
+        "7f0000",
+        "ffbe00",
+        "7f5d00",
+        "6aff00",
+        "357f00",
+        "ff00ff",
+        "7f007f",
+        "009569",
+        "00140e",
+        "1d007f",
+        "3e00ff",
+        "7f7f7f",
+        "000000"
+    ],
+    "creator": true,
+    "comments": 2,
+    "likes": 1,
+    "createdAt": "2019-11-16T01:26:04.770Z",
+    "featured": false,
+    "tags": [
+        "purplespalletes"
+    ],
+    "downloads": "60",
+    "numberOfColors": 16,
+    "hashtag": "newergraphicsadapter",
+    "title": "Newer Graphics Adapter",
+    "user": {
+        "name": "Purple Bandit",
+        "slug": "purple-bandit"
+    },
+    "publishedAt": "2019-11-16T01:26:04.770Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffffff",
+        "bfbfbf",
+        "ff0000",
+        "7f0000",
+        "ffbe00",
+        "7f5d00",
+        "6aff00",
+        "357f00",
+        "ff00ff",
+        "7f007f",
+        "009569",
+        "00140e",
+        "1d007f",
+        "3e00ff",
+        "7f7f7f",
+        "000000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5dcf502c1c9290626c07889a",
+        "type": "palettes",
+        "count": 1,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

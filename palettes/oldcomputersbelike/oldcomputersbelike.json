@@ -1,0 +1,94 @@
+{
+    "_id": "60783a7379ee687572a0428e",
+    "tags": [
+        "computer",
+        "computers",
+        "be",
+        "like",
+        "old"
+    ],
+    "colors": [
+        "090d26",
+        "303079",
+        "727ab2",
+        "b6c5d6",
+        "ffffff",
+        "6f3156",
+        "e44b44",
+        "bc743b",
+        "fff043",
+        "27b460",
+        "177edd",
+        "21dff0",
+        "9e42c1",
+        "ff95c4"
+    ],
+    "downloads": "97",
+    "featured": false,
+    "likes": 10,
+    "comments": 2,
+    "slug": "old-computers-be-like",
+    "publishedAt": "2021-04-18T12:15:00.031Z",
+    "user": {
+        "name": "Adam Barrett",
+        "slug": "adam-barrett"
+    },
+    "title": "Old Computers Be Like",
+    "hashtag": "oldcomputersbelike",
+    "description": "A palette I made in recognition that all the old computer palettes look the same\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0I still hue shifted so that the colors don't look (too) ugly",
+    "creator": true,
+    "createdAt": "2021-04-15T13:06:59.321Z",
+    "numberOfColors": 14,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607d5c613e379c37072b1378",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Old Computers Be Like Palette Example by Casei Solus",
+            "slug": "old-computers-be-like-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-20T23:50:00.021Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "60783a7379ee687572a0428e",
+            "image": "palette-examples/old-computers-be-like-palette-example-by-casei-solus-607d5c.png",
+            "creator": true,
+            "description": "A love letter to King's Quest II.",
+            "createdAt": "2021-04-19T10:33:05.636Z",
+            "updatedAt": "2021-04-20T23:50:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A love letter to King's Quest II."
+        }
+    ],
+    "colorsArray": [
+        "090d26",
+        "303079",
+        "727ab2",
+        "b6c5d6",
+        "ffffff",
+        "6f3156",
+        "e44b44",
+        "bc743b",
+        "fff043",
+        "27b460",
+        "177edd",
+        "21dff0",
+        "9e42c1",
+        "ff95c4"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "60783a7379ee687572a0428e",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

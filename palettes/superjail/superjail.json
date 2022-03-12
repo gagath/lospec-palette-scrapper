@@ -1,0 +1,70 @@
+{
+    "_id": "5ef4fa040df3ca409af28107",
+    "tags": [
+        "artist",
+        " yellow",
+        " orange"
+    ],
+    "colors": [
+        "000000",
+        "c85500",
+        "fbf236"
+    ],
+    "downloads": "95",
+    "featured": false,
+    "likes": 7,
+    "comments": 2,
+    "title": "SUPERJAIL",
+    "hashtag": "superjail",
+    "description": "",
+    "creator": "1",
+    "slug": "superjail",
+    "publishedAt": "2020-07-09T00:50:00.015Z",
+    "user": {
+        "name": "RetroPunkZ",
+        "slug": "retropunkz"
+    },
+    "numberOfColors": 3,
+    "createdAt": "2020-06-25T19:24:52.672Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60779a2516f8450fae0b80af",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "SUPERJAIL Palette Example by Casei Solus",
+            "slug": "superjail-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-16T23:25:00.036Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5ef4fa040df3ca409af28107",
+            "image": "palette-examples/superjail-palette-example-by-casei-solus-60779a.png",
+            "creator": true,
+            "description": "A Superjail-inspired piece.",
+            "createdAt": "2021-04-15T01:43:01.872Z",
+            "updatedAt": "2021-04-16T23:25:00.039Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A Superjail-inspired piece."
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "c85500",
+        "fbf236"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 33.333333333333336,
+    "height": 32,
+    "likebutton": {
+        "content": "5ef4fa040df3ca409af28107",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

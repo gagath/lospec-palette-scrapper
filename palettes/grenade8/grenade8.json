@@ -1,0 +1,81 @@
+{
+    "_id": "6059b1c3a452435c873cdf14",
+    "tags": [
+        "green",
+        " grenade",
+        " dim",
+        " brown"
+    ],
+    "colors": [
+        "0d0b08",
+        "131a17",
+        "1b2621",
+        "263d32",
+        "2b5744",
+        "377a5d",
+        "6bad92",
+        "95d9bc"
+    ],
+    "downloads": "466",
+    "featured": false,
+    "likes": 25,
+    "comments": 4,
+    "title": "Grenade 8",
+    "hashtag": "grenade8",
+    "description": "Created by Formless World\r\na refreshing but dark pallet, can have a natural or urban feel to it.",
+    "creator": true,
+    "slug": "grenade-8",
+    "publishedAt": "2021-03-24T18:10:00.022Z",
+    "user": {
+        "name": "Formless World",
+        "slug": "formless-world"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2021-03-23T09:15:47.806Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6059c5e9a452435c873ce09d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/grenade-8-palette-example-by-formless-world-6059c5.png",
+            "creator": true,
+            "description": "Hand grenade, Smoke grenade",
+            "title": "Grenade 8 Palette Example by Formless World",
+            "slug": "grenade-8-palette-example-by-formless-world",
+            "publishedAt": "2021-03-23T15:20:00.015Z",
+            "user": {
+                "name": "Formless World",
+                "slug": "formless-world"
+            },
+            "parent": "6059b1c3a452435c873cdf14",
+            "createdAt": "2021-03-23T10:41:45.803Z",
+            "updatedAt": "2021-03-23T15:20:00.016Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Hand grenade, Smoke grenade"
+        }
+    ],
+    "colorsArray": [
+        "0d0b08",
+        "131a17",
+        "1b2621",
+        "263d32",
+        "2b5744",
+        "377a5d",
+        "6bad92",
+        "95d9bc"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6059b1c3a452435c873cdf14",
+        "type": "palettes",
+        "count": 25,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

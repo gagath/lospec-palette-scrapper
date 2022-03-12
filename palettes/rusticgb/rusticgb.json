@@ -1,0 +1,87 @@
+{
+    "_id": "5adf36bbd64cda308df721b9",
+    "createdAt": "2018-04-24T13:52:59.783Z",
+    "slug": "rustic-gb",
+    "description": "",
+    "colors": [
+        "2c2137",
+        "764462",
+        "edb4a1",
+        "a96868"
+    ],
+    "tags": [
+        "kerrielake",
+        "artist",
+        "gameboy",
+        "monochrome"
+    ],
+    "downloads": "6,551",
+    "numberOfColors": 4,
+    "featured": false,
+    "likes": 298,
+    "comments": 3,
+    "creator": true,
+    "hashtag": "rusticgb",
+    "title": "Rustic GB",
+    "user": {
+        "name": "Kerrie Lake",
+        "slug": "kerrielake"
+    },
+    "publishedAt": "2018-04-24T13:52:59.783Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5b23d5e52f18e54491e8b6c6",
+            "description": "Palette usage example by /u/octacok.",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.114Z",
+            "creator": false,
+            "image": "palette-examples/rustic-gb-palette-example-palette-usage-example-by-u-octacok-5b23d5.png",
+            "likes": 0,
+            "parent": "5adf36bbd64cda308df721b9",
+            "slug": "rustic-gb-palette-example-palette-usage-example-by-u-octacok",
+            "title": "rustic gb palette example palette usage example by u octacok",
+            "updatedAt": "2020-07-31T03:56:11.114Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by /u/octacok."
+        },
+        {
+            "_id": "5d597f87bc76100c65837fb2",
+            "description": "Palette usage example by Boberatu",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.194Z",
+            "creator": false,
+            "image": "palette-examples/rustic-gb-palette-example-palette-usage-example-by-boberatu-5d597f.png",
+            "likes": 0,
+            "parent": "5adf36bbd64cda308df721b9",
+            "slug": "rustic-gb-palette-example-palette-usage-example-by-boberatu",
+            "title": "rustic gb palette example palette usage example by boberatu",
+            "updatedAt": "2020-07-31T03:56:11.194Z",
+            "user": null,
+            "thumbnailOffset": 100,
+            "descriptionText": "Palette usage example by Boberatu"
+        }
+    ],
+    "colorsArray": [
+        "2c2137",
+        "764462",
+        "edb4a1",
+        "a96868"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5adf36bbd64cda308df721b9",
+        "type": "palettes",
+        "count": 298,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

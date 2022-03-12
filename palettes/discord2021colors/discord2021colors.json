@@ -1,0 +1,54 @@
+{
+    "_id": "609d7bd9cd2cc942245f4248",
+    "tags": [
+        "discord",
+        "2021"
+    ],
+    "colors": [
+        "ed4245",
+        "fee75c",
+        "57f287",
+        "5865f2",
+        "eb459e",
+        "ffffff",
+        "000000"
+    ],
+    "downloads": "126",
+    "featured": false,
+    "likes": 12,
+    "comments": 0,
+    "slug": "discord-2021",
+    "publishedAt": "2021-05-17T15:35:00.029Z",
+    "user": {
+        "name": "The Pixel Man",
+        "slug": "thepixelman"
+    },
+    "title": "Discord 2021",
+    "hashtag": "discord2021colors",
+    "description": "The new discord colors. I got them from https://discord.com/brand-new/branding",
+    "creator": false,
+    "createdAt": "2021-05-13T19:19:53.949Z",
+    "numberOfColors": 7,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ed4245",
+        "fee75c",
+        "57f287",
+        "5865f2",
+        "eb459e",
+        "ffffff",
+        "000000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "609d7bd9cd2cc942245f4248",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

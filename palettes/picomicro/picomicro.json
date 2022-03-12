@@ -1,0 +1,78 @@
+{
+    "_id": "61503c5f315b16237cc018aa",
+    "tags": [
+        "pico8"
+    ],
+    "colors": [
+        "000000",
+        "544e5e",
+        "4d8ed9",
+        "00d43b",
+        "ffe4d2",
+        "ffbb0d",
+        "ff3b7a",
+        "913f33"
+    ],
+    "downloads": "173",
+    "featured": false,
+    "likes": 8,
+    "comments": 1,
+    "slug": "pico-micro",
+    "publishedAt": "2021-10-12T01:45:00.038Z",
+    "user": {
+        "name": "Space Sandwich",
+        "slug": "spacesandwich"
+    },
+    "title": "Pico micro",
+    "hashtag": "picomicro",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-09-26T09:24:47.025Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61658d68ccae416df77a475f",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Pico micro Palette Example by Space Sandwich",
+            "slug": "pico-micro-palette-example-by-space-sandwich",
+            "publishedAt": "2021-10-12T16:45:00.024Z",
+            "user": {
+                "name": "Space Sandwich",
+                "slug": "spacesandwich"
+            },
+            "parent": "61503c5f315b16237cc018aa",
+            "image": "palette-examples/pico-micro-palette-example-by-space-sandwich-61658d.png",
+            "creator": false,
+            "description": "Same example used for Pico-8 palette",
+            "createdAt": "2021-10-12T13:28:08.986Z",
+            "updatedAt": "2021-10-12T16:45:00.025Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Same example used for Pico-8 palette"
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "544e5e",
+        "4d8ed9",
+        "00d43b",
+        "ffe4d2",
+        "ffbb0d",
+        "ff3b7a",
+        "913f33"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61503c5f315b16237cc018aa",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,47 @@
+{
+    "_id": "6137b6ccc642ad3491e51153",
+    "tags": [],
+    "colors": [
+        "000000",
+        "0a264d",
+        "134fa3",
+        "38c5f8",
+        "f7fefe"
+    ],
+    "downloads": "50",
+    "featured": false,
+    "likes": 5,
+    "comments": 0,
+    "slug": "nightclub",
+    "publishedAt": "2021-10-05T08:45:00.070Z",
+    "user": {
+        "name": "Razor",
+        "slug": "mason-mirabile"
+    },
+    "title": "nightclub",
+    "hashtag": "nightclub",
+    "description": "simplified version of: https://www.pixilart.com/palettes/nightclub-590 by ThaSilentArtist .",
+    "creator": false,
+    "numberOfColors": 5,
+    "createdAt": "2021-09-07T19:00:28.502Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "0a264d",
+        "134fa3",
+        "38c5f8",
+        "f7fefe"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "6137b6ccc642ad3491e51153",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

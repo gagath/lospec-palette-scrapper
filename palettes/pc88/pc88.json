@@ -1,0 +1,80 @@
+{
+    "_id": "5e5c9b11b473375ab30cf1c0",
+    "slug": "pc-88",
+    "description": "Sampled from a PC-88 game. Will update when the proper title is found.<br />",
+    "colors": [
+        "0000db",
+        "00b6db",
+        "00db6d",
+        "ffb600",
+        "ff926d",
+        "db0000",
+        "dbdbdb",
+        "000000"
+    ],
+    "creator": "0",
+    "hashtag": "pc88",
+    "comments": 0,
+    "likes": 11,
+    "createdAt": "2020-03-02T05:35:13.439Z",
+    "featured": false,
+    "tags": [
+        "hardware",
+        "pc",
+        "computer"
+    ],
+    "downloads": "264",
+    "numberOfColors": 8,
+    "title": "PC-88",
+    "user": {
+        "name": "Rhoq",
+        "slug": "rhoq"
+    },
+    "publishedAt": "2020-03-24T00:48:31.486Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61f17d538794c9432600f630",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "PC-88 Palette Example by Tharkka",
+            "slug": "pc-88-palette-example-by-tharkka8icqm2",
+            "publishedAt": "2022-02-02T15:25:00.268Z",
+            "user": {
+                "name": "Tharkka",
+                "slug": "tharkka"
+            },
+            "parent": "5e5c9b11b473375ab30cf1c0",
+            "image": "palette-examples/pc-88-palette-example-by-tharkka8icqm2.png",
+            "creator": true,
+            "description": "Digimon RPG for the PC88 only",
+            "createdAt": "2022-01-26T16:56:51.317Z",
+            "updatedAt": "2022-02-02T15:25:00.269Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Digimon RPG for the PC88 only"
+        }
+    ],
+    "colorsArray": [
+        "0000db",
+        "00b6db",
+        "00db6d",
+        "ffb600",
+        "ff926d",
+        "db0000",
+        "dbdbdb",
+        "000000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5e5c9b11b473375ab30cf1c0",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

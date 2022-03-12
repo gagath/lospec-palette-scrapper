@@ -1,0 +1,68 @@
+{
+    "_id": "5f9cc6ea86cc8b4879009403",
+    "tags": [],
+    "colors": [
+        "ffe2db",
+        "d9a7c6",
+        "8d89c7",
+        "755f9c"
+    ],
+    "downloads": "954",
+    "featured": false,
+    "likes": 111,
+    "comments": 2,
+    "title": "Moon Crystal",
+    "hashtag": "mooncrystal",
+    "description": "A pillowy soft four-color palette inspired by anime.",
+    "creator": true,
+    "slug": "moon-crystal",
+    "publishedAt": "2020-10-31T02:15:00.028Z",
+    "user": {
+        "name": "Doph",
+        "slug": "dophsart"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-10-31T02:07:38.913Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f9ccaac86cc8b487900942e",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/moon-crystal-palette-example-by-doph-5f9cca.png",
+            "creator": true,
+            "description": "",
+            "title": "Moon Crystal Palette Example by Doph",
+            "slug": "moon-crystal-palette-example-by-doph",
+            "publishedAt": "2020-11-01T15:25:00.018Z",
+            "user": {
+                "name": "Doph",
+                "slug": "dophsart"
+            },
+            "parent": "5f9cc6ea86cc8b4879009403",
+            "createdAt": "2020-10-31T02:23:40.082Z",
+            "updatedAt": "2020-11-01T15:25:00.019Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "ffe2db",
+        "d9a7c6",
+        "8d89c7",
+        "755f9c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f9cc6ea86cc8b4879009403",
+        "type": "palettes",
+        "count": 111,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

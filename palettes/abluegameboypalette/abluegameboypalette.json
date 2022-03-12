@@ -1,0 +1,48 @@
+{
+    "_id": "5dd6d64cd555c347fcaaa18d",
+    "slug": "a-blue-gameboy-palette",
+    "description": "",
+    "colors": [
+        "ffffff",
+        "8888ff",
+        "000088",
+        "000000"
+    ],
+    "creator": true,
+    "comments": 0,
+    "likes": 11,
+    "createdAt": "2019-11-21T18:24:12.353Z",
+    "featured": false,
+    "tags": [
+        "gameboy",
+        "blue"
+    ],
+    "downloads": "171",
+    "numberOfColors": 4,
+    "hashtag": "abluegameboypalette",
+    "title": "A blue gameboy palette",
+    "user": {
+        "name": "Super Bro",
+        "slug": "superbro"
+    },
+    "publishedAt": "2019-11-21T18:24:12.353Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffffff",
+        "8888ff",
+        "000088",
+        "000000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5dd6d64cd555c347fcaaa18d",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,98 @@
+{
+    "_id": "5f7121a2f3e1b25bf3a99157",
+    "tags": [
+        "emeekaeplummer"
+    ],
+    "colors": [
+        "000000",
+        "16053b",
+        "0b0980",
+        "2260ab",
+        "bf002d",
+        "e61700",
+        "ff7930",
+        "ffffff",
+        "d9d9d9",
+        "808080",
+        "0d0003",
+        "1c5c3c",
+        "3acc2d",
+        "a64d00",
+        "e38681",
+        "eda891",
+        "ebb1a0",
+        "46c5db"
+    ],
+    "downloads": "94",
+    "featured": false,
+    "likes": 4,
+    "comments": 0,
+    "title": "the mix bit 18",
+    "hashtag": "themixbit18",
+    "description": "",
+    "creator": true,
+    "slug": "the-mix-bit-18",
+    "publishedAt": "2020-10-02T16:20:00.030Z",
+    "user": {
+        "name": "ARTBOY",
+        "slug": "emeekae-plummer"
+    },
+    "numberOfColors": 18,
+    "createdAt": "2020-09-27T23:34:58.144Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f7121cff3e1b25bf3a9915d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/the-mix-bit-18-palette-example-by-artboy-5f7121.png",
+            "creator": true,
+            "description": "mixtue between SNES and NES pixel art",
+            "title": "the mix bit 18 Palette Example by ARTBOY",
+            "slug": "the-mix-bit-18-palette-example-by-artboy",
+            "publishedAt": "2020-09-28T15:05:00.017Z",
+            "user": {
+                "name": "ARTBOY",
+                "slug": "emeekae-plummer"
+            },
+            "parent": "5f7121a2f3e1b25bf3a99157",
+            "createdAt": "2020-09-27T23:35:43.793Z",
+            "updatedAt": "2020-09-28T15:05:00.018Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "mixtue between SNES and NES pixel art"
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "16053b",
+        "0b0980",
+        "2260ab",
+        "bf002d",
+        "e61700",
+        "ff7930",
+        "ffffff",
+        "d9d9d9",
+        "808080",
+        "0d0003",
+        "1c5c3c",
+        "3acc2d",
+        "a64d00",
+        "e38681",
+        "eda891",
+        "ebb1a0",
+        "46c5db"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 11.11111111111111,
+    "height": 32,
+    "likebutton": {
+        "content": "5f7121a2f3e1b25bf3a99157",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

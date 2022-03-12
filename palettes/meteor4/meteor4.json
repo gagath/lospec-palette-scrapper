@@ -1,0 +1,51 @@
+{
+    "_id": "5f63f57d4450ff69f32a0c03",
+    "tags": [
+        "artist",
+        " shinytseul",
+        " bold",
+        " meteor",
+        " space"
+    ],
+    "colors": [
+        "000033",
+        "731d2b",
+        "99481f",
+        "d9ba21"
+    ],
+    "downloads": "86",
+    "featured": false,
+    "likes": 8,
+    "comments": 0,
+    "title": "Meteor 4",
+    "hashtag": "meteor4",
+    "description": "A very bold 4-color palette with a dark blue to complement the yellow and orange.",
+    "creator": true,
+    "slug": "meteor-4",
+    "publishedAt": "2020-09-20T05:20:00.022Z",
+    "user": {
+        "name": "ShinyTseul",
+        "slug": "shinytseul"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-09-17T23:47:09.664Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000033",
+        "731d2b",
+        "99481f",
+        "d9ba21"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f63f57d4450ff69f32a0c03",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

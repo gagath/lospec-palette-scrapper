@@ -1,0 +1,85 @@
+{
+    "_id": "606313e98c5757072740c170",
+    "tags": [
+        "pink",
+        "green",
+        "blue",
+        "cold"
+    ],
+    "colors": [
+        "fffbef",
+        "ffcdcd",
+        "f6857d",
+        "bd4b6c",
+        "852646",
+        "391f46",
+        "1bdc8d",
+        "028fa0",
+        "32d5ff",
+        "c4fffb"
+    ],
+    "downloads": "580",
+    "featured": false,
+    "likes": 44,
+    "comments": 3,
+    "slug": "sweet-10",
+    "publishedAt": "2021-04-05T05:30:00.049Z",
+    "user": {
+        "name": "Andries van der Heide",
+        "slug": "andries-van-der-heide"
+    },
+    "title": "sweet 10",
+    "hashtag": "sweet10",
+    "description": "",
+    "creator": true,
+    "createdAt": "2021-03-30T12:04:57.286Z",
+    "numberOfColors": 10,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60644f373e89f522cef3e90c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "sweet 10 Palette Example by Henk de Steen",
+            "slug": "sweet-10-palette-example-by-henk-de-steen-2",
+            "publishedAt": "2021-03-31T17:40:00.023Z",
+            "user": {
+                "name": "Andries van der Heide",
+                "slug": "andries-van-der-heide"
+            },
+            "parent": "606313e98c5757072740c170",
+            "image": "palette-examples/sweet-10-palette-example-by-henk-de-steen-2-60644f.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-03-31T10:30:15.174Z",
+            "updatedAt": "2021-03-31T17:40:00.023Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "fffbef",
+        "ffcdcd",
+        "f6857d",
+        "bd4b6c",
+        "852646",
+        "391f46",
+        "1bdc8d",
+        "028fa0",
+        "32d5ff",
+        "c4fffb"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "606313e98c5757072740c170",
+        "type": "palettes",
+        "count": 44,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,45 @@
+{
+    "_id": "5e17f7f3f87a746f5b87c42b",
+    "slug": "pinball-dmd",
+    "description": "",
+    "colors": [
+        "000000",
+        "993300",
+        "cc6600",
+        "ff9900"
+    ],
+    "creator": true,
+    "hashtag": "pinballdmd",
+    "comments": 2,
+    "likes": 11,
+    "createdAt": "2020-01-10T04:05:07.571Z",
+    "featured": false,
+    "tags": [],
+    "downloads": "191",
+    "numberOfColors": 4,
+    "title": "Pinball DMD",
+    "user": {
+        "name": "Pfennig",
+        "slug": "pfennig"
+    },
+    "publishedAt": "2020-01-10T04:05:07.571Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "993300",
+        "cc6600",
+        "ff9900"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5e17f7f3f87a746f5b87c42b",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,117 @@
+{
+    "_id": "6168dbaa98a0285270bed1a0",
+    "tags": [
+        "artist",
+        "retromantis"
+    ],
+    "colors": [
+        "000000",
+        "291a13",
+        "724c30",
+        "b68c56",
+        "fff0a0",
+        "463007",
+        "755a0b",
+        "ab811d",
+        "5e260e",
+        "a1430f",
+        "ff8b18",
+        "f6bf3a",
+        "552012",
+        "9a361e",
+        "eb5731",
+        "ee9852"
+    ],
+    "downloads": "396",
+    "featured": false,
+    "likes": 22,
+    "comments": 2,
+    "slug": "feelthesun-16",
+    "publishedAt": "2021-10-17T19:45:00.023Z",
+    "user": {
+        "name": "Retromantis",
+        "slug": "retromantis"
+    },
+    "title": "FEELTHESUN 16",
+    "hashtag": "feelthesun16",
+    "description": "A warm and sunny colour palette",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2021-10-15T01:38:50.514Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6168eb41ca99a1540611ea72",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "FEELTHESUN 16 Palette Example by Retromantis",
+            "slug": "feelthesun-16-palette-example-by-retromantis",
+            "publishedAt": "2021-10-15T10:15:00.011Z",
+            "user": {
+                "name": "Retromantis",
+                "slug": "retromantis"
+            },
+            "parent": "6168dbaa98a0285270bed1a0",
+            "image": "palette-examples/feelthesun-16-palette-example-by-retromantis-6168eb.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-10-15T02:45:21.669Z",
+            "updatedAt": "2021-10-15T10:15:00.012Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "616b7405e37a6d62132baf35",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "FEELTHESUN 16 Palette Example by Retromantis",
+            "slug": "feelthesun-16-palette-example-by-retromantis-2",
+            "publishedAt": "2021-10-17T16:30:00.025Z",
+            "user": {
+                "name": "Retromantis",
+                "slug": "retromantis"
+            },
+            "parent": "6168dbaa98a0285270bed1a0",
+            "image": "palette-examples/feelthesun-16-palette-example-by-retromantis-2-616b74.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-10-17T00:53:25.031Z",
+            "updatedAt": "2021-10-17T16:30:00.025Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "291a13",
+        "724c30",
+        "b68c56",
+        "fff0a0",
+        "463007",
+        "755a0b",
+        "ab811d",
+        "5e260e",
+        "a1430f",
+        "ff8b18",
+        "f6bf3a",
+        "552012",
+        "9a361e",
+        "eb5731",
+        "ee9852"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6168dbaa98a0285270bed1a0",
+        "type": "palettes",
+        "count": 22,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

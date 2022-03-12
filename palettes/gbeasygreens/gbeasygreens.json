@@ -1,0 +1,62 @@
+{
+    "_id": "59d811bf0323c15352a71abd",
+    "createdAt": "2017-10-06T23:29:03.719Z",
+    "slug": "gb-easy-greens",
+    "description": "Custom <a href=\"https://en.wikipedia.org/wiki/Game_Boy\">Gameboy</a> alternative made by <a href=\"http://grafxkid.tumblr.com/grafxkidpalettes\">GrafxKid</a>.",
+    "colors": [
+        "004333",
+        "0d8833",
+        "a1bc00",
+        "ebdd77"
+    ],
+    "tags": [
+        "artist",
+        "grafxkid",
+        "gameboy"
+    ],
+    "downloads": "491",
+    "numberOfColors": 4,
+    "likes": 16,
+    "comments": 0,
+    "hashtag": "gbeasygreens",
+    "title": "GB Easy Greens",
+    "publishedAt": "2017-10-06T23:29:03.719Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "59d8129a0323c15352a71abe",
+            "description": "Screenshots from various games.",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.062Z",
+            "creator": false,
+            "image": "palette-examples/gb-easy-greens-palette-example-screenshots-from-various-games-59d812.png",
+            "likes": 0,
+            "parent": "59d811bf0323c15352a71abd",
+            "slug": "gb-easy-greens-palette-example-screenshots-from-various-games",
+            "title": "gb easy greens palette example screenshots from various games",
+            "updatedAt": "2020-07-31T03:56:11.062Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Screenshots from various games."
+        }
+    ],
+    "colorsArray": [
+        "004333",
+        "0d8833",
+        "a1bc00",
+        "ebdd77"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "59d811bf0323c15352a71abd",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

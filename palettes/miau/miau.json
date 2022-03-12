@@ -1,0 +1,72 @@
+{
+    "_id": "5f41827d7205e647b9e1eac4",
+    "tags": [],
+    "colors": [
+        "ffcda7",
+        "ff9133",
+        "cb402d",
+        "691c1c",
+        "2d1210",
+        "39868d"
+    ],
+    "downloads": "155",
+    "featured": false,
+    "likes": 13,
+    "comments": 0,
+    "title": "miau",
+    "hashtag": "miau",
+    "description": "",
+    "creator": true,
+    "slug": "miau",
+    "publishedAt": "2020-08-28T20:10:00.020Z",
+    "user": {
+        "name": "luis gustavo",
+        "slug": "luisgstvin"
+    },
+    "numberOfColors": 6,
+    "createdAt": "2020-08-22T20:39:25.341Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61ea36387fa6e16606427329",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "miau Palette Example by chakulette",
+            "slug": "miau-palette-example-by-chakulettenej2zi",
+            "publishedAt": "2022-01-21T12:05:00.028Z",
+            "user": {
+                "name": "chakulette",
+                "slug": "slashlurk99"
+            },
+            "parent": "5f41827d7205e647b9e1eac4",
+            "image": "palette-examples/miau-palette-example-by-chakulettenej2zi.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-01-21T04:27:36.243Z",
+            "updatedAt": "2022-01-21T12:05:00.029Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "ffcda7",
+        "ff9133",
+        "cb402d",
+        "691c1c",
+        "2d1210",
+        "39868d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5f41827d7205e647b9e1eac4",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,58 @@
+{
+    "_id": "5c4b2200102e27084e640bca",
+    "slug": "calder-8",
+    "description": "Created by Philip Dodderidge, inspired by Alexander Calder.",
+    "colors": [
+        "d50407",
+        "eb491d",
+        "fdaa1d",
+        "e2c906",
+        "047937",
+        "08a484",
+        "005fa8",
+        "0c25a5",
+        "2143cb",
+        "751d6b",
+        "807b73"
+    ],
+    "tags": [
+        "artist",
+        "philipdodderidge"
+    ],
+    "downloads": "95",
+    "numberOfColors": 11,
+    "createdAt": "2019-01-25T14:49:36.656Z",
+    "comments": 0,
+    "hashtag": "calder8",
+    "title": "Calder  8",
+    "publishedAt": "2019-01-25T14:49:36.656Z",
+    "creator": false,
+    "featured": false,
+    "likes": 1,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "d50407",
+        "eb491d",
+        "fdaa1d",
+        "e2c906",
+        "047937",
+        "08a484",
+        "005fa8",
+        "0c25a5",
+        "2143cb",
+        "751d6b",
+        "807b73"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5c4b2200102e27084e640bca",
+        "type": "palettes",
+        "count": 1,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

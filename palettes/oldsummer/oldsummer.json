@@ -1,0 +1,63 @@
+{
+    "_id": "60dd8ffe32deb313f58169cf",
+    "tags": [
+        "summer",
+        "sun",
+        "warm",
+        "retro",
+        "love"
+    ],
+    "colors": [
+        "bd956a",
+        "5a655a",
+        "415073",
+        "8b697b",
+        "94384a",
+        "e6d6a4",
+        "6a918b",
+        "8399b4",
+        "9c899c",
+        "de9194"
+    ],
+    "downloads": "196",
+    "featured": false,
+    "likes": 14,
+    "comments": 0,
+    "slug": "oldsummer",
+    "publishedAt": "2021-07-15T22:05:00.023Z",
+    "user": {
+        "name": "Eliimperio",
+        "slug": "eliimperio"
+    },
+    "title": "OLDSUMMER",
+    "hashtag": "oldsummer",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 10,
+    "createdAt": "2021-07-01T09:50:54.999Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "bd956a",
+        "5a655a",
+        "415073",
+        "8b697b",
+        "94384a",
+        "e6d6a4",
+        "6a918b",
+        "8399b4",
+        "9c899c",
+        "de9194"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "60dd8ffe32deb313f58169cf",
+        "type": "palettes",
+        "count": 14,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

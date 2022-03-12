@@ -1,0 +1,118 @@
+{
+    "_id": "5f5bf2e822cccf3d837147aa",
+    "tags": [
+        "filth",
+        "dirty",
+        "dirt",
+        "pastel",
+        "soft"
+    ],
+    "colors": [
+        "2d200a",
+        "483010",
+        "62311d",
+        "863636",
+        "8b686f",
+        "b793a3",
+        "e5d3e2",
+        "b2b36b",
+        "81933d",
+        "637b54",
+        "3c5e40",
+        "417075",
+        "30526c",
+        "273352",
+        "17091a"
+    ],
+    "downloads": "376",
+    "featured": false,
+    "likes": 22,
+    "comments": 7,
+    "title": "Soft & Dirty",
+    "hashtag": "softdirty",
+    "description": "Soft, yet gritty. Pastel, yet grimy.",
+    "creator": true,
+    "slug": "soft-dirty",
+    "publishedAt": "2020-09-20T11:20:00.011Z",
+    "user": {
+        "name": "Cheeseismysoul",
+        "slug": "nomz-toes-420"
+    },
+    "numberOfColors": 15,
+    "createdAt": "2020-09-11T21:58:00.492Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f5e4929be895740e6876fa2",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/soft-dirty-palette-example-by-cheeseismysoul-4-5f5e49.png",
+            "creator": true,
+            "description": "",
+            "title": "Soft & Dirty Palette Example by Cheeseismysoul",
+            "slug": "soft-dirty-palette-example-by-cheeseismysoul-4",
+            "publishedAt": "2020-09-19T17:10:00.022Z",
+            "user": {
+                "name": "Cheeseismysoul",
+                "slug": "nomz-toes-420"
+            },
+            "parent": "5f5bf2e822cccf3d837147aa",
+            "createdAt": "2020-09-13T16:30:33.775Z",
+            "updatedAt": "2020-09-19T17:10:00.022Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "5f63c2204450ff69f32a09ac",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/soft-dirty-palette-example-by-cheeseismysoul-6-5f63c2.png",
+            "creator": true,
+            "description": "Made with the help of Pixel Artist Gors",
+            "title": "Soft & Dirty Palette Example by Cheeseismysoul",
+            "slug": "soft-dirty-palette-example-by-cheeseismysoul-6",
+            "publishedAt": "2020-09-19T17:25:00.008Z",
+            "user": {
+                "name": "Cheeseismysoul",
+                "slug": "nomz-toes-420"
+            },
+            "parent": "5f5bf2e822cccf3d837147aa",
+            "createdAt": "2020-09-17T20:08:00.033Z",
+            "updatedAt": "2020-09-19T17:25:00.013Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": "Made with the help of Pixel Artist Gors"
+        }
+    ],
+    "colorsArray": [
+        "2d200a",
+        "483010",
+        "62311d",
+        "863636",
+        "8b686f",
+        "b793a3",
+        "e5d3e2",
+        "b2b36b",
+        "81933d",
+        "637b54",
+        "3c5e40",
+        "417075",
+        "30526c",
+        "273352",
+        "17091a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5f5bf2e822cccf3d837147aa",
+        "type": "palettes",
+        "count": 22,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

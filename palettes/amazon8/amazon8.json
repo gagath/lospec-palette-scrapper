@@ -1,0 +1,79 @@
+{
+    "_id": "602c697d1e5c8a796cacb7bc",
+    "tags": [
+        "3bit",
+        "amazon"
+    ],
+    "colors": [
+        "4dc2da",
+        "1179aa",
+        "0d4e7e",
+        "06333d",
+        "d4824a",
+        "a92c22",
+        "681517",
+        "310a0b"
+    ],
+    "downloads": "229",
+    "featured": false,
+    "likes": 19,
+    "comments": 1,
+    "title": "Amazon 8",
+    "hashtag": "amazon8",
+    "description": "Based on TEDEd's video on the amazons",
+    "creator": true,
+    "slug": "amazon-8",
+    "publishedAt": "2021-02-22T15:20:00.022Z",
+    "user": {
+        "name": "Fenrir",
+        "slug": "fenrir"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2021-02-17T00:55:25.844Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "602c69c11e5c8a796cacb7c1",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/amazon-8-palette-example-by-fenrir-602c69.png",
+            "creator": true,
+            "description": "",
+            "title": "Amazon 8 Palette Example by Fenrir",
+            "slug": "amazon-8-palette-example-by-fenrir",
+            "publishedAt": "2021-02-17T01:05:00.012Z",
+            "user": {
+                "name": "Fenrir",
+                "slug": "fenrir"
+            },
+            "parent": "602c697d1e5c8a796cacb7bc",
+            "createdAt": "2021-02-17T00:56:33.396Z",
+            "updatedAt": "2021-02-17T01:05:00.012Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "4dc2da",
+        "1179aa",
+        "0d4e7e",
+        "06333d",
+        "d4824a",
+        "a92c22",
+        "681517",
+        "310a0b"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "602c697d1e5c8a796cacb7bc",
+        "type": "palettes",
+        "count": 19,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

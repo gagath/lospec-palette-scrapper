@@ -1,0 +1,73 @@
+{
+    "_id": "603dae92489f5763acf98d90",
+    "tags": [
+        "artist",
+        " star",
+        " starlane"
+    ],
+    "colors": [
+        "e0aaaf",
+        "7f5e85",
+        "322e36",
+        "6a3b50",
+        "ad7f5b",
+        "edd189",
+        "f49c8c",
+        "dc4070",
+        "555562",
+        "918786",
+        "cdbec8",
+        "fbf5db",
+        "b5ddba",
+        "619a8a",
+        "5d7fb1",
+        "a9d3cd"
+    ],
+    "downloads": "208",
+    "featured": false,
+    "likes": 20,
+    "comments": 0,
+    "title": "Harpy 16",
+    "hashtag": "harpy16",
+    "description": "A little palette I made for my boyfriend.",
+    "creator": true,
+    "slug": "harpy-16",
+    "publishedAt": "2021-03-26T04:35:00.028Z",
+    "user": {
+        "name": "Star",
+        "slug": "starlane"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2021-03-02T03:18:42.150Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "e0aaaf",
+        "7f5e85",
+        "322e36",
+        "6a3b50",
+        "ad7f5b",
+        "edd189",
+        "f49c8c",
+        "dc4070",
+        "555562",
+        "918786",
+        "cdbec8",
+        "fbf5db",
+        "b5ddba",
+        "619a8a",
+        "5d7fb1",
+        "a9d3cd"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "603dae92489f5763acf98d90",
+        "type": "palettes",
+        "count": 20,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

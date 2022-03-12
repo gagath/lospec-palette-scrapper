@@ -1,0 +1,47 @@
+{
+    "_id": "60ab81d4eb4c445a0cff959c",
+    "tags": [
+        "hallowen"
+    ],
+    "colors": [
+        "6d009c",
+        "ffcf00",
+        "ff8100",
+        "000000"
+    ],
+    "downloads": "60",
+    "featured": false,
+    "likes": 5,
+    "comments": 0,
+    "slug": "hallowen-dream",
+    "publishedAt": "2021-08-25T06:15:00.025Z",
+    "user": {
+        "name": "PolishGuy",
+        "slug": "polishguy"
+    },
+    "title": "Hallowen Dream",
+    "hashtag": "hallowen",
+    "description": "Hello! This is my first palette! I hope you like it!\u00a0\u00a0",
+    "creator": true,
+    "createdAt": "2021-05-24T10:37:08.682Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "6d009c",
+        "ffcf00",
+        "ff8100",
+        "000000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60ab81d4eb4c445a0cff959c",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

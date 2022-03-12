@@ -1,0 +1,47 @@
+{
+    "_id": "617d648014ff832f0f0fb93f",
+    "tags": [],
+    "colors": [
+        "a44319",
+        "325f6e",
+        "ae7a2f",
+        "e5c790",
+        "e9e7e7"
+    ],
+    "downloads": "65",
+    "featured": false,
+    "likes": 7,
+    "comments": 0,
+    "slug": "hamond",
+    "publishedAt": "2021-11-01T23:00:00.099Z",
+    "user": {
+        "name": "Melo",
+        "slug": "melo"
+    },
+    "title": "hamond",
+    "hashtag": "hamond",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 5,
+    "createdAt": "2021-10-30T15:28:00.088Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "a44319",
+        "325f6e",
+        "ae7a2f",
+        "e5c790",
+        "e9e7e7"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "617d648014ff832f0f0fb93f",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

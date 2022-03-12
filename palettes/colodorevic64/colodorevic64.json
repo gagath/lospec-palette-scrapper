@@ -1,0 +1,95 @@
+{
+    "_id": "5fe1101811aa6b0bb92151d6",
+    "tags": [
+        "isasstudio",
+        "commodore"
+    ],
+    "colors": [
+        "813338",
+        "e9b287",
+        "a1683c",
+        "553800",
+        "000000",
+        "2e2c9b",
+        "706deb",
+        "6abfc6",
+        "ffffff",
+        "adadad",
+        "7b7b7b",
+        "626262",
+        "559e4a",
+        "92df87",
+        "edf171",
+        "e99df5"
+    ],
+    "downloads": "151",
+    "featured": false,
+    "likes": 17,
+    "comments": 0,
+    "title": "Colodore VIC-64",
+    "hashtag": "colodorevic64",
+    "description": "A 16 colour mixture of the\u00a0Colodore,\u00a0Commodore VIC-20\u00a0and\u00a0Commodore 64\u00a0palettes",
+    "creator": false,
+    "slug": "colodore-vic-64",
+    "publishedAt": "2020-12-28T00:50:00.024Z",
+    "user": {
+        "name": "Isa",
+        "slug": "isas-studio"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-12-21T21:14:00.764Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fe1150d11aa6b0bb9215210",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/colodore-vic-64-palette-example-by-isa-5fe115.png",
+            "creator": true,
+            "description": "rural top-down scene\u00a0<img class=\"emoji p16\" src=\"/emoji/lospec-discord/think.png\" />\u00a0",
+            "title": "Colodore VIC-64 Palette Example by Isa",
+            "slug": "colodore-vic-64-palette-example-by-isa",
+            "publishedAt": "2020-12-26T19:10:00.017Z",
+            "user": {
+                "name": "Isa",
+                "slug": "isas-studio"
+            },
+            "parent": "5fe1101811aa6b0bb92151d6",
+            "createdAt": "2020-12-21T21:35:09.345Z",
+            "updatedAt": "2020-12-26T19:10:00.018Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "rural top-down scene\u00a0\u00a0"
+        }
+    ],
+    "colorsArray": [
+        "813338",
+        "e9b287",
+        "a1683c",
+        "553800",
+        "000000",
+        "2e2c9b",
+        "706deb",
+        "6abfc6",
+        "ffffff",
+        "adadad",
+        "7b7b7b",
+        "626262",
+        "559e4a",
+        "92df87",
+        "edf171",
+        "e99df5"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fe1101811aa6b0bb92151d6",
+        "type": "palettes",
+        "count": 17,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

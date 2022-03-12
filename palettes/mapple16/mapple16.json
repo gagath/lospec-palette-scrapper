@@ -1,0 +1,97 @@
+{
+    "_id": "5fc2fe42cb7cf617296a6270",
+    "tags": [
+        "isasstudio",
+        "apple",
+        "computer",
+        "hardware"
+    ],
+    "colors": [
+        "dc0000",
+        "ea7d27",
+        "976536",
+        "653600",
+        "000000",
+        "454545",
+        "919191",
+        "c9d199",
+        "00a800",
+        "006752",
+        "0000ca",
+        "514888",
+        "0097ff",
+        "98dbc9",
+        "ffffff",
+        "e85def"
+    ],
+    "downloads": "203",
+    "featured": false,
+    "likes": 16,
+    "comments": 1,
+    "title": "Mappletosh 16",
+    "hashtag": "mapple16",
+    "description": "A combination of\u00a0Macintosh II\u00a0and\u00a0Apple II",
+    "creator": true,
+    "slug": "mappletosh-16",
+    "publishedAt": "2020-12-05T01:45:00.024Z",
+    "user": {
+        "name": "Isa",
+        "slug": "isas-studio"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-11-29T01:49:54.865Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fc2fe9ecb7cf617296a6276",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/mappletosh-16-palette-example-by-isagamer-5fc2fe.png",
+            "creator": true,
+            "description": "",
+            "title": "Mappletosh 16 Palette Example by IsaGamer",
+            "slug": "mappletosh-16-palette-example-by-isagamer",
+            "publishedAt": "2020-12-03T20:15:00.010Z",
+            "user": {
+                "name": "Isa",
+                "slug": "isas-studio"
+            },
+            "parent": "5fc2fe42cb7cf617296a6270",
+            "createdAt": "2020-11-29T01:51:26.686Z",
+            "updatedAt": "2020-12-03T20:15:00.010Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "dc0000",
+        "ea7d27",
+        "976536",
+        "653600",
+        "000000",
+        "454545",
+        "919191",
+        "c9d199",
+        "00a800",
+        "006752",
+        "0000ca",
+        "514888",
+        "0097ff",
+        "98dbc9",
+        "ffffff",
+        "e85def"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fc2fe42cb7cf617296a6270",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

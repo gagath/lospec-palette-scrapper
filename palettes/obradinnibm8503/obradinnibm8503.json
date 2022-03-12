@@ -1,0 +1,69 @@
+{
+    "_id": "5dc86091e8b5507637cc75df",
+    "slug": "obra-dinn-ibm-8503",
+    "description": "The palette used in the game\u00a0<i><a href=\"https://obradinn.com/\" target=\"_blank\">Return of the Obra Dinn</a> </i>when using the \"IBM 8503\" monitor setting.",
+    "colors": [
+        "2e3037",
+        "ebe5ce"
+    ],
+    "creator": false,
+    "comments": 2,
+    "likes": 44,
+    "createdAt": "2019-11-10T19:10:09.848Z",
+    "featured": false,
+    "tags": [
+        "game",
+        "obradinn",
+        "software",
+        "1bit"
+    ],
+    "downloads": "584",
+    "numberOfColors": 2,
+    "hashtag": "obradinnibm8503",
+    "title": "Obra Dinn - IBM 8503",
+    "user": {
+        "name": "PureAsbestos",
+        "slug": "pureasbestos"
+    },
+    "publishedAt": "2019-11-10T19:10:09.848Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "606d409baf543a28402b1e5d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Obra Dinn - IBM 8503 Palette Example by Casei Solus",
+            "slug": "obra-dinn-ibm-8503-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-08T17:00:00.045Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5dc86091e8b5507637cc75df",
+            "image": "palette-examples/obra-dinn-ibm-8503-palette-example-by-casei-solus-606d40.png",
+            "creator": true,
+            "description": "A ship drifting along the horizon.",
+            "createdAt": "2021-04-07T05:18:19.827Z",
+            "updatedAt": "2021-04-08T17:00:00.045Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A ship drifting along the horizon."
+        }
+    ],
+    "colorsArray": [
+        "2e3037",
+        "ebe5ce"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "5dc86091e8b5507637cc75df",
+        "type": "palettes",
+        "count": 44,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,100 @@
+{
+    "_id": "61425b51fc4c895ace2cbfc5",
+    "tags": [
+        "isasstudio"
+    ],
+    "colors": [
+        "272237",
+        "4e3d6f",
+        "a9597a",
+        "6876a0",
+        "68c5b5",
+        "ff9e95",
+        "b8b6a4",
+        "f7f9e8"
+    ],
+    "downloads": "262",
+    "featured": false,
+    "likes": 33,
+    "comments": 2,
+    "slug": "usefle-8",
+    "publishedAt": "2021-10-09T15:45:00.031Z",
+    "user": {
+        "name": "Isa",
+        "slug": "isas-studio"
+    },
+    "title": "Usefle 8",
+    "hashtag": "usefle8",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-09-15T20:45:05.043Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61425b63fc4c895ace2cbfc8",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Usefle 8 Palette Example by Isa",
+            "slug": "usefle-8-palette-example-by-isa",
+            "publishedAt": "2021-09-15T21:00:00.043Z",
+            "user": {
+                "name": "Isa",
+                "slug": "isas-studio"
+            },
+            "parent": "61425b51fc4c895ace2cbfc5",
+            "image": "palette-examples/usefle-8-palette-example-by-isa-61425b.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-09-15T20:45:23.478Z",
+            "updatedAt": "2021-09-15T21:00:00.044Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "61c49a3d2c72313698cf809d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Usefle 8 Palette Example by Isa",
+            "slug": "usefle-8-palette-example-by-isazbpcxp",
+            "publishedAt": "2021-12-24T14:10:00.033Z",
+            "user": {
+                "name": "Isa",
+                "slug": "isas-studio"
+            },
+            "parent": "61425b51fc4c895ace2cbfc5",
+            "image": "palette-examples/usefle-8-palette-example-by-isazbpcxp.png",
+            "creator": true,
+            "description": "Mushroom Forest - A collaboration between yours truly and\u00a0<a href=\"https://lospec.com/joseph\" target=\"_blank\">Orbitron</a>",
+            "createdAt": "2021-12-23T15:48:13.465Z",
+            "updatedAt": "2021-12-24T14:10:00.034Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": "Mushroom Forest - A collaboration between yours truly and\u00a0Orbitron"
+        }
+    ],
+    "colorsArray": [
+        "272237",
+        "4e3d6f",
+        "a9597a",
+        "6876a0",
+        "68c5b5",
+        "ff9e95",
+        "b8b6a4",
+        "f7f9e8"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61425b51fc4c895ace2cbfc5",
+        "type": "palettes",
+        "count": 33,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

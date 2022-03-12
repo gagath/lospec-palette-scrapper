@@ -1,0 +1,80 @@
+{
+    "_id": "603daf88489f5763acf98d99",
+    "tags": [
+        "artist",
+        " star",
+        " starlane"
+    ],
+    "colors": [
+        "fbe9c1",
+        "e1a854",
+        "dc6b56",
+        "39363a",
+        "67585b",
+        "9c7fa6",
+        "4eb1aa",
+        "6b8d5f"
+    ],
+    "downloads": "242",
+    "featured": false,
+    "likes": 23,
+    "comments": 0,
+    "title": "Dull Glow 8",
+    "hashtag": "dullglow8",
+    "description": "Originally designed as several ramps with one unique color each, and though as those colors do ramp into each other, I still think the palette works pretty well.",
+    "creator": true,
+    "slug": "dull-glow-8",
+    "publishedAt": "2021-04-03T11:30:00.034Z",
+    "user": {
+        "name": "Star",
+        "slug": "starlane"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2021-03-02T03:22:48.528Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "606a5dd8764ce64edc2a86b7",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Dull Glow 8 Palette Example by Casei Solus",
+            "slug": "dull-glow-8-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-06T19:20:00.017Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "603daf88489f5763acf98d99",
+            "image": "palette-examples/dull-glow-8-palette-example-by-casei-solus-606a5d.png",
+            "creator": true,
+            "description": "A sunset peeking into a forest.",
+            "createdAt": "2021-04-05T00:46:16.958Z",
+            "updatedAt": "2021-04-06T19:20:00.017Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A sunset peeking into a forest."
+        }
+    ],
+    "colorsArray": [
+        "fbe9c1",
+        "e1a854",
+        "dc6b56",
+        "39363a",
+        "67585b",
+        "9c7fa6",
+        "4eb1aa",
+        "6b8d5f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "603daf88489f5763acf98d99",
+        "type": "palettes",
+        "count": 23,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

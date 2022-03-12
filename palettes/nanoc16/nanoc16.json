@@ -1,0 +1,71 @@
+{
+    "_id": "604e4440dcb4d06d454aacbd",
+    "tags": [
+        "16 colors"
+    ],
+    "colors": [
+        "2a232d",
+        "3e434b",
+        "b8b8af",
+        "515983",
+        "5c7ba0",
+        "7aafc4",
+        "f6ebd3",
+        "eacf54",
+        "de7138",
+        "6c8d50",
+        "3f6d39",
+        "2e4236",
+        "dbac89",
+        "8c5d53",
+        "532a3a",
+        "a13b3a"
+    ],
+    "downloads": "219",
+    "featured": false,
+    "likes": 5,
+    "comments": 0,
+    "title": "NanoC-16",
+    "hashtag": "nanoc16",
+    "description": "My first real attempt to create a simple, but usable 16 colors palette. Have fun!",
+    "creator": true,
+    "slug": "nanoc-16",
+    "publishedAt": "2021-03-19T00:10:00.018Z",
+    "user": {
+        "name": "Nano",
+        "slug": "nanocarvalho"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2021-03-14T17:13:36.058Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "2a232d",
+        "3e434b",
+        "b8b8af",
+        "515983",
+        "5c7ba0",
+        "7aafc4",
+        "f6ebd3",
+        "eacf54",
+        "de7138",
+        "6c8d50",
+        "3f6d39",
+        "2e4236",
+        "dbac89",
+        "8c5d53",
+        "532a3a",
+        "a13b3a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "604e4440dcb4d06d454aacbd",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

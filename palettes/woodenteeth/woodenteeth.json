@@ -1,0 +1,70 @@
+{
+    "_id": "61a7161d80af3e18c0cb3677",
+    "tags": [
+        "polyphrog"
+    ],
+    "colors": [
+        "100b11",
+        "7e2d1f",
+        "f9fca0",
+        "15926d"
+    ],
+    "downloads": "91",
+    "featured": false,
+    "likes": 18,
+    "comments": 3,
+    "slug": "wooden-teeth",
+    "publishedAt": "2021-12-06T01:00:00.058Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "wooden teeth",
+    "hashtag": "woodenteeth",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-12-01T06:28:45.425Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61a94c4624873b5ce3d8f0ab",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "wooden teeth Palette Example by polyphorge",
+            "slug": "wooden-teeth-palette-example-by-polyphorge",
+            "publishedAt": "2021-12-02T22:45:00.015Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "61a7161d80af3e18c0cb3677",
+            "image": "palette-examples/wooden-teeth-palette-example-by-polyphorge-61a94c.png",
+            "creator": false,
+            "description": "",
+            "createdAt": "2021-12-02T22:44:22.989Z",
+            "updatedAt": "2021-12-02T22:45:00.015Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "100b11",
+        "7e2d1f",
+        "f9fca0",
+        "15926d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61a7161d80af3e18c0cb3677",
+        "type": "palettes",
+        "count": 18,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

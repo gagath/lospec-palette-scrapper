@@ -1,0 +1,92 @@
+{
+    "_id": "607d70991279a75da464ca22",
+    "tags": [
+        "soft",
+        "simple",
+        "lowsaturation",
+        "lowsaturation",
+        "baksubattle"
+    ],
+    "colors": [
+        "261536",
+        "9c3e52",
+        "c27b6e",
+        "dec495",
+        "01678f",
+        "5596a6",
+        "72c0ab",
+        "cdeadd",
+        "804280",
+        "613d2f",
+        "4b7a5e",
+        "7d9c7c",
+        "7d8091"
+    ],
+    "downloads": "162",
+    "featured": false,
+    "likes": 12,
+    "comments": 0,
+    "slug": "baksu-13",
+    "publishedAt": "2021-05-04T03:45:00.031Z",
+    "user": {
+        "name": "Lautaro Salas Cismondi",
+        "slug": "lautaro-salas-cismondi"
+    },
+    "title": "Baksu 13",
+    "hashtag": "bk13",
+    "description": "a palette that I made for a little pixel art video game that I'm making called BaksuBattle. I had to add the last color for the funds, sorry",
+    "creator": true,
+    "createdAt": "2021-04-19T11:59:21.345Z",
+    "numberOfColors": 13,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607da2501279a75da464cc63",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Baksu 12 Palette Example",
+            "slug": "baksu-12-palette-example-by-lautaro-salas-cismondi-4",
+            "publishedAt": "2021-04-21T00:20:00.018Z",
+            "user": {
+                "name": "Lautaro Salas Cismondi",
+                "slug": "lautaro-salas-cismondi"
+            },
+            "parent": "607d70991279a75da464ca22",
+            "image": "palette-examples/baksu-12-palette-example-by-lautaro-salas-cismondi-4-607da2.png",
+            "creator": true,
+            "description": "three drawings, the first is one of very high resolution, to show how good this palette is in gradients, the second is simply the name of the palette and the third is an image of the game to show that it also works for small drawing\r\n",
+            "createdAt": "2021-04-19T15:31:28.106Z",
+            "updatedAt": "2021-04-22T02:15:21.869Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "three drawings, the first is one of very high resolution, to show how good this palette is in gradients, the second is simply the name of the palette and the third is an image of the game to show that it also works for small drawing\r\n"
+        }
+    ],
+    "colorsArray": [
+        "261536",
+        "9c3e52",
+        "c27b6e",
+        "dec495",
+        "01678f",
+        "5596a6",
+        "72c0ab",
+        "cdeadd",
+        "804280",
+        "613d2f",
+        "4b7a5e",
+        "7d9c7c",
+        "7d8091"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "607d70991279a75da464ca22",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

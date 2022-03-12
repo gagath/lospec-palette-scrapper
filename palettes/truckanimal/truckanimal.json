@@ -1,0 +1,43 @@
+{
+    "_id": "618ea1673c9d286859bac931",
+    "tags": [],
+    "colors": [
+        "000000",
+        "58444e",
+        "8d2f5c"
+    ],
+    "downloads": "38",
+    "featured": false,
+    "likes": 3,
+    "comments": 1,
+    "slug": "truck-animal",
+    "publishedAt": "2021-11-15T18:10:00.040Z",
+    "user": {
+        "name": "Monkee",
+        "slug": "monkee"
+    },
+    "title": "truck animal",
+    "hashtag": "truckanimal",
+    "description": "trunk animal for CCP",
+    "creator": true,
+    "numberOfColors": 3,
+    "createdAt": "2021-11-12T17:16:23.376Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "58444e",
+        "8d2f5c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 33.333333333333336,
+    "height": 32,
+    "likebutton": {
+        "content": "618ea1673c9d286859bac931",
+        "type": "palettes",
+        "count": 3,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

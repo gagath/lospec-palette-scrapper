@@ -1,0 +1,86 @@
+{
+    "_id": "6146f8221d65be08f89f2420",
+    "tags": [
+        "sunset",
+        "warm",
+        "calm"
+    ],
+    "colors": [
+        "02011b",
+        "140437",
+        "380849",
+        "64103f",
+        "761631",
+        "922232",
+        "a43e2e",
+        "b66f3b",
+        "c8a44f",
+        "d1cf5d",
+        "dbd875"
+    ],
+    "downloads": "190",
+    "featured": false,
+    "likes": 11,
+    "comments": 0,
+    "slug": "sunset-horizon",
+    "publishedAt": "2021-10-10T11:45:00.035Z",
+    "user": {
+        "name": "pp nn",
+        "slug": "pp-nn"
+    },
+    "title": "Sunset horizon",
+    "hashtag": "sunsethorizon",
+    "description": "some sweet sunset colours\u00a0",
+    "creator": true,
+    "numberOfColors": 11,
+    "createdAt": "2021-09-19T08:43:14.276Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "614724d387e06832ff235b4d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Sunset horizon Palette Example by pp nn",
+            "slug": "sunset-horizon-palette-example-by-pp-nn-2",
+            "publishedAt": "2021-09-19T17:25:00.026Z",
+            "user": {
+                "name": "pp nn",
+                "slug": "pp-nn"
+            },
+            "parent": "6146f8221d65be08f89f2420",
+            "image": "palette-examples/sunset-horizon-palette-example-by-pp-nn-2-614724.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-09-19T11:53:55.694Z",
+            "updatedAt": "2021-09-19T17:25:00.026Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "02011b",
+        "140437",
+        "380849",
+        "64103f",
+        "761631",
+        "922232",
+        "a43e2e",
+        "b66f3b",
+        "c8a44f",
+        "d1cf5d",
+        "dbd875"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "6146f8221d65be08f89f2420",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

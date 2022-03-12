@@ -1,0 +1,90 @@
+{
+    "_id": "602c6e671e5c8a796cacb80d",
+    "tags": [
+        "cold blue green grey rock grass sky  "
+    ],
+    "colors": [
+        "181b21",
+        "444e6b",
+        "626f8a",
+        "929db0",
+        "ccd2db",
+        "dff6f5",
+        "6bdbd9",
+        "42b3c2",
+        "428ab3",
+        "435d91",
+        "478a41",
+        "6fa341",
+        "a3c255",
+        "cad670"
+    ],
+    "downloads": "666",
+    "featured": false,
+    "likes": 43,
+    "comments": 7,
+    "title": "Shiver14",
+    "hashtag": "shiver14",
+    "description": "Cold colored palette, use it for chill nature scenery<img class=\"emoji p12\" src=\"/emoji/pixemoji12/happy.png\" />\u00a0",
+    "creator": true,
+    "slug": "shiver14",
+    "publishedAt": "2021-03-30T11:30:00.040Z",
+    "user": {
+        "name": "Joe",
+        "slug": "joe1"
+    },
+    "numberOfColors": 14,
+    "createdAt": "2021-02-17T01:16:23.822Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6031be94519724514cc2964d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/shiver14-palette-example-by-joe-2-6031be.png",
+            "creator": true,
+            "description": "",
+            "title": "Shiver14 Palette Example by Joe",
+            "slug": "shiver14-palette-example-by-joe-2",
+            "publishedAt": "2021-03-27T18:25:00.016Z",
+            "user": {
+                "name": "Joe",
+                "slug": "joe1"
+            },
+            "parent": "602c6e671e5c8a796cacb80d",
+            "createdAt": "2021-02-21T01:59:48.226Z",
+            "updatedAt": "2021-03-27T18:25:00.016Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "181b21",
+        "444e6b",
+        "626f8a",
+        "929db0",
+        "ccd2db",
+        "dff6f5",
+        "6bdbd9",
+        "42b3c2",
+        "428ab3",
+        "435d91",
+        "478a41",
+        "6fa341",
+        "a3c255",
+        "cad670"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "602c6e671e5c8a796cacb80d",
+        "type": "palettes",
+        "count": 43,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

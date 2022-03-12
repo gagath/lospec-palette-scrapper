@@ -1,0 +1,75 @@
+{
+    "_id": "5d9a2032dc982c67d873d7b6",
+    "slug": "cave-rock",
+    "description": "Colors used for cave tiles in pixelart game \"The Boy Who Stole The Sun\".",
+    "colors": [
+        "33337f",
+        "2188cf",
+        "ffffff",
+        "4891aa",
+        "244855",
+        "80350e",
+        "ff9f46",
+        "b6b6aa"
+    ],
+    "comments": 0,
+    "likes": 18,
+    "createdAt": "2019-10-06T17:11:14.405Z",
+    "featured": false,
+    "tags": [
+        "artist",
+        "rhoq"
+    ],
+    "downloads": "226",
+    "numberOfColors": 8,
+    "creator": true,
+    "hashtag": "caverock",
+    "title": "Cave Rock",
+    "user": {
+        "name": "Rhoq",
+        "slug": "rhoq"
+    },
+    "publishedAt": "2019-10-06T17:11:14.405Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5d9a2082dc982c67d873d7bb",
+            "description": "Palette usage example by Rhoq",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.202Z",
+            "creator": false,
+            "image": "palette-examples/cave-rock-palette-example-palette-usage-example-by-rhoq-5d9a20.png",
+            "likes": 0,
+            "parent": "5d9a2032dc982c67d873d7b6",
+            "slug": "cave-rock-palette-example-palette-usage-example-by-rhoq",
+            "title": "cave rock palette example palette usage example by rhoq",
+            "updatedAt": "2020-07-31T03:56:11.202Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Rhoq"
+        }
+    ],
+    "colorsArray": [
+        "33337f",
+        "2188cf",
+        "ffffff",
+        "4891aa",
+        "244855",
+        "80350e",
+        "ff9f46",
+        "b6b6aa"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5d9a2032dc982c67d873d7b6",
+        "type": "palettes",
+        "count": 18,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

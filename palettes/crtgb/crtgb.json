@@ -1,0 +1,71 @@
+{
+    "_id": "5f4e8588ad4bdd2bfb3011b6",
+    "tags": [
+        "gameboy",
+        " monoramp"
+    ],
+    "colors": [
+        "060601",
+        "0b3e08",
+        "489a0d",
+        "daf222"
+    ],
+    "downloads": "670",
+    "featured": false,
+    "likes": 38,
+    "comments": 0,
+    "title": "CRTGB",
+    "hashtag": "crtgb",
+    "description": "A gameboy palette reminicent of old green CRT monitors. Best used with dark backgrounds.",
+    "creator": true,
+    "slug": "crtgb",
+    "publishedAt": "2020-09-01T23:30:00.019Z",
+    "user": {
+        "name": "skeddles",
+        "slug": "skeddles"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-09-01T17:31:52.071Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f4e8b75ad4bdd2bfb30121a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/crtgb-palette-example-by-sam-keddy-5f4e8b.png",
+            "creator": false,
+            "description": "Super Mario World 2 for GameBoy",
+            "title": "CRTGB Palette Example by Sam Keddy",
+            "slug": "crtgb-palette-example-by-sam-keddy",
+            "publishedAt": "2020-09-01T18:00:00.041Z",
+            "user": {
+                "name": "skeddles",
+                "slug": "skeddles"
+            },
+            "parent": "5f4e8588ad4bdd2bfb3011b6",
+            "createdAt": "2020-09-01T17:57:09.268Z",
+            "updatedAt": "2020-09-01T18:00:00.041Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Super Mario World 2 for GameBoy"
+        }
+    ],
+    "colorsArray": [
+        "060601",
+        "0b3e08",
+        "489a0d",
+        "daf222"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f4e8588ad4bdd2bfb3011b6",
+        "type": "palettes",
+        "count": 38,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

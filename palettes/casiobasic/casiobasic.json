@@ -1,0 +1,69 @@
+{
+    "_id": "6089dee3d410d82aacf67b42",
+    "tags": [
+        "casio",
+        "calculator",
+        "hardware",
+        "1bit"
+    ],
+    "colors": [
+        "000000",
+        "83b07e"
+    ],
+    "downloads": "209",
+    "featured": false,
+    "likes": 23,
+    "comments": 0,
+    "slug": "casio-basic",
+    "publishedAt": "2021-05-03T03:45:00.033Z",
+    "user": {
+        "name": "graph100",
+        "slug": "graph100"
+    },
+    "title": "Casio Basic",
+    "hashtag": "casiobasic",
+    "description": "A 1 bit pallette based on the screen of a Casio calculator.",
+    "creator": true,
+    "createdAt": "2021-04-28T22:17:07.754Z",
+    "numberOfColors": 2,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6089e878d410d82aacf67b97",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Casio Basic Palette Example by graph100",
+            "slug": "casio-basic-palette-example-by-graph100",
+            "publishedAt": "2021-05-02T15:50:00.027Z",
+            "user": {
+                "name": "graph100",
+                "slug": "graph100"
+            },
+            "parent": "6089dee3d410d82aacf67b42",
+            "image": "palette-examples/casio-basic-palette-example-by-graph100-6089e8.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-04-28T22:58:00.379Z",
+            "updatedAt": "2021-05-02T15:50:00.027Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "83b07e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "6089dee3d410d82aacf67b42",
+        "type": "palettes",
+        "count": 23,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

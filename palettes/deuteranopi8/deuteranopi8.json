@@ -1,0 +1,57 @@
+{
+    "_id": "5fcc21229a756949d75ecb6a",
+    "tags": [
+        "colourblindness",
+        " deuteranopia",
+        " protanopia"
+    ],
+    "colors": [
+        "000000",
+        "555555",
+        "aaaaaa",
+        "ffffff",
+        "7f7f00",
+        "ffff00",
+        "2020aa",
+        "5555ff"
+    ],
+    "downloads": "21",
+    "featured": false,
+    "likes": 3,
+    "comments": 0,
+    "title": "Deuteranopi8",
+    "hashtag": "deuteranopi8",
+    "description": "",
+    "creator": true,
+    "slug": "deuteranopi8",
+    "publishedAt": "2020-12-14T20:30:00.038Z",
+    "user": {
+        "name": "Space Sandwich",
+        "slug": "spacesandwich"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2020-12-06T00:09:06.082Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "555555",
+        "aaaaaa",
+        "ffffff",
+        "7f7f00",
+        "ffff00",
+        "2020aa",
+        "5555ff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fcc21229a756949d75ecb6a",
+        "type": "palettes",
+        "count": 3,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

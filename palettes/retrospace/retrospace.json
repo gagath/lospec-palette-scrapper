@@ -1,0 +1,62 @@
+{
+    "_id": "5e011585828df62a14e0d8b4",
+    "slug": "retro-space",
+    "description": "",
+    "colors": [
+        "77a6a9",
+        "56787a",
+        "618fad",
+        "45657a",
+        "333333",
+        "e1ccad",
+        "c24d3f",
+        "963c31",
+        "ebb8a4",
+        "ba8b79",
+        "d9c380"
+    ],
+    "creator": true,
+    "hashtag": "retrospace",
+    "comments": 0,
+    "likes": 11,
+    "createdAt": "2019-12-23T19:29:09.559Z",
+    "featured": false,
+    "tags": [
+        "retro",
+        "space"
+    ],
+    "downloads": "355",
+    "numberOfColors": 11,
+    "title": "Retro Space",
+    "user": {
+        "name": "Sergio Vad\u00e9s Biolley",
+        "slug": "sergio-vades-biolley"
+    },
+    "publishedAt": "2019-12-23T19:29:09.559Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "77a6a9",
+        "56787a",
+        "618fad",
+        "45657a",
+        "333333",
+        "e1ccad",
+        "c24d3f",
+        "963c31",
+        "ebb8a4",
+        "ba8b79",
+        "d9c380"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5e011585828df62a14e0d8b4",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

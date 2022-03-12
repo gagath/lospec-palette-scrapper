@@ -1,0 +1,61 @@
+{
+    "_id": "5bb52e37d8f5345a507022b1",
+    "slug": "sweet-guarana",
+    "description": "Created by <a target=\"_blank\" href=\"https://twitter.com/pezkoh/\">MadPezkoh</a>.",
+    "colors": [
+        "253b46",
+        "18865f",
+        "61d162",
+        "ebe7ad"
+    ],
+    "tags": [
+        "artist",
+        "madpezkoh"
+    ],
+    "downloads": "942",
+    "numberOfColors": 4,
+    "createdAt": "2018-10-03T21:01:43.538Z",
+    "likes": 23,
+    "comments": 3,
+    "hashtag": "sweetguarana",
+    "title": "Sweet Guaran\u00e1",
+    "publishedAt": "2018-10-03T21:01:43.538Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5bb52e57d8f5345a507022b2",
+            "description": "Palette usage example by <a target=\"_blank\" href=\"https://twitter.com/pezkoh/\">MadPezkoh</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.144Z",
+            "creator": false,
+            "image": "palette-examples/sweet-guarana-palette-example-palette-usage-example-by-madpezkoh-5bb52e.png",
+            "likes": 0,
+            "parent": "5bb52e37d8f5345a507022b1",
+            "slug": "sweet-guarana-palette-example-palette-usage-example-by-madpezkoh",
+            "title": "sweet guarana palette example palette usage example by madpezkoh",
+            "updatedAt": "2020-07-31T03:56:11.144Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by MadPezkoh"
+        }
+    ],
+    "colorsArray": [
+        "253b46",
+        "18865f",
+        "61d162",
+        "ebe7ad"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5bb52e37d8f5345a507022b1",
+        "type": "palettes",
+        "count": 23,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

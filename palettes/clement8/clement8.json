@@ -1,0 +1,79 @@
+{
+    "_id": "61fc19db17ea524122736096",
+    "tags": [
+        "happy",
+        "pastel"
+    ],
+    "colors": [
+        "000871",
+        "8854f3",
+        "639bff",
+        "63ffba",
+        "ff8c5c",
+        "ff79ae",
+        "fff982",
+        "ffffff"
+    ],
+    "downloads": "393",
+    "featured": false,
+    "likes": 47,
+    "comments": 4,
+    "slug": "clement-8",
+    "publishedAt": "2022-02-04T10:10:00.055Z",
+    "user": {
+        "name": "Cl\u00e9ment \ud83c\udf1e",
+        "slug": "clementdussol"
+    },
+    "title": "Cl\u00e9ment 8",
+    "hashtag": "clement8",
+    "description": "The palette I've been using for recent works. It's colorful, childish and joyful. It makes me happy and I hope it makes other people happy too!",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2022-02-03T18:07:23.198Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "62042e505ca090379e09ae32",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Cl\u00e9ment 8 Palette Example by Cl\u00e9ment \ud83c\udf1e",
+            "slug": "clement-8-palette-example-by-clement5dvazo",
+            "publishedAt": "2022-02-10T01:40:00.033Z",
+            "user": {
+                "name": "Cl\u00e9ment \ud83c\udf1e",
+                "slug": "clementdussol"
+            },
+            "parent": "61fc19db17ea524122736096",
+            "image": "palette-examples/clement-8-palette-example-by-clement5dvazo.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-02-09T21:12:48.092Z",
+            "updatedAt": "2022-02-10T01:40:00.035Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000871",
+        "8854f3",
+        "639bff",
+        "63ffba",
+        "ff8c5c",
+        "ff79ae",
+        "fff982",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61fc19db17ea524122736096",
+        "type": "palettes",
+        "count": 47,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

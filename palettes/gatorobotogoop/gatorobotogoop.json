@@ -1,0 +1,69 @@
+{
+    "_id": "5dc86dbca5731c47cdeef32b",
+    "slug": "gato-roboto-goop",
+    "description": "A palette from the game <i><a href=\"https://gatoroboto.com/\" target=\"_blank\">Gato Roboto</a></i>.",
+    "colors": [
+        "210009",
+        "00ffae"
+    ],
+    "creator": false,
+    "comments": 1,
+    "likes": 14,
+    "createdAt": "2019-11-10T20:06:20.985Z",
+    "featured": false,
+    "tags": [
+        "game",
+        "gatoroboto",
+        "software",
+        "1bit"
+    ],
+    "downloads": "192",
+    "numberOfColors": 2,
+    "hashtag": "gatorobotogoop",
+    "title": "Gato Roboto - Goop",
+    "user": {
+        "name": "PureAsbestos",
+        "slug": "pureasbestos"
+    },
+    "publishedAt": "2019-11-10T20:06:20.985Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60756dfd796b6e54ef26124a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Gato Roboto - Goop Palette Example by Casei Solus",
+            "slug": "gato-roboto-goop-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-13T13:35:00.013Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5dc86dbca5731c47cdeef32b",
+            "image": "palette-examples/gato-roboto-goop-palette-example-by-casei-solus-60756d.png",
+            "creator": true,
+            "description": "Some lava-lamp-like goop.",
+            "createdAt": "2021-04-13T10:10:05.947Z",
+            "updatedAt": "2021-04-13T13:35:00.013Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Some lava-lamp-like goop."
+        }
+    ],
+    "colorsArray": [
+        "210009",
+        "00ffae"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "5dc86dbca5731c47cdeef32b",
+        "type": "palettes",
+        "count": 14,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

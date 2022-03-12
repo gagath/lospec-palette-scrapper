@@ -1,0 +1,86 @@
+{
+    "_id": "5fead010a60eec782f2e1da6",
+    "tags": [
+        "ethanhunt",
+        "ethanhunt404",
+        "biohazard",
+        "toxic",
+        "radioactive",
+        "dangerous",
+        "contrasting"
+    ],
+    "colors": [
+        "eeff99",
+        "e0f76e",
+        "63eb47",
+        "26d980",
+        "298fa3",
+        "283576",
+        "331f47",
+        "e6b045",
+        "d92640"
+    ],
+    "downloads": "136",
+    "featured": false,
+    "likes": 22,
+    "comments": 2,
+    "title": "BIOHAZARD9",
+    "hashtag": "biohazard",
+    "description": "This was palette was created for a piece with the prompt to personify 2020, after i noticed that the palette was very nice and fairly flexible so i decided to submit here.The palette itself has great contrast overall and it has a punch to the eye and feels dangerous even more with the red color accent, it can be used with themes such as biohazard or radioactive.",
+    "creator": true,
+    "slug": "biohazard9",
+    "publishedAt": "2021-03-14T23:40:00.017Z",
+    "user": {
+        "name": "EthanHunt404",
+        "slug": "ethanhunt404"
+    },
+    "numberOfColors": 9,
+    "createdAt": "2020-12-29T06:43:28.334Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6040a0b2ad07c0400f9e0799",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/biohazard9-palette-example-by-polyphorge-6040a0.png",
+            "creator": true,
+            "description": "requested by Ethan.",
+            "title": "BIOHAZARD9 Palette Example",
+            "slug": "biohazard9-palette-example-by-polyphorge",
+            "publishedAt": "2021-03-10T18:40:00.010Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "5fead010a60eec782f2e1da6",
+            "createdAt": "2021-03-04T08:56:18.477Z",
+            "updatedAt": "2021-03-13T21:27:15.450Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "requested by Ethan."
+        }
+    ],
+    "colorsArray": [
+        "eeff99",
+        "e0f76e",
+        "63eb47",
+        "26d980",
+        "298fa3",
+        "283576",
+        "331f47",
+        "e6b045",
+        "d92640"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5fead010a60eec782f2e1da6",
+        "type": "palettes",
+        "count": 22,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

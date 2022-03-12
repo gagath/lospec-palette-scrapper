@@ -1,0 +1,72 @@
+{
+    "_id": "5adf3748d64cda308df721ba",
+    "createdAt": "2018-04-24T13:55:20.646Z",
+    "slug": "peachy-pop-16",
+    "description": "",
+    "colors": [
+        "fdffff",
+        "ff8686",
+        "fb4771",
+        "ce186a",
+        "8f0b5f",
+        "53034b",
+        "ad6dea",
+        "9fb9ff",
+        "567feb",
+        "0a547b",
+        "278c7f",
+        "0ce7a7",
+        "acfcad",
+        "ffec6d",
+        "ffa763",
+        "ff4040"
+    ],
+    "tags": [
+        "kerrielake",
+        "artist"
+    ],
+    "downloads": "1,282",
+    "numberOfColors": 16,
+    "featured": false,
+    "likes": 52,
+    "comments": 0,
+    "creator": true,
+    "hashtag": "peachypop16",
+    "title": "Peachy Pop 16",
+    "user": {
+        "name": "Kerrie Lake",
+        "slug": "kerrielake"
+    },
+    "publishedAt": "2018-04-24T13:55:20.646Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "fdffff",
+        "ff8686",
+        "fb4771",
+        "ce186a",
+        "8f0b5f",
+        "53034b",
+        "ad6dea",
+        "9fb9ff",
+        "567feb",
+        "0a547b",
+        "278c7f",
+        "0ce7a7",
+        "acfcad",
+        "ffec6d",
+        "ffa763",
+        "ff4040"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5adf3748d64cda308df721ba",
+        "type": "palettes",
+        "count": 52,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

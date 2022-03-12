@@ -1,0 +1,59 @@
+{
+    "_id": "5f82a8a3793bd20249cf3a0e",
+    "tags": [
+        "pantone",
+        " revitup",
+        " fancy"
+    ],
+    "colors": [
+        "2c272d",
+        "edeffc",
+        "f7eb37",
+        "444a9e",
+        "f77924",
+        "da4980",
+        "9f9f9d",
+        "ee9fbf",
+        "83b14f"
+    ],
+    "downloads": "53",
+    "featured": false,
+    "likes": 2,
+    "comments": 2,
+    "title": "Pantone Rev It Up",
+    "hashtag": "pantone",
+    "description": "The Pantone \"Rev It Up\" palette as seen on this page: http://pantone.com/color-intelligence/color-of-the-year/color-of-the-year-2017",
+    "creator": false,
+    "slug": "pantone-rev-it-up",
+    "publishedAt": "2020-10-13T04:30:00.031Z",
+    "user": {
+        "name": "Pongles",
+        "slug": "pongles"
+    },
+    "numberOfColors": 9,
+    "createdAt": "2020-10-11T06:39:31.921Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "2c272d",
+        "edeffc",
+        "f7eb37",
+        "444a9e",
+        "f77924",
+        "da4980",
+        "9f9f9d",
+        "ee9fbf",
+        "83b14f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5f82a8a3793bd20249cf3a0e",
+        "type": "palettes",
+        "count": 2,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

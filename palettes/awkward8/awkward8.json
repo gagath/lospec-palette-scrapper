@@ -1,0 +1,81 @@
+{
+    "_id": "62117ed3c22c2c359fd6a1b3",
+    "tags": [
+        "bright",
+        "colorful",
+        "vibrant",
+        "limited"
+    ],
+    "colors": [
+        "5ca8c2",
+        "055d31",
+        "86d86a",
+        "fdfdf0",
+        "faa3ce",
+        "a4573d",
+        "02020f",
+        "7a2796"
+    ],
+    "downloads": "99",
+    "featured": false,
+    "likes": 15,
+    "comments": 2,
+    "slug": "awkward-8",
+    "publishedAt": "2022-02-21T01:40:00.033Z",
+    "user": {
+        "name": "Yousurname",
+        "slug": "yousurname"
+    },
+    "title": "Awkward 8",
+    "hashtag": "awkward8",
+    "description": "An 8-color palette with limiting colors.",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2022-02-19T23:35:47.453Z",
+    "isNew": true,
+    "sortNewest": "2022-02-21T01:40:00.033Z",
+    "examples": [
+        {
+            "_id": "6211801bc22c2c359fd6a203",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Awkward 8 Palette Example by Yousurname",
+            "slug": "awkward-8-palette-example-by-yousurname5fxcdu",
+            "publishedAt": "2022-02-20T17:50:00.029Z",
+            "user": {
+                "name": "Yousurname",
+                "slug": "yousurname"
+            },
+            "parent": "62117ed3c22c2c359fd6a1b3",
+            "image": "palette-examples/awkward-8-palette-example-by-yousurname5fxcdu.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-02-19T23:41:15.561Z",
+            "updatedAt": "2022-02-20T17:50:00.029Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "5ca8c2",
+        "055d31",
+        "86d86a",
+        "fdfdf0",
+        "faa3ce",
+        "a4573d",
+        "02020f",
+        "7a2796"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "62117ed3c22c2c359fd6a1b3",
+        "type": "palettes",
+        "count": 15,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

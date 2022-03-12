@@ -1,0 +1,77 @@
+{
+    "_id": "60d641bc0f57cc067c262787",
+    "tags": [
+        "yellow",
+        "green",
+        "orange",
+        "darkgreen",
+        "5colors",
+        "jungle"
+    ],
+    "colors": [
+        "ed9f7d",
+        "fcef9c",
+        "14241b",
+        "959446",
+        "42630d"
+    ],
+    "downloads": "188",
+    "featured": false,
+    "likes": 27,
+    "comments": 0,
+    "slug": "jungle-punch-5-colors",
+    "publishedAt": "2021-07-10T22:05:00.024Z",
+    "user": {
+        "name": "P0keePanda P",
+        "slug": "p0keepanda-p"
+    },
+    "title": "jungle punch 5 colors",
+    "hashtag": "junglepunch",
+    "description": "Jungle punch is my palette I made cool yeah that's the description it's over now go now",
+    "creator": true,
+    "numberOfColors": 5,
+    "createdAt": "2021-06-25T20:51:08.043Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60d647a30f57cc067c262fb7",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "jungle punch 5 colors Palette Example by P0keePanda P",
+            "slug": "jungle-punch-5-colors-palette-example-by-p0keepanda-p",
+            "publishedAt": "2021-07-05T23:20:00.020Z",
+            "user": {
+                "name": "P0keePanda P",
+                "slug": "p0keepanda-p"
+            },
+            "parent": "60d641bc0f57cc067c262787",
+            "image": "palette-examples/jungle-punch-5-colors-palette-example-by-p0keepanda-p-60d647.png",
+            "creator": true,
+            "description": "bunch of art I made for this palette",
+            "createdAt": "2021-06-25T21:16:19.447Z",
+            "updatedAt": "2021-07-05T23:20:00.020Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "bunch of art I made for this palette"
+        }
+    ],
+    "colorsArray": [
+        "ed9f7d",
+        "fcef9c",
+        "14241b",
+        "959446",
+        "42630d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "60d641bc0f57cc067c262787",
+        "type": "palettes",
+        "count": 27,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

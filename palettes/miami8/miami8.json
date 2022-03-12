@@ -1,0 +1,85 @@
+{
+    "_id": "60086ad010391a7ef153688c",
+    "tags": [
+        "red",
+        " warm",
+        " cold",
+        " purple",
+        " blue",
+        " yellow",
+        " sunset",
+        " beach"
+    ],
+    "colors": [
+        "2f0d85",
+        "481ea6",
+        "b466d9",
+        "f0e5f7",
+        "e1dfaf",
+        "e7a27a",
+        "e5304e",
+        "c41b38"
+    ],
+    "downloads": "206",
+    "featured": false,
+    "likes": 16,
+    "comments": 0,
+    "title": "Miami Sunset 8",
+    "hashtag": "miami8",
+    "description": "",
+    "creator": true,
+    "slug": "miami-sunset-8",
+    "publishedAt": "2021-09-11T15:20:00.040Z",
+    "user": {
+        "name": "Kag\u00e9Gengar",
+        "slug": "kagegengar"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2021-01-20T17:39:28.242Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6008720c10391a7ef1536918",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/miami-sunset-7-palette-example-by-geek4etenity-600872.png",
+            "creator": true,
+            "description": "",
+            "title": "Miami Sunset 7 Palette Example by Geek4Etenity",
+            "slug": "miami-sunset-7-palette-example-by-geek4etenity",
+            "publishedAt": "2021-03-27T19:55:00.030Z",
+            "user": {
+                "name": "Kag\u00e9Gengar",
+                "slug": "kagegengar"
+            },
+            "parent": "60086ad010391a7ef153688c",
+            "createdAt": "2021-01-20T18:10:20.079Z",
+            "updatedAt": "2021-03-27T19:55:00.030Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "2f0d85",
+        "481ea6",
+        "b466d9",
+        "f0e5f7",
+        "e1dfaf",
+        "e7a27a",
+        "e5304e",
+        "c41b38"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60086ad010391a7ef153688c",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,55 @@
+{
+    "_id": "5e5c48184a97f03e45f45d8c",
+    "slug": "onebit-adventure-sunrise",
+    "description": "One of the alternate color schemes on the mobile game OneBit Adventure by Galactic Slice",
+    "colors": [
+        "1e1832",
+        "ca3038",
+        "de6a37",
+        "feaf38",
+        "ffe598",
+        "4b5bab",
+        "ff6b97",
+        "cfff70"
+    ],
+    "creator": false,
+    "hashtag": "obasunrise",
+    "comments": 0,
+    "likes": 16,
+    "createdAt": "2020-03-01T23:41:12.163Z",
+    "featured": false,
+    "tags": [
+        "software"
+    ],
+    "downloads": "316",
+    "numberOfColors": 8,
+    "title": "OneBit Adventure - Sunrise",
+    "user": {
+        "name": "Aysars",
+        "slug": "aysarsthemage"
+    },
+    "publishedAt": "2020-05-05T00:00:00.072Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "1e1832",
+        "ca3038",
+        "de6a37",
+        "feaf38",
+        "ffe598",
+        "4b5bab",
+        "ff6b97",
+        "cfff70"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5e5c48184a97f03e45f45d8c",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

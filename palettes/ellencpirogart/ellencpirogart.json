@@ -1,0 +1,47 @@
+{
+    "_id": "61dda7ffbcd7f06cd184e294",
+    "tags": [],
+    "colors": [
+        "983e53",
+        "c1677c",
+        "edbdc6",
+        "728c96",
+        "486f7d"
+    ],
+    "downloads": "86",
+    "featured": false,
+    "likes": 9,
+    "comments": 0,
+    "slug": "ellen-c-pirog-art",
+    "publishedAt": "2022-01-12T08:25:00.032Z",
+    "user": {
+        "name": "Ellen C Pirog",
+        "slug": "ellencpirog"
+    },
+    "title": "Ellen C Pirog - Art",
+    "hashtag": "ellencpirogart",
+    "description": "pallet of collors that I make for my store, to create banner of twitch, emotes, etc.",
+    "creator": true,
+    "numberOfColors": 5,
+    "createdAt": "2022-01-11T15:53:35.875Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "983e53",
+        "c1677c",
+        "edbdc6",
+        "728c96",
+        "486f7d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "61dda7ffbcd7f06cd184e294",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

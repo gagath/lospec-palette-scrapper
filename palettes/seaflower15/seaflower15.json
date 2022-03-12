@@ -1,0 +1,95 @@
+{
+    "_id": "600af4dc78b73b4e5f0f0e63",
+    "tags": [
+        "undeady",
+        "artist",
+        "sea",
+        "flower"
+    ],
+    "colors": [
+        "e6ffcc",
+        "b1cc7a",
+        "998a3d",
+        "6e422c",
+        "3b2327",
+        "190c1f",
+        "233b3b",
+        "2c6e49",
+        "4d993d",
+        "294766",
+        "456299",
+        "a3a3cc",
+        "6e2c2c",
+        "995c3d",
+        "ccb17a"
+    ],
+    "downloads": "390",
+    "featured": false,
+    "likes": 29,
+    "comments": 1,
+    "title": "seaflower15",
+    "hashtag": "seaflower15",
+    "description": "The first colour palette I made, pretty calm and desaturated compared to what I usually made art with .Feel free to use it, I'd appreciate if you mention it or me.",
+    "creator": true,
+    "slug": "seaflower15",
+    "publishedAt": "2021-01-29T06:25:00.017Z",
+    "user": {
+        "name": "un_deady",
+        "slug": "undeady"
+    },
+    "numberOfColors": 15,
+    "createdAt": "2021-01-22T15:53:00.511Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "600af61178b73b4e5f0f0e71",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/seaflower15-palette-example-by-undeady-2-600af6.png",
+            "creator": true,
+            "description": "Some marine sprites for a marine collection of colours.",
+            "title": "seaflower15 Palette Example by un_deady",
+            "slug": "seaflower15-palette-example-by-undeady-2",
+            "publishedAt": "2021-01-23T18:40:00.014Z",
+            "user": {
+                "name": "un_deady",
+                "slug": "undeady"
+            },
+            "parent": "600af4dc78b73b4e5f0f0e63",
+            "createdAt": "2021-01-22T15:58:09.205Z",
+            "updatedAt": "2021-01-23T18:40:00.014Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Some marine sprites for a marine collection of colours."
+        }
+    ],
+    "colorsArray": [
+        "e6ffcc",
+        "b1cc7a",
+        "998a3d",
+        "6e422c",
+        "3b2327",
+        "190c1f",
+        "233b3b",
+        "2c6e49",
+        "4d993d",
+        "294766",
+        "456299",
+        "a3a3cc",
+        "6e2c2c",
+        "995c3d",
+        "ccb17a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "600af4dc78b73b4e5f0f0e63",
+        "type": "palettes",
+        "count": 29,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

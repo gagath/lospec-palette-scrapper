@@ -1,0 +1,61 @@
+{
+    "_id": "61bd3c7bfd2bf070e0033707",
+    "tags": [
+        "lagoon",
+        "blue",
+        "green"
+    ],
+    "colors": [
+        "090909",
+        "18173c",
+        "293329",
+        "244457",
+        "315c3d",
+        "3b8271",
+        "519a59",
+        "92b0a8",
+        "82cc92",
+        "efd7e6"
+    ],
+    "downloads": "56",
+    "featured": false,
+    "likes": 7,
+    "comments": 1,
+    "slug": "h2o",
+    "publishedAt": "2021-12-23T04:30:00.044Z",
+    "user": {
+        "name": "maine",
+        "slug": "maine"
+    },
+    "title": "H2O",
+    "hashtag": "h2o10",
+    "description": "inspired by lake and pond colors, blues and greens alternate &amp; can be separated into their respective ramps (i really need to make examples for these but i have no motivation)",
+    "creator": true,
+    "numberOfColors": 10,
+    "createdAt": "2021-12-18T01:42:19.335Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "090909",
+        "18173c",
+        "293329",
+        "244457",
+        "315c3d",
+        "3b8271",
+        "519a59",
+        "92b0a8",
+        "82cc92",
+        "efd7e6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "61bd3c7bfd2bf070e0033707",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

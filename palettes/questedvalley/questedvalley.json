@@ -1,0 +1,82 @@
+{
+    "_id": "60acac0cb8ef4f638c5ce072",
+    "tags": [
+        "retro",
+        "warm",
+        "polyphrog"
+    ],
+    "colors": [
+        "000000",
+        "4a2400",
+        "2a3039",
+        "944800",
+        "646d4d",
+        "a0a14f",
+        "a9a8b7",
+        "deb652",
+        "ffffff"
+    ],
+    "downloads": "194",
+    "featured": false,
+    "likes": 24,
+    "comments": 2,
+    "slug": "quested-valley",
+    "publishedAt": "2021-05-25T18:10:00.036Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "quested valley",
+    "hashtag": "questedvalley",
+    "description": "",
+    "creator": true,
+    "createdAt": "2021-05-25T07:49:32.273Z",
+    "numberOfColors": 9,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60acac5cb8ef4f638c5ce077",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "quested valley Palette Example by polyphorge",
+            "slug": "quested-valley-palette-example-by-polyphorge",
+            "publishedAt": "2021-05-25T18:05:00.015Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "60acac0cb8ef4f638c5ce072",
+            "image": "palette-examples/quested-valley-palette-example-by-polyphorge-60acac.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-05-25T07:50:52.493Z",
+            "updatedAt": "2021-05-25T18:05:00.015Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "4a2400",
+        "2a3039",
+        "944800",
+        "646d4d",
+        "a0a14f",
+        "a9a8b7",
+        "deb652",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "60acac0cb8ef4f638c5ce072",
+        "type": "palettes",
+        "count": 24,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

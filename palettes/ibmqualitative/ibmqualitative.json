@@ -1,0 +1,60 @@
+{
+    "_id": "5fc8bc59e735e16b0b992103",
+    "tags": [
+        "ibm",
+        " qualitative"
+    ],
+    "colors": [
+        "5392ff",
+        "71cddd",
+        "34bc6e",
+        "95d13c",
+        "ffb000",
+        "fe8500",
+        "ff509e",
+        "9b82f3",
+        "000000",
+        "ffffff"
+    ],
+    "downloads": "46",
+    "featured": false,
+    "likes": 2,
+    "comments": 0,
+    "title": "IBM Qualitative",
+    "hashtag": "ibmqualitative",
+    "description": "<a href=\"https://web.archive.org/web/20201114172754/https://www.ibm.com/design/v1/language/resources/color-library/\" target=\"_blank\">Qualiative Palette of IBM Design Language v1</a>\u00a0Color Names: Blue 40, Aqua 20, Green 30, Lime 20, Gold 20, Peach 30, Magenta 40\r\n\t\t\t\t, Indigo 40\r\n\t\t\t\t, Black 100, White 0",
+    "creator": false,
+    "slug": "ibm-qualitative",
+    "publishedAt": "2020-12-07T19:45:00.023Z",
+    "user": {
+        "name": "\u00c1d\u00e1m Szieberth",
+        "slug": "adam-szieberth"
+    },
+    "numberOfColors": 10,
+    "createdAt": "2020-12-03T10:22:17.045Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "5392ff",
+        "71cddd",
+        "34bc6e",
+        "95d13c",
+        "ffb000",
+        "fe8500",
+        "ff509e",
+        "9b82f3",
+        "000000",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5fc8bc59e735e16b0b992103",
+        "type": "palettes",
+        "count": 2,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

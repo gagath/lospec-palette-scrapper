@@ -1,0 +1,85 @@
+{
+    "_id": "604b855979e6443005a19a50",
+    "tags": [
+        "vibrant",
+        " colorful",
+        " 10colors",
+        " radiant"
+    ],
+    "colors": [
+        "fbf8fd",
+        "a1a9d1",
+        "007fff",
+        "24256f",
+        "141218",
+        "5f0e52",
+        "fd1a43",
+        "ffb16c",
+        "fede5b",
+        "74ead6"
+    ],
+    "downloads": "388",
+    "featured": false,
+    "likes": 38,
+    "comments": 0,
+    "title": "CROMATICA",
+    "hashtag": "cromatica",
+    "description": "",
+    "creator": true,
+    "slug": "cromatica",
+    "publishedAt": "2021-03-16T15:25:00.021Z",
+    "user": {
+        "name": "Jecox\u2728",
+        "slug": "jecoxart"
+    },
+    "numberOfColors": 10,
+    "createdAt": "2021-03-12T15:14:33.379Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "604b944a79e6443005a19b78",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/cromatica-palette-example-by-jecox-604b94.png",
+            "creator": true,
+            "description": "",
+            "title": "CROMATICA Palette Example by Jecox\u2728",
+            "slug": "cromatica-palette-example-by-jecox",
+            "publishedAt": "2021-03-15T15:40:00.025Z",
+            "user": {
+                "name": "Jecox\u2728",
+                "slug": "jecoxart"
+            },
+            "parent": "604b855979e6443005a19a50",
+            "createdAt": "2021-03-12T16:18:18.236Z",
+            "updatedAt": "2021-03-15T15:40:00.026Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "fbf8fd",
+        "a1a9d1",
+        "007fff",
+        "24256f",
+        "141218",
+        "5f0e52",
+        "fd1a43",
+        "ffb16c",
+        "fede5b",
+        "74ead6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "604b855979e6443005a19a50",
+        "type": "palettes",
+        "count": 38,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

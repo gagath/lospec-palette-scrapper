@@ -1,0 +1,94 @@
+{
+    "_id": "61f6e57953aa3e5899d97d50",
+    "tags": [
+        "bobthebest"
+    ],
+    "colors": [
+        "f03c37",
+        "ed8852",
+        "f2cd75",
+        "bae087",
+        "6dcb93",
+        "47897a",
+        "49758f",
+        "2c385a",
+        "1f2338",
+        "583593",
+        "a54abb",
+        "d57bb6",
+        "994a11",
+        "ca7015",
+        "f7d2ae",
+        "c7cabd"
+    ],
+    "downloads": "286",
+    "featured": false,
+    "likes": 14,
+    "comments": 0,
+    "slug": "dibbles",
+    "publishedAt": "2022-01-31T13:15:00.052Z",
+    "user": {
+        "name": "bobthebest 1",
+        "slug": "bobthebest-1"
+    },
+    "title": "DIBBLES",
+    "hashtag": "dibbles",
+    "description": "no credits are needed.",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2022-01-30T19:22:33.695Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61f6fcc7165d6d6d645af8af",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "DIBBLES Palette Example by bobthebest 1",
+            "slug": "dibbles-palette-example-by-bobthebest-1tukfr7",
+            "publishedAt": "2022-01-31T14:45:00.038Z",
+            "user": {
+                "name": "bobthebest 1",
+                "slug": "bobthebest-1"
+            },
+            "parent": "61f6e57953aa3e5899d97d50",
+            "image": "palette-examples/dibbles-palette-example-by-bobthebest-1tukfr7.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-01-30T21:01:59.880Z",
+            "updatedAt": "2022-01-31T14:45:00.039Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "f03c37",
+        "ed8852",
+        "f2cd75",
+        "bae087",
+        "6dcb93",
+        "47897a",
+        "49758f",
+        "2c385a",
+        "1f2338",
+        "583593",
+        "a54abb",
+        "d57bb6",
+        "994a11",
+        "ca7015",
+        "f7d2ae",
+        "c7cabd"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61f6e57953aa3e5899d97d50",
+        "type": "palettes",
+        "count": 14,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

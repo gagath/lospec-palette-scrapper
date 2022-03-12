@@ -1,0 +1,65 @@
+{
+    "_id": "605825ad5fd3eb4b209f6afe",
+    "tags": [
+        "food",
+        "pastel",
+        "fydotiles",
+        "arisuki",
+        "cloudcafe",
+        "duochrome",
+        "pastry"
+    ],
+    "colors": [
+        "49223f",
+        "cc2b46",
+        "f37e7e",
+        "e7a794",
+        "fbf1d1",
+        "f6cda3",
+        "ca833c",
+        "8a4646",
+        "538f5a",
+        "b4accc"
+    ],
+    "downloads": "144",
+    "featured": false,
+    "likes": 16,
+    "comments": 4,
+    "title": "CafeArisuki",
+    "hashtag": "cafearisuki",
+    "description": "A palette designed to paint the most delightful patisseries on this side of the cloud kingdom. For the following fydo quilt: https://fy.do/quilt/173",
+    "creator": true,
+    "slug": "cafearisuki",
+    "publishedAt": "2021-03-23T06:10:00.028Z",
+    "user": {
+        "name": "Arisuki",
+        "slug": "arisuki"
+    },
+    "numberOfColors": 10,
+    "createdAt": "2021-03-22T05:05:49.332Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "49223f",
+        "cc2b46",
+        "f37e7e",
+        "e7a794",
+        "fbf1d1",
+        "f6cda3",
+        "ca833c",
+        "8a4646",
+        "538f5a",
+        "b4accc"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "605825ad5fd3eb4b209f6afe",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

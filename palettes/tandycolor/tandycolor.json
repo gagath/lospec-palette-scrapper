@@ -1,0 +1,51 @@
+{
+    "_id": "620edb3676353308ca6e7386",
+    "tags": [
+        "retro",
+        "hardware",
+        "trs80",
+        "tandy",
+        "80s"
+    ],
+    "colors": [
+        "000000",
+        "0080ff",
+        "ff8000",
+        "ffffff"
+    ],
+    "downloads": "31",
+    "featured": false,
+    "likes": 4,
+    "comments": 1,
+    "slug": "trs-80",
+    "publishedAt": "2022-02-20T17:40:00.031Z",
+    "user": {
+        "name": "beachboogeyman",
+        "slug": "beachboogeyman"
+    },
+    "title": "TRS-80",
+    "hashtag": "tandycolor",
+    "description": "1 bit palette from the TRS-80 Color Computer 1, the blue and orange artifact colours were the result of an effect created by setting the black and white side-by-side in a certain way. https://en.wikipedia.org/wiki/TRS-80_Color_Computer#Artifact_colors",
+    "creator": false,
+    "numberOfColors": 4,
+    "createdAt": "2022-02-17T23:33:10.566Z",
+    "isNew": true,
+    "sortNewest": "2022-02-20T17:40:00.031Z",
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "0080ff",
+        "ff8000",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "620edb3676353308ca6e7386",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,53 @@
+{
+    "_id": "614ecc5251a39e02be58cb9a",
+    "tags": [
+        "5",
+        "gold",
+        "coin",
+        "doge",
+        "dogecoin"
+    ],
+    "colors": [
+        "96521a",
+        "b88f37",
+        "b37b2d",
+        "bf7f24",
+        "cf9c38"
+    ],
+    "downloads": "157",
+    "featured": false,
+    "likes": 3,
+    "comments": 0,
+    "slug": "coin-gold",
+    "publishedAt": "2021-10-12T17:45:00.032Z",
+    "user": {
+        "name": "pigeon pigeon noise",
+        "slug": "pigeon-pigeon-noise"
+    },
+    "title": "Coin-Gold",
+    "hashtag": "coingold",
+    "description": "A color pallet ment to suit coin like gold and other such gold colored objects with a simple 5 colors",
+    "creator": true,
+    "numberOfColors": 5,
+    "createdAt": "2021-09-25T07:14:26.493Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "96521a",
+        "b88f37",
+        "b37b2d",
+        "bf7f24",
+        "cf9c38"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "614ecc5251a39e02be58cb9a",
+        "type": "palettes",
+        "count": 3,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

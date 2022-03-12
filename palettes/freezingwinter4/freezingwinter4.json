@@ -1,0 +1,92 @@
+{
+    "_id": "602a0c898b7e4128e8ffbf63",
+    "tags": [
+        "snow cold winter blue"
+    ],
+    "colors": [
+        "f0faff",
+        "3bbdfd",
+        "0070ef",
+        "1e188d"
+    ],
+    "downloads": "123",
+    "featured": false,
+    "likes": 14,
+    "comments": 7,
+    "title": "FreezingWinter4",
+    "hashtag": "freezingwinter4",
+    "description": "",
+    "creator": true,
+    "slug": "freezingwinter4",
+    "publishedAt": "2021-03-01T09:40:00.039Z",
+    "user": {
+        "name": "Joe",
+        "slug": "joe1"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-02-15T05:54:17.156Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "602a1d7b8b7e4128e8ffc041",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/golveronze-16-palette-example-by-joe-2-602a1d.png",
+            "creator": true,
+            "description": "",
+            "title": "Golveronze 16 Palette Example by Joe",
+            "slug": "golveronze-16-palette-example-by-joe-2",
+            "publishedAt": "2021-03-27T18:55:00.020Z",
+            "user": {
+                "name": "Joe",
+                "slug": "joe1"
+            },
+            "parent": "602a0c898b7e4128e8ffbf63",
+            "createdAt": "2021-02-15T07:06:35.455Z",
+            "updatedAt": "2021-03-27T18:55:00.020Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "60308e7eb2c02e32290b847c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/coldwinter4-palette-example-by-joe-60308e.png",
+            "creator": true,
+            "description": "",
+            "title": "ColdWinter4 Palette Example by Joe",
+            "slug": "coldwinter4-palette-example-by-joe",
+            "publishedAt": "2021-02-28T16:05:00.018Z",
+            "user": {
+                "name": "Joe",
+                "slug": "joe1"
+            },
+            "parent": "602a0c898b7e4128e8ffbf63",
+            "createdAt": "2021-02-20T04:22:22.379Z",
+            "updatedAt": "2021-02-28T16:05:00.018Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "f0faff",
+        "3bbdfd",
+        "0070ef",
+        "1e188d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "602a0c898b7e4128e8ffbf63",
+        "type": "palettes",
+        "count": 14,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

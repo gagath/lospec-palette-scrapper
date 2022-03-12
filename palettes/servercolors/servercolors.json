@@ -1,0 +1,63 @@
+{
+    "_id": "5fccce9d659e9e6c8623a047",
+    "tags": [],
+    "colors": [
+        "6c141d",
+        "fe5621",
+        "fbe565",
+        "329932",
+        "bbf291",
+        "2c61e8",
+        "c3f3ed",
+        "800080",
+        "a49dc8",
+        "ff1493",
+        "ffc0cb",
+        "75501b",
+        "000000"
+    ],
+    "downloads": "92",
+    "featured": false,
+    "likes": 7,
+    "comments": 3,
+    "title": "server colors",
+    "hashtag": "servercolors",
+    "description": "",
+    "creator": true,
+    "slug": "server-colors",
+    "publishedAt": "2021-01-12T02:20:00.019Z",
+    "user": {
+        "name": "tokki",
+        "slug": "tokkiblossom"
+    },
+    "numberOfColors": 13,
+    "createdAt": "2020-12-06T12:29:17.366Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "6c141d",
+        "fe5621",
+        "fbe565",
+        "329932",
+        "bbf291",
+        "2c61e8",
+        "c3f3ed",
+        "800080",
+        "a49dc8",
+        "ff1493",
+        "ffc0cb",
+        "75501b",
+        "000000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5fccce9d659e9e6c8623a047",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

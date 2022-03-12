@@ -1,0 +1,92 @@
+{
+    "_id": "60820f21c6560d16b8833905",
+    "tags": [],
+    "colors": [
+        "fcfcfc",
+        "a4a4a4",
+        "000000",
+        "24303c",
+        "55493c",
+        "b67914",
+        "eb923c",
+        "f3e375",
+        "a6cf34",
+        "559224",
+        "2438eb",
+        "3ca6f3",
+        "b2dbeb",
+        "db7996",
+        "b83044",
+        "a80c0c"
+    ],
+    "downloads": "132",
+    "featured": false,
+    "likes": 12,
+    "comments": 0,
+    "slug": "ye-olde-pirate-modde",
+    "publishedAt": "2021-04-24T23:05:00.024Z",
+    "user": {
+        "name": "P-Tux7",
+        "slug": "p-tux7"
+    },
+    "title": "Ye Olde Pirate Modde",
+    "hashtag": "yeoldepiratemodde",
+    "description": "A custom palette designed by Levellass for her mod of Commander Keen 3: Keen Must Die!,\u00a0Ye Olde Pirate Modde. Although it replaces\u00a0the standard CGA/EGA palette\u00a0that the original game used to display, it is not a 1:1 replacement, so it is not suitable to recolor art made in the standard palette.",
+    "creator": false,
+    "createdAt": "2021-04-23T00:04:49.065Z",
+    "numberOfColors": 16,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6082128fc6560d16b883391e",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Ye Olde Pirate Modde Palette Example by P-Tux7",
+            "slug": "ye-olde-pirate-modde-palette-example-by-p-tux7",
+            "publishedAt": "2021-04-23T18:15:00.015Z",
+            "user": {
+                "name": "P-Tux7",
+                "slug": "p-tux7"
+            },
+            "parent": "60820f21c6560d16b8833905",
+            "image": "palette-examples/ye-olde-pirate-modde-palette-example-by-p-tux7-608212.png",
+            "creator": false,
+            "description": "Ye Olde Pirate Modde\u00a0(Levellass, Ceilick)",
+            "createdAt": "2021-04-23T00:19:27.770Z",
+            "updatedAt": "2021-04-23T18:15:00.016Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Ye Olde Pirate Modde\u00a0(Levellass, Ceilick)"
+        }
+    ],
+    "colorsArray": [
+        "fcfcfc",
+        "a4a4a4",
+        "000000",
+        "24303c",
+        "55493c",
+        "b67914",
+        "eb923c",
+        "f3e375",
+        "a6cf34",
+        "559224",
+        "2438eb",
+        "3ca6f3",
+        "b2dbeb",
+        "db7996",
+        "b83044",
+        "a80c0c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60820f21c6560d16b8833905",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,76 @@
+{
+    "_id": "61b5573ba6557d47e6583c9c",
+    "tags": [
+        "christmas",
+        "soundsdotzip",
+        "cozy"
+    ],
+    "colors": [
+        "121a16",
+        "1f3325",
+        "36593b",
+        "80193b",
+        "cc2944",
+        "ffb3bf"
+    ],
+    "downloads": "212",
+    "featured": false,
+    "likes": 12,
+    "comments": 0,
+    "slug": "cozy-christmas",
+    "publishedAt": "2021-12-16T09:00:00.066Z",
+    "user": {
+        "name": "SoundsDotZip",
+        "slug": "soundsdotzip"
+    },
+    "title": "Cozy Christmas",
+    "hashtag": "cozychristmas",
+    "description": "Christmas is almost here, so I thought I'd make a small palette with a Christmas vibe. Hope you like it!",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2021-12-12T01:58:19.480Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61b5574ea6557d47e6583ca0",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Cozy Christmas Palette Example by SoundsDotZip",
+            "slug": "cozy-christmas-palette-example-by-soundsdotzip",
+            "publishedAt": "2021-12-12T15:40:00.014Z",
+            "user": {
+                "name": "SoundsDotZip",
+                "slug": "soundsdotzip"
+            },
+            "parent": "61b5573ba6557d47e6583c9c",
+            "image": "palette-examples/cozy-christmas-palette-example-by-soundsdotzip-61b557.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-12-12T01:58:38.794Z",
+            "updatedAt": "2021-12-12T15:40:00.014Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "121a16",
+        "1f3325",
+        "36593b",
+        "80193b",
+        "cc2944",
+        "ffb3bf"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "61b5573ba6557d47e6583c9c",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

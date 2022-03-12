@@ -1,0 +1,73 @@
+{
+    "_id": "5ccdb2dc6b28955deb6c1b31",
+    "createdAt": "2019-05-04T15:42:20.016Z",
+    "slug": "blue-seni",
+    "description": "Part of the <a target=\"_blank\" href=\"https://lospec.com/palette-list/tag/wildleoknightgameboy\">WildLeoKnight Gameboy Palettes Set</a>",
+    "colors": [
+        "d0f4f8",
+        "70b0c0",
+        "3c3468",
+        "1c0820"
+    ],
+    "featured": false,
+    "tags": [
+        "artist",
+        "wildleoknight",
+        "gameboy",
+        "wildleoknightgameboy"
+    ],
+    "downloads": "823",
+    "numberOfColors": 4,
+    "likes": 41,
+    "comments": 0,
+    "creator": true,
+    "hashtag": "blueseni",
+    "title": "Blue Seni",
+    "user": {
+        "name": "WildLeoKnight",
+        "slug": "wildleoknight"
+    },
+    "publishedAt": "2019-05-04T15:42:20.016Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60791ce540b13015edd6df3d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Blue Seni Palette Example by Casei Solus",
+            "slug": "blue-seni-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-16T22:30:00.048Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5ccdb2dc6b28955deb6c1b31",
+            "image": "palette-examples/blue-seni-palette-example-by-casei-solus-60791c.png",
+            "creator": true,
+            "description": "A semi truck.",
+            "createdAt": "2021-04-16T05:13:09.907Z",
+            "updatedAt": "2021-04-16T22:30:00.048Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A semi truck."
+        }
+    ],
+    "colorsArray": [
+        "d0f4f8",
+        "70b0c0",
+        "3c3468",
+        "1c0820"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5ccdb2dc6b28955deb6c1b31",
+        "type": "palettes",
+        "count": 41,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

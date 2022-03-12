@@ -1,0 +1,67 @@
+{
+    "_id": "61008d576396232148835e43",
+    "tags": [
+        "1bit",
+        "monochrome"
+    ],
+    "colors": [
+        "110c22",
+        "c3dce5"
+    ],
+    "downloads": "278",
+    "featured": false,
+    "likes": 36,
+    "comments": 0,
+    "slug": "1-bit-chill",
+    "publishedAt": "2021-08-01T17:20:00.022Z",
+    "user": {
+        "name": "Spicygame Studios",
+        "slug": "spicygame-studios"
+    },
+    "title": "1-bit Chill",
+    "hashtag": "1bitchill",
+    "description": "This is a 1-bit pallete where the two colors have a blue tint. Enjoy!  ",
+    "creator": true,
+    "numberOfColors": 2,
+    "createdAt": "2021-07-27T22:48:55.550Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "610090c3639623214883657f",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "1-bit Chill Palette Example by Spicygame Studios",
+            "slug": "1-bit-chill-palette-example-by-spicygame-studios",
+            "publishedAt": "2021-07-29T21:50:00.009Z",
+            "user": {
+                "name": "Spicygame Studios",
+                "slug": "spicygame-studios"
+            },
+            "parent": "61008d576396232148835e43",
+            "image": "palette-examples/1-bit-chill-palette-example-by-spicygame-studios-610090.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-07-27T23:03:31.737Z",
+            "updatedAt": "2021-07-29T21:50:00.009Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "110c22",
+        "c3dce5"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "61008d576396232148835e43",
+        "type": "palettes",
+        "count": 36,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

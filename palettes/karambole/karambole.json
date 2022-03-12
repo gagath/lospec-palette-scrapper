@@ -1,0 +1,76 @@
+{
+    "_id": "61f5ac50624e467417bcb470",
+    "tags": [
+        "kbl",
+        "lk",
+        "gameboy"
+    ],
+    "colors": [
+        "000000",
+        "083131",
+        "105d63",
+        "318e9c",
+        "84bece",
+        "ffffff"
+    ],
+    "downloads": "101",
+    "featured": false,
+    "likes": 9,
+    "comments": 0,
+    "slug": "k-arambole",
+    "publishedAt": "2022-02-20T01:40:00.043Z",
+    "user": {
+        "name": "Gabizu46512",
+        "slug": "gabz"
+    },
+    "title": "K-arambole",
+    "hashtag": "karambole",
+    "description": "Another palette made by Lucas Lukin ;-;, all credits goes for him again",
+    "creator": false,
+    "numberOfColors": 6,
+    "createdAt": "2022-01-29T21:06:24.699Z",
+    "isNew": true,
+    "sortNewest": "2022-02-20T01:40:00.043Z",
+    "examples": [
+        {
+            "_id": "61f5ac68624e467417bcb472",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "K-arambole Palette Example by Gabizu46512",
+            "slug": "k-arambole-palette-example-by-gabizu46512vqw3gs",
+            "publishedAt": "2022-02-02T14:55:00.031Z",
+            "user": {
+                "name": "Gabizu46512",
+                "slug": "gabz"
+            },
+            "parent": "61f5ac50624e467417bcb470",
+            "image": "palette-examples/k-arambole-palette-example-by-gabizu46512vqw3gs.png",
+            "creator": false,
+            "description": "",
+            "createdAt": "2022-01-29T21:06:48.069Z",
+            "updatedAt": "2022-02-02T14:55:00.031Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "083131",
+        "105d63",
+        "318e9c",
+        "84bece",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "61f5ac50624e467417bcb470",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,79 @@
+{
+    "_id": "6169acab40566d6e7b3db15f",
+    "tags": [
+        "7colors",
+        "warm",
+        "cool",
+        "desaturated"
+    ],
+    "colors": [
+        "5d186b",
+        "4c1b3c",
+        "672543",
+        "832f40",
+        "c35d68",
+        "d38f72",
+        "dcdc61"
+    ],
+    "downloads": "282",
+    "featured": false,
+    "likes": 17,
+    "comments": 0,
+    "slug": "soft-and-cat",
+    "publishedAt": "2021-10-18T19:45:00.015Z",
+    "user": {
+        "name": "AteBits",
+        "slug": "atebits"
+    },
+    "title": "Soft and Cat",
+    "hashtag": "softcat",
+    "description": "Seven color pallete with warm and cool low-saturated colors and two accent colors",
+    "creator": true,
+    "numberOfColors": 7,
+    "createdAt": "2021-10-15T16:30:35.591Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6169aeed40566d6e7b3db190",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Soft and Cat Palette Example by AteBits",
+            "slug": "soft-and-cat-palette-example-by-atebits",
+            "publishedAt": "2021-10-15T20:40:00.017Z",
+            "user": {
+                "name": "AteBits",
+                "slug": "atebits"
+            },
+            "parent": "6169acab40566d6e7b3db15f",
+            "image": "palette-examples/soft-and-cat-palette-example-by-atebits-6169ae.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-10-15T16:40:13.171Z",
+            "updatedAt": "2021-10-15T20:40:00.018Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "5d186b",
+        "4c1b3c",
+        "672543",
+        "832f40",
+        "c35d68",
+        "d38f72",
+        "dcdc61"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "6169acab40566d6e7b3db15f",
+        "type": "palettes",
+        "count": 17,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

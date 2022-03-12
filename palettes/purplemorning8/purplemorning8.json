@@ -1,0 +1,89 @@
+{
+    "_id": "619a8fde4cc49f2a07d81cd7",
+    "tags": [
+        "morning",
+        "purple",
+        "gold",
+        "yellow",
+        "blue",
+        "indigo",
+        "sunset",
+        "sunrise",
+        "warm",
+        "cool",
+        "8",
+        "eight"
+    ],
+    "colors": [
+        "211d38",
+        "2e2a4f",
+        "3b405e",
+        "60556e",
+        "9a6278",
+        "c7786f",
+        "cfa98a",
+        "cdd4a5"
+    ],
+    "downloads": "686",
+    "featured": false,
+    "likes": 62,
+    "comments": 0,
+    "slug": "purplemorning8",
+    "publishedAt": "2021-11-24T22:35:00.028Z",
+    "user": {
+        "name": "Sarahboev",
+        "slug": "sarah-boeving"
+    },
+    "title": "PurpleMorning8",
+    "hashtag": "purplemorning8",
+    "description": "Palette from my PJ secret santa 2020 piece.\u00a0",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-11-21T18:28:46.831Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "619a8fed4cc49f2a07d81cd9",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "PurpleMorning8 Palette Example by Sarahboev",
+            "slug": "purplemorning8-palette-example-by-sarahboev",
+            "publishedAt": "2021-11-22T07:55:00.032Z",
+            "user": {
+                "name": "Sarahboev",
+                "slug": "sarah-boeving"
+            },
+            "parent": "619a8fde4cc49f2a07d81cd7",
+            "image": "palette-examples/purplemorning8-palette-example-by-sarahboev-619a8f.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-11-21T18:29:01.752Z",
+            "updatedAt": "2021-11-22T07:55:00.033Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "211d38",
+        "2e2a4f",
+        "3b405e",
+        "60556e",
+        "9a6278",
+        "c7786f",
+        "cfa98a",
+        "cdd4a5"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "619a8fde4cc49f2a07d81cd7",
+        "type": "palettes",
+        "count": 62,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,96 @@
+{
+    "_id": "61eb7a270e06df6fb6fd2ef7",
+    "tags": [
+        "aesthetic",
+        "futurefunk",
+        "vaporwave"
+    ],
+    "colors": [
+        "53437f",
+        "a89fcc",
+        "ffffff",
+        "ffd9e8",
+        "ff9bb6",
+        "9968e2",
+        "be9bff",
+        "7fceff",
+        "6d81ff",
+        "2c6f99",
+        "00bcaa",
+        "c48f9e",
+        "8e586f",
+        "ff5470",
+        "ff9b71",
+        "ffd9ae"
+    ],
+    "downloads": "518",
+    "featured": false,
+    "likes": 37,
+    "comments": 0,
+    "slug": "pastel-horizon",
+    "publishedAt": "2022-01-22T09:20:00.058Z",
+    "user": {
+        "name": "BlackedIRL",
+        "slug": "blkirl"
+    },
+    "title": "PASTEL HORIZON",
+    "hashtag": "pastelhorizon",
+    "description": "Inspired by FutureFunk vibes (and from a similar name song).",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2022-01-22T03:29:43.076Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61eb7dc50e06df6fb6fd2f5b",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "PASTEL HORIZON Palette Example by BlackedIRL",
+            "slug": "pastel-horizon-palette-example-by-blackedirlumscf9",
+            "publishedAt": "2022-01-22T09:20:00.029Z",
+            "user": {
+                "name": "BlackedIRL",
+                "slug": "blkirl"
+            },
+            "parent": "61eb7a270e06df6fb6fd2ef7",
+            "image": "palette-examples/pastel-horizon-palette-example-by-blackedirlumscf9.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-01-22T03:45:09.806Z",
+            "updatedAt": "2022-01-22T09:20:00.029Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "53437f",
+        "a89fcc",
+        "ffffff",
+        "ffd9e8",
+        "ff9bb6",
+        "9968e2",
+        "be9bff",
+        "7fceff",
+        "6d81ff",
+        "2c6f99",
+        "00bcaa",
+        "c48f9e",
+        "8e586f",
+        "ff5470",
+        "ff9b71",
+        "ffd9ae"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61eb7a270e06df6fb6fd2ef7",
+        "type": "palettes",
+        "count": 37,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

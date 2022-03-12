@@ -1,0 +1,90 @@
+{
+    "_id": "61c2e9db012043052f08e305",
+    "tags": [
+        "royalnaym",
+        "colorblind",
+        "9colors",
+        "blue",
+        "yellow",
+        "pollution",
+        "deuteranopia",
+        "mechanical",
+        "sick",
+        "water",
+        "dust"
+    ],
+    "colors": [
+        "153457",
+        "183c5c",
+        "1d4961",
+        "45585d",
+        "6d6e46",
+        "7f8068",
+        "96998e",
+        "acb2b1",
+        "cbd5fc"
+    ],
+    "downloads": "253",
+    "featured": false,
+    "likes": 27,
+    "comments": 0,
+    "slug": "deuterospill",
+    "publishedAt": "2021-12-23T16:30:00.046Z",
+    "user": {
+        "name": "Royal_Naym",
+        "slug": "royalnaym"
+    },
+    "title": "DeuteroSpill",
+    "hashtag": "deuterospill",
+    "description": "A follow up from one of my first palette. 9 colors going from a very dark blue, to a sickly yellow, all the way to a cold white. Based on the deuteranopian color spectrum.",
+    "creator": true,
+    "numberOfColors": 9,
+    "createdAt": "2021-12-22T09:03:23.405Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61c2ea22012043052f08e307",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "DeuteroSpill Palette Example by Royal_Naym",
+            "slug": "deuterospill-palette-example-by-royalnaymkgbitv",
+            "publishedAt": "2021-12-22T09:15:00.032Z",
+            "user": {
+                "name": "Royal_Naym",
+                "slug": "royalnaym"
+            },
+            "parent": "61c2e9db012043052f08e305",
+            "image": "palette-examples/deuterospill-palette-example-by-royalnaymkgbitv.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-12-22T09:04:34.302Z",
+            "updatedAt": "2021-12-22T09:15:00.033Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "153457",
+        "183c5c",
+        "1d4961",
+        "45585d",
+        "6d6e46",
+        "7f8068",
+        "96998e",
+        "acb2b1",
+        "cbd5fc"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "61c2e9db012043052f08e305",
+        "type": "palettes",
+        "count": 27,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

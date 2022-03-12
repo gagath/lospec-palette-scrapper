@@ -1,0 +1,52 @@
+{
+    "_id": "60b6e5ea74337c0f76289477",
+    "tags": [
+        "snow",
+        "ice",
+        "coco",
+        "chocolate"
+    ],
+    "colors": [
+        "e1f2fe",
+        "98d2eb",
+        "b2b1cf",
+        "77625c",
+        "49392c"
+    ],
+    "downloads": "58",
+    "featured": false,
+    "likes": 2,
+    "comments": 0,
+    "slug": "frosty-coco",
+    "publishedAt": "2021-09-15T09:20:00.068Z",
+    "user": {
+        "name": "slimysubstance",
+        "slug": "vexatious"
+    },
+    "title": "Frosty Coco",
+    "hashtag": "frostycoco",
+    "description": "A brown and blue color palette. The warmth of hot coco, contrasting with the icy color of light blue.",
+    "creator": true,
+    "createdAt": "2021-06-02T01:59:06.547Z",
+    "numberOfColors": 5,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "e1f2fe",
+        "98d2eb",
+        "b2b1cf",
+        "77625c",
+        "49392c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "60b6e5ea74337c0f76289477",
+        "type": "palettes",
+        "count": 2,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

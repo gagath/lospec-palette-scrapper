@@ -1,0 +1,70 @@
+{
+    "_id": "5f32cc19de77f057ddb5ed55",
+    "tags": [],
+    "colors": [
+        "fadda2",
+        "6b61ff",
+        "66a1ff",
+        "8ecde6",
+        "f0eff4"
+    ],
+    "downloads": "2,564",
+    "featured": false,
+    "likes": 258,
+    "comments": 2,
+    "title": "CAPP-5",
+    "hashtag": "capp5",
+    "description": "A palette based on my recent works!",
+    "creator": "1",
+    "slug": "capp-5",
+    "publishedAt": "2020-08-12T01:15:00.032Z",
+    "user": {
+        "name": "Cappuchi",
+        "slug": "cpch01"
+    },
+    "numberOfColors": 5,
+    "createdAt": "2020-08-11T16:49:29.353Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f32e005de77f057ddb5ef08",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/capp-5-palette-example-by-cappuchi-2-5f32e0.png",
+            "creator": true,
+            "description": "",
+            "title": "CAPP-5 Palette Example by Cappuchi",
+            "slug": "capp-5-palette-example-by-cappuchi-2",
+            "publishedAt": "2020-08-11T23:30:00.007Z",
+            "user": {
+                "name": "Cappuchi",
+                "slug": "cpch01"
+            },
+            "parent": "5f32cc19de77f057ddb5ed55",
+            "createdAt": "2020-08-11T18:14:29.333Z",
+            "updatedAt": "2020-08-11T23:30:00.007Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "fadda2",
+        "6b61ff",
+        "66a1ff",
+        "8ecde6",
+        "f0eff4"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5f32cc19de77f057ddb5ed55",
+        "type": "palettes",
+        "count": 258,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

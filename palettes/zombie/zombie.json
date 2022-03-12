@@ -1,0 +1,72 @@
+{
+    "_id": "61b645220b18e40881846a11",
+    "tags": [
+        "zombie",
+        "green",
+        "4colors"
+    ],
+    "colors": [
+        "786775",
+        "a0909b",
+        "b4c6b9",
+        "dcece1"
+    ],
+    "downloads": "98",
+    "featured": false,
+    "likes": 9,
+    "comments": 0,
+    "slug": "zombie-apocalipse",
+    "publishedAt": "2021-12-17T09:00:00.060Z",
+    "user": {
+        "name": "Rexsarus",
+        "slug": "rexsarus"
+    },
+    "title": "Zombie Apocalipse!",
+    "hashtag": "zombie",
+    "description": "This one is my favourite so far",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-12-12T18:53:22.361Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61b64a3a0b18e40881846a40",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Zombie Apocalipse! Palette Example by Rexsarus",
+            "slug": "zombie-apocalipse-palette-example-by-rexsarus",
+            "publishedAt": "2021-12-12T19:20:00.035Z",
+            "user": {
+                "name": "Rexsarus",
+                "slug": "rexsarus"
+            },
+            "parent": "61b645220b18e40881846a11",
+            "image": "palette-examples/zombie-apocalipse-palette-example-by-rexsarus-61b64a.png",
+            "creator": true,
+            "description": "Original Artwork in my twitter https://twitter.com/Rexsarus2/status/1469837259608363012?s=20",
+            "createdAt": "2021-12-12T19:15:06.702Z",
+            "updatedAt": "2021-12-12T19:20:00.037Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Original Artwork in my twitter https://twitter.com/Rexsarus2/status/1469837259608363012?s=20"
+        }
+    ],
+    "colorsArray": [
+        "786775",
+        "a0909b",
+        "b4c6b9",
+        "dcece1"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61b645220b18e40881846a11",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

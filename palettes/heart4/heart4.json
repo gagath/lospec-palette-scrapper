@@ -1,0 +1,51 @@
+{
+    "_id": "5fa0194887845420daeac889",
+    "tags": [
+        "2bit",
+        "pink",
+        "gb",
+        "warm",
+        "bright"
+    ],
+    "colors": [
+        "3e2653",
+        "a64777",
+        "ff4589",
+        "ebe5ce"
+    ],
+    "downloads": "3,034",
+    "featured": false,
+    "likes": 30,
+    "comments": 0,
+    "title": "HEART4",
+    "hashtag": "heart4",
+    "description": "A lovely 2-bit palette, with distinct body, highlight, outline and background colours. Lends itself to bright, flat pieces which use AA to define shapes. Made for the 2bit Waifus collaboration.",
+    "creator": true,
+    "slug": "heart4",
+    "publishedAt": "2020-11-02T15:20:00.019Z",
+    "user": {
+        "name": "Lavenfurr",
+        "slug": "lavendertgreat"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-11-02T14:35:52.417Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "3e2653",
+        "a64777",
+        "ff4589",
+        "ebe5ce"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5fa0194887845420daeac889",
+        "type": "palettes",
+        "count": 30,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

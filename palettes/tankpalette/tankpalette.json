@@ -1,0 +1,57 @@
+{
+    "_id": "6168edffeda9e255d1565ba8",
+    "tags": [
+        "army",
+        "8color",
+        "videogame"
+    ],
+    "colors": [
+        "000000",
+        "8aa653",
+        "728945",
+        "5a6b36",
+        "414d27",
+        "636166",
+        "86838a",
+        "665a3d"
+    ],
+    "downloads": "72",
+    "featured": false,
+    "likes": 2,
+    "comments": 0,
+    "slug": "tank-palette",
+    "publishedAt": "2021-10-18T11:45:00.022Z",
+    "user": {
+        "name": "Mightygulp",
+        "slug": "snooregrets2888"
+    },
+    "title": "Tank Palette",
+    "hashtag": "tankpalette",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-10-15T02:57:03.370Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "8aa653",
+        "728945",
+        "5a6b36",
+        "414d27",
+        "636166",
+        "86838a",
+        "665a3d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6168edffeda9e255d1565ba8",
+        "type": "palettes",
+        "count": 2,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

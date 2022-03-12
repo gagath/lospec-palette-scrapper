@@ -1,0 +1,61 @@
+{
+    "_id": "5db78ea051064b2bb10ce241",
+    "slug": "3bit-cats-melonyard",
+    "description": "<a href=\"https://twitter.com/windfallapples/status/1188982054408642560\" target=\"_blank\">An eight-colour, two-hue colour palette</a>\u00a0for one in a series of catgirls created during Octobit 2019.",
+    "colors": [
+        "311047",
+        "6c855d",
+        "9fb364",
+        "e5db48",
+        "f7efba",
+        "e2ae60",
+        "b25c34",
+        "8b2747"
+    ],
+    "creator": true,
+    "comments": 0,
+    "likes": 37,
+    "createdAt": "2019-10-29T00:58:08.604Z",
+    "featured": false,
+    "tags": [
+        "3bit",
+        "3bitcats",
+        "octobit",
+        "windfallapples",
+        "glacier",
+        "duochrome",
+        "midsaturation"
+    ],
+    "downloads": "378",
+    "numberOfColors": 8,
+    "hashtag": "3bitcatsmelonyard",
+    "title": "3Bit Cats: Melonyard",
+    "user": {
+        "name": "windfallapples (glacier)",
+        "slug": "windfallapples"
+    },
+    "publishedAt": "2019-10-29T00:58:08.604Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "311047",
+        "6c855d",
+        "9fb364",
+        "e5db48",
+        "f7efba",
+        "e2ae60",
+        "b25c34",
+        "8b2747"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5db78ea051064b2bb10ce241",
+        "type": "palettes",
+        "count": 37,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

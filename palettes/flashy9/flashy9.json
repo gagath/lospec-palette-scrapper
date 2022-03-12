@@ -1,0 +1,55 @@
+{
+    "_id": "5de0be8d588e6e7f67a29c43",
+    "slug": "flashy-9",
+    "description": "A nine color palette with a focus on vibrant primary colors.",
+    "colors": [
+        "0a030d",
+        "fffff7",
+        "2ce8f5",
+        "ffcf00",
+        "ff0059",
+        "004d57",
+        "230c45",
+        "7d2160",
+        "2ad726"
+    ],
+    "creator": true,
+    "hashtag": "flashy9",
+    "comments": 0,
+    "likes": 6,
+    "createdAt": "2019-11-29T06:45:33.682Z",
+    "featured": false,
+    "tags": [],
+    "downloads": "91",
+    "numberOfColors": 9,
+    "title": "Flashy 9",
+    "user": {
+        "name": "loooooogan foooooorman",
+        "slug": "devdwarf"
+    },
+    "publishedAt": "2020-04-23T00:50:00.013Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "0a030d",
+        "fffff7",
+        "2ce8f5",
+        "ffcf00",
+        "ff0059",
+        "004d57",
+        "230c45",
+        "7d2160",
+        "2ad726"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5de0be8d588e6e7f67a29c43",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

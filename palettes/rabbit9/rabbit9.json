@@ -1,0 +1,60 @@
+{
+    "_id": "61fcce808d96db4cfd32c9ea",
+    "tags": [
+        "minimal",
+        "gameboy",
+        "9",
+        "desaturated"
+    ],
+    "colors": [
+        "1f3d4c",
+        "597d80",
+        "8da674",
+        "b2aea1",
+        "fff8f2",
+        "e6daa1",
+        "cc9a8f",
+        "995c5c",
+        "66334f"
+    ],
+    "downloads": "130",
+    "featured": false,
+    "likes": 10,
+    "comments": 0,
+    "slug": "r-a-b-b-i-t-9",
+    "publishedAt": "2022-02-04T20:55:00.059Z",
+    "user": {
+        "name": "RABBITKING",
+        "slug": "rabbitking"
+    },
+    "title": "R A B B I T 9",
+    "hashtag": "rabbit9",
+    "description": "A minimal palette for smaller canvases - or large, whatever. I'm not the boss of you. No true black, and interchangeable hues for shading and highlighting\u00a0",
+    "creator": true,
+    "numberOfColors": 9,
+    "createdAt": "2022-02-04T06:58:08.417Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "1f3d4c",
+        "597d80",
+        "8da674",
+        "b2aea1",
+        "fff8f2",
+        "e6daa1",
+        "cc9a8f",
+        "995c5c",
+        "66334f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "61fcce808d96db4cfd32c9ea",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

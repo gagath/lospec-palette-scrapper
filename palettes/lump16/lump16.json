@@ -1,0 +1,94 @@
+{
+    "_id": "5f51194339af240db7024c3f",
+    "tags": [
+        "isasstudio"
+    ],
+    "colors": [
+        "000000",
+        "20123b",
+        "451c33",
+        "a8274b",
+        "ed7332",
+        "fff167",
+        "ffffd9",
+        "7defff",
+        "2dd660",
+        "2c7cc7",
+        "3030a1",
+        "381378",
+        "8c2da6",
+        "f57fc6",
+        "ffd7a8",
+        "c8765c"
+    ],
+    "downloads": "228",
+    "featured": false,
+    "likes": 21,
+    "comments": 1,
+    "title": "Lump 16",
+    "hashtag": "lump16",
+    "description": "",
+    "creator": true,
+    "slug": "lump-16",
+    "publishedAt": "2020-09-06T09:55:00.022Z",
+    "user": {
+        "name": "Isa",
+        "slug": "isas-studio"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-09-03T16:26:43.411Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f51195539af240db7024c42",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/lump-16-palette-example-by-isagamer-5f5119.png",
+            "creator": true,
+            "description": "",
+            "title": "Lump 16 Palette Example by IsaGamer",
+            "slug": "lump-16-palette-example-by-isagamer",
+            "publishedAt": "2020-09-07T19:30:00.030Z",
+            "user": {
+                "name": "Isa",
+                "slug": "isas-studio"
+            },
+            "parent": "5f51194339af240db7024c3f",
+            "createdAt": "2020-09-03T16:27:01.666Z",
+            "updatedAt": "2020-09-07T19:30:00.030Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "20123b",
+        "451c33",
+        "a8274b",
+        "ed7332",
+        "fff167",
+        "ffffd9",
+        "7defff",
+        "2dd660",
+        "2c7cc7",
+        "3030a1",
+        "381378",
+        "8c2da6",
+        "f57fc6",
+        "ffd7a8",
+        "c8765c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5f51194339af240db7024c3f",
+        "type": "palettes",
+        "count": 21,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

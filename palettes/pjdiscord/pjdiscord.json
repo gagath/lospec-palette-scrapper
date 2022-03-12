@@ -1,0 +1,90 @@
+{
+    "_id": "60e38a195833d71b2b2b7749",
+    "tags": [
+        "pixeljoint",
+        "skin",
+        "yellow",
+        "red",
+        "blue",
+        "small",
+        "characters",
+        "collab",
+        "collaboration",
+        "discord",
+        "joint",
+        "pixel",
+        "hapiel"
+    ],
+    "colors": [
+        "ffffff",
+        "dac6be",
+        "b2897a",
+        "6b493d",
+        "30211c",
+        "cc1900",
+        "169ec5",
+        "f6df1a"
+    ],
+    "downloads": "184",
+    "featured": false,
+    "likes": 14,
+    "comments": 1,
+    "slug": "pj-discord-collab",
+    "publishedAt": "2021-07-06T04:55:00.038Z",
+    "user": {
+        "name": "Hapiel",
+        "slug": "hapiel"
+    },
+    "title": "PJ discord collab",
+    "hashtag": "pjdiscord",
+    "description": "This is the palette that was used for the PixelJoint Discord collaboration. https://hapiel.github.io/PJ-characters-collab/ It is mildly based on this palette: https://lospec.com/palette-list/stella-saturn",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-07-05T22:39:21.635Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60e38ba35833d71b2b2b79b4",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "PJ discord collab Palette Example by Hapiel",
+            "slug": "pj-discord-collab-palette-example-by-hapiel",
+            "publishedAt": "2021-07-05T23:00:00.044Z",
+            "user": {
+                "name": "Hapiel",
+                "slug": "hapiel"
+            },
+            "parent": "60e38a195833d71b2b2b7749",
+            "image": "palette-examples/pj-discord-collab-palette-example-by-hapiel-60e38b.png",
+            "creator": false,
+            "description": "This image was created by the Pixel Joint discord community",
+            "createdAt": "2021-07-05T22:45:55.597Z",
+            "updatedAt": "2021-07-05T23:00:00.045Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "This image was created by the Pixel Joint discord community"
+        }
+    ],
+    "colorsArray": [
+        "ffffff",
+        "dac6be",
+        "b2897a",
+        "6b493d",
+        "30211c",
+        "cc1900",
+        "169ec5",
+        "f6df1a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60e38a195833d71b2b2b7749",
+        "type": "palettes",
+        "count": 14,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

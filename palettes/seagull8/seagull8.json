@@ -1,0 +1,103 @@
+{
+    "_id": "5fa18880f5cc5b693ecff0c4",
+    "tags": [
+        "sea",
+        "gull",
+        "8",
+        "groxguy"
+    ],
+    "colors": [
+        "11131e",
+        "4a5381",
+        "60caf7",
+        "f9faff",
+        "338e4a",
+        "80350e",
+        "cc9d57",
+        "f9b62f"
+    ],
+    "downloads": "103",
+    "featured": false,
+    "likes": 10,
+    "comments": 0,
+    "title": "Seagull 8",
+    "hashtag": "seagull8",
+    "description": "My second palette. I had a lot of fun drawing Zelda inspired art with this one.",
+    "creator": true,
+    "slug": "seagull-8",
+    "publishedAt": "2020-11-03T18:40:00.035Z",
+    "user": {
+        "name": "Groxguy",
+        "slug": "groxguy"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2020-11-03T16:42:40.105Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fa188b2f5cc5b693ecff0cb",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/seagull-8-palette-example-by-groxguy-2-5fa188.png",
+            "creator": true,
+            "description": "",
+            "title": "Seagull 8 Palette Example by Groxguy",
+            "slug": "seagull-8-palette-example-by-groxguy-2",
+            "publishedAt": "2020-11-03T18:45:00.041Z",
+            "user": {
+                "name": "Groxguy",
+                "slug": "groxguy"
+            },
+            "parent": "5fa18880f5cc5b693ecff0c4",
+            "createdAt": "2020-11-03T16:43:30.182Z",
+            "updatedAt": "2020-11-03T18:45:00.041Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "5fa2d2c6d6d56e061c92353a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/seagull-8-palette-example-by-groxguy-3-5fa2d2.png",
+            "creator": true,
+            "description": "",
+            "title": "Seagull 8 Palette Example by Groxguy",
+            "slug": "seagull-8-palette-example-by-groxguy-3",
+            "publishedAt": "2020-11-04T16:35:00.017Z",
+            "user": {
+                "name": "Groxguy",
+                "slug": "groxguy"
+            },
+            "parent": "5fa18880f5cc5b693ecff0c4",
+            "createdAt": "2020-11-04T16:11:50.053Z",
+            "updatedAt": "2020-11-04T16:35:00.018Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "11131e",
+        "4a5381",
+        "60caf7",
+        "f9faff",
+        "338e4a",
+        "80350e",
+        "cc9d57",
+        "f9b62f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fa18880f5cc5b693ecff0c4",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

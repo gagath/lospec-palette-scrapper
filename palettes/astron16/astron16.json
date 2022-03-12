@@ -1,0 +1,97 @@
+{
+    "_id": "5fcd0f1f70f1eb1afbd53546",
+    "tags": [
+        "astron",
+        " atari",
+        " st",
+        " spacesandwich"
+    ],
+    "colors": [
+        "000000",
+        "e0e0e0",
+        "a0a0a0",
+        "404040",
+        "503020",
+        "e0a060",
+        "e0e040",
+        "e06020",
+        "a02020",
+        "c020e0",
+        "e080c0",
+        "60e0c0",
+        "2080a0",
+        "202080",
+        "206000",
+        "40c020"
+    ],
+    "downloads": "163",
+    "featured": false,
+    "likes": 17,
+    "comments": 0,
+    "title": "Astron ST16",
+    "hashtag": "astron16",
+    "description": "A palette made from the style and limitations of the Atari ST home computer (allowed you to pick colours from a a total of 512 and display 16 on screen at a time).",
+    "creator": true,
+    "slug": "astron-st16",
+    "publishedAt": "2020-12-12T14:30:00.782Z",
+    "user": {
+        "name": "Space Sandwich",
+        "slug": "spacesandwich"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-12-06T17:04:31.959Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fcd0f3870f1eb1afbd53549",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/astron-st16-palette-example-by-space-sandwich-5fcd0f.png",
+            "creator": true,
+            "description": "",
+            "title": "Astron ST16 Palette Example by Space Sandwich",
+            "slug": "astron-st16-palette-example-by-space-sandwich",
+            "publishedAt": "2020-12-11T19:35:00.021Z",
+            "user": {
+                "name": "Space Sandwich",
+                "slug": "spacesandwich"
+            },
+            "parent": "5fcd0f1f70f1eb1afbd53546",
+            "createdAt": "2020-12-06T17:04:56.986Z",
+            "updatedAt": "2020-12-11T19:35:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "e0e0e0",
+        "a0a0a0",
+        "404040",
+        "503020",
+        "e0a060",
+        "e0e040",
+        "e06020",
+        "a02020",
+        "c020e0",
+        "e080c0",
+        "60e0c0",
+        "2080a0",
+        "202080",
+        "206000",
+        "40c020"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fcd0f1f70f1eb1afbd53546",
+        "type": "palettes",
+        "count": 17,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

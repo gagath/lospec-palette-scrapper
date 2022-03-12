@@ -1,0 +1,49 @@
+{
+    "_id": "5e2c21037f622c70748651cd",
+    "slug": "natures-atmosphere",
+    "description": "",
+    "colors": [
+        "040404",
+        "45619e",
+        "a6a220",
+        "efbe8e",
+        "a6d3ff"
+    ],
+    "creator": true,
+    "hashtag": "naturesatmosphere",
+    "comments": 0,
+    "likes": 2,
+    "createdAt": "2020-01-25T11:05:39.020Z",
+    "featured": false,
+    "tags": [
+        "nature"
+    ],
+    "downloads": "73",
+    "numberOfColors": 5,
+    "title": "Nature's Atmosphere",
+    "user": {
+        "name": "pararaum",
+        "slug": "pararaum"
+    },
+    "publishedAt": "2020-01-25T11:05:39.020Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "040404",
+        "45619e",
+        "a6a220",
+        "efbe8e",
+        "a6d3ff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5e2c21037f622c70748651cd",
+        "type": "palettes",
+        "count": 2,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

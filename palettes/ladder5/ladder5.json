@@ -1,0 +1,71 @@
+{
+    "_id": "5db0bdbf5fd9881a7aaec219",
+    "slug": "ladder-5",
+    "description": "General use palette with a vibrant feel<br />",
+    "colors": [
+        "1d251c",
+        "294d30",
+        "456d45",
+        "7ca96d",
+        "ccb56d",
+        "c99934",
+        "b86a1e",
+        "e16886",
+        "b63354",
+        "8a2640",
+        "2a3648",
+        "366198",
+        "4d8195",
+        "c4d6ea",
+        "90a1b0",
+        "435258"
+    ],
+    "creator": true,
+    "comments": 0,
+    "likes": 10,
+    "createdAt": "2019-10-23T20:53:19.794Z",
+    "featured": false,
+    "tags": [
+        "vibrant"
+    ],
+    "downloads": "220",
+    "numberOfColors": 16,
+    "hashtag": "ladder5",
+    "title": "Ladder 5",
+    "user": {
+        "name": "Ben James",
+        "slug": "benjames171"
+    },
+    "publishedAt": "2019-10-23T20:53:19.794Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "1d251c",
+        "294d30",
+        "456d45",
+        "7ca96d",
+        "ccb56d",
+        "c99934",
+        "b86a1e",
+        "e16886",
+        "b63354",
+        "8a2640",
+        "2a3648",
+        "366198",
+        "4d8195",
+        "c4d6ea",
+        "90a1b0",
+        "435258"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5db0bdbf5fd9881a7aaec219",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

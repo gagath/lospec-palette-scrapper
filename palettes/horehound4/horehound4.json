@@ -1,0 +1,74 @@
+{
+    "_id": "603b137ae6ccdc051170ab86",
+    "tags": [
+        "warm",
+        "dark",
+        "orange",
+        "sepia",
+        "spooky"
+    ],
+    "colors": [
+        "3c1402",
+        "ca9a57",
+        "e96f1b",
+        "312b24"
+    ],
+    "downloads": "597",
+    "featured": false,
+    "likes": 59,
+    "comments": 3,
+    "title": "horehound-4",
+    "hashtag": "horehound4",
+    "description": "named after a root beer flavoured candy that soothes the throat.\u00a0 developed as two separate 2-bit palettes, \"root beer float\" and \"tiger tail\".a little difficult to get the hang of, but nevertheless rewarding!",
+    "creator": true,
+    "slug": "horehound-4",
+    "publishedAt": "2021-03-09T05:40:00.023Z",
+    "user": {
+        "name": "beachboogeyman",
+        "slug": "beachboogeyman"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-02-28T03:52:26.848Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "603b1fd9e6ccdc051170ac12",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/horehound-4-palette-example-by-beachboogeyman-603b1f.png",
+            "creator": true,
+            "description": "",
+            "title": "horehound-4 Palette Example by beachboogeyman",
+            "slug": "horehound-4-palette-example-by-beachboogeyman",
+            "publishedAt": "2021-03-05T00:35:00.016Z",
+            "user": {
+                "name": "beachboogeyman",
+                "slug": "beachboogeyman"
+            },
+            "parent": "603b137ae6ccdc051170ab86",
+            "createdAt": "2021-02-28T04:45:13.109Z",
+            "updatedAt": "2021-03-05T00:35:00.016Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "3c1402",
+        "ca9a57",
+        "e96f1b",
+        "312b24"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "603b137ae6ccdc051170ab86",
+        "type": "palettes",
+        "count": 59,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

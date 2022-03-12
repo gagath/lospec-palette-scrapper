@@ -1,0 +1,64 @@
+{
+    "_id": "60b547373c04fd3e8bf1145a",
+    "tags": [
+        "retro",
+        "polyphrog"
+    ],
+    "colors": [
+        "000000",
+        "4a2300",
+        "2b2f35",
+        "931800",
+        "b05500",
+        "5b4e7d",
+        "63714f",
+        "e36648",
+        "9c9d49",
+        "a4a3b5",
+        "f4c955",
+        "ffffff"
+    ],
+    "downloads": "137",
+    "featured": false,
+    "likes": 16,
+    "comments": 3,
+    "slug": "quested-mountain",
+    "publishedAt": "2021-06-01T16:35:00.023Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "quested mountain",
+    "hashtag": "questedmountain12",
+    "description": "an extended version of the\u00a0quested-valley\u00a0palette.",
+    "creator": true,
+    "createdAt": "2021-05-31T20:29:43.603Z",
+    "numberOfColors": 12,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "4a2300",
+        "2b2f35",
+        "931800",
+        "b05500",
+        "5b4e7d",
+        "63714f",
+        "e36648",
+        "9c9d49",
+        "a4a3b5",
+        "f4c955",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "60b547373c04fd3e8bf1145a",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

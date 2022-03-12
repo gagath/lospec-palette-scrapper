@@ -1,0 +1,56 @@
+{
+    "_id": "61503bf6315b16237cc018a6",
+    "tags": [
+        "computer",
+        "msx"
+    ],
+    "colors": [
+        "010101",
+        "3f38b3",
+        "a256a0",
+        "db7962",
+        "ead97f",
+        "ffffff",
+        "bbbbbb",
+        "4abb7b"
+    ],
+    "downloads": "48",
+    "featured": false,
+    "likes": 5,
+    "comments": 2,
+    "slug": "8-vision",
+    "publishedAt": "2021-10-12T03:45:00.030Z",
+    "user": {
+        "name": "Space Sandwich",
+        "slug": "spacesandwich"
+    },
+    "title": "8-vision",
+    "hashtag": "8vision",
+    "description": "Reduced version of MSX palette used in colecovision and a bit of inspiration from intellivision with the rainbow of activision",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-09-26T09:23:02.973Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "010101",
+        "3f38b3",
+        "a256a0",
+        "db7962",
+        "ead97f",
+        "ffffff",
+        "bbbbbb",
+        "4abb7b"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61503bf6315b16237cc018a6",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

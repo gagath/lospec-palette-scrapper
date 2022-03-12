@@ -1,0 +1,82 @@
+{
+    "_id": "600ec6318507002147702bb4",
+    "tags": [
+        "psychedelic",
+        " green",
+        " acid",
+        " 8 colors",
+        " 8bits"
+    ],
+    "colors": [
+        "ffffff",
+        "fcf660",
+        "b2d942",
+        "52c33f",
+        "166e7a",
+        "254d70",
+        "252446",
+        "201533"
+    ],
+    "downloads": "2,540",
+    "featured": false,
+    "likes": 182,
+    "comments": 8,
+    "title": "Citrink",
+    "hashtag": "citrink",
+    "description": "A very bright and acid color palette\u00a0<img class=\"emoji p16\" src=\"/emoji/lospec-discord/colors.png\" />\u00a0",
+    "creator": true,
+    "slug": "citrink",
+    "publishedAt": "2021-02-11T02:40:00.029Z",
+    "user": {
+        "name": "Inkpendude ",
+        "slug": "inkpendude"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2021-01-25T13:22:57.480Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "600efdffd133913c4bb4ba41",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/citrink-palette-example-by-inkpendude-2-600efd.png",
+            "creator": true,
+            "description": "",
+            "title": "Citrink Palette Example by Inkpendude ",
+            "slug": "citrink-palette-example-by-inkpendude-2",
+            "publishedAt": "2021-01-28T18:00:00.024Z",
+            "user": {
+                "name": "Inkpendude ",
+                "slug": "inkpendude"
+            },
+            "parent": "600ec6318507002147702bb4",
+            "createdAt": "2021-01-25T17:21:03.036Z",
+            "updatedAt": "2021-01-28T18:00:00.024Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "ffffff",
+        "fcf660",
+        "b2d942",
+        "52c33f",
+        "166e7a",
+        "254d70",
+        "252446",
+        "201533"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "600ec6318507002147702bb4",
+        "type": "palettes",
+        "count": 182,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

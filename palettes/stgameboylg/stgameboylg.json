@@ -1,0 +1,76 @@
+{
+    "_id": "60a020abd853004234b4345f",
+    "tags": [
+        "artist",
+        "thest1076",
+        "gameboy",
+        "gb",
+        "purple",
+        "light",
+        "lightgray"
+    ],
+    "colors": [
+        "281d73",
+        "4f388c",
+        "7850b3",
+        "b082d9"
+    ],
+    "downloads": "265",
+    "featured": false,
+    "likes": 29,
+    "comments": 0,
+    "slug": "st-gameboy-lightgrey",
+    "publishedAt": "2021-07-29T04:25:00.029Z",
+    "user": {
+        "name": "Skiller Thomson",
+        "slug": "thest1076"
+    },
+    "title": "ST GameBoy LightGrey",
+    "hashtag": "stgameboylg",
+    "description": "My 2-nd palette and the lighting edition",
+    "creator": true,
+    "createdAt": "2021-05-15T19:27:39.899Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60f94687e926cb04dc42e7f0",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "ST-GameBoy-LightGrey Palette Example by Skiller Thomson",
+            "slug": "st-gameboy-lightgrey-palette-example-by-skiller-thomson",
+            "publishedAt": "2021-07-27T17:00:00.053Z",
+            "user": {
+                "name": "Skiller Thomson",
+                "slug": "thest1076"
+            },
+            "parent": "60a020abd853004234b4345f",
+            "image": "palette-examples/st-gameboy-lightgrey-palette-example-by-skiller-thomson-60f946.png",
+            "creator": true,
+            "description": "My painting, in my palette",
+            "createdAt": "2021-07-22T10:20:55.108Z",
+            "updatedAt": "2021-07-27T17:00:00.053Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "My painting, in my palette"
+        }
+    ],
+    "colorsArray": [
+        "281d73",
+        "4f388c",
+        "7850b3",
+        "b082d9"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60a020abd853004234b4345f",
+        "type": "palettes",
+        "count": 29,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

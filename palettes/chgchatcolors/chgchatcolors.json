@@ -1,0 +1,68 @@
+{
+    "_id": "60032756607a2103bf1384f1",
+    "tags": [
+        "agenda",
+        "nintendo",
+        "clubhouse",
+        "chg",
+        "ds",
+        "chat"
+    ],
+    "colors": [
+        "ffffff",
+        "000000",
+        "969696",
+        "c7962c",
+        "ff1c4d",
+        "ff65ff",
+        "6d5dc7",
+        "1c6dff",
+        "6ddfff",
+        "ffdf3c",
+        "5dff3c",
+        "00a600"
+    ],
+    "downloads": "90",
+    "featured": false,
+    "likes": 7,
+    "comments": 0,
+    "title": "Clubhouse Games Chat",
+    "hashtag": "chgchatcolors",
+    "description": "The chat message colors from the Nintendo DS game Clubhouse Games. The colors are in their in-game order.",
+    "creator": false,
+    "slug": "clubhouse-games-chat",
+    "publishedAt": "2021-05-18T09:35:00.015Z",
+    "user": {
+        "name": "The Pixel Man",
+        "slug": "thepixelman"
+    },
+    "numberOfColors": 12,
+    "createdAt": "2021-01-16T17:50:14.239Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffffff",
+        "000000",
+        "969696",
+        "c7962c",
+        "ff1c4d",
+        "ff65ff",
+        "6d5dc7",
+        "1c6dff",
+        "6ddfff",
+        "ffdf3c",
+        "5dff3c",
+        "00a600"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "60032756607a2103bf1384f1",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

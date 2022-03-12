@@ -1,0 +1,47 @@
+{
+    "_id": "60bd78b7f6e7b70bfae364d8",
+    "tags": [
+        "gameboy"
+    ],
+    "colors": [
+        "220022",
+        "334455",
+        "779988",
+        "ffffdd"
+    ],
+    "downloads": "2,237",
+    "featured": false,
+    "likes": 30,
+    "comments": 2,
+    "slug": "coldgb",
+    "publishedAt": "2021-06-10T18:25:00.023Z",
+    "user": {
+        "name": "A.J. Otero",
+        "slug": "aj-otero"
+    },
+    "title": "ColdGB",
+    "hashtag": "coldgb",
+    "description": "My first attempt at a gameboy palette, with intense hue shifting through the cool color range",
+    "creator": true,
+    "createdAt": "2021-06-07T01:39:03.114Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "220022",
+        "334455",
+        "779988",
+        "ffffdd"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60bd78b7f6e7b70bfae364d8",
+        "type": "palettes",
+        "count": 30,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

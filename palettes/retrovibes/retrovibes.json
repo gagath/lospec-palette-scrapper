@@ -1,0 +1,71 @@
+{
+    "_id": "608603eefc95fc503c4513dc",
+    "tags": [
+        "retro",
+        "4"
+    ],
+    "colors": [
+        "564756",
+        "507dba",
+        "5acca0",
+        "e5f7d2"
+    ],
+    "downloads": "409",
+    "featured": false,
+    "likes": 45,
+    "comments": 5,
+    "slug": "retro-vibes",
+    "publishedAt": "2021-05-04T15:45:00.028Z",
+    "user": {
+        "name": "Orbitron",
+        "slug": "joseph"
+    },
+    "title": "Retro vibes",
+    "hashtag": "retrovibes",
+    "description": "A retro-ish palette with 4 colours\u00a0\u00a0",
+    "creator": true,
+    "createdAt": "2021-04-26T00:06:06.637Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6086173564d5ec54e3253c31",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Retro vibes Palette Example by Orbitron",
+            "slug": "retro-vibes-palette-example-by-orbitron",
+            "publishedAt": "2021-04-26T16:55:33.600Z",
+            "user": {
+                "name": "Orbitron",
+                "slug": "joseph"
+            },
+            "parent": "608603eefc95fc503c4513dc",
+            "image": "palette-examples/retro-vibes-palette-example-by-orbitron-608617.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-04-26T01:28:21.526Z",
+            "updatedAt": "2021-04-26T16:55:33.601Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "564756",
+        "507dba",
+        "5acca0",
+        "e5f7d2"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "608603eefc95fc503c4513dc",
+        "type": "palettes",
+        "count": 45,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

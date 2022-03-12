@@ -1,0 +1,48 @@
+{
+    "_id": "5db8473f51064b2bb10ce471",
+    "slug": "elechead",
+    "description": "Palette of the unique platformer\u00a0<a href=\"https://namatakahashi.itch.io/elechead\" target=\"_blank\">ElecHead</a>.",
+    "colors": [
+        "08242b",
+        "1d7c95",
+        "fda000",
+        "ffffff"
+    ],
+    "creator": false,
+    "comments": 2,
+    "likes": 12,
+    "createdAt": "2019-10-29T14:05:51.972Z",
+    "featured": false,
+    "tags": [
+        "game",
+        "platformer"
+    ],
+    "downloads": "206",
+    "numberOfColors": 4,
+    "hashtag": "elechead",
+    "title": "ElecHead",
+    "user": {
+        "name": "Ramcard",
+        "slug": "ramcard"
+    },
+    "publishedAt": "2019-10-29T14:05:51.972Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "08242b",
+        "1d7c95",
+        "fda000",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5db8473f51064b2bb10ce471",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

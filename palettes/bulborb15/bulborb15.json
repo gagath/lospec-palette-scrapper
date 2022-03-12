@@ -1,0 +1,92 @@
+{
+    "_id": "616ca0863a66f90b30cd596c",
+    "tags": [
+        "game",
+        "14",
+        "warm"
+    ],
+    "colors": [
+        "1c1314",
+        "4d4835",
+        "6d6c5a",
+        "725a70",
+        "382c40",
+        "5b1f1e",
+        "cc5f24",
+        "faac6e",
+        "fff578",
+        "ceab47",
+        "9b7d37",
+        "a6a549",
+        "dae597",
+        "fffee0"
+    ],
+    "downloads": "145",
+    "featured": false,
+    "likes": 15,
+    "comments": 0,
+    "slug": "bulb-orb-14",
+    "publishedAt": "2021-10-19T19:45:00.049Z",
+    "user": {
+        "name": "Mob154",
+        "slug": "h-lol154"
+    },
+    "title": "Bulb-orb-14",
+    "hashtag": "bulborb15",
+    "description": "A pallete pick from screenshot of a game \"bulborb-pikmin\" . Main purple give spooky look for your art together with another Dark colours.the bright green and yellow is similar , light green give green more texture and yellow add more details like light &amp; brightness same as white.the pink is a special colour for something like skin or peache .also come up with orange a very warm colours to add element to your art.Hope my grammar just fine",
+    "creator": true,
+    "numberOfColors": 14,
+    "createdAt": "2021-10-17T22:15:34.654Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "616ca1703a66f90b30cd597b",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Bulb-orb-15 Palette Example by Mob154",
+            "slug": "bulb-orb-15-palette-example-by-mob154",
+            "publishedAt": "2021-10-18T06:50:00.021Z",
+            "user": {
+                "name": "Mob154",
+                "slug": "h-lol154"
+            },
+            "parent": "616ca0863a66f90b30cd596c",
+            "image": "palette-examples/bulb-orb-15-palette-example-by-mob154-616ca1.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-10-17T22:19:28.251Z",
+            "updatedAt": "2021-10-18T06:50:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "1c1314",
+        "4d4835",
+        "6d6c5a",
+        "725a70",
+        "382c40",
+        "5b1f1e",
+        "cc5f24",
+        "faac6e",
+        "fff578",
+        "ceab47",
+        "9b7d37",
+        "a6a549",
+        "dae597",
+        "fffee0"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "616ca0863a66f90b30cd596c",
+        "type": "palettes",
+        "count": 15,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

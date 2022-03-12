@@ -1,0 +1,49 @@
+{
+    "_id": "5e876282fae090159cc70e0b",
+    "title": "Autumn Birch",
+    "hashtag": "abp",
+    "description": "Small palette, with both warm and cold fall colors. Inspired by the photo of a tree<br />",
+    "creator": true,
+    "colors": [
+        "e3f6d5",
+        "9ce77f",
+        "f6ae3c",
+        "ec6f1c",
+        "873131"
+    ],
+    "slug": "autumn-birch",
+    "user": {
+        "name": "NicoFerra",
+        "slug": "nicoferra"
+    },
+    "numberOfColors": 5,
+    "publishedAt": "2020-04-04T21:57:48.304Z",
+    "createdAt": "2020-04-03T16:21:22.189Z",
+    "comments": 1,
+    "likes": 13,
+    "featured": false,
+    "downloads": "181",
+    "tags": [
+        "autumn"
+    ],
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "e3f6d5",
+        "9ce77f",
+        "f6ae3c",
+        "ec6f1c",
+        "873131"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5e876282fae090159cc70e0b",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

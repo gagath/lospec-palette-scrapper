@@ -1,0 +1,49 @@
+{
+    "_id": "6126783f0a3d6277bef8b0c8",
+    "tags": [
+        "water",
+        "4color",
+        "blue"
+    ],
+    "colors": [
+        "a4e4fc",
+        "3cbcfc",
+        "008888",
+        "004058"
+    ],
+    "downloads": "110",
+    "featured": false,
+    "likes": 8,
+    "comments": 2,
+    "slug": "ocean",
+    "publishedAt": "2021-09-26T13:55:00.055Z",
+    "user": {
+        "name": "helperman",
+        "slug": "helperman"
+    },
+    "title": "ocean",
+    "hashtag": "ocean",
+    "description": "a 4 coler palet i made. is good for picture of water",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-08-25T17:05:03.964Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "a4e4fc",
+        "3cbcfc",
+        "008888",
+        "004058"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6126783f0a3d6277bef8b0c8",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,110 @@
+{
+    "_id": "60d0a6652478a64bf373a4ac",
+    "tags": [
+        "green",
+        "blue",
+        "thug",
+        "inc",
+        "bot",
+        "bit",
+        "unit",
+        "pj",
+        "robot",
+        "metal",
+        "neon"
+    ],
+    "colors": [
+        "1e405b",
+        "6565ab",
+        "76a8de",
+        "cef1ff",
+        "000000",
+        "409f42",
+        "8fd345",
+        "bdff8c"
+    ],
+    "downloads": "1,100",
+    "featured": false,
+    "likes": 47,
+    "comments": 0,
+    "slug": "bit-unit-8",
+    "publishedAt": "2021-06-22T01:40:00.037Z",
+    "user": {
+        "name": "thUg-inc",
+        "slug": "thuginc"
+    },
+    "title": "Bit Unit 8",
+    "hashtag": "bitunit8",
+    "description": "An 8 colors metal and neon palette",
+    "creator": true,
+    "createdAt": "2021-06-21T14:47:01.525Z",
+    "numberOfColors": 8,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60d0afe82478a64bf373b74a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Bit Unit 8 Palette Example by thUg-inc",
+            "slug": "bit-unit-8-palette-example-by-thug-inc",
+            "publishedAt": "2021-06-21T16:25:00.021Z",
+            "user": {
+                "name": "thUg-inc",
+                "slug": "thuginc"
+            },
+            "parent": "60d0a6652478a64bf373a4ac",
+            "image": "palette-examples/bit-unit-8-palette-example-by-thug-inc-60d0af.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-06-21T15:27:36.466Z",
+            "updatedAt": "2021-06-21T16:25:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "60d0b2382478a64bf373baaf",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Bit Unit 8 Palette Example by thUg-inc",
+            "slug": "bit-unit-8-palette-example-by-thug-inc-2",
+            "publishedAt": "2021-06-21T16:20:00.013Z",
+            "user": {
+                "name": "thUg-inc",
+                "slug": "thuginc"
+            },
+            "parent": "60d0a6652478a64bf373a4ac",
+            "image": "palette-examples/bit-unit-8-palette-example-by-thug-inc-2-60d0b2.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-06-21T15:37:28.651Z",
+            "updatedAt": "2021-06-21T16:20:00.013Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "1e405b",
+        "6565ab",
+        "76a8de",
+        "cef1ff",
+        "000000",
+        "409f42",
+        "8fd345",
+        "bdff8c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60d0a6652478a64bf373a4ac",
+        "type": "palettes",
+        "count": 47,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

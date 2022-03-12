@@ -1,0 +1,89 @@
+{
+    "_id": "5a2db68907bfd32fed161880",
+    "createdAt": "2017-12-10T22:34:49.374Z",
+    "slug": "dawnbringers-8-color",
+    "description": "Created by dawnbringer, based on his 32 and 16 color palettes. More information <a href=\"http://pixeljoint.com/forum/forum_posts.asp?TID=26050\" target=\"_blank\"> here</a>. ",
+    "colors": [
+        "000000",
+        "55415f",
+        "646964",
+        "d77355",
+        "508cd7",
+        "64b964",
+        "e6c86e",
+        "dcf5ff"
+    ],
+    "tags": [
+        "artist",
+        "dawnbringer"
+    ],
+    "downloads": "3,744",
+    "numberOfColors": 8,
+    "likes": 141,
+    "comments": 1,
+    "hashtag": "db8",
+    "creator": false,
+    "featured": false,
+    "title": "DawnBringer's 8 color",
+    "publishedAt": "2017-12-10T22:34:49.374Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5a2db7c007bfd32fed161881",
+            "description": "Palette usage example by <a href=\"http://pixeljoint.com/forum/forum_posts.asp?TID=26050\">DawnBringer</a>.",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.077Z",
+            "creator": false,
+            "image": "palette-examples/dawnbringers-8-color-palette-palette-example-palette-usage-example-by-dawnbringer-5a2db7.png",
+            "likes": 0,
+            "parent": "5a2db68907bfd32fed161880",
+            "slug": "dawnbringers-8-color-palette-palette-example-palette-usage-example-by-dawnbringer",
+            "title": "dawnbringers 8 color palette palette example palette usage example by dawnbringer",
+            "updatedAt": "2020-07-31T03:56:11.077Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by DawnBringer."
+        },
+        {
+            "_id": "5a2db7d007bfd32fed161882",
+            "description": "Palette usage example by <a href=\"http://pixeljoint.com/forum/forum_posts.asp?TID=26050\">DawnBringer</a>.",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.078Z",
+            "creator": false,
+            "image": "palette-examples/dawnbringers-8-color-palette-palette-example-palette-usage-example-2-by-dawnbringer-5a2db7.png",
+            "likes": 0,
+            "parent": "5a2db68907bfd32fed161880",
+            "slug": "dawnbringers-8-color-palette-palette-example-palette-usage-example-2-by-dawnbringer",
+            "title": "dawnbringers 8 color palette palette example palette usage example 2 by dawnbringer",
+            "updatedAt": "2020-07-31T03:56:11.078Z",
+            "user": null,
+            "thumbnailOffset": 100,
+            "descriptionText": "Palette usage example by DawnBringer."
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "55415f",
+        "646964",
+        "d77355",
+        "508cd7",
+        "64b964",
+        "e6c86e",
+        "dcf5ff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5a2db68907bfd32fed161880",
+        "type": "palettes",
+        "count": 141,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

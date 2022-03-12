@@ -1,0 +1,51 @@
+{
+    "_id": "5dc33bde1492bd2cf77b2db0",
+    "slug": "seaside-4-color",
+    "description": "take a trip to the summer with this beach themed palette!",
+    "colors": [
+        "b8f8b8",
+        "4ec72d",
+        "008888",
+        "004058"
+    ],
+    "creator": true,
+    "comments": 0,
+    "likes": 8,
+    "createdAt": "2019-11-06T21:32:14.562Z",
+    "featured": false,
+    "tags": [
+        "seaside",
+        "beach",
+        "summer",
+        "water",
+        "fun"
+    ],
+    "downloads": "188",
+    "numberOfColors": 4,
+    "hashtag": "seaside4color",
+    "title": "Seaside 4-Color",
+    "user": {
+        "name": "James",
+        "slug": "boon"
+    },
+    "publishedAt": "2019-11-06T21:32:14.562Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "b8f8b8",
+        "4ec72d",
+        "008888",
+        "004058"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5dc33bde1492bd2cf77b2db0",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

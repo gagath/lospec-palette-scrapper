@@ -1,0 +1,67 @@
+{
+    "_id": "5d9a1b47dc982c67d873d798",
+    "slug": "cherrymelon",
+    "description": "Made by WildLeoKnight",
+    "colors": [
+        "fcdeea",
+        "ff4d6d",
+        "265935",
+        "012824"
+    ],
+    "comments": 1,
+    "likes": 143,
+    "createdAt": "2019-10-06T16:50:15.229Z",
+    "featured": false,
+    "tags": [
+        "artist",
+        "wildleoknight"
+    ],
+    "downloads": "1,363",
+    "numberOfColors": 4,
+    "creator": true,
+    "hashtag": "cherrymelon",
+    "title": "CherryMelon",
+    "user": {
+        "name": "WildLeoKnight",
+        "slug": "wildleoknight"
+    },
+    "publishedAt": "2019-10-06T16:50:15.229Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5db1d1e5f04b815a76f06f05",
+            "description": "Palette usage example by WildLeoKnight",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.204Z",
+            "creator": false,
+            "image": "palette-examples/cherrymelon-palette-example-palette-usage-example-by-wildleoknight-5db1d1.png",
+            "likes": 0,
+            "parent": "5d9a1b47dc982c67d873d798",
+            "slug": "cherrymelon-palette-example-palette-usage-example-by-wildleoknight",
+            "title": "cherrymelon palette example palette usage example by wildleoknight",
+            "updatedAt": "2020-07-31T03:56:11.204Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by WildLeoKnight"
+        }
+    ],
+    "colorsArray": [
+        "fcdeea",
+        "ff4d6d",
+        "265935",
+        "012824"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5d9a1b47dc982c67d873d798",
+        "type": "palettes",
+        "count": 143,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

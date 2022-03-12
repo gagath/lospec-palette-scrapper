@@ -1,0 +1,59 @@
+{
+    "_id": "60ae420266d9714949abe280",
+    "tags": [
+        "retrowave",
+        "retro",
+        "pixeljeff",
+        "scifi",
+        "80s"
+    ],
+    "colors": [
+        "f36688",
+        "da3182",
+        "9e316b",
+        "bb3ad3",
+        "684dda",
+        "5033db",
+        "261a5a",
+        "1a1044"
+    ],
+    "downloads": "342",
+    "featured": false,
+    "likes": 12,
+    "comments": 1,
+    "slug": "synthwave-city",
+    "publishedAt": "2021-08-25T12:15:00.047Z",
+    "user": {
+        "name": "Pixel Jeff",
+        "slug": "pixel-jeff"
+    },
+    "title": "Synthwave City",
+    "hashtag": "synthwave",
+    "description": "",
+    "creator": true,
+    "createdAt": "2021-05-26T12:41:38.985Z",
+    "numberOfColors": 8,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "f36688",
+        "da3182",
+        "9e316b",
+        "bb3ad3",
+        "684dda",
+        "5033db",
+        "261a5a",
+        "1a1044"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60ae420266d9714949abe280",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

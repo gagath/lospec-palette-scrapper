@@ -1,0 +1,69 @@
+{
+    "_id": "5dc870cba5731c47cdeef33c",
+    "slug": "gato-roboto-swamp-matcha",
+    "description": "A palette from the game <i><a href=\"https://gatoroboto.com/\" target=\"_blank\">Gato Roboto</a></i>.",
+    "colors": [
+        "10370e",
+        "ccdca2"
+    ],
+    "creator": false,
+    "comments": 0,
+    "likes": 6,
+    "createdAt": "2019-11-10T20:19:23.446Z",
+    "featured": false,
+    "tags": [
+        "game",
+        "gatoroboto",
+        "software",
+        "1bit"
+    ],
+    "downloads": "71",
+    "numberOfColors": 2,
+    "hashtag": "gatorobotoswampmatcha",
+    "title": "Gato Roboto - Swamp Matcha",
+    "user": {
+        "name": "PureAsbestos",
+        "slug": "pureasbestos"
+    },
+    "publishedAt": "2019-11-10T20:19:23.446Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60722975817be67590ae1cbb",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Gato Roboto - Swamp Matcha Palette Example by Casei Solus",
+            "slug": "gato-roboto-swamp-matcha-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-12T15:50:00.033Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5dc870cba5731c47cdeef33c",
+            "image": "palette-examples/gato-roboto-swamp-matcha-palette-example-by-casei-solus-607229.png",
+            "creator": true,
+            "description": "A gator swimming through algae.",
+            "createdAt": "2021-04-10T22:40:53.944Z",
+            "updatedAt": "2021-04-12T15:50:00.034Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A gator swimming through algae."
+        }
+    ],
+    "colorsArray": [
+        "10370e",
+        "ccdca2"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "5dc870cba5731c47cdeef33c",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

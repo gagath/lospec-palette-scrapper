@@ -1,0 +1,72 @@
+{
+    "_id": "60a2e0ff6e16d3661894a56e",
+    "tags": [
+        "msx",
+        "linear"
+    ],
+    "colors": [
+        "000000",
+        "555555",
+        "aaaaaa",
+        "ffffff",
+        "ffaaaa",
+        "aa5555",
+        "550000",
+        "555500",
+        "aaaa55",
+        "aaffaa",
+        "55aa55",
+        "005500",
+        "55aaaa",
+        "aaaaff",
+        "5555aa",
+        "aa55aa"
+    ],
+    "downloads": "47",
+    "featured": false,
+    "likes": 3,
+    "comments": 0,
+    "slug": "ajmsx",
+    "publishedAt": "2021-09-21T13:55:00.039Z",
+    "user": {
+        "name": "A.J. Otero",
+        "slug": "aj-otero"
+    },
+    "title": "AJMSX",
+    "hashtag": "ajmsx",
+    "description": "My take on the MSX Palette, with 16 colors instead of 15, and a larger difference of value for the colors in the non-gray ramps.\u00a0 Hope people find this useful!",
+    "creator": true,
+    "createdAt": "2021-05-17T21:32:47.953Z",
+    "numberOfColors": 16,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "555555",
+        "aaaaaa",
+        "ffffff",
+        "ffaaaa",
+        "aa5555",
+        "550000",
+        "555500",
+        "aaaa55",
+        "aaffaa",
+        "55aa55",
+        "005500",
+        "55aaaa",
+        "aaaaff",
+        "5555aa",
+        "aa55aa"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60a2e0ff6e16d3661894a56e",
+        "type": "palettes",
+        "count": 3,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

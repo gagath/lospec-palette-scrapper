@@ -1,0 +1,80 @@
+{
+    "_id": "5f931f5efa9db23b595b40f1",
+    "tags": [
+        "red",
+        "green",
+        "lightcolor"
+    ],
+    "colors": [
+        "1b050e",
+        "811312",
+        "b92f2e",
+        "cd9a51",
+        "dcdc81",
+        "458112",
+        "76b92e",
+        "d4e7b1"
+    ],
+    "downloads": "228",
+    "featured": false,
+    "likes": 14,
+    "comments": 0,
+    "title": "Amaryllis Garden 8",
+    "hashtag": "amaryllisgarden",
+    "description": "8 color, simple palette for people who doesnt like blue at all",
+    "creator": true,
+    "slug": "amaryllis-garden-8",
+    "publishedAt": "2020-10-27T02:00:00.040Z",
+    "user": {
+        "name": "ralncZ",
+        "slug": "ralncz"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2020-10-23T18:22:22.781Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f9b17226e5c91322460b867",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/amaryllis-garden-palette-example-by-ralncz-5f9b17.png",
+            "creator": true,
+            "description": "",
+            "title": "Amaryllis Garden Palette Example by ralncZ",
+            "slug": "amaryllis-garden-palette-example-by-ralncz",
+            "publishedAt": "2020-10-29T23:20:00.021Z",
+            "user": {
+                "name": "ralncZ",
+                "slug": "ralncz"
+            },
+            "parent": "5f931f5efa9db23b595b40f1",
+            "createdAt": "2020-10-29T19:25:22.693Z",
+            "updatedAt": "2020-10-29T23:20:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "1b050e",
+        "811312",
+        "b92f2e",
+        "cd9a51",
+        "dcdc81",
+        "458112",
+        "76b92e",
+        "d4e7b1"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5f931f5efa9db23b595b40f1",
+        "type": "palettes",
+        "count": 14,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

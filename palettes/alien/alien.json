@@ -1,0 +1,45 @@
+{
+    "_id": "60b7a5afe992322bf24e582e",
+    "tags": [],
+    "colors": [
+        "a2faa3",
+        "92c9b1",
+        "4f759b",
+        "5d5179"
+    ],
+    "downloads": "86",
+    "featured": false,
+    "likes": 11,
+    "comments": 1,
+    "slug": "pastel-alien-goop",
+    "publishedAt": "2021-09-01T18:00:00.086Z",
+    "user": {
+        "name": "slimysubstance",
+        "slug": "vexatious"
+    },
+    "title": "Pastel Alien Goop",
+    "hashtag": "alien",
+    "description": "An pastel alien goop is found on a crashed UFO in the middle of a corn field... It's making you see... aliens?",
+    "creator": true,
+    "createdAt": "2021-06-02T15:37:19.050Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "a2faa3",
+        "92c9b1",
+        "4f759b",
+        "5d5179"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60b7a5afe992322bf24e582e",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

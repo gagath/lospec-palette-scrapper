@@ -1,0 +1,89 @@
+{
+    "_id": "5f81b3d18d074c661e873925",
+    "tags": [
+        "halloween",
+        " monsters",
+        " creepy",
+        " spooky"
+    ],
+    "colors": [
+        "ffffff",
+        "c1a3ff",
+        "9150e9",
+        "543593",
+        "ffda54",
+        "cb8b4d",
+        "80be3b",
+        "586830",
+        "ff8f47",
+        "a04732",
+        "79493e",
+        "000000"
+    ],
+    "downloads": "1,060",
+    "featured": false,
+    "likes": 68,
+    "comments": 4,
+    "title": "SPOOK-12",
+    "hashtag": "spook12",
+    "description": "12 color Halloween themed palette.",
+    "creator": true,
+    "slug": "spook-12",
+    "publishedAt": "2020-10-23T22:40:00.017Z",
+    "user": {
+        "name": "Iviqrr",
+        "slug": "iviqrr"
+    },
+    "numberOfColors": 12,
+    "createdAt": "2020-10-10T13:14:57.081Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f81b4158d074c661e87392b",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/spook-12-palette-example-by-iviqrr-5f81b4.png",
+            "creator": true,
+            "description": "A set of 32x32 halloween themed monsters.",
+            "title": "SPOOK-12 Palette Example by Iviqrr",
+            "slug": "spook-12-palette-example-by-iviqrr",
+            "publishedAt": "2020-10-12T16:40:00.026Z",
+            "user": {
+                "name": "Iviqrr",
+                "slug": "iviqrr"
+            },
+            "parent": "5f81b3d18d074c661e873925",
+            "createdAt": "2020-10-10T13:16:05.445Z",
+            "updatedAt": "2020-10-12T16:40:00.026Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A set of 32x32 halloween themed monsters."
+        }
+    ],
+    "colorsArray": [
+        "ffffff",
+        "c1a3ff",
+        "9150e9",
+        "543593",
+        "ffda54",
+        "cb8b4d",
+        "80be3b",
+        "586830",
+        "ff8f47",
+        "a04732",
+        "79493e",
+        "000000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5f81b3d18d074c661e873925",
+        "type": "palettes",
+        "count": 68,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

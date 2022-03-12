@@ -1,0 +1,116 @@
+{
+    "_id": "5f6fa853b5c5940562461ad5",
+    "tags": [
+        "sk3ll"
+    ],
+    "colors": [
+        "2497fc",
+        "283d85",
+        "271f36",
+        "592b66",
+        "a60d0d",
+        "ff5a00",
+        "fcb500",
+        "ede547",
+        "85d451",
+        "029925",
+        "00401c",
+        "000000",
+        "475370",
+        "798b94",
+        "99cfc5",
+        "ebffcc"
+    ],
+    "downloads": "241",
+    "featured": false,
+    "likes": 22,
+    "comments": 2,
+    "title": "Sk 16",
+    "hashtag": "sk16",
+    "description": "",
+    "creator": true,
+    "slug": "sk-16",
+    "publishedAt": "2020-10-06T12:35:00.023Z",
+    "user": {
+        "name": "Sk3ll Sk3ll",
+        "slug": "sk3ll2"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-09-26T20:45:07.311Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f81024d8d074c661e872fe5",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/sk-16-palette-example-by-isagamer-5f8102.png",
+            "creator": true,
+            "description": "Pfps shrunken and cleaned up",
+            "title": "Sk 16 Palette Example by IsaGamer",
+            "slug": "sk-16-palette-example-by-isagamer",
+            "publishedAt": "2020-10-12T16:35:00.029Z",
+            "user": {
+                "name": "Isa",
+                "slug": "isas-studio"
+            },
+            "parent": "5f6fa853b5c5940562461ad5",
+            "createdAt": "2020-10-10T00:37:33.967Z",
+            "updatedAt": "2020-10-12T16:35:00.029Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Pfps shrunken and cleaned up"
+        },
+        {
+            "_id": "5f81ba9a8d074c661e873974",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/sk-16-palette-example-by-isagamer-2-5f81ba.png",
+            "creator": true,
+            "description": "Pfps shruken and cleaned up by me<img class=\"emoji p16\" src=\"/emoji/lospec-discord/proud.png\" />",
+            "title": "Sk 16 Palette Example by IsaGamer",
+            "slug": "sk-16-palette-example-by-isagamer-2",
+            "publishedAt": "2020-10-12T16:45:00.016Z",
+            "user": {
+                "name": "Isa",
+                "slug": "isas-studio"
+            },
+            "parent": "5f6fa853b5c5940562461ad5",
+            "createdAt": "2020-10-10T13:43:54.135Z",
+            "updatedAt": "2020-10-12T16:45:00.016Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": "Pfps shruken and cleaned up by me"
+        }
+    ],
+    "colorsArray": [
+        "2497fc",
+        "283d85",
+        "271f36",
+        "592b66",
+        "a60d0d",
+        "ff5a00",
+        "fcb500",
+        "ede547",
+        "85d451",
+        "029925",
+        "00401c",
+        "000000",
+        "475370",
+        "798b94",
+        "99cfc5",
+        "ebffcc"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5f6fa853b5c5940562461ad5",
+        "type": "palettes",
+        "count": 22,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

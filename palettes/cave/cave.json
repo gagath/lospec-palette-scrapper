@@ -1,0 +1,56 @@
+{
+    "_id": "5eab5181f062642763f0a44d",
+    "tags": [
+        "cave",
+        " 6",
+        " alpha6",
+        " dark",
+        " spooky",
+        " cave6"
+    ],
+    "colors": [
+        "1c071a",
+        "362e38",
+        "454259",
+        "5b6975",
+        "99875f",
+        "b3cce6"
+    ],
+    "downloads": "402",
+    "featured": false,
+    "likes": 13,
+    "comments": 0,
+    "title": "Cave6",
+    "hashtag": "cave",
+    "description": "an extremely amazing pallet with spooky colors, excellent for nightime scenes.",
+    "creator": true,
+    "slug": "cave6",
+    "publishedAt": "2020-05-03T19:45:00.007Z",
+    "user": {
+        "name": "Alpha6",
+        "slug": "max-mandrych"
+    },
+    "numberOfColors": 6,
+    "createdAt": "2020-04-30T22:30:25.173Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "1c071a",
+        "362e38",
+        "454259",
+        "5b6975",
+        "99875f",
+        "b3cce6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5eab5181f062642763f0a44d",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

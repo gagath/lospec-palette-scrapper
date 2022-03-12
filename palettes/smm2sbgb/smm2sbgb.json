@@ -1,0 +1,50 @@
+{
+    "_id": "61a03a63f135ab6fcba0b990",
+    "tags": [
+        "smm",
+        "mario",
+        "maker",
+        "nintendo"
+    ],
+    "colors": [
+        "646432",
+        "a0a06e",
+        "bcbc8a",
+        "e6e6b4"
+    ],
+    "downloads": "100",
+    "featured": false,
+    "likes": 3,
+    "comments": 0,
+    "slug": "smm2superball-game-boy-palette",
+    "publishedAt": "2021-12-03T01:00:00.076Z",
+    "user": {
+        "name": "Malo",
+        "slug": "malo"
+    },
+    "title": "SMM2SUPERBALL Game Boy Palette",
+    "hashtag": "smm2sbgb",
+    "description": "The Gameboy Palette Used By The Superball Palette From SMM2",
+    "creator": false,
+    "numberOfColors": 4,
+    "createdAt": "2021-11-26T01:37:39.692Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "646432",
+        "a0a06e",
+        "bcbc8a",
+        "e6e6b4"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61a03a63f135ab6fcba0b990",
+        "type": "palettes",
+        "count": 3,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

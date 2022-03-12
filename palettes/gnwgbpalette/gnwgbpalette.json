@@ -1,0 +1,76 @@
+{
+    "_id": "60f8903c7c582e27de26be12",
+    "tags": [
+        "gb",
+        "gameboy",
+        "2bit",
+        "gameandwatch",
+        "mrgameandwatch",
+        "smashbros",
+        "supersmashbros"
+    ],
+    "colors": [
+        "06160f",
+        "535b4e",
+        "b0b3a6",
+        "efeee8"
+    ],
+    "downloads": "190",
+    "featured": false,
+    "likes": 13,
+    "comments": 1,
+    "slug": "game-watch-gb",
+    "publishedAt": "2021-07-23T01:20:00.029Z",
+    "user": {
+        "name": "MINTY",
+        "slug": "miitiiny"
+    },
+    "title": "Game & Watch GB",
+    "hashtag": "gnwgbpalette",
+    "description": "Based on the classic Game &amp; Watch line of systems.",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-07-21T21:23:08.992Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60f890547c582e27de26be5a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Game & Watch GB Palette Example by MINTY",
+            "slug": "game-watch-gb-palette-example-by-minty",
+            "publishedAt": "2021-08-22T21:25:00.041Z",
+            "user": {
+                "name": "MINTY",
+                "slug": "miitiiny"
+            },
+            "parent": "60f8903c7c582e27de26be12",
+            "image": "palette-examples/game-watch-gb-palette-example-by-minty-60f890.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-07-21T21:23:32.681Z",
+            "updatedAt": "2021-08-22T21:25:00.042Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "06160f",
+        "535b4e",
+        "b0b3a6",
+        "efeee8"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60f8903c7c582e27de26be12",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

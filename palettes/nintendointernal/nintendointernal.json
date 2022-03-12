@@ -1,0 +1,50 @@
+{
+    "_id": "615e1b5783f9c914abd902c7",
+    "tags": [
+        "gameboy",
+        "nintendo",
+        "internal",
+        "gb"
+    ],
+    "colors": [
+        "384828",
+        "607028",
+        "a0a830",
+        "d0e040"
+    ],
+    "downloads": "181",
+    "featured": false,
+    "likes": 6,
+    "comments": 0,
+    "slug": "nintendo-internal",
+    "publishedAt": "2021-10-16T07:45:00.128Z",
+    "user": {
+        "name": "Daniel Smith",
+        "slug": "stormfoo"
+    },
+    "title": "Nintendo Internal",
+    "hashtag": "nintendointernal",
+    "description": "Based on this Twitter thread by \"Critical Kate\" Will\u00e6rt, showcasing an official palette used by Nintendo internally for representing Gameboy screenshots in media.",
+    "creator": false,
+    "numberOfColors": 4,
+    "createdAt": "2021-10-06T21:55:35.189Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "384828",
+        "607028",
+        "a0a830",
+        "d0e040"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "615e1b5783f9c914abd902c7",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

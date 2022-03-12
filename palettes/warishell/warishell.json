@@ -1,0 +1,98 @@
+{
+    "_id": "5f5fe625b2589679e35bfa3d",
+    "tags": [
+        "dust",
+        " war",
+        " grime"
+    ],
+    "colors": [
+        "262638",
+        "3a4931",
+        "5f322b",
+        "a4998e",
+        "5b4e41",
+        "38291f"
+    ],
+    "downloads": "188",
+    "featured": false,
+    "likes": 25,
+    "comments": 5,
+    "title": "War Is Hell",
+    "hashtag": "warishell",
+    "description": "A palette to represent the dark side of war. Oppressive and muted, it represents the gritty reality.",
+    "creator": true,
+    "slug": "war-is-hell",
+    "publishedAt": "2020-09-17T04:25:00.011Z",
+    "user": {
+        "name": "Cheeseismysoul",
+        "slug": "nomz-toes-420"
+    },
+    "numberOfColors": 6,
+    "createdAt": "2020-09-14T21:52:37.164Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f5fe63fb2589679e35bfa40",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/war-is-hell-palette-example-by-cheeseismysoul-5f5fe6.png",
+            "creator": true,
+            "description": "",
+            "title": "War Is Hell Palette Example by Cheeseismysoul",
+            "slug": "war-is-hell-palette-example-by-cheeseismysoul",
+            "publishedAt": "2020-09-19T17:30:00.025Z",
+            "user": {
+                "name": "Cheeseismysoul",
+                "slug": "nomz-toes-420"
+            },
+            "parent": "5f5fe625b2589679e35bfa3d",
+            "createdAt": "2020-09-14T21:53:03.875Z",
+            "updatedAt": "2020-09-19T17:30:00.026Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "5f60e43eb2589679e35c06f4",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/war-is-hell-palette-example-by-cheeseismysoul-2-5f60e4.png",
+            "creator": true,
+            "description": "",
+            "title": "War Is Hell Palette Example",
+            "slug": "war-is-hell-palette-example-by-cheeseismysoul-2",
+            "publishedAt": "2020-09-16T10:30:00.025Z",
+            "user": {
+                "name": "Cheeseismysoul",
+                "slug": "nomz-toes-420"
+            },
+            "parent": "5f5fe625b2589679e35bfa3d",
+            "createdAt": "2020-09-15T15:56:46.704Z",
+            "updatedAt": "2020-09-16T11:29:22.465Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "262638",
+        "3a4931",
+        "5f322b",
+        "a4998e",
+        "5b4e41",
+        "38291f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5f5fe625b2589679e35bfa3d",
+        "type": "palettes",
+        "count": 25,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

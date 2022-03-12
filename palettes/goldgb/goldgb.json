@@ -1,0 +1,94 @@
+{
+    "_id": "5f4baf4618350f7cc133d657",
+    "tags": [
+        "isasstudio",
+        "gold",
+        "gameboy"
+    ],
+    "colors": [
+        "210b1b",
+        "4d222c",
+        "9d654c",
+        "cfab51"
+    ],
+    "downloads": "1,451",
+    "featured": false,
+    "likes": 124,
+    "comments": 5,
+    "title": "Gold GB",
+    "hashtag": "goldgb",
+    "description": "2nd gameboy palette... If you want, you can make it into a 6 colour palette by adding #ffffff and #000000!\u00a0\u00a0",
+    "creator": true,
+    "slug": "gold-gb",
+    "publishedAt": "2020-08-30T19:15:00.035Z",
+    "user": {
+        "name": "Isa",
+        "slug": "isas-studio"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-08-30T13:53:10.081Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f4c16a239f06d536cb02a6e",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/gold-gb-palette-example-by-isagamer-5f4c16.png",
+            "creator": true,
+            "description": "A top-down pixel art piece using Gold GB",
+            "title": "Gold GB Palette Example by IsaGamer",
+            "slug": "gold-gb-palette-example-by-isagamer",
+            "publishedAt": "2020-08-30T21:20:00.020Z",
+            "user": {
+                "name": "Isa",
+                "slug": "isas-studio"
+            },
+            "parent": "5f4baf4618350f7cc133d657",
+            "createdAt": "2020-08-30T21:14:10.933Z",
+            "updatedAt": "2020-08-30T21:20:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A top-down pixel art piece using Gold GB"
+        },
+        {
+            "_id": "5f5fbd61b2589679e35bf815",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/gold-gb-palette-example-by-iviqrr-5f5fbd.png",
+            "creator": true,
+            "description": "Three isometric cutouts made using the Gold GB palette",
+            "title": "Gold GB Palette Example",
+            "slug": "gold-gb-palette-example-by-iviqrr",
+            "publishedAt": "2020-09-16T10:25:00.012Z",
+            "user": {
+                "name": "Iviqrr",
+                "slug": "iviqrr"
+            },
+            "parent": "5f4baf4618350f7cc133d657",
+            "createdAt": "2020-09-14T18:58:41.821Z",
+            "updatedAt": "2020-09-16T11:02:28.109Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": "Three isometric cutouts made using the Gold GB palette"
+        }
+    ],
+    "colorsArray": [
+        "210b1b",
+        "4d222c",
+        "9d654c",
+        "cfab51"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f4baf4618350f7cc133d657",
+        "type": "palettes",
+        "count": 124,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

@@ -1,0 +1,69 @@
+{
+    "_id": "5dcd0dc1906bf42130540587",
+    "slug": "simplimpdezert3",
+    "description": "<p>Hee, Hee!</p><p>First Three!!<br /></p>",
+    "colors": [
+        "006c00",
+        "ff7510",
+        "fff5f7"
+    ],
+    "creator": true,
+    "comments": 2,
+    "likes": 9,
+    "createdAt": "2019-11-14T08:18:09.083Z",
+    "featured": false,
+    "tags": [
+        "simple",
+        "gb"
+    ],
+    "downloads": "86",
+    "numberOfColors": 3,
+    "hashtag": "simplimpdezert3",
+    "title": "SIMP,LIMP,DEZERT,3",
+    "user": {
+        "name": "Kattman",
+        "slug": "kattman"
+    },
+    "publishedAt": "2019-11-14T08:18:09.083Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6078104e16f8450fae0b841f",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "SIMP,LIMP,DEZERT,3 Palette Example by Casei Solus",
+            "slug": "simplimpdezert3-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-16T23:05:00.033Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5dcd0dc1906bf42130540587",
+            "image": "palette-examples/simplimpdezert3-palette-example-by-casei-solus-607810.png",
+            "creator": true,
+            "description": "Some oranges.",
+            "createdAt": "2021-04-15T10:07:10.240Z",
+            "updatedAt": "2021-04-16T23:05:00.034Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Some oranges."
+        }
+    ],
+    "colorsArray": [
+        "006c00",
+        "ff7510",
+        "fff5f7"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 33.333333333333336,
+    "height": 32,
+    "likebutton": {
+        "content": "5dcd0dc1906bf42130540587",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

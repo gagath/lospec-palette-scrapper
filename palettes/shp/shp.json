@@ -1,0 +1,73 @@
+{
+    "_id": "6158b2cc5755de371e290c1a",
+    "tags": [
+        "rainbow",
+        "retro",
+        "16"
+    ],
+    "colors": [
+        "aa0000",
+        "ff0000",
+        "ffaa00",
+        "ffffff",
+        "00ff00",
+        "00a76b",
+        "00ffff",
+        "0080ff",
+        "0000ff",
+        "7400aa",
+        "000000",
+        "7f7f7f",
+        "555500",
+        "953200",
+        "c16570",
+        "ffaa80"
+    ],
+    "downloads": "37",
+    "featured": false,
+    "likes": 2,
+    "comments": 0,
+    "slug": "sky-high-pallette",
+    "publishedAt": "2021-10-14T07:45:00.037Z",
+    "user": {
+        "name": "ARTBOY",
+        "slug": "emeekae-plummer"
+    },
+    "title": "Sky-high-pallette",
+    "hashtag": "shp",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2021-10-02T19:28:12.683Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "aa0000",
+        "ff0000",
+        "ffaa00",
+        "ffffff",
+        "00ff00",
+        "00a76b",
+        "00ffff",
+        "0080ff",
+        "0000ff",
+        "7400aa",
+        "000000",
+        "7f7f7f",
+        "555500",
+        "953200",
+        "c16570",
+        "ffaa80"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6158b2cc5755de371e290c1a",
+        "type": "palettes",
+        "count": 2,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

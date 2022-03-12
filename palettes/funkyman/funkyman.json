@@ -1,0 +1,68 @@
+{
+    "_id": "6038999ac77567771b6abde4",
+    "tags": [],
+    "colors": [
+        "630c9f",
+        "f32a06",
+        "0cd5f9",
+        "ffdd00"
+    ],
+    "downloads": "48",
+    "featured": false,
+    "likes": 12,
+    "comments": 1,
+    "title": "funky man",
+    "hashtag": "funkyman",
+    "description": "Cool palette made for Azathoth in Braquen's 2-bit palette collab",
+    "creator": true,
+    "slug": "funky-man",
+    "publishedAt": "2021-03-03T09:40:00.022Z",
+    "user": {
+        "name": "Red Penguin",
+        "slug": "red-penguin"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-02-26T06:47:54.207Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607e7cfb68bf7d36004270ee",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "funky man Palette Example by Casei Solus",
+            "slug": "funky-man-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-21T16:15:00.016Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "6038999ac77567771b6abde4",
+            "image": "palette-examples/funky-man-palette-example-by-casei-solus-607e7c.png",
+            "creator": true,
+            "description": "A disco ball.",
+            "createdAt": "2021-04-20T07:04:28.002Z",
+            "updatedAt": "2021-04-21T16:15:00.017Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A disco ball."
+        }
+    ],
+    "colorsArray": [
+        "630c9f",
+        "f32a06",
+        "0cd5f9",
+        "ffdd00"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6038999ac77567771b6abde4",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

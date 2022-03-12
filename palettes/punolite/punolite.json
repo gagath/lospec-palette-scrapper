@@ -1,0 +1,119 @@
+{
+    "_id": "5ff39356b9119364c22e1469",
+    "tags": [
+        "night",
+        " muted",
+        " blue",
+        " dark"
+    ],
+    "colors": [
+        "64c224",
+        "0fa10d",
+        "097938",
+        "0b6457",
+        "0a5058",
+        "0a4158",
+        "0a2e58",
+        "091837",
+        "281961",
+        "552067",
+        "702763",
+        "863453",
+        "a14b4b",
+        "b67a5b",
+        "c8a26e",
+        "e1d483"
+    ],
+    "downloads": "1,241",
+    "featured": false,
+    "likes": 68,
+    "comments": 8,
+    "title": "Punolite",
+    "hashtag": "punolite",
+    "description": "",
+    "creator": true,
+    "slug": "punolite",
+    "publishedAt": "2021-01-09T06:20:00.025Z",
+    "user": {
+        "name": "Punoli",
+        "slug": "punoli"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2021-01-04T22:14:46.723Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5ff3939db9119364c22e1474",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/punolite-palette-example-by-punoli-5ff393.png",
+            "creator": true,
+            "description": "",
+            "title": "Punolite Palette Example by Punoli",
+            "slug": "punolite-palette-example-by-punoli",
+            "publishedAt": "2021-01-07T18:25:00.009Z",
+            "user": {
+                "name": "Punoli",
+                "slug": "punoli"
+            },
+            "parent": "5ff39356b9119364c22e1469",
+            "createdAt": "2021-01-04T22:15:57.743Z",
+            "updatedAt": "2021-01-07T18:25:00.010Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "617d3f0e38d66f090bcbd94b",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Punolite Palette Example by Kristofer Paul",
+            "slug": "punolite-palette-example-by-kristofer-paul",
+            "publishedAt": "2021-10-30T17:55:00.030Z",
+            "user": {
+                "name": "Kristofer Paul",
+                "slug": "kristofer-paul"
+            },
+            "parent": "5ff39356b9119364c22e1469",
+            "image": "palette-examples/punolite-palette-example-by-kristofer-paul-617d3f.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-10-30T12:48:14.709Z",
+            "updatedAt": "2021-10-30T17:55:00.031Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "64c224",
+        "0fa10d",
+        "097938",
+        "0b6457",
+        "0a5058",
+        "0a4158",
+        "0a2e58",
+        "091837",
+        "281961",
+        "552067",
+        "702763",
+        "863453",
+        "a14b4b",
+        "b67a5b",
+        "c8a26e",
+        "e1d483"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5ff39356b9119364c22e1469",
+        "type": "palettes",
+        "count": 68,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

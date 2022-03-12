@@ -1,0 +1,74 @@
+{
+    "_id": "5fa89ff1da192b7a7fe1f2b9",
+    "tags": [
+        "isasstudio"
+    ],
+    "colors": [
+        "ffffff",
+        "f9cde9",
+        "948bbc",
+        "963819",
+        "551723",
+        "071a11"
+    ],
+    "downloads": "105",
+    "featured": false,
+    "likes": 16,
+    "comments": 0,
+    "title": "Stranger 6",
+    "hashtag": "stanger6",
+    "description": "a ramp with strange, but good looking hues",
+    "creator": true,
+    "slug": "stranger-6",
+    "publishedAt": "2020-11-10T09:35:00.022Z",
+    "user": {
+        "name": "Isa",
+        "slug": "isas-studio"
+    },
+    "numberOfColors": 6,
+    "createdAt": "2020-11-09T01:48:33.545Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fa945770832b61fb5b7a39b",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/stranger-6-palette-example-by-isagamer-2-5fa945.png",
+            "creator": true,
+            "description": "who's the stranger?",
+            "title": "Stranger 6 Palette Example",
+            "slug": "stranger-6-palette-example-by-isagamer-2",
+            "publishedAt": "2020-11-10T02:30:00.022Z",
+            "user": {
+                "name": "Isa",
+                "slug": "isas-studio"
+            },
+            "parent": "5fa89ff1da192b7a7fe1f2b9",
+            "createdAt": "2020-11-09T13:34:47.199Z",
+            "updatedAt": "2020-11-10T12:20:52.434Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "who's the stranger?"
+        }
+    ],
+    "colorsArray": [
+        "ffffff",
+        "f9cde9",
+        "948bbc",
+        "963819",
+        "551723",
+        "071a11"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5fa89ff1da192b7a7fe1f2b9",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

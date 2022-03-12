@@ -1,0 +1,79 @@
+{
+    "_id": "5fe280efee11b77a9f7db93d",
+    "tags": [
+        "red and blue",
+        " blue and red",
+        " cool",
+        " "
+    ],
+    "colors": [
+        "daf2e9",
+        "95e0cc",
+        "39707a",
+        "23495d",
+        "1c2638",
+        "9b222b",
+        "f14e52"
+    ],
+    "downloads": "2,187",
+    "featured": false,
+    "likes": 179,
+    "comments": 1,
+    "title": "Sirens at Night",
+    "hashtag": "sirens01",
+    "description": "Teal and red is one of my favourite palettes, so I decided to make a quick palette to upload here.",
+    "creator": true,
+    "slug": "sirens-at-night",
+    "publishedAt": "2020-12-30T00:50:00.021Z",
+    "user": {
+        "name": "avianAnnihilator",
+        "slug": "avianannihilator"
+    },
+    "numberOfColors": 7,
+    "createdAt": "2020-12-22T23:27:43.132Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fe28841ee11b77a9f7db9d7",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/sirens-at-night-palette-example-by-avianannihilator-5fe288.png",
+            "creator": true,
+            "description": "",
+            "title": "Sirens at Night Palette Example by avianAnnihilator",
+            "slug": "sirens-at-night-palette-example-by-avianannihilator",
+            "publishedAt": "2020-12-27T15:40:00.019Z",
+            "user": {
+                "name": "avianAnnihilator",
+                "slug": "avianannihilator"
+            },
+            "parent": "5fe280efee11b77a9f7db93d",
+            "createdAt": "2020-12-22T23:58:57.319Z",
+            "updatedAt": "2020-12-27T15:40:00.019Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "daf2e9",
+        "95e0cc",
+        "39707a",
+        "23495d",
+        "1c2638",
+        "9b222b",
+        "f14e52"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5fe280efee11b77a9f7db93d",
+        "type": "palettes",
+        "count": 179,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

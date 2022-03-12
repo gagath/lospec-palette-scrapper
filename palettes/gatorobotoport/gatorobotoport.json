@@ -1,0 +1,65 @@
+{
+    "_id": "5dc86caba5731c47cdeef327",
+    "slug": "gato-roboto-port",
+    "description": "A palette from the game <i><a href=\"https://gatoroboto.com/\" target=\"_blank\">Gato Roboto</a></i>.",
+    "colors": [
+        "10368f",
+        "ff8e42"
+    ],
+    "creator": false,
+    "comments": 0,
+    "likes": 9,
+    "createdAt": "2019-11-10T20:01:47.193Z",
+    "featured": false,
+    "tags": [
+        "game",
+        "gatoroboto",
+        "software",
+        "1bit"
+    ],
+    "downloads": "129",
+    "numberOfColors": 2,
+    "hashtag": "gatorobotoport",
+    "title": "Gato Roboto - Port",
+    "user": {
+        "name": "PureAsbestos",
+        "slug": "pureasbestos"
+    },
+    "publishedAt": "2019-11-10T20:01:47.193Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5eb0d11757eca1271d1e3a5a",
+            "description": "Palette usage example by Mig",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.217Z",
+            "creator": false,
+            "image": "palette-examples/gato-roboto-port-palette-example-palette-usage-example-by-mig-5eb0d1.png",
+            "likes": 0,
+            "parent": "5dc86caba5731c47cdeef327",
+            "slug": "gato-roboto-port-palette-example-palette-usage-example-by-mig",
+            "title": "gato roboto port palette example palette usage example by mig",
+            "updatedAt": "2020-07-31T03:56:11.217Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Mig"
+        }
+    ],
+    "colorsArray": [
+        "10368f",
+        "ff8e42"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "5dc86caba5731c47cdeef327",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

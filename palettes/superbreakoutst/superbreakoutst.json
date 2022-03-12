@@ -1,0 +1,73 @@
+{
+    "_id": "5da6316c36e1ff223d07a6ef",
+    "slug": "super-breakout-st",
+    "description": "The in-game palette of Atari Inc.'s official port of\u00a0<a href=\"https://www.mobygames.com/game/atari-st/super-breakout/\" target=\"_blank\">Super Breakout</a>\u00a0to the Atari ST.",
+    "colors": [
+        "efefef",
+        "cfcfcf",
+        "afafaf",
+        "8f8f8f",
+        "000000",
+        "0f0fef",
+        "6fafcf",
+        "6fcfef",
+        "ef6f6f",
+        "cf4f4f",
+        "efaf2f",
+        "cf8f2f",
+        "0fef0f",
+        "0fcf0f",
+        "ef0fef",
+        "cf0fcf"
+    ],
+    "creator": false,
+    "comments": 0,
+    "likes": 2,
+    "createdAt": "2019-10-18T16:44:32.030Z",
+    "featured": false,
+    "tags": [
+        "game",
+        "atari",
+        "ptux7"
+    ],
+    "downloads": "71",
+    "numberOfColors": 16,
+    "hashtag": "superbreakoutst",
+    "title": "Super Breakout ST",
+    "user": {
+        "name": "P-Tux7",
+        "slug": "p-tux7"
+    },
+    "publishedAt": "2019-10-18T16:44:32.030Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "efefef",
+        "cfcfcf",
+        "afafaf",
+        "8f8f8f",
+        "000000",
+        "0f0fef",
+        "6fafcf",
+        "6fcfef",
+        "ef6f6f",
+        "cf4f4f",
+        "efaf2f",
+        "cf8f2f",
+        "0fef0f",
+        "0fcf0f",
+        "ef0fef",
+        "cf0fcf"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5da6316c36e1ff223d07a6ef",
+        "type": "palettes",
+        "count": 2,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,57 @@
+{
+    "_id": "59d80c470323c15352a71ab6",
+    "createdAt": "2017-10-06T23:05:43.970Z",
+    "slug": "mordfikosz-11",
+    "description": "Entry for the <a href=\"http://http://pixeljoint.com/2016/05/06/4962/11_Color_Comp_Winners.htm\">PixelJoint 11 color palette competition</a> (2016). Created by <a href=\"http://pixeljoint.com/p/67405.htm\r\n\">mordfikosz</a>.",
+    "colors": [
+        "be783c",
+        "d7af87",
+        "ebebaf",
+        "64af50",
+        "556e6e",
+        "3c3c5f",
+        "96d2f0",
+        "a07da0",
+        "9b4146",
+        "46282d",
+        "14141e"
+    ],
+    "tags": [
+        "artist",
+        "pjcolorcomp11",
+        "pjcolorcomp"
+    ],
+    "downloads": "153",
+    "numberOfColors": 11,
+    "comments": 1,
+    "hashtag": "mordfikosz11",
+    "title": "mordfikosz 11",
+    "publishedAt": "2017-10-06T23:05:43.970Z",
+    "likes": 5,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "be783c",
+        "d7af87",
+        "ebebaf",
+        "64af50",
+        "556e6e",
+        "3c3c5f",
+        "96d2f0",
+        "a07da0",
+        "9b4146",
+        "46282d",
+        "14141e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "59d80c470323c15352a71ab6",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

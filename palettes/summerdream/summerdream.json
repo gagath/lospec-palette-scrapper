@@ -1,0 +1,72 @@
+{
+    "_id": "5b856769e06d9a4fc5b04eee",
+    "createdAt": "2018-09-14T15:54:32.089Z",
+    "slug": "summer-dream",
+    "description": "Created by <a target=\"_blank\" href=\"http://pixeljoint.com/p/114735.htm\">Maruki</a> for the <a target=\"_blank\" href=\"http://pixeljoint.com/2018/08/13/5694/15_Color_Palette_Comp.htm\">PixelJoint 15 Color Palette Competition</a>.",
+    "colors": [
+        "fe9494",
+        "fb6c6c",
+        "c16d4a",
+        "ffd3ad",
+        "f5ad67",
+        "808000",
+        "90cc90",
+        "c3ffc3",
+        "66cdaa",
+        "4682b4",
+        "3d438b",
+        "bebeff",
+        "825acd",
+        "dda0dd",
+        "2f2c4a"
+    ],
+    "tags": [
+        "artist",
+        "maruki",
+        "pjcolorcomp15",
+        "pjcolorcomp"
+    ],
+    "downloads": "383",
+    "numberOfColors": 15,
+    "featured": false,
+    "likes": 19,
+    "comments": 0,
+    "creator": true,
+    "hashtag": "summerdream",
+    "title": "Summer Dream",
+    "user": {
+        "name": "\u307e\u308b\u304d",
+        "slug": "marukihurakami"
+    },
+    "publishedAt": "2018-09-14T15:54:32.089Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "fe9494",
+        "fb6c6c",
+        "c16d4a",
+        "ffd3ad",
+        "f5ad67",
+        "808000",
+        "90cc90",
+        "c3ffc3",
+        "66cdaa",
+        "4682b4",
+        "3d438b",
+        "bebeff",
+        "825acd",
+        "dda0dd",
+        "2f2c4a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5b856769e06d9a4fc5b04eee",
+        "type": "palettes",
+        "count": 19,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,78 @@
+{
+    "_id": "5dbbaaa145ce8772f57aa53f",
+    "slug": "witching-hour",
+    "description": "A Halloween-inspired 8 colour palette, created and used for Octobit 2019.",
+    "colors": [
+        "f6dbba",
+        "db604c",
+        "b13353",
+        "5e2052",
+        "74c99e",
+        "317c87",
+        "271854",
+        "1a1016"
+    ],
+    "creator": true,
+    "comments": 1,
+    "likes": 74,
+    "createdAt": "2019-11-01T03:46:41.366Z",
+    "featured": false,
+    "tags": [
+        "octobit"
+    ],
+    "downloads": "1,051",
+    "numberOfColors": 8,
+    "hashtag": "witchinghour",
+    "title": "Witching Hour",
+    "user": {
+        "name": "SalamiChild",
+        "slug": "salamichild"
+    },
+    "publishedAt": "2019-11-01T03:46:41.366Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "616764ac3007a522b795bec7",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Witching Hour Palette Example by SalamiChild",
+            "slug": "witching-hour-palette-example-by-salamichild",
+            "publishedAt": "2021-10-14T15:10:00.020Z",
+            "user": {
+                "name": "SalamiChild",
+                "slug": "salamichild"
+            },
+            "parent": "5dbbaaa145ce8772f57aa53f",
+            "image": "palette-examples/witching-hour-palette-example-by-salamichild-616764.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-10-13T22:58:52.791Z",
+            "updatedAt": "2021-10-14T15:10:00.020Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "f6dbba",
+        "db604c",
+        "b13353",
+        "5e2052",
+        "74c99e",
+        "317c87",
+        "271854",
+        "1a1016"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5dbbaaa145ce8772f57aa53f",
+        "type": "palettes",
+        "count": 74,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

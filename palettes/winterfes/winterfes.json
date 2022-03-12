@@ -1,0 +1,71 @@
+{
+    "_id": "5fc787528ea22d4608c83256",
+    "tags": [
+        "ruzikb"
+    ],
+    "colors": [
+        "3c1c4a",
+        "574084",
+        "655ec0",
+        "5a78e3",
+        "549fff",
+        "4fd8ff",
+        "7fffff",
+        "bfffff",
+        "ffffff",
+        "ffdaef",
+        "ffa8df",
+        "ef60bf",
+        "e716ac",
+        "991674",
+        "5c024a",
+        "300020"
+    ],
+    "downloads": "277",
+    "featured": false,
+    "likes": 23,
+    "comments": 2,
+    "title": "WinterFes 16",
+    "hashtag": "winterfes",
+    "description": "The 16-color palette based on \"The Siivagunner All-Star Winter Festival\"!",
+    "creator": true,
+    "slug": "winterfes-16",
+    "publishedAt": "2021-03-25T07:00:00.028Z",
+    "user": {
+        "name": "RuziKB\u00b2",
+        "slug": "theruzikb-altern"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-12-02T12:23:46.489Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "3c1c4a",
+        "574084",
+        "655ec0",
+        "5a78e3",
+        "549fff",
+        "4fd8ff",
+        "7fffff",
+        "bfffff",
+        "ffffff",
+        "ffdaef",
+        "ffa8df",
+        "ef60bf",
+        "e716ac",
+        "991674",
+        "5c024a",
+        "300020"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fc787528ea22d4608c83256",
+        "type": "palettes",
+        "count": 23,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

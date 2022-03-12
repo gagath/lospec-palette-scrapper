@@ -1,0 +1,58 @@
+{
+    "_id": "5dd090cb6d54be5cde442a80",
+    "slug": "swamp",
+    "description": "",
+    "colors": [
+        "2c2916",
+        "424131",
+        "575642",
+        "928e89",
+        "4e4f4a",
+        "3d3c39",
+        "353231",
+        "1d1d1d"
+    ],
+    "creator": "1",
+    "comments": 2,
+    "likes": 18,
+    "createdAt": "2019-11-17T00:14:03.654Z",
+    "featured": false,
+    "tags": [
+        "swamp",
+        "green",
+        "dark",
+        "muddy"
+    ],
+    "downloads": "741",
+    "numberOfColors": 8,
+    "hashtag": "swamp14",
+    "title": "Swamp",
+    "user": {
+        "name": "Jimison3",
+        "slug": "jimison3"
+    },
+    "publishedAt": "2019-11-17T00:14:03.654Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "2c2916",
+        "424131",
+        "575642",
+        "928e89",
+        "4e4f4a",
+        "3d3c39",
+        "353231",
+        "1d1d1d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5dd090cb6d54be5cde442a80",
+        "type": "palettes",
+        "count": 18,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,67 @@
+{
+    "_id": "612d30b4a1395e6ac825592b",
+    "tags": [
+        "green",
+        "blue",
+        "dark",
+        "unsaturated",
+        "pastel",
+        "water",
+        "murky",
+        "fog",
+        "10"
+    ],
+    "colors": [
+        "17261a",
+        "364d39",
+        "66806a",
+        "9bb38f",
+        "bcccad",
+        "211726",
+        "3d364d",
+        "666a80",
+        "8f9bb3",
+        "adc7cc"
+    ],
+    "downloads": "96",
+    "featured": false,
+    "likes": 7,
+    "comments": 3,
+    "slug": "murky-water-10",
+    "publishedAt": "2021-09-29T13:55:00.033Z",
+    "user": {
+        "name": "DaSunfish",
+        "slug": "dasunfish"
+    },
+    "title": "Murky Water 10",
+    "hashtag": "murkywater10",
+    "description": "This is my first palette! It's a lowly saturated palette with greens and blues, designed for murky or darker pixel art.\u00a0",
+    "creator": true,
+    "numberOfColors": 10,
+    "createdAt": "2021-08-30T19:25:40.522Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "17261a",
+        "364d39",
+        "66806a",
+        "9bb38f",
+        "bcccad",
+        "211726",
+        "3d364d",
+        "666a80",
+        "8f9bb3",
+        "adc7cc"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "612d30b4a1395e6ac825592b",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

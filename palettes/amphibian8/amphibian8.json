@@ -1,0 +1,84 @@
+{
+    "_id": "6029efca6e4ba25f2df21471",
+    "tags": [
+        "amphibian",
+        " forest",
+        " ground",
+        " frog",
+        " mushroom",
+        " low saturation",
+        " taks"
+    ],
+    "colors": [
+        "171015",
+        "332628",
+        "633b2c",
+        "a67935",
+        "a8a743",
+        "a7b593",
+        "476b42",
+        "2a453d"
+    ],
+    "downloads": "517",
+    "featured": false,
+    "likes": 67,
+    "comments": 4,
+    "title": "Amphibian8",
+    "hashtag": "amphibian8",
+    "description": "Low saturation colors specifically picked for scenes on the forest floor and your amphibian needs.",
+    "creator": true,
+    "slug": "amphibian8",
+    "publishedAt": "2021-02-21T20:40:00.015Z",
+    "user": {
+        "name": "Taks",
+        "slug": "taks"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2021-02-15T03:51:38.963Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "602d00837823045903c16016",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/amphibian8-palette-example-by-taks-602d00.png",
+            "creator": true,
+            "description": "",
+            "title": "Amphibian8 Palette Example by Taks",
+            "slug": "amphibian8-palette-example-by-taks",
+            "publishedAt": "2021-02-17T17:25:00.026Z",
+            "user": {
+                "name": "Taks",
+                "slug": "taks"
+            },
+            "parent": "6029efca6e4ba25f2df21471",
+            "createdAt": "2021-02-17T11:39:47.185Z",
+            "updatedAt": "2021-02-17T17:25:00.027Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "171015",
+        "332628",
+        "633b2c",
+        "a67935",
+        "a8a743",
+        "a7b593",
+        "476b42",
+        "2a453d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6029efca6e4ba25f2df21471",
+        "type": "palettes",
+        "count": 67,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

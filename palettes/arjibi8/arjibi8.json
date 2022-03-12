@@ -1,0 +1,82 @@
+{
+    "_id": "617e9e21549ac9335cb87024",
+    "tags": [
+        "artist",
+        "anoob",
+        "arjibi8",
+        "8",
+        "pixelart"
+    ],
+    "colors": [
+        "8bc7bf",
+        "5796a1",
+        "524bb3",
+        "471b6e",
+        "702782",
+        "b0455a",
+        "de8b6f",
+        "ebd694"
+    ],
+    "downloads": "706",
+    "featured": false,
+    "likes": 48,
+    "comments": 0,
+    "slug": "arjibi8",
+    "publishedAt": "2021-11-03T15:00:00.068Z",
+    "user": {
+        "name": "ANoob",
+        "slug": "anoob"
+    },
+    "title": "Arjibi8",
+    "hashtag": "arjibi8",
+    "description": "A palette made with versatility in mind, while still being limited in the color count.",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-10-31T13:46:09.153Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "617e9e3a549ac9335cb87028",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Arjibi8 Palette Example by ANoob",
+            "slug": "arjibi8-palette-example-by-anoob",
+            "publishedAt": "2021-10-31T16:45:00.016Z",
+            "user": {
+                "name": "ANoob",
+                "slug": "anoob"
+            },
+            "parent": "617e9e21549ac9335cb87024",
+            "image": "palette-examples/arjibi8-palette-example-by-anoob-617e9e.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-10-31T13:46:34.533Z",
+            "updatedAt": "2021-10-31T16:45:00.016Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "8bc7bf",
+        "5796a1",
+        "524bb3",
+        "471b6e",
+        "702782",
+        "b0455a",
+        "de8b6f",
+        "ebd694"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "617e9e21549ac9335cb87024",
+        "type": "palettes",
+        "count": 48,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

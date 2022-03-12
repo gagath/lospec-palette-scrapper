@@ -1,0 +1,83 @@
+{
+    "_id": "5bc78ae5e86a5e3664cf08c5",
+    "slug": "didi4",
+    "description": "Created by <a target=\"_blank\" href=\"https://twitter.com/DidiGameBoy\">DidiGameBoy</a>.",
+    "colors": [
+        "dcfecf",
+        "77af68",
+        "3a655a",
+        "210b2e"
+    ],
+    "tags": [
+        "artist",
+        "didigameboy"
+    ],
+    "downloads": "938",
+    "numberOfColors": 4,
+    "createdAt": "2018-10-17T19:17:57.331Z",
+    "likes": 28,
+    "comments": 0,
+    "hashtag": "didi4",
+    "title": "Didi4",
+    "publishedAt": "2018-10-17T19:17:57.331Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5bc78b77e86a5e3664cf08c6",
+            "description": "Palette usage example by <a target=\"_blank\" href=\"https://twitter.com/DidiGameBoy\">DidiGameBoy</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.149Z",
+            "creator": false,
+            "image": "palette-examples/didi4-palette-example-palette-usage-example-by-didigameboy-5bc78b.png",
+            "likes": 0,
+            "parent": "5bc78ae5e86a5e3664cf08c5",
+            "slug": "didi4-palette-example-palette-usage-example-by-didigameboy",
+            "title": "didi4 palette example palette usage example by didigameboy",
+            "updatedAt": "2020-07-31T03:56:11.149Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by DidiGameBoy"
+        },
+        {
+            "_id": "5f7351f6eb3a852196cb72c7",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/didi4-palette-example-by-d-5f7351.png",
+            "creator": true,
+            "description": "",
+            "title": "Didi4 Palette Example by D\u2665\u2661\u2661\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+            "slug": "didi4-palette-example-by-d",
+            "publishedAt": "2020-09-29T18:05:00.009Z",
+            "user": {
+                "name": "D\u2665\u2661\u2661\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+                "slug": "didigameboy"
+            },
+            "parent": "5bc78ae5e86a5e3664cf08c5",
+            "createdAt": "2020-09-29T15:25:42.412Z",
+            "updatedAt": "2020-09-29T18:05:00.009Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "dcfecf",
+        "77af68",
+        "3a655a",
+        "210b2e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5bc78ae5e86a5e3664cf08c5",
+        "type": "palettes",
+        "count": 28,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

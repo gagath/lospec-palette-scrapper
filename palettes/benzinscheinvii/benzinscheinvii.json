@@ -1,0 +1,103 @@
+{
+    "_id": "5ddf167079bd355e3e83e8f1",
+    "slug": "benzinschein-vii",
+    "description": "An experimental palette used in <a href=\"https://fy.do/quilt/96\" target=\"_blank\">glacier's experimental \"Continuous Paths!\" fydoTiles collaborative quilt</a>.",
+    "colors": [
+        "e34a69",
+        "ffe796",
+        "82e9f5",
+        "11ba74",
+        "865aba",
+        "75580f",
+        "4f2630"
+    ],
+    "creator": true,
+    "hashtag": "benzinscheinvii",
+    "comments": 4,
+    "likes": 13,
+    "createdAt": "2019-11-28T00:36:00.146Z",
+    "featured": false,
+    "tags": [
+        "3bit",
+        "highcontrast",
+        "quilt",
+        "fydotiles",
+        "windfallapples",
+        "glacier"
+    ],
+    "downloads": "99",
+    "numberOfColors": 7,
+    "title": "Benzinschein-VII",
+    "user": {
+        "name": "windfallapples (glacier)",
+        "slug": "windfallapples"
+    },
+    "publishedAt": "2019-11-28T00:36:00.146Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f6ab3f708895951605d311d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/benzinschein-vii-palette-example-by-windfallapples-glacier-5f6ab3.png",
+            "creator": false,
+            "description": "The Benzinschein-VII palette shown in a segment of the\u00a0<a href=\"https://fy.do/quilt/96\" target=\"_blank\"><i>Continuous Paths! </i>collaborative pixel art quilt on fydoTiles</a>, with an overlay created by glacier.",
+            "title": "Benzinschein-VII Palette Example by windfallapples (glacier)",
+            "slug": "benzinschein-vii-palette-example-by-windfallapples-glacier",
+            "publishedAt": "2020-09-26T16:00:00.033Z",
+            "user": {
+                "name": "windfallapples (glacier)",
+                "slug": "windfallapples"
+            },
+            "parent": "5ddf167079bd355e3e83e8f1",
+            "createdAt": "2020-09-23T02:33:27.185Z",
+            "updatedAt": "2020-09-26T16:00:00.033Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "The Benzinschein-VII palette shown in a segment of the\u00a0Continuous Paths! collaborative pixel art quilt on fydoTiles, with an overlay created by glacier."
+        },
+        {
+            "_id": "5f6ab41a08895951605d3122",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/benzinschein-vii-palette-example-by-windfallapples-glacier-2-5f6ab4.png",
+            "creator": false,
+            "description": "The Benzinschein-VII palette shown in another segment of the\u00a0<a href=\"https://fy.do/quilt/96\" target=\"_blank\"><i>Continuous Paths!</i> collaborative pixel art quilt on fydoTiles</a>, with an overlay created by glacier.",
+            "title": "Benzinschein-VII Palette Example by windfallapples (glacier)",
+            "slug": "benzinschein-vii-palette-example-by-windfallapples-glacier-2",
+            "publishedAt": "2020-09-26T16:05:00.013Z",
+            "user": {
+                "name": "windfallapples (glacier)",
+                "slug": "windfallapples"
+            },
+            "parent": "5ddf167079bd355e3e83e8f1",
+            "createdAt": "2020-09-23T02:34:02.198Z",
+            "updatedAt": "2020-09-26T16:05:00.014Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": "The Benzinschein-VII palette shown in another segment of the\u00a0Continuous Paths! collaborative pixel art quilt on fydoTiles, with an overlay created by glacier."
+        }
+    ],
+    "colorsArray": [
+        "e34a69",
+        "ffe796",
+        "82e9f5",
+        "11ba74",
+        "865aba",
+        "75580f",
+        "4f2630"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5ddf167079bd355e3e83e8f1",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

@@ -1,0 +1,90 @@
+{
+    "_id": "5e8e6d258f1d812784c6363c",
+    "title": "Twilight 5",
+    "hashtag": "twilight5",
+    "description": "A palette I made out of colors in a sunset I saw from my window a while back.",
+    "creator": true,
+    "colors": [
+        "fbbbad",
+        "ee8695",
+        "4a7a96",
+        "333f58",
+        "292831"
+    ],
+    "slug": "twilight-5",
+    "user": {
+        "name": "Star",
+        "slug": "starlane"
+    },
+    "numberOfColors": 5,
+    "publishedAt": "2020-04-09T17:59:31.892Z",
+    "createdAt": "2020-04-09T00:32:37.806Z",
+    "comments": 8,
+    "likes": 505,
+    "featured": false,
+    "downloads": "6,791",
+    "tags": [
+        "artist"
+    ],
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5e8f66e397b66f3b0038712b",
+            "description": "Palette usage example by Star",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.215Z",
+            "creator": false,
+            "image": "palette-examples/twilight-5-palette-example-palette-usage-example-by-star-5e8f66.png",
+            "likes": 0,
+            "parent": "5e8e6d258f1d812784c6363c",
+            "slug": "twilight-5-palette-example-palette-usage-example-by-star",
+            "title": "twilight 5 palette example palette usage example by star",
+            "updatedAt": "2020-07-31T03:56:11.215Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Star"
+        },
+        {
+            "_id": "5f4eefab37cce843d03d5315",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/twilight-5-palette-example-by-star-5f4eef.png",
+            "creator": true,
+            "description": "I finished the art that was used for the original example.",
+            "title": "Twilight 5 Palette Example by Star",
+            "slug": "twilight-5-palette-example-by-star",
+            "publishedAt": "2020-09-02T01:40:00.019Z",
+            "user": {
+                "name": "Star",
+                "slug": "starlane"
+            },
+            "parent": "5e8e6d258f1d812784c6363c",
+            "createdAt": "2020-09-02T01:04:43.839Z",
+            "updatedAt": "2020-09-02T01:40:00.019Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": "I finished the art that was used for the original example."
+        }
+    ],
+    "colorsArray": [
+        "fbbbad",
+        "ee8695",
+        "4a7a96",
+        "333f58",
+        "292831"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5e8e6d258f1d812784c6363c",
+        "type": "palettes",
+        "count": 505,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

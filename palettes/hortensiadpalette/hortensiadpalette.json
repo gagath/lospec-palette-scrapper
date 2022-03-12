@@ -1,0 +1,82 @@
+{
+    "_id": "617d6e411cee4b3b2ff54f6d",
+    "tags": [
+        "pastel",
+        "purple",
+        "pink",
+        "light",
+        "colorful"
+    ],
+    "colors": [
+        "332b48",
+        "3c4059",
+        "4c587e",
+        "8977c9",
+        "bc8dff",
+        "fc9bd3",
+        "dabaff",
+        "d4faff"
+    ],
+    "downloads": "560",
+    "featured": false,
+    "likes": 50,
+    "comments": 1,
+    "slug": "hortensia-diamond",
+    "publishedAt": "2021-11-01T15:00:00.072Z",
+    "user": {
+        "name": "patchouli",
+        "slug": "patchoulitei"
+    },
+    "title": "Hortensia Diamond",
+    "hashtag": "hortensiadpalette",
+    "description": "i like pink",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-10-30T16:09:37.375Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "617d6e501cee4b3b2ff54f6f",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Hortensia Diamond Palette Example by patchouli",
+            "slug": "hortensia-diamond-palette-example-by-patchouli",
+            "publishedAt": "2021-10-30T17:50:00.032Z",
+            "user": {
+                "name": "patchouli",
+                "slug": "patchoulitei"
+            },
+            "parent": "617d6e411cee4b3b2ff54f6d",
+            "image": "palette-examples/hortensia-diamond-palette-example-by-patchouli-617d6e.png",
+            "creator": true,
+            "description": "cat city",
+            "createdAt": "2021-10-30T16:09:52.815Z",
+            "updatedAt": "2021-10-30T17:50:00.033Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "cat city"
+        }
+    ],
+    "colorsArray": [
+        "332b48",
+        "3c4059",
+        "4c587e",
+        "8977c9",
+        "bc8dff",
+        "fc9bd3",
+        "dabaff",
+        "d4faff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "617d6e411cee4b3b2ff54f6d",
+        "type": "palettes",
+        "count": 50,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

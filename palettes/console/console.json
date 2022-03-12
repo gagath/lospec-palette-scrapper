@@ -1,0 +1,51 @@
+{
+    "_id": "60303998b7d1ac0ad338247c",
+    "tags": [
+        "retro"
+    ],
+    "colors": [
+        "e5e2d3",
+        "ada394",
+        "2f2736",
+        "545afb",
+        "94dafc",
+        "c22d41"
+    ],
+    "downloads": "122",
+    "featured": false,
+    "likes": 9,
+    "comments": 0,
+    "title": "Retro Memories",
+    "hashtag": "console",
+    "description": "",
+    "creator": false,
+    "slug": "retro-memories",
+    "publishedAt": "2021-02-24T15:20:00.021Z",
+    "user": {
+        "name": "Zizhen Andrew // Tadpole Tales \ud83d\udc38",
+        "slug": "zizhen96"
+    },
+    "numberOfColors": 6,
+    "createdAt": "2021-02-19T22:20:08.154Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "e5e2d3",
+        "ada394",
+        "2f2736",
+        "545afb",
+        "94dafc",
+        "c22d41"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "60303998b7d1ac0ad338247c",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

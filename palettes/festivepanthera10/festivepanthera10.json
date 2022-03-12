@@ -1,0 +1,95 @@
+{
+    "_id": "61c49e0a64524442da534d33",
+    "tags": [
+        "panthera",
+        "festive",
+        "leopard",
+        "gray",
+        "teal",
+        "blue",
+        "red",
+        "cat",
+        "snow",
+        "lynx",
+        "feline",
+        "black",
+        "navy",
+        "maroon"
+    ],
+    "colors": [
+        "191d21",
+        "434e57",
+        "7c7b73",
+        "b3a08d",
+        "e6cab1",
+        "3471b3",
+        "54adb0",
+        "73f0c6",
+        "87323f",
+        "d1605c"
+    ],
+    "downloads": "208",
+    "featured": false,
+    "likes": 12,
+    "comments": 3,
+    "slug": "festivepanthera10",
+    "publishedAt": "2021-12-25T00:30:00.040Z",
+    "user": {
+        "name": "Sarahboev",
+        "slug": "sarah-boeving"
+    },
+    "title": "FestivePanthera10",
+    "hashtag": "festivepanthera10",
+    "description": "Palette from my PJ secret santa 2021 piece.\u00a0",
+    "creator": true,
+    "numberOfColors": 10,
+    "createdAt": "2021-12-23T16:04:26.488Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61c4a1de64524442da534dd4",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "FestivePanthera10 Palette Example by Sarahboev",
+            "slug": "festivepanthera10-palette-example-by-sarahboevymb8ra",
+            "publishedAt": "2021-12-24T14:05:00.037Z",
+            "user": {
+                "name": "Sarahboev",
+                "slug": "sarah-boeving"
+            },
+            "parent": "61c49e0a64524442da534d33",
+            "image": "palette-examples/festivepanthera10-palette-example-by-sarahboevymb8ra.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-12-23T16:20:46.379Z",
+            "updatedAt": "2021-12-24T14:05:00.037Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "191d21",
+        "434e57",
+        "7c7b73",
+        "b3a08d",
+        "e6cab1",
+        "3471b3",
+        "54adb0",
+        "73f0c6",
+        "87323f",
+        "d1605c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "61c49e0a64524442da534d33",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

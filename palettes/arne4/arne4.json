@@ -1,0 +1,61 @@
+{
+    "_id": "5b018180d5b01975cbbb0b53",
+    "createdAt": "2018-05-20T14:09:04.356Z",
+    "slug": "arne-4",
+    "description": "Created by <a target=\"_blank\" href=\"https://twitter.com/androidarts\">Arne</a>.",
+    "colors": [
+        "000000",
+        "00519c",
+        "b84b12",
+        "afd84f"
+    ],
+    "tags": [
+        "artist",
+        "arne"
+    ],
+    "downloads": "231",
+    "numberOfColors": 4,
+    "likes": 11,
+    "comments": 0,
+    "hashtag": "arne4",
+    "title": "Arne 4",
+    "publishedAt": "2018-05-20T14:09:04.356Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5c1ee1b393d96f08b49b42cc",
+            "description": "Palette usage example by u/DNABeast",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.160Z",
+            "creator": false,
+            "image": "palette-examples/arne-4-palette-example-palette-usage-example-by-u-dnabeast-5c1ee1.png",
+            "likes": 0,
+            "parent": "5b018180d5b01975cbbb0b53",
+            "slug": "arne-4-palette-example-palette-usage-example-by-u-dnabeast",
+            "title": "arne 4 palette example palette usage example by u dnabeast",
+            "updatedAt": "2020-07-31T03:56:11.160Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by u/DNABeast"
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "00519c",
+        "b84b12",
+        "afd84f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5b018180d5b01975cbbb0b53",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

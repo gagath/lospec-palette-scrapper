@@ -1,0 +1,68 @@
+{
+    "_id": "61eb58eeb7f4a028ae71ad4b",
+    "tags": [],
+    "colors": [
+        "021a21",
+        "132c36",
+        "2e3a40",
+        "e8dcd7"
+    ],
+    "downloads": "136",
+    "featured": false,
+    "likes": 10,
+    "comments": 0,
+    "slug": "ink-and-cream",
+    "publishedAt": "2022-01-22T17:20:00.078Z",
+    "user": {
+        "name": "LNS",
+        "slug": "lainsce"
+    },
+    "title": "Ink and Cream",
+    "hashtag": "inkandcream",
+    "description": "A palette that is quite inviting.",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2022-01-22T01:07:58.617Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61eb5e89b7f4a028ae71ae16",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Ink and Cream Palette Example by LNS",
+            "slug": "ink-and-cream-palette-example-by-lnsbsdvh2",
+            "publishedAt": "2022-01-22T09:25:00.027Z",
+            "user": {
+                "name": "LNS",
+                "slug": "lainsce"
+            },
+            "parent": "61eb58eeb7f4a028ae71ad4b",
+            "image": "palette-examples/ink-and-cream-palette-example-by-lnsbsdvh2.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-01-22T01:31:53.908Z",
+            "updatedAt": "2022-01-22T09:25:00.027Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "021a21",
+        "132c36",
+        "2e3a40",
+        "e8dcd7"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61eb58eeb7f4a028ae71ad4b",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

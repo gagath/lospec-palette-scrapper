@@ -1,0 +1,120 @@
+{
+    "_id": "600535f4bf41693fd1c1d046",
+    "tags": [
+        "monochrome",
+        " newspaper",
+        " blue"
+    ],
+    "colors": [
+        "79a5af",
+        "557f8e",
+        "435c6a",
+        "3b4c5f",
+        "2f3d55",
+        "252a45"
+    ],
+    "downloads": "534",
+    "featured": false,
+    "likes": 33,
+    "comments": 0,
+    "title": "Blue Newspaper",
+    "hashtag": "bluenewspaper",
+    "description": "Monochrome blue shade pallete. I did this for a commissioned piece\u00a0",
+    "creator": true,
+    "slug": "blue-newspaper",
+    "publishedAt": "2021-04-17T06:15:00.025Z",
+    "user": {
+        "name": "BlueApollo",
+        "slug": "blueapollo"
+    },
+    "numberOfColors": 6,
+    "createdAt": "2021-01-18T07:17:08.486Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60071117c40d1465425ade76",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/blue-newspaper-palette-example-by-blueapollo-600711.png",
+            "creator": true,
+            "description": "Night piece I made for this palette.",
+            "title": "Blue Newspaper Palette Example by BlueApollo",
+            "slug": "blue-newspaper-palette-example-by-blueapollo",
+            "publishedAt": "2021-03-27T20:00:00.084Z",
+            "user": {
+                "name": "BlueApollo",
+                "slug": "blueapollo"
+            },
+            "parent": "600535f4bf41693fd1c1d046",
+            "createdAt": "2021-01-19T17:04:23.373Z",
+            "updatedAt": "2021-03-27T20:00:00.084Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Night piece I made for this palette."
+        },
+        {
+            "_id": "6019038b41653951062cff43",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/blue-newspaper-palette-example-by-blueapollo-2-601903.png",
+            "creator": true,
+            "description": "",
+            "title": "Blue Newspaper Palette Example by BlueApollo",
+            "slug": "blue-newspaper-palette-example-by-blueapollo-2",
+            "publishedAt": "2021-02-06T16:55:00.014Z",
+            "user": {
+                "name": "BlueApollo",
+                "slug": "blueapollo"
+            },
+            "parent": "600535f4bf41693fd1c1d046",
+            "createdAt": "2021-02-02T07:47:23.253Z",
+            "updatedAt": "2021-02-06T16:55:00.014Z",
+            "__v": 0,
+            "thumbnailOffset": 50,
+            "descriptionText": ""
+        },
+        {
+            "_id": "60ab1c50ea5d700bf164ca0d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Blue Newspaper Palette Example by Kartheek raj",
+            "slug": "blue-newspaper-palette-example-by-kartheek-raj",
+            "publishedAt": "2021-05-24T15:00:00.046Z",
+            "user": {
+                "name": "Kartheek raj",
+                "slug": "karrthik77"
+            },
+            "parent": "600535f4bf41693fd1c1d046",
+            "image": "palette-examples/blue-newspaper-palette-example-by-kartheek-raj-60ab1c.png",
+            "creator": true,
+            "description": "I'm a pixel artist from India who created this image as I liked the palette in blue shades.",
+            "createdAt": "2021-05-24T03:24:00.119Z",
+            "updatedAt": "2021-05-24T15:00:00.047Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": "I'm a pixel artist from India who created this image as I liked the palette in blue shades."
+        }
+    ],
+    "colorsArray": [
+        "79a5af",
+        "557f8e",
+        "435c6a",
+        "3b4c5f",
+        "2f3d55",
+        "252a45"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "600535f4bf41693fd1c1d046",
+        "type": "palettes",
+        "count": 33,
+        "liked": 0
+    },
+    "thumbnailWidth": 33.333333333333336
+}

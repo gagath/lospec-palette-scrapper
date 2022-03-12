@@ -1,0 +1,68 @@
+{
+    "_id": "601d343ca63a5178a242a78b",
+    "tags": [],
+    "colors": [
+        "ffffff",
+        "c70534",
+        "d2855b",
+        "000000"
+    ],
+    "downloads": "51",
+    "featured": false,
+    "likes": 9,
+    "comments": 0,
+    "title": "Hard Pearl",
+    "hashtag": "hardpearlpalette",
+    "description": "Based on the \"Per\u0142a Mocna\" beer label.",
+    "creator": false,
+    "slug": "hard-pearl",
+    "publishedAt": "2021-02-15T02:40:00.025Z",
+    "user": {
+        "name": "27558rika",
+        "slug": "27558rika"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-02-05T12:04:12.024Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607f6f95dcf8be6b6b0646b4",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Hard Pearl Palette Example by Casei Solus",
+            "slug": "hard-pearl-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-21T16:35:00.027Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "601d343ca63a5178a242a78b",
+            "image": "palette-examples/hard-pearl-palette-example-by-casei-solus-607f6f.png",
+            "creator": true,
+            "description": "Based on the Hard Pearla logo.",
+            "createdAt": "2021-04-21T00:19:33.781Z",
+            "updatedAt": "2021-04-21T16:35:00.028Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Based on the Hard Pearla logo."
+        }
+    ],
+    "colorsArray": [
+        "ffffff",
+        "c70534",
+        "d2855b",
+        "000000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "601d343ca63a5178a242a78b",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

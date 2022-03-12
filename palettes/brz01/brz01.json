@@ -1,0 +1,77 @@
+{
+    "_id": "60b4e6abb0638341ca18a47b",
+    "tags": [
+        "bronze",
+        "copper",
+        "metal",
+        "okee"
+    ],
+    "colors": [
+        "000000",
+        "222728",
+        "3f5546",
+        "7e5a64",
+        "be9585",
+        "f3ebd4"
+    ],
+    "downloads": "321",
+    "featured": false,
+    "likes": 36,
+    "comments": 2,
+    "slug": "bronze-palette",
+    "publishedAt": "2021-09-11T03:20:00.046Z",
+    "user": {
+        "name": "Okee",
+        "slug": "okee"
+    },
+    "title": "BRONZE PALETTE",
+    "hashtag": "brz01",
+    "description": "Bronze palette with green colors of copper, which is a part of the bronze\u00a0",
+    "creator": true,
+    "createdAt": "2021-05-31T13:37:47.103Z",
+    "numberOfColors": 6,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60b4e6bab0638341ca18a47d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "BRONZE PALETTE Palette Example by Okee",
+            "slug": "bronze-palette-palette-example-by-okee",
+            "publishedAt": "2021-08-22T21:44:58.262Z",
+            "user": {
+                "name": "Okee",
+                "slug": "okee"
+            },
+            "parent": "60b4e6abb0638341ca18a47b",
+            "image": "palette-examples/bronze-palette-palette-example-by-okee-60b4e6.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-05-31T13:38:02.500Z",
+            "updatedAt": "2021-08-22T21:44:58.263Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "222728",
+        "3f5546",
+        "7e5a64",
+        "be9585",
+        "f3ebd4"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "60b4e6abb0638341ca18a47b",
+        "type": "palettes",
+        "count": 36,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

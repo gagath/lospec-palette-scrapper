@@ -1,0 +1,84 @@
+{
+    "_id": "61c2eb86012043052f08e31d",
+    "tags": [
+        "royalnaym",
+        "6color",
+        "greed",
+        "gold",
+        "green",
+        "money",
+        "steampunk",
+        "pipes",
+        "cog",
+        "pit",
+        "abiss"
+    ],
+    "colors": [
+        "263b28",
+        "2d452f",
+        "525236",
+        "8a6800",
+        "c48931",
+        "ccb4af"
+    ],
+    "downloads": "279",
+    "featured": false,
+    "likes": 21,
+    "comments": 2,
+    "slug": "greedpit",
+    "publishedAt": "2021-12-24T12:30:00.037Z",
+    "user": {
+        "name": "Royal_Naym",
+        "slug": "royalnaym"
+    },
+    "title": "GreedPit",
+    "hashtag": "greedpit",
+    "description": "\"As our engines, born of steam and cog, grew both in complexity and output, so did our primordial greed for gold. Mind ablaze, we sought wealth in the subterranean bellies of our mechanical cities: amid pipes and petrol, we had lost all control -but couldn\u2019t and wouldn\u2019t care. Our bodies were machines; our minds shine-seekers.\"",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2021-12-22T09:10:30.579Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61c2eb90012043052f08e31f",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "GreedPit Palette Example by Royal_Naym",
+            "slug": "greedpit-palette-example-by-royalnaymvebq5o",
+            "publishedAt": "2021-12-22T09:40:00.027Z",
+            "user": {
+                "name": "Royal_Naym",
+                "slug": "royalnaym"
+            },
+            "parent": "61c2eb86012043052f08e31d",
+            "image": "palette-examples/greedpit-palette-example-by-royalnaymvebq5o.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-12-22T09:10:40.018Z",
+            "updatedAt": "2021-12-22T09:40:00.027Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "263b28",
+        "2d452f",
+        "525236",
+        "8a6800",
+        "c48931",
+        "ccb4af"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "61c2eb86012043052f08e31d",
+        "type": "palettes",
+        "count": 21,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

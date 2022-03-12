@@ -1,0 +1,87 @@
+{
+    "_id": "617da074f7b0485fc6209ce8",
+    "tags": [
+        "artist",
+        "st8",
+        "phoenix",
+        "fire",
+        "red",
+        "orange",
+        "yellow",
+        "thest1076",
+        "firebird",
+        "gold"
+    ],
+    "colors": [
+        "330d10",
+        "4d130f",
+        "732017",
+        "992817",
+        "bf481d",
+        "d97e16",
+        "e5be22",
+        "f2e749"
+    ],
+    "downloads": "519",
+    "featured": false,
+    "likes": 17,
+    "comments": 0,
+    "slug": "st-8-phoenix",
+    "publishedAt": "2021-11-03T07:00:00.075Z",
+    "user": {
+        "name": "Skiller Thomson",
+        "slug": "thest1076"
+    },
+    "title": "ST 8 Phoenix",
+    "hashtag": "st8phoenix",
+    "description": "Phoenix, that's right! Not the Firebird!",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-10-30T19:43:48.768Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "617da0abf7b0485fc6209ceb",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "ST 8 Phoenix Palette Example by Skiller Thomson",
+            "slug": "st-8-phoenix-palette-example-by-skiller-thomson",
+            "publishedAt": "2021-10-31T16:55:00.032Z",
+            "user": {
+                "name": "Skiller Thomson",
+                "slug": "thest1076"
+            },
+            "parent": "617da074f7b0485fc6209ce8",
+            "image": "palette-examples/st-8-phoenix-palette-example-by-skiller-thomson-617da0.png",
+            "creator": true,
+            "description": "but Firebird or Phoenix?",
+            "createdAt": "2021-10-30T19:44:43.051Z",
+            "updatedAt": "2021-10-31T16:55:00.032Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "but Firebird or Phoenix?"
+        }
+    ],
+    "colorsArray": [
+        "330d10",
+        "4d130f",
+        "732017",
+        "992817",
+        "bf481d",
+        "d97e16",
+        "e5be22",
+        "f2e749"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "617da074f7b0485fc6209ce8",
+        "type": "palettes",
+        "count": 17,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

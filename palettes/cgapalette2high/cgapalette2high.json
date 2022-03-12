@@ -1,0 +1,62 @@
+{
+    "_id": "58e6b959686f6307d80495e3",
+    "createdAt": "2017-04-06T21:55:37.760Z",
+    "slug": "cga-palette-2-high",
+    "description": "A 3rd unofficial palette for <a href=\"https://en.wikipedia.org/wiki/Color_Graphics_Adapter\">CGA</a>.",
+    "colors": [
+        "000000",
+        "FF5555",
+        "55FFFF",
+        "FFFFFF"
+    ],
+    "tags": [
+        "hardware",
+        "computer",
+        "cga"
+    ],
+    "downloads": "1,048",
+    "numberOfColors": 4,
+    "likes": 42,
+    "comments": 1,
+    "hashtag": "cgapalette2high",
+    "title": "CGA Palette 2 (High)",
+    "publishedAt": "2017-04-06T21:55:37.760Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "58e6c13f686f6307d80495e4",
+            "description": "<a href=\"http://8088mph.blogspot.com/2013/10/using-photoshop-as-cga-bitmap-paint.html\">8088mph logo</a> by <a href=\"http://8088mph.blogspot.com\">VileR</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.038Z",
+            "creator": false,
+            "image": "palette-examples/cga-palette-2-high-palette-example-8088mph-logo-by-viler-58e6c1.png",
+            "likes": 0,
+            "parent": "58e6b959686f6307d80495e3",
+            "slug": "cga-palette-2-high-palette-example-8088mph-logo-by-viler",
+            "title": "cga palette 2 high palette example 8088mph logo by viler",
+            "updatedAt": "2020-07-31T03:56:11.038Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "8088mph logo by VileR"
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "FF5555",
+        "55FFFF",
+        "FFFFFF"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "58e6b959686f6307d80495e3",
+        "type": "palettes",
+        "count": 42,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

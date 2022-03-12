@@ -1,0 +1,89 @@
+{
+    "_id": "59d80ff60323c15352a71ab9",
+    "createdAt": "2017-10-06T23:21:26.758Z",
+    "slug": "arne-16",
+    "description": "Created by <a href=\"http://androidarts.com/palette/16pal.htm\">Arne</a>.",
+    "colors": [
+        "000000",
+        "493c2b",
+        "be2633",
+        "e06f8b",
+        "9d9d9d",
+        "a46422",
+        "eb8931",
+        "f7e26b",
+        "ffffff",
+        "1b2632",
+        "2f484e",
+        "44891a",
+        "a3ce27",
+        "005784",
+        "31a2f2",
+        "b2dcef"
+    ],
+    "tags": [
+        "artist",
+        "arne"
+    ],
+    "downloads": "648",
+    "numberOfColors": 16,
+    "likes": 20,
+    "comments": 0,
+    "hashtag": "arne16",
+    "title": "Arne 16",
+    "publishedAt": "2017-10-06T23:21:26.758Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61ab20f7ecd02a5d8657df11",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Arne 16 Palette Example by P-Tux7",
+            "slug": "arne-16-palette-example-by-p-tux7",
+            "publishedAt": "2021-12-04T09:05:00.028Z",
+            "user": {
+                "name": "P-Tux7",
+                "slug": "p-tux7"
+            },
+            "parent": "59d80ff60323c15352a71ab9",
+            "image": "palette-examples/arne-16-palette-example-by-p-tux7-61ab20.png",
+            "creator": false,
+            "description": "A modified version of a mockup that\u00a0Arne\u00a0created with a previous version of this palette. The mockup was in\u00a0his original thread\u00a0about the palette, but disappeared. However, it was backed up on Pinterest.",
+            "createdAt": "2021-12-04T08:04:07.763Z",
+            "updatedAt": "2021-12-04T09:05:00.029Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A modified version of a mockup that\u00a0Arne\u00a0created with a previous version of this palette. The mockup was in\u00a0his original thread\u00a0about the palette, but disappeared. However, it was backed up on Pinterest."
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "493c2b",
+        "be2633",
+        "e06f8b",
+        "9d9d9d",
+        "a46422",
+        "eb8931",
+        "f7e26b",
+        "ffffff",
+        "1b2632",
+        "2f484e",
+        "44891a",
+        "a3ce27",
+        "005784",
+        "31a2f2",
+        "b2dcef"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "59d80ff60323c15352a71ab9",
+        "type": "palettes",
+        "count": 20,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

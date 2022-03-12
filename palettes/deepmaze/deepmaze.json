@@ -1,0 +1,76 @@
+{
+    "_id": "5f87f5c2866da921a445062a",
+    "tags": [
+        "retro"
+    ],
+    "colors": [
+        "f2ff66",
+        "9af089",
+        "38d88e",
+        "00be91",
+        "009a98",
+        "085562",
+        "001d2a"
+    ],
+    "downloads": "1,485",
+    "featured": false,
+    "likes": 130,
+    "comments": 0,
+    "title": "DEEP_MAZE",
+    "hashtag": "deepmaze",
+    "description": "",
+    "creator": true,
+    "slug": "deepmaze",
+    "publishedAt": "2020-10-16T19:50:00.040Z",
+    "user": {
+        "name": "Ryosuke",
+        "slug": "ryo620org"
+    },
+    "numberOfColors": 7,
+    "createdAt": "2020-10-15T07:09:54.104Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f87f802866da921a445063f",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/deepmaze-palette-example-by-ryosuke-5f87f8.png",
+            "creator": true,
+            "description": "Pazzle Action Game\u00a0<a href=\"https://itch.io/game/summary/748053\" target=\"_blank\">All For Hime</a>\u00a0",
+            "title": "DEEP_MAZE Palette Example by Ryosuke",
+            "slug": "deepmaze-palette-example-by-ryosuke",
+            "publishedAt": "2020-10-16T19:50:00.017Z",
+            "user": {
+                "name": "Ryosuke",
+                "slug": "ryo620org"
+            },
+            "parent": "5f87f5c2866da921a445062a",
+            "createdAt": "2020-10-15T07:19:30.213Z",
+            "updatedAt": "2020-10-16T19:50:00.017Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Pazzle Action Game\u00a0All For Hime\u00a0"
+        }
+    ],
+    "colorsArray": [
+        "f2ff66",
+        "9af089",
+        "38d88e",
+        "00be91",
+        "009a98",
+        "085562",
+        "001d2a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5f87f5c2866da921a445062a",
+        "type": "palettes",
+        "count": 130,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

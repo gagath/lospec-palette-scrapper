@@ -1,0 +1,73 @@
+{
+    "_id": "610ac42f382945185732a2b9",
+    "tags": [
+        "green",
+        "matrix",
+        "gameboy",
+        "2bit"
+    ],
+    "colors": [
+        "f2fff2",
+        "add9bc",
+        "5b8c7c",
+        "0d1a1a"
+    ],
+    "downloads": "769",
+    "featured": false,
+    "likes": 51,
+    "comments": 0,
+    "slug": "2-bit-matrix",
+    "publishedAt": "2021-08-29T18:00:00.060Z",
+    "user": {
+        "name": "Luap",
+        "slug": "luap"
+    },
+    "title": "2 Bit Matrix",
+    "hashtag": "2bitmatrix",
+    "description": "2 Bit Palette (4 colors) based on Matrix color scheme (low saturated).",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-08-04T16:45:35.603Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "610ac624fbf0c322f9bacbc0",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "2 Bit Matrix Palette Example by Luap",
+            "slug": "2-bit-matrix-palette-example-by-luap",
+            "publishedAt": "2021-08-22T20:45:00.042Z",
+            "user": {
+                "name": "Luap",
+                "slug": "luap"
+            },
+            "parent": "610ac42f382945185732a2b9",
+            "image": "palette-examples/2-bit-matrix-palette-example-by-luap-610ac6.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-08-04T16:53:56.668Z",
+            "updatedAt": "2021-08-22T20:45:00.043Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "f2fff2",
+        "add9bc",
+        "5b8c7c",
+        "0d1a1a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "610ac42f382945185732a2b9",
+        "type": "palettes",
+        "count": 51,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

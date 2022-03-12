@@ -1,0 +1,98 @@
+{
+    "_id": "61e3a122849b745fb21e3da2",
+    "tags": [
+        "landscape"
+    ],
+    "colors": [
+        "b2c37a",
+        "77a368",
+        "3a8394",
+        "88c9d4",
+        "a4dbde",
+        "cef1f5",
+        "6cb9cb",
+        "53755d",
+        "354b3f",
+        "664f4e",
+        "887268",
+        "83bed2",
+        "c9b9a6",
+        "405b4b",
+        "6891ad",
+        "74a0b4",
+        "5786a0",
+        "856753"
+    ],
+    "downloads": "372",
+    "featured": false,
+    "likes": 27,
+    "comments": 0,
+    "slug": "landscapebase18",
+    "publishedAt": "2022-01-16T09:55:00.084Z",
+    "user": {
+        "name": "KarlestonChew \ud83c\udd96",
+        "slug": "karlestonchew"
+    },
+    "title": "LandscapeBase18 ",
+    "hashtag": "landbase18",
+    "description": "Some greens, blues, and browns I've collected over the years and like to use as a starting point when making landscapes",
+    "creator": true,
+    "numberOfColors": 18,
+    "createdAt": "2022-01-16T04:37:54.838Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61e3a3f2849b745fb21e3dbb",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "LandscapeBase18  Palette Example by KarlestonChew \ud83c\udd96",
+            "slug": "landscapebase18-palette-example-by-karlestonchewr2cof9",
+            "publishedAt": "2022-01-16T10:00:00.051Z",
+            "user": {
+                "name": "KarlestonChew \ud83c\udd96",
+                "slug": "karlestonchew"
+            },
+            "parent": "61e3a122849b745fb21e3da2",
+            "image": "palette-examples/landscapebase18-palette-example-by-karlestonchewr2cof9.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-01-16T04:49:54.786Z",
+            "updatedAt": "2022-01-16T10:00:00.051Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "b2c37a",
+        "77a368",
+        "3a8394",
+        "88c9d4",
+        "a4dbde",
+        "cef1f5",
+        "6cb9cb",
+        "53755d",
+        "354b3f",
+        "664f4e",
+        "887268",
+        "83bed2",
+        "c9b9a6",
+        "405b4b",
+        "6891ad",
+        "74a0b4",
+        "5786a0",
+        "856753"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 11.11111111111111,
+    "height": 32,
+    "likebutton": {
+        "content": "61e3a122849b745fb21e3da2",
+        "type": "palettes",
+        "count": 27,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

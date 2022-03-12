@@ -1,0 +1,62 @@
+{
+    "_id": "5db0e5115fd9881a7aaec2a4",
+    "slug": "orangefall",
+    "description": "A autumnal palette sequence I made in mid-2018 for my SMW Hack October Ordeal. Example of the palette in use is seen here by a friend of mine which I have asked him to produce- http://pixeljoint.com/pixelart/129237.htm",
+    "colors": [
+        "100820",
+        "381038",
+        "601840",
+        "a01828",
+        "d02020",
+        "f85800",
+        "f89800",
+        "e8d028",
+        "f0f8e0"
+    ],
+    "creator": true,
+    "comments": 0,
+    "likes": 9,
+    "createdAt": "2019-10-23T23:41:05.862Z",
+    "featured": false,
+    "tags": [
+        "fall",
+        "palette",
+        "colors",
+        "autumn",
+        "orangefall",
+        "monoramp"
+    ],
+    "downloads": "244",
+    "numberOfColors": 9,
+    "hashtag": "orangefall",
+    "title": "OrangeFall",
+    "user": {
+        "name": "SF - The Dark Warrior",
+        "slug": "thedarkwarrior"
+    },
+    "publishedAt": "2019-10-23T23:41:05.862Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "100820",
+        "381038",
+        "601840",
+        "a01828",
+        "d02020",
+        "f85800",
+        "f89800",
+        "e8d028",
+        "f0f8e0"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5db0e5115fd9881a7aaec2a4",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

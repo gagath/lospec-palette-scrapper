@@ -1,0 +1,80 @@
+{
+    "_id": "60258c29d09a3c28c836934f",
+    "tags": [
+        "gold",
+        "purple",
+        "royal"
+    ],
+    "colors": [
+        "2e0fa8",
+        "8916f5",
+        "b067fa",
+        "bd7013",
+        "f5c813",
+        "faee67",
+        "ffffff",
+        "1b1636"
+    ],
+    "downloads": "117",
+    "featured": false,
+    "likes": 6,
+    "comments": 0,
+    "title": "Royal8",
+    "hashtag": "royal8",
+    "description": "Purples and golds, useful for lots of different things!",
+    "creator": true,
+    "slug": "royal8",
+    "publishedAt": "2021-08-24T12:15:00.030Z",
+    "user": {
+        "name": "Meteor",
+        "slug": "meteor"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2021-02-11T19:57:29.935Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60259b9a440cd23ac27c27a0",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/royal8-palette-example-by-meteor-60259b.png",
+            "creator": true,
+            "description": "",
+            "title": "Royal8 Palette Example by Meteor",
+            "slug": "royal8-palette-example-by-meteor",
+            "publishedAt": "2021-03-27T19:10:00.029Z",
+            "user": {
+                "name": "Meteor",
+                "slug": "meteor"
+            },
+            "parent": "60258c29d09a3c28c836934f",
+            "createdAt": "2021-02-11T21:03:22.881Z",
+            "updatedAt": "2021-03-27T19:10:00.029Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "2e0fa8",
+        "8916f5",
+        "b067fa",
+        "bd7013",
+        "f5c813",
+        "faee67",
+        "ffffff",
+        "1b1636"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60258c29d09a3c28c836934f",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

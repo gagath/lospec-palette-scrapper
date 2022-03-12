@@ -1,0 +1,57 @@
+{
+    "_id": "5c782e2a158375659aa2c52b",
+    "slug": "petite-8-afterdark",
+    "description": "A dark version of <a target=\"_blank\" href=\"https://lospec.com/palette-list/petite-8\">Petite-8</a>.",
+    "colors": [
+        "070810",
+        "0d0f11",
+        "161c20",
+        "272b29",
+        "4b4a27",
+        "776131",
+        "a07c43",
+        "bb9a67"
+    ],
+    "tags": [
+        "artist",
+        "adigunpolack",
+        "monoramp"
+    ],
+    "downloads": "767",
+    "numberOfColors": 8,
+    "createdAt": "2019-02-28T18:53:30.165Z",
+    "featured": false,
+    "likes": 23,
+    "comments": 0,
+    "creator": true,
+    "hashtag": "petite8afterdark",
+    "title": "Petite-8 Afterdark",
+    "user": {
+        "name": "Adigun A. Polack",
+        "slug": "adigunpolack"
+    },
+    "publishedAt": "2019-02-28T18:53:30.165Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "070810",
+        "0d0f11",
+        "161c20",
+        "272b29",
+        "4b4a27",
+        "776131",
+        "a07c43",
+        "bb9a67"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5c782e2a158375659aa2c52b",
+        "type": "palettes",
+        "count": 23,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

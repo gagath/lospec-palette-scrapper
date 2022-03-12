@@ -1,0 +1,74 @@
+{
+    "_id": "5f8c6451b8ee3d04b2d3313d",
+    "tags": [
+        "fire",
+        "fox",
+        "sundawn",
+        "flames",
+        "lotaru"
+    ],
+    "colors": [
+        "5a0084",
+        "e63900",
+        "ffc96b",
+        "ffffff"
+    ],
+    "downloads": "483",
+    "featured": false,
+    "likes": 32,
+    "comments": 1,
+    "title": "Foxfire",
+    "hashtag": "foxfire",
+    "description": "",
+    "creator": true,
+    "slug": "foxfire",
+    "publishedAt": "2020-10-18T18:50:00.031Z",
+    "user": {
+        "name": "Lotaru",
+        "slug": "lotaru"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-10-18T15:50:41.745Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f8c8d73b8ee3d04b2d3332f",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/foxfire-palette-example-by-zivox-5f8c8d.png",
+            "creator": true,
+            "description": "",
+            "title": "Foxfire Palette Example by Zivox",
+            "slug": "foxfire-palette-example-by-zivox",
+            "publishedAt": "2020-10-18T18:50:00.018Z",
+            "user": {
+                "name": "Lotaru",
+                "slug": "lotaru"
+            },
+            "parent": "5f8c6451b8ee3d04b2d3313d",
+            "createdAt": "2020-10-18T18:46:11.026Z",
+            "updatedAt": "2020-10-18T18:50:00.019Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "5a0084",
+        "e63900",
+        "ffc96b",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f8c6451b8ee3d04b2d3313d",
+        "type": "palettes",
+        "count": 32,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

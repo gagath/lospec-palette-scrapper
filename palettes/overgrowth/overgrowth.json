@@ -1,0 +1,73 @@
+{
+    "_id": "600c86131444d402ead671c2",
+    "tags": [
+        "jungle",
+        "grass",
+        "plant",
+        "polyphrog"
+    ],
+    "colors": [
+        "408a33",
+        "153127",
+        "6e2f2c",
+        "a3653a"
+    ],
+    "downloads": "226",
+    "featured": false,
+    "likes": 19,
+    "comments": 1,
+    "title": "overgrowth",
+    "hashtag": "overgrowth",
+    "description": "",
+    "creator": true,
+    "slug": "overgrowth",
+    "publishedAt": "2021-01-31T18:25:00.032Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-01-23T20:24:51.766Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "600c863f1444d402ead671cb",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/overgrowth-palette-example-by-polyphorge-600c86.png",
+            "creator": true,
+            "description": "",
+            "title": "overgrowth Palette Example by polyphorge",
+            "slug": "overgrowth-palette-example-by-polyphorge",
+            "publishedAt": "2021-01-23T21:55:00.012Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "600c86131444d402ead671c2",
+            "createdAt": "2021-01-23T20:25:35.154Z",
+            "updatedAt": "2021-01-23T21:55:00.013Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "408a33",
+        "153127",
+        "6e2f2c",
+        "a3653a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "600c86131444d402ead671c2",
+        "type": "palettes",
+        "count": 19,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

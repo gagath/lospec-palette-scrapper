@@ -1,0 +1,57 @@
+{
+    "_id": "5fb9e4edeb0630284bc7c0b2",
+    "tags": [
+        "computer",
+        " improvement",
+        " calculated",
+        " conceptual",
+        " reminiscent",
+        " cga",
+        " hardware"
+    ],
+    "colors": [
+        "000000",
+        "0000ff",
+        "00ff80",
+        "ff0080",
+        "ffff00",
+        "ffffff"
+    ],
+    "downloads": "78",
+    "featured": false,
+    "likes": 9,
+    "comments": 0,
+    "title": "CGAX16",
+    "hashtag": "cgax2",
+    "description": "",
+    "creator": true,
+    "slug": "cgax16",
+    "publishedAt": "2020-11-26T16:20:00.014Z",
+    "user": {
+        "name": "LKR0.5420820",
+        "slug": "l-k-r-0"
+    },
+    "numberOfColors": 6,
+    "createdAt": "2020-11-22T04:11:25.639Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "0000ff",
+        "00ff80",
+        "ff0080",
+        "ffff00",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5fb9e4edeb0630284bc7c0b2",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

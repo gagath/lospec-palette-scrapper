@@ -1,0 +1,84 @@
+{
+    "_id": "5fcab5e6f93afe556e195717",
+    "tags": [
+        "sunset",
+        "sunrise",
+        "warm",
+        "night",
+        "cool",
+        "moon",
+        "sunset8"
+    ],
+    "colors": [
+        "ffff78",
+        "ffd647",
+        "ffc247",
+        "ffa936",
+        "ff8b6f",
+        "e67595",
+        "9a6390",
+        "464678"
+    ],
+    "downloads": "387",
+    "featured": false,
+    "likes": 22,
+    "comments": 0,
+    "title": "Sunset 8",
+    "hashtag": "sunset8",
+    "description": "A pallet I made to resemble the colors of the sunset sky.",
+    "creator": true,
+    "slug": "sunset-8",
+    "publishedAt": "2021-04-12T05:30:00.037Z",
+    "user": {
+        "name": "SamRI",
+        "slug": "quinton-christensen"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2020-12-04T22:19:18.952Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60757678796b6e54ef261287",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Sunset 8 Palette Example by Casei Solus",
+            "slug": "sunset-8-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-13T13:25:00.021Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5fcab5e6f93afe556e195717",
+            "image": "palette-examples/sunset-8-palette-example-by-casei-solus-607576.png",
+            "creator": true,
+            "description": "A sunset sky.",
+            "createdAt": "2021-04-13T10:46:16.380Z",
+            "updatedAt": "2021-04-13T13:25:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A sunset sky."
+        }
+    ],
+    "colorsArray": [
+        "ffff78",
+        "ffd647",
+        "ffc247",
+        "ffa936",
+        "ff8b6f",
+        "e67595",
+        "9a6390",
+        "464678"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fcab5e6f93afe556e195717",
+        "type": "palettes",
+        "count": 22,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

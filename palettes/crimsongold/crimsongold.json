@@ -1,0 +1,62 @@
+{
+    "_id": "60ca3fbc4053b16a0e26ae40",
+    "tags": [
+        "red",
+        "gold",
+        "sand",
+        "crimson",
+        "blood",
+        "yellow",
+        "warm",
+        "hot"
+    ],
+    "colors": [
+        "3a0000",
+        "590000",
+        "7c0300",
+        "c02b18",
+        "e04217",
+        "f26d1f",
+        "ff933a",
+        "ffce59"
+    ],
+    "downloads": "366",
+    "featured": false,
+    "likes": 17,
+    "comments": 0,
+    "slug": "crimson-gold",
+    "publishedAt": "2021-09-06T06:25:00.035Z",
+    "user": {
+        "name": "MR.Crafty productions",
+        "slug": "mrcrafty-productions"
+    },
+    "title": "Crimson Gold",
+    "hashtag": "crimsongold",
+    "description": "A monochrome-ish pallete, with red ,yellow.",
+    "creator": true,
+    "createdAt": "2021-06-16T18:15:24.950Z",
+    "numberOfColors": 8,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "3a0000",
+        "590000",
+        "7c0300",
+        "c02b18",
+        "e04217",
+        "f26d1f",
+        "ff933a",
+        "ffce59"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60ca3fbc4053b16a0e26ae40",
+        "type": "palettes",
+        "count": 17,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

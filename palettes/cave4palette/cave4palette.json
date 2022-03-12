@@ -1,0 +1,74 @@
+{
+    "_id": "5ef9eba202e98838af50923e",
+    "tags": [
+        "polyducks",
+        "gameboy",
+        "dark",
+        "blue",
+        "gloomy"
+    ],
+    "colors": [
+        "e4cbbf",
+        "938282",
+        "4f4e80",
+        "2c0016"
+    ],
+    "downloads": "531",
+    "featured": false,
+    "likes": 54,
+    "comments": 1,
+    "title": "Cave4",
+    "hashtag": "cave4palette",
+    "description": "A palette for a dark, gloomy cave, a place to bury your pokemon, or perhaps the wakening eye of a dragon. A palette by Polyducks.",
+    "creator": true,
+    "slug": "cave4",
+    "publishedAt": "2020-07-02T05:40:00.008Z",
+    "user": {
+        "name": "Polyducks",
+        "slug": "polyducks"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-06-29T13:24:50.893Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60793b6640b13015edd6e089",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Cave4 Palette Example by Casei Solus",
+            "slug": "cave4-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-16T22:20:00.019Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5ef9eba202e98838af50923e",
+            "image": "palette-examples/cave4-palette-example-by-casei-solus-60793b.png",
+            "creator": true,
+            "description": "View to a cave entrance.",
+            "createdAt": "2021-04-16T07:23:18.689Z",
+            "updatedAt": "2021-04-16T22:20:00.019Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "View to a cave entrance."
+        }
+    ],
+    "colorsArray": [
+        "e4cbbf",
+        "938282",
+        "4f4e80",
+        "2c0016"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5ef9eba202e98838af50923e",
+        "type": "palettes",
+        "count": 54,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

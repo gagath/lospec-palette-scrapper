@@ -1,0 +1,73 @@
+{
+    "_id": "5fc13d5b54224e34589f1b9c",
+    "tags": [
+        "sega",
+        "gameboy",
+        "vmu",
+        "ruzikb"
+    ],
+    "colors": [
+        "040470",
+        "2a3aa8",
+        "4692d0",
+        "88fca8"
+    ],
+    "downloads": "103",
+    "featured": false,
+    "likes": 12,
+    "comments": 1,
+    "title": "Sega VMU BOY",
+    "hashtag": "segadcvmu4",
+    "description": "The Sega VMU's palette, in the style of the Game Boy palette!\u00a0\u00a0",
+    "creator": true,
+    "slug": "sega-vmu-boy",
+    "publishedAt": "2021-03-23T00:10:00.030Z",
+    "user": {
+        "name": "RuziKB\u00b2",
+        "slug": "theruzikb-altern"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-11-27T17:54:35.508Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607e7ff568bf7d3600427108",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Sega DC VMU-4 Palette Example by Casei Solus",
+            "slug": "sega-dc-vmu-4-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-21T16:20:00.028Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5fc13d5b54224e34589f1b9c",
+            "image": "palette-examples/sega-dc-vmu-4-palette-example-by-casei-solus-607e7f.png",
+            "creator": true,
+            "description": "A cave cliff.",
+            "createdAt": "2021-04-20T07:17:09.947Z",
+            "updatedAt": "2021-04-21T16:20:00.029Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A cave cliff."
+        }
+    ],
+    "colorsArray": [
+        "040470",
+        "2a3aa8",
+        "4692d0",
+        "88fca8"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5fc13d5b54224e34589f1b9c",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

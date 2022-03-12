@@ -1,0 +1,72 @@
+{
+    "_id": "5fb692d57ad86d4c4b3096b8",
+    "tags": [
+        "earthbound",
+        " gameboy",
+        " spacesandwich"
+    ],
+    "colors": [
+        "f4f2af",
+        "64d0b8",
+        "3b7961",
+        "291f3e"
+    ],
+    "downloads": "675",
+    "featured": false,
+    "likes": 74,
+    "comments": 3,
+    "title": "EB GB Mint Flavour",
+    "hashtag": "ebgbmint",
+    "description": "A GameBoy compatible palette based on EarthBound's mint window flavour.",
+    "creator": true,
+    "slug": "eb-gb-mint-flavour",
+    "publishedAt": "2020-11-20T01:45:00.020Z",
+    "user": {
+        "name": "Space Sandwich",
+        "slug": "spacesandwich"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-11-19T15:44:21.427Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fb692ee7ad86d4c4b3096ba",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/eb-gb-mint-flavour-palette-palette-example-by-space-sandwich-5fb692.png",
+            "creator": true,
+            "description": "",
+            "title": "EB GB Mint Flavour Palette Palette Example by Space Sandwich",
+            "slug": "eb-gb-mint-flavour-palette-palette-example-by-space-sandwich",
+            "publishedAt": "2020-11-19T20:00:00.046Z",
+            "user": {
+                "name": "Space Sandwich",
+                "slug": "spacesandwich"
+            },
+            "parent": "5fb692d57ad86d4c4b3096b8",
+            "createdAt": "2020-11-19T15:44:46.239Z",
+            "updatedAt": "2020-11-19T20:00:00.047Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "f4f2af",
+        "64d0b8",
+        "3b7961",
+        "291f3e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5fb692d57ad86d4c4b3096b8",
+        "type": "palettes",
+        "count": 74,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

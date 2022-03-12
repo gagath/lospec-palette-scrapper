@@ -1,0 +1,71 @@
+{
+    "_id": "60d7ae470c86b01bfd66610c",
+    "tags": [
+        "eclipse89"
+    ],
+    "colors": [
+        "fdffe3",
+        "ffe33b",
+        "ffb1e1",
+        "f9994d",
+        "c38757",
+        "e35353",
+        "ae40ab",
+        "602799",
+        "0c0728",
+        "885013",
+        "398651",
+        "97b954",
+        "8adee1",
+        "349edb",
+        "828282",
+        "bdbdbd"
+    ],
+    "downloads": "64",
+    "featured": false,
+    "likes": 7,
+    "comments": 1,
+    "slug": "colorbit-16",
+    "publishedAt": "2021-07-09T04:55:00.029Z",
+    "user": {
+        "name": "Eclipse89",
+        "slug": "eclipse89"
+    },
+    "title": "Colorbit-16",
+    "hashtag": "colorbit16",
+    "description": "A 16 color, vibrant and light palette useful for minimalistic or cartoon drawings.",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2021-06-26T22:46:31.734Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "fdffe3",
+        "ffe33b",
+        "ffb1e1",
+        "f9994d",
+        "c38757",
+        "e35353",
+        "ae40ab",
+        "602799",
+        "0c0728",
+        "885013",
+        "398651",
+        "97b954",
+        "8adee1",
+        "349edb",
+        "828282",
+        "bdbdbd"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60d7ae470c86b01bfd66610c",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

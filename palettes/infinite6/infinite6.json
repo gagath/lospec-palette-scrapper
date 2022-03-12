@@ -1,0 +1,51 @@
+{
+    "_id": "611ea8fdec46317719766f79",
+    "tags": [
+        "eclipse89"
+    ],
+    "colors": [
+        "f5f5eb",
+        "cacaca",
+        "969696",
+        "696969",
+        "424242",
+        "1f232d"
+    ],
+    "downloads": "165",
+    "featured": false,
+    "likes": 8,
+    "comments": 0,
+    "slug": "infinite-6",
+    "publishedAt": "2021-09-04T00:25:00.042Z",
+    "user": {
+        "name": "Eclipse89",
+        "slug": "eclipse89"
+    },
+    "title": "Infinite-6",
+    "hashtag": "infinite6",
+    "description": "A pseudo-grayscale 6 color palette.",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2021-08-19T18:54:53.147Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "f5f5eb",
+        "cacaca",
+        "969696",
+        "696969",
+        "424242",
+        "1f232d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "611ea8fdec46317719766f79",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

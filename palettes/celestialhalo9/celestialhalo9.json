@@ -1,0 +1,91 @@
+{
+    "_id": "6126d07f84878245c0e85e76",
+    "tags": [
+        "teal",
+        "gold",
+        "statue",
+        "white",
+        "celestial",
+        "halo",
+        "bronze",
+        "metal",
+        "brown",
+        "blue",
+        "green",
+        "white"
+    ],
+    "colors": [
+        "3c2d1c",
+        "685a35",
+        "917f4e",
+        "b9a760",
+        "d1cb94",
+        "71bbac",
+        "abd8aa",
+        "f7f4c6",
+        "fffef0"
+    ],
+    "downloads": "286",
+    "featured": false,
+    "likes": 23,
+    "comments": 0,
+    "slug": "celestialhalo9",
+    "publishedAt": "2021-09-26T07:55:00.044Z",
+    "user": {
+        "name": "Sarahboev",
+        "slug": "sarah-boeving"
+    },
+    "title": "CelestialHalo9",
+    "hashtag": "celestialhalo9",
+    "description": "Based off of colors of neoclassical statues with a bit of brown and teal thrown in.",
+    "creator": true,
+    "numberOfColors": 9,
+    "createdAt": "2021-08-25T23:21:35.295Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6126d08e84878245c0e85e79",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "CelestialHalo9 Palette Example by Sarahboev",
+            "slug": "celestialhalo9-palette-example-by-sarahboev",
+            "publishedAt": "2021-08-26T00:00:00.098Z",
+            "user": {
+                "name": "Sarahboev",
+                "slug": "sarah-boeving"
+            },
+            "parent": "6126d07f84878245c0e85e76",
+            "image": "palette-examples/celestialhalo9-palette-example-by-sarahboev-6126d0.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-08-25T23:21:50.749Z",
+            "updatedAt": "2021-08-26T00:00:00.100Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "3c2d1c",
+        "685a35",
+        "917f4e",
+        "b9a760",
+        "d1cb94",
+        "71bbac",
+        "abd8aa",
+        "f7f4c6",
+        "fffef0"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "6126d07f84878245c0e85e76",
+        "type": "palettes",
+        "count": 23,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

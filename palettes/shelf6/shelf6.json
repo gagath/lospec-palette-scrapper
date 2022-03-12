@@ -1,0 +1,53 @@
+{
+    "_id": "61c6753c2b113626a87f0101",
+    "tags": [
+        "blue",
+        "purple",
+        "aa"
+    ],
+    "colors": [
+        "2a2540",
+        "372c51",
+        "423458",
+        "464a73",
+        "546799",
+        "5a80a7"
+    ],
+    "downloads": "193",
+    "featured": false,
+    "likes": 13,
+    "comments": 0,
+    "slug": "shelf6",
+    "publishedAt": "2022-01-26T21:20:00.175Z",
+    "user": {
+        "name": "Glowberry",
+        "slug": "glowberry"
+    },
+    "title": "Shelf6",
+    "hashtag": "shelf6",
+    "description": "Cool blues and purples with near perfect contrast allow for many uses. Enjoy!",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2021-12-25T01:34:52.325Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "2a2540",
+        "372c51",
+        "423458",
+        "464a73",
+        "546799",
+        "5a80a7"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "61c6753c2b113626a87f0101",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

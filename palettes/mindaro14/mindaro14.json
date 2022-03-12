@@ -1,0 +1,67 @@
+{
+    "_id": "61cf5f047034ba3c46fd00ec",
+    "tags": [
+        "maine"
+    ],
+    "colors": [
+        "0b0915",
+        "540e16",
+        "3d4917",
+        "9d0e0c",
+        "d21b40",
+        "b16424",
+        "f4640e",
+        "4dab64",
+        "f66d67",
+        "f1a84e",
+        "82c6d4",
+        "f3c9ab",
+        "dbf389",
+        "f3f3f3"
+    ],
+    "downloads": "83",
+    "featured": false,
+    "likes": 5,
+    "comments": 2,
+    "slug": "mindaro14",
+    "publishedAt": "2022-01-02T06:10:00.033Z",
+    "user": {
+        "name": "maine",
+        "slug": "maine"
+    },
+    "title": "mindaro14",
+    "hashtag": "mindaro14",
+    "description": "tried getting out of my comfort zone with this one, with mixed results",
+    "creator": true,
+    "numberOfColors": 14,
+    "createdAt": "2021-12-31T19:50:28.559Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "0b0915",
+        "540e16",
+        "3d4917",
+        "9d0e0c",
+        "d21b40",
+        "b16424",
+        "f4640e",
+        "4dab64",
+        "f66d67",
+        "f1a84e",
+        "82c6d4",
+        "f3c9ab",
+        "dbf389",
+        "f3f3f3"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "61cf5f047034ba3c46fd00ec",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

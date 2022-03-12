@@ -1,0 +1,93 @@
+{
+    "_id": "60456fadcc5fcf3a5fc9d52d",
+    "tags": [
+        "colorblind",
+        "cvd",
+        "safe",
+        "friendly"
+    ],
+    "colors": [
+        "000000",
+        "b548c9",
+        "ffffff"
+    ],
+    "downloads": "80",
+    "featured": false,
+    "likes": 7,
+    "comments": 0,
+    "title": "CVD3",
+    "hashtag": "cvd3",
+    "description": "Color vision deficiency (color blindness) friendly palette with 3 colors. Result of computation. More info in the comments.",
+    "creator": true,
+    "slug": "cvd3",
+    "publishedAt": "2021-03-29T11:30:00.057Z",
+    "user": {
+        "name": "\u00c1d\u00e1m Szieberth",
+        "slug": "adam-szieberth"
+    },
+    "numberOfColors": 3,
+    "createdAt": "2021-03-08T00:28:29.319Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607668a504e19427839731ff",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "CVD3 Palette Example by Casei Solus",
+            "slug": "cvd3-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-17T00:35:00.015Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "60456fadcc5fcf3a5fc9d52d",
+            "image": "palette-examples/cvd3-palette-example-by-casei-solus-607668.png",
+            "creator": true,
+            "description": "A stealth bomber.",
+            "createdAt": "2021-04-14T03:59:33.871Z",
+            "updatedAt": "2021-04-17T00:35:00.015Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A stealth bomber."
+        },
+        {
+            "_id": "614fab768d4418318c351a17",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "CVD3 Palette Example by nkoder",
+            "slug": "cvd3-palette-example-by-nkoder",
+            "publishedAt": "2021-09-27T20:20:00.029Z",
+            "user": {
+                "name": "Beetroot Paul",
+                "slug": "beetrootpaul"
+            },
+            "parent": "60456fadcc5fcf3a5fc9d52d",
+            "image": "palette-examples/cvd3-palette-example-by-nkoder-614fab.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-09-25T23:06:30.733Z",
+            "updatedAt": "2021-09-27T20:20:00.029Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "b548c9",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 33.333333333333336,
+    "height": 32,
+    "likebutton": {
+        "content": "60456fadcc5fcf3a5fc9d52d",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

@@ -1,0 +1,87 @@
+{
+    "_id": "606adbf08bd39865e8da6ce2",
+    "tags": [
+        "warm",
+        "cold",
+        "contrast",
+        "purple",
+        "orange",
+        "red"
+    ],
+    "colors": [
+        "151244",
+        "60117f",
+        "922a95",
+        "be7dbc",
+        "350828",
+        "7f6962",
+        "f9cb60",
+        "f9960f",
+        "bc2f01",
+        "680703"
+    ],
+    "downloads": "280",
+    "featured": false,
+    "likes": 24,
+    "comments": 1,
+    "slug": "lost-in-the-desert",
+    "publishedAt": "2021-04-10T05:30:00.038Z",
+    "user": {
+        "name": "insert name here",
+        "slug": "insert-name-here"
+    },
+    "title": "lost in the desert",
+    "hashtag": "lostinthedesert",
+    "description": "A fanmade \"Welcome to Nightvale\" and \"Welcome to Desert Bluffs\" inspired color palette. Both tones (as in purple and orange-y) work well together as well as on their own.",
+    "creator": true,
+    "createdAt": "2021-04-05T09:44:16.785Z",
+    "numberOfColors": 10,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "606b04278bd39865e8da6e5b",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "lost in the desert Palette Example by insert name here",
+            "slug": "lost-in-the-desert-palette-example-by-insert-name-here",
+            "publishedAt": "2021-04-06T19:15:00.020Z",
+            "user": {
+                "name": "insert name here",
+                "slug": "insert-name-here"
+            },
+            "parent": "606adbf08bd39865e8da6ce2",
+            "image": "palette-examples/lost-in-the-desert-palette-example-by-insert-name-here-606b04.png",
+            "creator": true,
+            "description": "the left two images are traced from the cover of the actual podcast (Welcome to Nightvale), drawn by Rob Wilson. I drew the right image myself.",
+            "createdAt": "2021-04-05T12:35:51.148Z",
+            "updatedAt": "2021-04-06T19:15:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "the left two images are traced from the cover of the actual podcast (Welcome to Nightvale), drawn by Rob Wilson. I drew the right image myself."
+        }
+    ],
+    "colorsArray": [
+        "151244",
+        "60117f",
+        "922a95",
+        "be7dbc",
+        "350828",
+        "7f6962",
+        "f9cb60",
+        "f9960f",
+        "bc2f01",
+        "680703"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "606adbf08bd39865e8da6ce2",
+        "type": "palettes",
+        "count": 24,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

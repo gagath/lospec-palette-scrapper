@@ -1,0 +1,74 @@
+{
+    "_id": "61d00592732190385cbf12da",
+    "tags": [],
+    "colors": [
+        "e6faff",
+        "95c4e5",
+        "7ea8e6",
+        "6e636f",
+        "664033",
+        "4d2d22",
+        "331c14"
+    ],
+    "downloads": "225",
+    "featured": false,
+    "likes": 22,
+    "comments": 1,
+    "slug": "iced-coffee",
+    "publishedAt": "2022-01-01T18:10:00.068Z",
+    "user": {
+        "name": "Alpha Leggy",
+        "slug": "alpha-leggy"
+    },
+    "title": "Iced Coffee",
+    "hashtag": "icedcoffee",
+    "description": "It's inspired by https://lospec.com/palette-list/ice-cream-spice",
+    "creator": true,
+    "numberOfColors": 7,
+    "createdAt": "2022-01-01T07:41:06.449Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61d016c260556d4d22a3baed",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Iced Coffee Palette Example by Alpha Leggy",
+            "slug": "iced-coffee-palette-example-by-alpha-leggyfpcp3e",
+            "publishedAt": "2022-01-01T18:10:00.032Z",
+            "user": {
+                "name": "Alpha Leggy",
+                "slug": "alpha-leggy"
+            },
+            "parent": "61d00592732190385cbf12da",
+            "image": "palette-examples/iced-coffee-palette-example-by-alpha-leggyfpcp3e.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-01-01T08:54:26.733Z",
+            "updatedAt": "2022-01-01T18:10:00.033Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "e6faff",
+        "95c4e5",
+        "7ea8e6",
+        "6e636f",
+        "664033",
+        "4d2d22",
+        "331c14"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "61d00592732190385cbf12da",
+        "type": "palettes",
+        "count": 22,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

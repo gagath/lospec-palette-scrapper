@@ -1,0 +1,62 @@
+{
+    "_id": "5fb4152b6db9dc0870b80f9d",
+    "tags": [
+        "downgraded",
+        " copper",
+        " bright",
+        " soft"
+    ],
+    "colors": [
+        "ffffff",
+        "fafaa0",
+        "f0d384",
+        "e0a070",
+        "b0786d",
+        "6d6d6d",
+        "375b5e",
+        "253b4b",
+        "171c2e",
+        "000000"
+    ],
+    "downloads": "261",
+    "featured": false,
+    "likes": 19,
+    "comments": 3,
+    "title": "bare copper",
+    "hashtag": "barecopper",
+    "description": "trying out different stuffs with a pure gray in the middle.",
+    "creator": true,
+    "slug": "bare-copper",
+    "publishedAt": "2020-11-17T19:10:00.033Z",
+    "user": {
+        "name": "daniel",
+        "slug": "downgraded"
+    },
+    "numberOfColors": 10,
+    "createdAt": "2020-11-17T18:23:39.852Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffffff",
+        "fafaa0",
+        "f0d384",
+        "e0a070",
+        "b0786d",
+        "6d6d6d",
+        "375b5e",
+        "253b4b",
+        "171c2e",
+        "000000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5fb4152b6db9dc0870b80f9d",
+        "type": "palettes",
+        "count": 19,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

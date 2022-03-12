@@ -1,0 +1,72 @@
+{
+    "_id": "5fe6496528739278720cc3fc",
+    "tags": [
+        "andrewkesler",
+        "polyphorge"
+    ],
+    "colors": [
+        "220826",
+        "ffffff",
+        "f8a04b",
+        "6d362b",
+        "e13728",
+        "f4ec64",
+        "5f9633",
+        "14473c",
+        "27b05b",
+        "6fe1c0",
+        "199ace",
+        "4a32ae",
+        "8a898e",
+        "ffa1a8",
+        "e14aa0",
+        "4d1a65"
+    ],
+    "downloads": "84",
+    "featured": false,
+    "likes": 7,
+    "comments": 0,
+    "title": "ANDREW KENSLER 16 (STYLIZED)",
+    "hashtag": "ak16s",
+    "description": "",
+    "creator": false,
+    "slug": "andrew-kensler-16-stylized",
+    "publishedAt": "2020-12-29T18:50:00.016Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-12-25T20:19:49.020Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "220826",
+        "ffffff",
+        "f8a04b",
+        "6d362b",
+        "e13728",
+        "f4ec64",
+        "5f9633",
+        "14473c",
+        "27b05b",
+        "6fe1c0",
+        "199ace",
+        "4a32ae",
+        "8a898e",
+        "ffa1a8",
+        "e14aa0",
+        "4d1a65"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fe6496528739278720cc3fc",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

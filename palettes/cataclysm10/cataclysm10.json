@@ -1,0 +1,60 @@
+{
+    "_id": "5da68bdafcb9d744260a628d",
+    "slug": "cataclysm-10",
+    "description": "A little 10 color palette I whipped up for one of my projects. I thought it looked nice enough to post here",
+    "colors": [
+        "f1a37c",
+        "e64a43",
+        "bd1a2a",
+        "760a32",
+        "340a2a",
+        "170e22",
+        "2c242b",
+        "684954",
+        "b1817d",
+        "d5baa2"
+    ],
+    "creator": true,
+    "comments": 1,
+    "likes": 15,
+    "createdAt": "2019-10-16T03:17:46.489Z",
+    "featured": false,
+    "tags": [
+        "artist",
+        "starlane"
+    ],
+    "downloads": "390",
+    "numberOfColors": 10,
+    "hashtag": "cataclysm10",
+    "title": "Cataclysm 10",
+    "user": {
+        "name": "Star",
+        "slug": "starlane"
+    },
+    "publishedAt": "2019-10-16T03:17:46.489Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "f1a37c",
+        "e64a43",
+        "bd1a2a",
+        "760a32",
+        "340a2a",
+        "170e22",
+        "2c242b",
+        "684954",
+        "b1817d",
+        "d5baa2"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5da68bdafcb9d744260a628d",
+        "type": "palettes",
+        "count": 15,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

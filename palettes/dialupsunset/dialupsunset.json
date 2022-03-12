@@ -1,0 +1,58 @@
+{
+    "_id": "603bd4819360d63a96b4e36e",
+    "tags": [
+        "retro",
+        "retrowave",
+        "synthwave",
+        "vapourwave"
+    ],
+    "colors": [
+        "ffd7d7",
+        "f0a6a6",
+        "ff708b",
+        "cd5981",
+        "824882",
+        "b26e9b",
+        "dd94d2",
+        "ebcbeb"
+    ],
+    "downloads": "419",
+    "featured": false,
+    "likes": 40,
+    "comments": 2,
+    "title": "Dialup Sunset",
+    "hashtag": "dialupsunset",
+    "description": "Colours reminiscent of a simpler time.",
+    "creator": true,
+    "slug": "dialup-sunset",
+    "publishedAt": "2021-03-05T03:40:00.018Z",
+    "user": {
+        "name": "Lavenfurr",
+        "slug": "lavendertgreat"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2021-02-28T17:36:01.893Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffd7d7",
+        "f0a6a6",
+        "ff708b",
+        "cd5981",
+        "824882",
+        "b26e9b",
+        "dd94d2",
+        "ebcbeb"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "603bd4819360d63a96b4e36e",
+        "type": "palettes",
+        "count": 40,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

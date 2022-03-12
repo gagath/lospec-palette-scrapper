@@ -1,0 +1,77 @@
+{
+    "_id": "6137d2df8a34694e3a398898",
+    "tags": [
+        "pastel",
+        "soft",
+        "light",
+        "coral",
+        "gb",
+        "gameboy",
+        "red",
+        "blue"
+    ],
+    "colors": [
+        "ffd0a4",
+        "f4949c",
+        "7c9aac",
+        "68518a"
+    ],
+    "downloads": "391",
+    "featured": false,
+    "likes": 32,
+    "comments": 1,
+    "slug": "coral-4",
+    "publishedAt": "2021-10-06T08:45:00.044Z",
+    "user": {
+        "name": "Yousurname",
+        "slug": "yousurname"
+    },
+    "title": "Coral 4",
+    "hashtag": "coral4",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-09-07T21:00:15.739Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6137d3178a34694e3a39889b",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Coral 4 Palette Example by Yousurname",
+            "slug": "coral-4-palette-example-by-yousurname",
+            "publishedAt": "2021-09-07T21:05:00.025Z",
+            "user": {
+                "name": "Yousurname",
+                "slug": "yousurname"
+            },
+            "parent": "6137d2df8a34694e3a398898",
+            "image": "palette-examples/coral-4-palette-example-by-yousurname-6137d3.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-09-07T21:01:11.240Z",
+            "updatedAt": "2021-09-07T21:05:00.025Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "ffd0a4",
+        "f4949c",
+        "7c9aac",
+        "68518a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6137d2df8a34694e3a398898",
+        "type": "palettes",
+        "count": 32,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

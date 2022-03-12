@@ -1,0 +1,97 @@
+{
+    "_id": "5fed9b5af012f54894e8fd5a",
+    "tags": [
+        "basic",
+        "14color",
+        "red",
+        "orange",
+        "yellow",
+        "green",
+        "blue",
+        "purple"
+    ],
+    "colors": [
+        "ef1101",
+        "5c0300",
+        "fd9206",
+        "a45d00",
+        "fef636",
+        "8f8a00",
+        "0efd0e",
+        "009a00",
+        "010afb",
+        "0006a4",
+        "ba20fd",
+        "7600a8",
+        "080f0f",
+        "faffff"
+    ],
+    "downloads": "206",
+    "featured": false,
+    "likes": 11,
+    "comments": 1,
+    "title": "Basic 14 Color Palette",
+    "hashtag": "floatingtablebasic",
+    "description": "A basic palette",
+    "creator": true,
+    "slug": "basic-14-color-palette",
+    "publishedAt": "2021-01-02T00:25:00.035Z",
+    "user": {
+        "name": "Floatingtable Studios",
+        "slug": "floatingtable-studios"
+    },
+    "numberOfColors": 14,
+    "createdAt": "2020-12-31T09:35:22.532Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fed9b78f012f54894e8fd5f",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/basic-14-color-palette-palette-example-by-floatingtable-studios-2-5fed9b.png",
+            "creator": true,
+            "description": "",
+            "title": "Basic 14 Color Palette Palette Example by Floatingtable Studios",
+            "slug": "basic-14-color-palette-palette-example-by-floatingtable-studios-2",
+            "publishedAt": "2021-01-02T00:35:00.014Z",
+            "user": {
+                "name": "Floatingtable Studios",
+                "slug": "floatingtable-studios"
+            },
+            "parent": "5fed9b5af012f54894e8fd5a",
+            "createdAt": "2020-12-31T09:35:52.715Z",
+            "updatedAt": "2021-01-02T00:35:00.015Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "ef1101",
+        "5c0300",
+        "fd9206",
+        "a45d00",
+        "fef636",
+        "8f8a00",
+        "0efd0e",
+        "009a00",
+        "010afb",
+        "0006a4",
+        "ba20fd",
+        "7600a8",
+        "080f0f",
+        "faffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5fed9b5af012f54894e8fd5a",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

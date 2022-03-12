@@ -1,0 +1,79 @@
+{
+    "_id": "60e2db178a8e1506493fbff6",
+    "tags": [
+        "color",
+        "polyphrog"
+    ],
+    "colors": [
+        "553e5b",
+        "928f8e",
+        "f8f8d1",
+        "6d8c4a",
+        "4a443c",
+        "342121",
+        "7b4136",
+        "c59846"
+    ],
+    "downloads": "108",
+    "featured": false,
+    "likes": 10,
+    "comments": 0,
+    "slug": "pigment",
+    "publishedAt": "2021-07-07T04:55:00.022Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "pigment \ud83c\udfa8",
+    "hashtag": "pigment",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-07-05T10:12:39.204Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "620f07c6a82557275b97b94e",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "pigment \ud83c\udfa8 Palette Example by Isa",
+            "slug": "pigment-palette-example-by-isau2xkxj",
+            "publishedAt": "2022-02-18T12:20:00.040Z",
+            "user": {
+                "name": "Isa",
+                "slug": "isas-studio"
+            },
+            "parent": "60e2db178a8e1506493fbff6",
+            "image": "palette-examples/pigment-palette-example-by-isau2xkxj.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-02-18T02:43:18.045Z",
+            "updatedAt": "2022-02-18T12:20:00.040Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "553e5b",
+        "928f8e",
+        "f8f8d1",
+        "6d8c4a",
+        "4a443c",
+        "342121",
+        "7b4136",
+        "c59846"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60e2db178a8e1506493fbff6",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

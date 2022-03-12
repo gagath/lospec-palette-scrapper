@@ -1,0 +1,51 @@
+{
+    "_id": "61252d63e8380b125f3e5dc9",
+    "tags": [
+        "blue",
+        "dark",
+        "creepy",
+        "4color",
+        "mist"
+    ],
+    "colors": [
+        "0b1a28",
+        "164550",
+        "348780",
+        "c2f0ea"
+    ],
+    "downloads": "216",
+    "featured": false,
+    "likes": 19,
+    "comments": 1,
+    "slug": "dark-night",
+    "publishedAt": "2021-09-20T13:55:00.717Z",
+    "user": {
+        "name": "helperman",
+        "slug": "helperman"
+    },
+    "title": "dark night",
+    "hashtag": "darckniht",
+    "description": "This is palette I created. It gives a dark sorta creepy look to the picture",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-08-24T17:33:23.336Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "0b1a28",
+        "164550",
+        "348780",
+        "c2f0ea"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61252d63e8380b125f3e5dc9",
+        "type": "palettes",
+        "count": 19,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

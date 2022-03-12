@@ -1,0 +1,54 @@
+{
+    "_id": "5febd44d6e79ec1e9e6325b0",
+    "tags": [
+        "colorblind",
+        "cvd",
+        "safe",
+        "friendly"
+    ],
+    "colors": [
+        "000000",
+        "5214dc",
+        "a4541b",
+        "25adde",
+        "f4b44a",
+        "ffffff"
+    ],
+    "downloads": "63",
+    "featured": false,
+    "likes": 12,
+    "comments": 3,
+    "title": "CVD6",
+    "hashtag": "cvd6",
+    "description": "Color vision deficiency (color blindness) friendly palette with 6 colors. Result of computation. More info in the comments.",
+    "creator": true,
+    "slug": "cvd6",
+    "publishedAt": "2021-01-02T12:25:00.021Z",
+    "user": {
+        "name": "\u00c1d\u00e1m Szieberth",
+        "slug": "adam-szieberth"
+    },
+    "numberOfColors": 6,
+    "createdAt": "2020-12-30T01:13:49.720Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "5214dc",
+        "a4541b",
+        "25adde",
+        "f4b44a",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5febd44d6e79ec1e9e6325b0",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

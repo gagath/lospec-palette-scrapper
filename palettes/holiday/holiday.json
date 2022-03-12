@@ -1,0 +1,49 @@
+{
+    "_id": "616cfa9cb44a05165c58b06a",
+    "tags": [],
+    "colors": [
+        "000000",
+        "5b1009",
+        "bf2211",
+        "fa4310",
+        "fe9c12",
+        "f9c20d"
+    ],
+    "downloads": "109",
+    "featured": false,
+    "likes": 5,
+    "comments": 0,
+    "slug": "halloween",
+    "publishedAt": "2021-10-19T13:45:00.034Z",
+    "user": {
+        "name": "Vectorial Transcooler",
+        "slug": "stimu-contro-herbs"
+    },
+    "title": "Halloween ",
+    "hashtag": "holiday",
+    "description": "Spooky theme for the occasion.",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2021-10-18T04:39:56.008Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "5b1009",
+        "bf2211",
+        "fa4310",
+        "fe9c12",
+        "f9c20d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "616cfa9cb44a05165c58b06a",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

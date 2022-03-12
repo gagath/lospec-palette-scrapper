@@ -1,0 +1,86 @@
+{
+    "_id": "61d2568d589df22bfd304bf9",
+    "tags": [
+        "ponder",
+        "orb",
+        "meme"
+    ],
+    "colors": [
+        "342020",
+        "6d505e",
+        "985a78",
+        "847db5",
+        "69b1d6",
+        "94c6e1",
+        "d1f7ff",
+        "ffffff",
+        "83dbfd",
+        "2aa5c1",
+        "1b6071"
+    ],
+    "downloads": "336",
+    "featured": false,
+    "likes": 27,
+    "comments": 3,
+    "slug": "ponder",
+    "publishedAt": "2022-01-04T10:40:00.042Z",
+    "user": {
+        "name": "Virus610",
+        "slug": "virus610"
+    },
+    "title": "Ponder",
+    "hashtag": "ponder",
+    "description": "Ponder your orb with this palette",
+    "creator": true,
+    "numberOfColors": 11,
+    "createdAt": "2022-01-03T01:51:09.478Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61d2578a589df22bfd304c03",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Ponder Palette Example by Virus610",
+            "slug": "ponder-palette-example-by-virus610fal3ki",
+            "publishedAt": "2022-01-04T15:00:00.056Z",
+            "user": {
+                "name": "Virus610",
+                "slug": "virus610"
+            },
+            "parent": "61d2568d589df22bfd304bf9",
+            "image": "palette-examples/ponder-palette-example-by-virus610fal3ki.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-01-03T01:55:22.824Z",
+            "updatedAt": "2022-01-04T15:00:00.056Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "342020",
+        "6d505e",
+        "985a78",
+        "847db5",
+        "69b1d6",
+        "94c6e1",
+        "d1f7ff",
+        "ffffff",
+        "83dbfd",
+        "2aa5c1",
+        "1b6071"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "61d2568d589df22bfd304bf9",
+        "type": "palettes",
+        "count": 27,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

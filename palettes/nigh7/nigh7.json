@@ -1,0 +1,61 @@
+{
+    "_id": "5eb18f5b57eca1271d1e3e63",
+    "tags": [
+        "night",
+        " nigh7",
+        " drak",
+        " ocean",
+        " sea",
+        " blue",
+        " purple",
+        " dim",
+        " creepy"
+    ],
+    "colors": [
+        "000000",
+        "1a1316",
+        "261b23",
+        "2e263d",
+        "2b3757",
+        "37567a",
+        "6b95ad"
+    ],
+    "downloads": "608",
+    "featured": false,
+    "likes": 16,
+    "comments": 3,
+    "title": "Nigh7",
+    "hashtag": "nigh7",
+    "description": "a dark mysteriouse pallet, like a beam of light cutting through the ocean...",
+    "creator": true,
+    "slug": "nigh7",
+    "publishedAt": "2020-05-11T16:10:00.019Z",
+    "user": {
+        "name": "Alpha6",
+        "slug": "max-mandrych"
+    },
+    "numberOfColors": 7,
+    "createdAt": "2020-05-05T16:07:55.813Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "1a1316",
+        "261b23",
+        "2e263d",
+        "2b3757",
+        "37567a",
+        "6b95ad"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5eb18f5b57eca1271d1e3e63",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

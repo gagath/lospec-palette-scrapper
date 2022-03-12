@@ -1,0 +1,53 @@
+{
+    "_id": "61d121e1458d9a23401f44bc",
+    "tags": [
+        "purple",
+        "pink",
+        "blue",
+        "sky",
+        "stars"
+    ],
+    "colors": [
+        "c1c0e0",
+        "8d82a4",
+        "6d587b",
+        "434660",
+        "272b37"
+    ],
+    "downloads": "268",
+    "featured": false,
+    "likes": 18,
+    "comments": 0,
+    "slug": "purpleskygb",
+    "publishedAt": "2022-01-03T08:55:00.047Z",
+    "user": {
+        "name": "Super Timmy Drip",
+        "slug": "super-timmy-drip"
+    },
+    "title": "PurpleSkyGB",
+    "hashtag": "purpleskygb",
+    "description": "It is a color palette inspired by the sky, but subtly purple\u00a0\u00a0\u00a0",
+    "creator": true,
+    "numberOfColors": 5,
+    "createdAt": "2022-01-02T03:54:09.878Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "c1c0e0",
+        "8d82a4",
+        "6d587b",
+        "434660",
+        "272b37"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "61d121e1458d9a23401f44bc",
+        "type": "palettes",
+        "count": 18,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

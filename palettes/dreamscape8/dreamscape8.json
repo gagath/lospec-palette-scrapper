@@ -1,0 +1,82 @@
+{
+    "_id": "5ee00a2f7931e73727165d50",
+    "tags": [
+        "dream",
+        " dreamscape",
+        " kerrielake",
+        " artist",
+        " low saturation",
+        " mystic",
+        " mystical",
+        " 8",
+        " "
+    ],
+    "colors": [
+        "c9cca1",
+        "caa05a",
+        "ae6a47",
+        "8b4049",
+        "543344",
+        "515262",
+        "63787d",
+        "8ea091"
+    ],
+    "downloads": "6,740",
+    "featured": false,
+    "likes": 437,
+    "comments": 10,
+    "title": "Dreamscape8",
+    "hashtag": "dreamscape8",
+    "description": "A palette made of low saturation colours to give your art a dreamlike quality.\u00a0",
+    "creator": true,
+    "slug": "dreamscape8",
+    "publishedAt": "2020-06-11T00:45:00.008Z",
+    "user": {
+        "name": "Kerrie Lake",
+        "slug": "kerrielake"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2020-06-09T22:16:15.535Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5ee179a52083bb7b8b8f761d",
+            "description": "Palette usage example by Kerrie Lake",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.223Z",
+            "creator": false,
+            "image": "palette-examples/dreamscape8-palette-example-palette-usage-example-by-kerrie-lake-5ee179.png",
+            "likes": 0,
+            "parent": "5ee00a2f7931e73727165d50",
+            "slug": "dreamscape8-palette-example-palette-usage-example-by-kerrie-lake",
+            "title": "dreamscape8 palette example palette usage example by kerrie lake",
+            "updatedAt": "2020-07-31T03:56:11.223Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Kerrie Lake"
+        }
+    ],
+    "colorsArray": [
+        "c9cca1",
+        "caa05a",
+        "ae6a47",
+        "8b4049",
+        "543344",
+        "515262",
+        "63787d",
+        "8ea091"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5ee00a2f7931e73727165d50",
+        "type": "palettes",
+        "count": 437,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

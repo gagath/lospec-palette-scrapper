@@ -1,0 +1,92 @@
+{
+    "_id": "61511e9d2cf7665f424abebd",
+    "tags": [],
+    "colors": [
+        "1e151e",
+        "4d4c47",
+        "7c7973",
+        "b8b4a9",
+        "4b356f",
+        "746eb1",
+        "af7fa3",
+        "73b5de",
+        "5b2a35",
+        "b14a5e",
+        "b15c47",
+        "dcde73",
+        "356f54",
+        "76b15a",
+        "debe98",
+        "dedacb"
+    ],
+    "downloads": "273",
+    "featured": false,
+    "likes": 17,
+    "comments": 0,
+    "slug": "snowl16",
+    "publishedAt": "2021-10-12T07:45:00.038Z",
+    "user": {
+        "name": "Snowy Owl",
+        "slug": "snowy-owl"
+    },
+    "title": "snowl16",
+    "hashtag": "snowl16",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2021-09-27T01:30:05.479Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61511ee82cf7665f424abec5",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "snowl16 Palette Example by Snowy Owl",
+            "slug": "snowl16-palette-example-by-snowy-owl",
+            "publishedAt": "2021-09-27T20:35:00.017Z",
+            "user": {
+                "name": "Snowy Owl",
+                "slug": "snowy-owl"
+            },
+            "parent": "61511e9d2cf7665f424abebd",
+            "image": "palette-examples/snowl16-palette-example-by-snowy-owl-61511e.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-09-27T01:31:20.324Z",
+            "updatedAt": "2021-09-27T20:35:00.017Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "1e151e",
+        "4d4c47",
+        "7c7973",
+        "b8b4a9",
+        "4b356f",
+        "746eb1",
+        "af7fa3",
+        "73b5de",
+        "5b2a35",
+        "b14a5e",
+        "b15c47",
+        "dcde73",
+        "356f54",
+        "76b15a",
+        "debe98",
+        "dedacb"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61511e9d2cf7665f424abebd",
+        "type": "palettes",
+        "count": 17,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

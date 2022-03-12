@@ -1,0 +1,50 @@
+{
+    "_id": "5fabea89bcd3a82d06995257",
+    "tags": [
+        "hardware",
+        "nintendo",
+        "virtualboy",
+        "gameboy"
+    ],
+    "colors": [
+        "ef0000",
+        "a40000",
+        "550000",
+        "000000"
+    ],
+    "downloads": "400",
+    "featured": false,
+    "likes": 17,
+    "comments": 2,
+    "title": "Virtual Boy",
+    "hashtag": "virtualboy",
+    "description": "The 4-color palette from Nintendo's 32-bit Virtual Boy.",
+    "creator": false,
+    "slug": "virtual-boy",
+    "publishedAt": "2020-11-13T19:30:00.041Z",
+    "user": {
+        "name": "The Pixel Man",
+        "slug": "thepixelman"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-11-11T13:43:37.861Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ef0000",
+        "a40000",
+        "550000",
+        "000000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5fabea89bcd3a82d06995257",
+        "type": "palettes",
+        "count": 17,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

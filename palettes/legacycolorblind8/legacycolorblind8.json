@@ -1,0 +1,76 @@
+{
+    "_id": "5fc84e9b8ea22d4608c84956",
+    "tags": [],
+    "colors": [
+        "000000",
+        "900030",
+        "0030a3",
+        "05a300",
+        "d300ce",
+        "4abeff",
+        "ffd217",
+        "ffffff"
+    ],
+    "downloads": "52",
+    "featured": false,
+    "likes": 12,
+    "comments": 3,
+    "title": "LEGACY COLORBLIND 8",
+    "hashtag": "legacycolorblind8",
+    "description": "I recommend you to not use this palette anymore. Please use the CVD8 palette (<a href=\"https://lospec.com/palette-list/cvd8\" target=\"_blank\">https://lospec.com/palette-list/cvd8</a>) instead for maximizing the difference for all types of color vision.",
+    "creator": true,
+    "slug": "legacy-colorblind-8",
+    "publishedAt": "2020-12-03T19:45:00.042Z",
+    "user": {
+        "name": "\u00c1d\u00e1m Szieberth",
+        "slug": "adam-szieberth"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2020-12-03T02:34:03.860Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fc85636e735e16b0b990dc7",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/szacb-8-palette-example-by-adam-szieberth-5fc856.png",
+            "creator": false,
+            "description": "(CC BY-SA) 2004 Peterson Freitas",
+            "title": "LEGACY COLORBLIND 8 Palette Example",
+            "slug": "szacb-8-palette-example-by-adam-szieberth",
+            "publishedAt": "2020-12-03T19:45:00.009Z",
+            "user": {
+                "name": "\u00c1d\u00e1m Szieberth",
+                "slug": "adam-szieberth"
+            },
+            "parent": "5fc84e9b8ea22d4608c84956",
+            "createdAt": "2020-12-03T03:06:30.532Z",
+            "updatedAt": "2021-04-17T08:18:13.296Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "(CC BY-SA) 2004 Peterson Freitas"
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "900030",
+        "0030a3",
+        "05a300",
+        "d300ce",
+        "4abeff",
+        "ffd217",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fc84e9b8ea22d4608c84956",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

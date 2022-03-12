@@ -1,0 +1,71 @@
+{
+    "_id": "601775c53e97de30c22b6569",
+    "tags": [
+        "cold",
+        " ice"
+    ],
+    "colors": [
+        "300068",
+        "0055af",
+        "00e5e5",
+        "d6ffff"
+    ],
+    "downloads": "177",
+    "featured": false,
+    "likes": 15,
+    "comments": 0,
+    "title": "Glacial",
+    "hashtag": "glacialpalette",
+    "description": "After making WarmLight, I decided to go the opposite way.",
+    "creator": true,
+    "slug": "glacial",
+    "publishedAt": "2021-02-06T19:50:00.029Z",
+    "user": {
+        "name": "_sedona",
+        "slug": "sedona76"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-02-01T03:30:13.866Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6017768c3e97de30c22b6574",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/glacial-palette-example-by-sedona-601776.png",
+            "creator": true,
+            "description": "lonely rocky outcrop in the middle of the ocean, or something.",
+            "title": "Glacial Palette Example by _sedona",
+            "slug": "glacial-palette-example-by-sedona",
+            "publishedAt": "2021-02-06T02:05:00.010Z",
+            "user": {
+                "name": "_sedona",
+                "slug": "sedona76"
+            },
+            "parent": "601775c53e97de30c22b6569",
+            "createdAt": "2021-02-01T03:33:32.206Z",
+            "updatedAt": "2021-02-06T02:05:00.010Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "lonely rocky outcrop in the middle of the ocean, or something."
+        }
+    ],
+    "colorsArray": [
+        "300068",
+        "0055af",
+        "00e5e5",
+        "d6ffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "601775c53e97de30c22b6569",
+        "type": "palettes",
+        "count": 15,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

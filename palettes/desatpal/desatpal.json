@@ -1,0 +1,74 @@
+{
+    "_id": "61081976634cfe324e27a5d6",
+    "tags": [
+        "polyphrog",
+        "decaf",
+        "coffee",
+        "brown",
+        "gb"
+    ],
+    "colors": [
+        "291a1f",
+        "675650",
+        "bea87d",
+        "f0e0cf"
+    ],
+    "downloads": "450",
+    "featured": false,
+    "likes": 36,
+    "comments": 0,
+    "slug": "desat",
+    "publishedAt": "2021-08-02T18:55:00.037Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "desat",
+    "hashtag": "desatpal",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-08-02T16:12:38.713Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6108197f634cfe324e27a5fd",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "desat Palette Example by polyphorge",
+            "slug": "desat-palette-example-by-polyphorge",
+            "publishedAt": "2021-08-02T16:20:00.015Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "61081976634cfe324e27a5d6",
+            "image": "palette-examples/desat-palette-example-by-polyphorge-610819.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-08-02T16:12:47.129Z",
+            "updatedAt": "2021-08-02T16:20:00.016Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "291a1f",
+        "675650",
+        "bea87d",
+        "f0e0cf"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61081976634cfe324e27a5d6",
+        "type": "palettes",
+        "count": 36,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

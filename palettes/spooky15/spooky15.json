@@ -1,0 +1,72 @@
+{
+    "_id": "61553b537ecf5234bcff94e6",
+    "tags": [
+        "spooky",
+        "halloween",
+        "saturated",
+        "15"
+    ],
+    "colors": [
+        "26112b",
+        "363042",
+        "575f69",
+        "8f8880",
+        "a1ad9b",
+        "ffe57f",
+        "e8901c",
+        "d6550b",
+        "a32d53",
+        "572d54",
+        "913bad",
+        "bf29ff",
+        "46d61a",
+        "2e9c51",
+        "286666"
+    ],
+    "downloads": "60",
+    "featured": false,
+    "likes": 8,
+    "comments": 1,
+    "slug": "spooky-15",
+    "publishedAt": "2021-10-13T09:45:00.035Z",
+    "user": {
+        "name": "Orbitron",
+        "slug": "joseph"
+    },
+    "title": "Spooky 15",
+    "hashtag": "spooky15",
+    "description": "Made for halloween",
+    "creator": true,
+    "numberOfColors": 15,
+    "createdAt": "2021-09-30T04:21:39.968Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "26112b",
+        "363042",
+        "575f69",
+        "8f8880",
+        "a1ad9b",
+        "ffe57f",
+        "e8901c",
+        "d6550b",
+        "a32d53",
+        "572d54",
+        "913bad",
+        "bf29ff",
+        "46d61a",
+        "2e9c51",
+        "286666"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61553b537ecf5234bcff94e6",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

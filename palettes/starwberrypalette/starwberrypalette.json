@@ -1,0 +1,70 @@
+{
+    "_id": "606512f832b8d333d3f26a13",
+    "tags": [],
+    "colors": [
+        "ffcdb2",
+        "ffb4a2",
+        "e5989b",
+        "bf858f",
+        "79727f"
+    ],
+    "downloads": "256",
+    "featured": false,
+    "likes": 37,
+    "comments": 0,
+    "slug": "strawberry",
+    "publishedAt": "2021-04-25T11:05:00.023Z",
+    "user": {
+        "name": "Emma Pineda",
+        "slug": "emma-pineda"
+    },
+    "title": "Strawberry",
+    "hashtag": "starwberrypalette",
+    "description": "Strawberry Castle",
+    "creator": true,
+    "createdAt": "2021-04-01T00:25:28.011Z",
+    "numberOfColors": 5,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6087d5da2f53d829de2d8728",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Strawberry Palette Example by Casei Solus",
+            "slug": "strawberry-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-27T16:00:00.043Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "606512f832b8d333d3f26a13",
+            "image": "palette-examples/strawberry-palette-example-by-casei-solus-6087d5.png",
+            "creator": true,
+            "description": "A makeup palette and some makeup brushes.",
+            "createdAt": "2021-04-27T09:14:02.856Z",
+            "updatedAt": "2021-04-27T16:00:00.043Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A makeup palette and some makeup brushes."
+        }
+    ],
+    "colorsArray": [
+        "ffcdb2",
+        "ffb4a2",
+        "e5989b",
+        "bf858f",
+        "79727f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "606512f832b8d333d3f26a13",
+        "type": "palettes",
+        "count": 37,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

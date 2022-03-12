@@ -1,0 +1,85 @@
+{
+    "_id": "61fc049462c9152bdd310818",
+    "tags": [
+        "artist",
+        "gameboy",
+        "2bit",
+        "remake",
+        "red",
+        "aqua",
+        "gb",
+        "st8"
+    ],
+    "colors": [
+        "1a0908",
+        "4d1313",
+        "b3242d",
+        "f26174",
+        "85b1f2",
+        "335ccc",
+        "141f66",
+        "0a0a1a"
+    ],
+    "downloads": "197",
+    "featured": false,
+    "likes": 17,
+    "comments": 5,
+    "slug": "st-8-r-b-remake",
+    "publishedAt": "2022-02-05T00:55:00.161Z",
+    "user": {
+        "name": "Skiller Thomson",
+        "slug": "thest1076"
+    },
+    "title": "ST 8 R & B Remake",
+    "hashtag": "st8randbremake",
+    "description": "RedRose and Aqua re-released, but together",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2022-02-03T16:36:36.246Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61fcd3738d96db4cfd32ca86",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "ST 8 R & B Remake Palette Example by Skiller Thomson",
+            "slug": "st-8-r-b-remake-palette-example-by-skiller-thomsonaxvb8b",
+            "publishedAt": "2022-02-04T17:00:00.060Z",
+            "user": {
+                "name": "Skiller Thomson",
+                "slug": "thest1076"
+            },
+            "parent": "61fc049462c9152bdd310818",
+            "image": "palette-examples/st-8-r-b-remake-palette-example-by-skiller-thomsonaxvb8b.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-02-04T07:19:15.819Z",
+            "updatedAt": "2022-02-04T17:00:00.061Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "1a0908",
+        "4d1313",
+        "b3242d",
+        "f26174",
+        "85b1f2",
+        "335ccc",
+        "141f66",
+        "0a0a1a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61fc049462c9152bdd310818",
+        "type": "palettes",
+        "count": 17,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,67 @@
+{
+    "_id": "60262d6836012a4031c1788b",
+    "tags": [
+        "1 bit",
+        " paper"
+    ],
+    "colors": [
+        "3e3e3e",
+        "f6e7c1"
+    ],
+    "downloads": "190",
+    "featured": false,
+    "likes": 18,
+    "comments": 1,
+    "title": "Paper palette",
+    "hashtag": "paperpalette",
+    "description": "",
+    "creator": true,
+    "slug": "paper-palette",
+    "publishedAt": "2021-02-21T02:40:00.023Z",
+    "user": {
+        "name": "Sumedh Natu",
+        "slug": "sumedh-natu"
+    },
+    "numberOfColors": 2,
+    "createdAt": "2021-02-12T07:25:28.384Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "606d771ce7c5c72d65112e63",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Paper palette Palette Example by Casei Solus",
+            "slug": "paper-palette-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-08T16:35:00.022Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "60262d6836012a4031c1788b",
+            "image": "palette-examples/paper-palette-palette-example-by-casei-solus-606d77.png",
+            "creator": true,
+            "description": "An ancient tomb.",
+            "createdAt": "2021-04-07T09:10:52.043Z",
+            "updatedAt": "2021-04-08T16:35:00.023Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "An ancient tomb."
+        }
+    ],
+    "colorsArray": [
+        "3e3e3e",
+        "f6e7c1"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "60262d6836012a4031c1788b",
+        "type": "palettes",
+        "count": 18,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

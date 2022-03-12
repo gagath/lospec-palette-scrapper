@@ -1,0 +1,69 @@
+{
+    "_id": "5dc85f2de8b5507637cc75d9",
+    "slug": "obra-dinn-ibm-5151",
+    "description": "The palette used in the game\u00a0<i><a href=\"https://obradinn.com/\" target=\"_blank\">Return of the Obra Dinn</a> </i>when using the \"IBM 5151\" monitor setting.",
+    "colors": [
+        "25342f",
+        "01eb5f"
+    ],
+    "creator": false,
+    "comments": 0,
+    "likes": 10,
+    "createdAt": "2019-11-10T19:04:13.375Z",
+    "featured": false,
+    "tags": [
+        "game",
+        "obradinn",
+        "software",
+        "1bit"
+    ],
+    "downloads": "118",
+    "numberOfColors": 2,
+    "hashtag": "obradinnibm5151",
+    "title": "Obra Dinn - IBM 5151",
+    "user": {
+        "name": "PureAsbestos",
+        "slug": "pureasbestos"
+    },
+    "publishedAt": "2019-11-10T19:04:13.375Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6076528e04e1942783973134",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Obra Dinn - IBM 5151 Palette Example by Casei Solus",
+            "slug": "obra-dinn-ibm-5151-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-17T00:30:00.046Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5dc85f2de8b5507637cc75d9",
+            "image": "palette-examples/obra-dinn-ibm-5151-palette-example-by-casei-solus-607652.png",
+            "creator": true,
+            "description": "Generations of Gameboys.",
+            "createdAt": "2021-04-14T02:25:18.895Z",
+            "updatedAt": "2021-04-17T00:30:00.047Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Generations of Gameboys."
+        }
+    ],
+    "colorsArray": [
+        "25342f",
+        "01eb5f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "5dc85f2de8b5507637cc75d9",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

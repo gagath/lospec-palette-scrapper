@@ -1,0 +1,72 @@
+{
+    "_id": "61ed75c98a342c5ba7f49d6c",
+    "tags": [
+        "oil",
+        "dark",
+        "polyphrog"
+    ],
+    "colors": [
+        "090110",
+        "1a1e25",
+        "3d3e32",
+        "6f653d"
+    ],
+    "downloads": "301",
+    "featured": false,
+    "likes": 40,
+    "comments": 0,
+    "slug": "oil-oak",
+    "publishedAt": "2022-01-25T21:20:00.067Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "oil oak",
+    "hashtag": "oiloak",
+    "description": "",
+    "creator": false,
+    "numberOfColors": 4,
+    "createdAt": "2022-01-23T15:35:37.740Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61ed75e98a342c5ba7f49d6e",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "oil oak Palette Example by polyphrog",
+            "slug": "oil-oak-palette-example-by-polyphrogrjq0wb",
+            "publishedAt": "2022-01-24T11:15:00.031Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "61ed75c98a342c5ba7f49d6c",
+            "image": "palette-examples/oil-oak-palette-example-by-polyphrogrjq0wb.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-01-23T15:36:09.244Z",
+            "updatedAt": "2022-01-24T11:15:00.032Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "090110",
+        "1a1e25",
+        "3d3e32",
+        "6f653d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61ed75c98a342c5ba7f49d6c",
+        "type": "palettes",
+        "count": 40,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

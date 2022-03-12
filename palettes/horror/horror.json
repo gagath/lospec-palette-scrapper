@@ -1,0 +1,76 @@
+{
+    "_id": "6170cd37c7967c2177c0df83",
+    "tags": [],
+    "colors": [
+        "2b3634",
+        "474848",
+        "6e5f52",
+        "a2856c",
+        "a0a294",
+        "dcb9a0",
+        "f3dbc6",
+        "fffefe"
+    ],
+    "downloads": "664",
+    "featured": false,
+    "likes": 50,
+    "comments": 6,
+    "slug": "custodian-8",
+    "publishedAt": "2021-10-21T07:15:00.034Z",
+    "user": {
+        "name": "Shmeuh",
+        "slug": "shmeuh"
+    },
+    "title": "CUSTODIAN-8",
+    "hashtag": "horror",
+    "description": "Palette of the Stalwart Custodian : Multi-purpose palette for painting-style pixel art, dark atmosphere. if you working on a lovecraftian point-and-click, these muddy colors are perfect for sickly skin tones, mummified flesh, rotting wallpapers and worn out wood :^)\u00a0",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-10-21T02:15:19.600Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6171a89da761db7240f9d25a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "CUSTODIAN-8 Palette Example by Shmeuh",
+            "slug": "custodian-8-palette-example-by-shmeuh-2",
+            "publishedAt": "2021-10-22T16:05:00.017Z",
+            "user": {
+                "name": "Shmeuh",
+                "slug": "shmeuh"
+            },
+            "parent": "6170cd37c7967c2177c0df83",
+            "image": "palette-examples/custodian-8-palette-example-by-shmeuh-2-6171a8.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-10-21T17:51:25.803Z",
+            "updatedAt": "2021-10-22T16:05:00.017Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "2b3634",
+        "474848",
+        "6e5f52",
+        "a2856c",
+        "a0a294",
+        "dcb9a0",
+        "f3dbc6",
+        "fffefe"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6170cd37c7967c2177c0df83",
+        "type": "palettes",
+        "count": 50,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

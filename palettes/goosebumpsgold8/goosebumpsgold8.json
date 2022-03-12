@@ -1,0 +1,59 @@
+{
+    "_id": "5f1a2b27d1d4114de5c16a96",
+    "tags": [
+        "horror",
+        " spooky",
+        " halloween",
+        " 90s",
+        " goosebumps"
+    ],
+    "colors": [
+        "d19f22",
+        "e35d08",
+        "c82108",
+        "941434",
+        "21191c",
+        "372365",
+        "404b77",
+        "5a85a4"
+    ],
+    "downloads": "268",
+    "featured": false,
+    "likes": 20,
+    "comments": 0,
+    "title": "Goosebumps Gold",
+    "hashtag": "goosebumpsgold8",
+    "description": "Alt. version of my other Goosebumps palette with one less blue and a nice gold included instead.<br />",
+    "creator": true,
+    "slug": "goosebumps-gold",
+    "publishedAt": "2020-07-30T12:00:00.090Z",
+    "user": {
+        "name": "yoshi makes monsters",
+        "slug": "yoshimakes"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2020-07-24T00:28:23.770Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "d19f22",
+        "e35d08",
+        "c82108",
+        "941434",
+        "21191c",
+        "372365",
+        "404b77",
+        "5a85a4"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5f1a2b27d1d4114de5c16a96",
+        "type": "palettes",
+        "count": 20,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

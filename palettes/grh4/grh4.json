@@ -1,0 +1,74 @@
+{
+    "_id": "6018229a3e97de30c22b6dd9",
+    "tags": [
+        "gray",
+        "grh4",
+        "2 bits",
+        "saturated",
+        "bright"
+    ],
+    "colors": [
+        "91a7a7",
+        "bcc7c7",
+        "ced7d7",
+        "ffffff"
+    ],
+    "downloads": "240",
+    "featured": false,
+    "likes": 19,
+    "comments": 0,
+    "title": "GRH-4 ",
+    "hashtag": "grh4",
+    "description": "",
+    "creator": true,
+    "slug": "grh-4",
+    "publishedAt": "2021-02-09T14:40:00.029Z",
+    "user": {
+        "name": "Toha 2008",
+        "slug": "toha-2008"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-02-01T15:47:38.576Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60196943bcaaa366163be292",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/grh-4-palette-example-by-toha-2008-2-601969.png",
+            "creator": true,
+            "description": "",
+            "title": "GRH-4  Palette Example by Toha 2008",
+            "slug": "grh-4-palette-example-by-toha-2008-2",
+            "publishedAt": "2021-02-06T16:50:00.022Z",
+            "user": {
+                "name": "Toha 2008",
+                "slug": "toha-2008"
+            },
+            "parent": "6018229a3e97de30c22b6dd9",
+            "createdAt": "2021-02-02T15:01:23.850Z",
+            "updatedAt": "2021-02-06T16:50:00.022Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "91a7a7",
+        "bcc7c7",
+        "ced7d7",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6018229a3e97de30c22b6dd9",
+        "type": "palettes",
+        "count": 19,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

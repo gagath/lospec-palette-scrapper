@@ -1,0 +1,53 @@
+{
+    "_id": "60210becd9eb210e5655da7d",
+    "tags": [],
+    "colors": [
+        "ffffff",
+        "3b93e5",
+        "1f4cac",
+        "0c1887",
+        "08091f",
+        "c370f3",
+        "8a38c7",
+        "4f1fa1"
+    ],
+    "downloads": "88",
+    "featured": false,
+    "likes": 5,
+    "comments": 0,
+    "title": "Purblu-8",
+    "hashtag": "purblu8",
+    "description": "A simple palette containing 4 blue colors and 3 purple colors. It has white too!",
+    "creator": true,
+    "slug": "purblu-8",
+    "publishedAt": "2021-02-12T20:40:00.020Z",
+    "user": {
+        "name": "Cile",
+        "slug": "cile"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2021-02-08T10:01:16.375Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffffff",
+        "3b93e5",
+        "1f4cac",
+        "0c1887",
+        "08091f",
+        "c370f3",
+        "8a38c7",
+        "4f1fa1"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60210becd9eb210e5655da7d",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

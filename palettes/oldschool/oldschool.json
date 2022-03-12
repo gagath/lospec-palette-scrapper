@@ -1,0 +1,62 @@
+{
+    "_id": "61996d66b8e7c96a5c19b4eb",
+    "tags": [
+        "blue",
+        "green",
+        "gameboy",
+        "oldschool"
+    ],
+    "colors": [
+        "03012b",
+        "0a164a",
+        "163b74",
+        "215c8c",
+        "2398b8",
+        "23907a",
+        "1f7a5d",
+        "19613b",
+        "135324",
+        "0e3511"
+    ],
+    "downloads": "96",
+    "featured": false,
+    "likes": 5,
+    "comments": 0,
+    "slug": "from-blue-to-green",
+    "publishedAt": "2021-11-27T06:35:00.030Z",
+    "user": {
+        "name": "WesleyWays",
+        "slug": "wesley-rietberg"
+    },
+    "title": "from blue to green",
+    "hashtag": "oldschool",
+    "description": "its my first pallet for a game im creating",
+    "creator": true,
+    "numberOfColors": 10,
+    "createdAt": "2021-11-20T21:49:26.828Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "03012b",
+        "0a164a",
+        "163b74",
+        "215c8c",
+        "2398b8",
+        "23907a",
+        "1f7a5d",
+        "19613b",
+        "135324",
+        "0e3511"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "61996d66b8e7c96a5c19b4eb",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

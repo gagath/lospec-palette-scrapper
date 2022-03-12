@@ -1,0 +1,62 @@
+{
+    "_id": "5ba80ba1d8f5345a507022ab",
+    "slug": "darkboy4",
+    "description": "Created by <a target=\"_blank\" href=\"https://twitter.com/Smallpryv\">Smalls</a>.",
+    "colors": [
+        "e7e8f3",
+        "8c83c3",
+        "634d8f",
+        "120b19"
+    ],
+    "tags": [
+        "artist",
+        "smalls",
+        "gameboy"
+    ],
+    "downloads": "812",
+    "numberOfColors": 4,
+    "createdAt": "2018-09-23T21:54:41.781Z",
+    "likes": 23,
+    "comments": 0,
+    "hashtag": "darkboy4",
+    "title": "Darkboy4",
+    "publishedAt": "2018-09-23T21:54:41.781Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5ba81466d8f5345a507022ac",
+            "description": "Palette usage example by <a target=\"_blank\" href=\"https://twitter.com/Smallpryv\">Smalls</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.143Z",
+            "creator": false,
+            "image": "palette-examples/darkboy4-palette-example-palette-usage-example-by-smalls-5ba814.png",
+            "likes": 0,
+            "parent": "5ba80ba1d8f5345a507022ab",
+            "slug": "darkboy4-palette-example-palette-usage-example-by-smalls",
+            "title": "darkboy4 palette example palette usage example by smalls",
+            "updatedAt": "2020-07-31T03:56:11.143Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Smalls"
+        }
+    ],
+    "colorsArray": [
+        "e7e8f3",
+        "8c83c3",
+        "634d8f",
+        "120b19"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5ba80ba1d8f5345a507022ab",
+        "type": "palettes",
+        "count": 23,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

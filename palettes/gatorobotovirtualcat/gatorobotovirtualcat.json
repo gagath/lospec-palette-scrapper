@@ -1,0 +1,69 @@
+{
+    "_id": "5dc86bf1e8b5507637cc7609",
+    "slug": "gato-roboto-virtual-cat",
+    "description": "A palette from the game <i><a href=\"https://gatoroboto.com/\" target=\"_blank\">Gato Roboto</a></i>.",
+    "colors": [
+        "2b0000",
+        "cc0e13"
+    ],
+    "creator": false,
+    "comments": 0,
+    "likes": 6,
+    "createdAt": "2019-11-10T19:58:41.467Z",
+    "featured": false,
+    "tags": [
+        "game",
+        "gatoroboto",
+        "software",
+        "1bit"
+    ],
+    "downloads": "123",
+    "numberOfColors": 2,
+    "hashtag": "gatorobotovirtualcat",
+    "title": "Gato Roboto - Virtual Cat",
+    "user": {
+        "name": "PureAsbestos",
+        "slug": "pureasbestos"
+    },
+    "publishedAt": "2019-11-10T19:58:41.467Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60762a521ee10a0a8b55c8e7",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Gato Roboto - Virtual Cat Palette Example by Casei Solus",
+            "slug": "gato-roboto-virtual-cat-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-17T00:55:00.025Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5dc86bf1e8b5507637cc7609",
+            "image": "palette-examples/gato-roboto-virtual-cat-palette-example-by-casei-solus-60762a.png",
+            "creator": true,
+            "description": "A VR headset against a grid.",
+            "createdAt": "2021-04-13T23:33:38.070Z",
+            "updatedAt": "2021-04-17T00:55:00.025Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A VR headset against a grid."
+        }
+    ],
+    "colorsArray": [
+        "2b0000",
+        "cc0e13"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "5dc86bf1e8b5507637cc7609",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

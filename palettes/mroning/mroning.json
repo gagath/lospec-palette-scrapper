@@ -1,0 +1,50 @@
+{
+    "_id": "60a2c87a6e16d3661894a424",
+    "tags": [
+        "2bit",
+        "green",
+        "yellow",
+        "blue"
+    ],
+    "colors": [
+        "302626",
+        "5d5d75",
+        "608f82",
+        "cccba3"
+    ],
+    "downloads": "103",
+    "featured": false,
+    "likes": 16,
+    "comments": 0,
+    "slug": "mroning",
+    "publishedAt": "2021-05-31T06:40:00.023Z",
+    "user": {
+        "name": "Jibs Jerky",
+        "slug": "jibsjerky"
+    },
+    "title": "Mroning",
+    "hashtag": "mroning",
+    "description": "",
+    "creator": true,
+    "createdAt": "2021-05-17T19:48:10.020Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "302626",
+        "5d5d75",
+        "608f82",
+        "cccba3"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60a2c87a6e16d3661894a424",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,51 @@
+{
+    "_id": "6056b0ccb20545297e19769e",
+    "tags": [
+        "blue"
+    ],
+    "colors": [
+        "10072c",
+        "111567",
+        "193896",
+        "2174cb",
+        "49b7e1",
+        "7be1e9"
+    ],
+    "downloads": "158",
+    "featured": false,
+    "likes": 9,
+    "comments": 0,
+    "title": "Blue Six",
+    "hashtag": "bluesix",
+    "description": "",
+    "creator": true,
+    "slug": "blue-six",
+    "publishedAt": "2021-03-28T23:30:00.036Z",
+    "user": {
+        "name": "KarlestonChew \ud83c\udd96",
+        "slug": "karlestonchew"
+    },
+    "numberOfColors": 6,
+    "createdAt": "2021-03-21T02:34:52.559Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "10072c",
+        "111567",
+        "193896",
+        "2174cb",
+        "49b7e1",
+        "7be1e9"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "6056b0ccb20545297e19769e",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

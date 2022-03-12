@@ -1,0 +1,71 @@
+{
+    "_id": "5f8464fb2b098b6d7005d2ac",
+    "tags": [
+        "isasstudio"
+    ],
+    "colors": [
+        "8c473f",
+        "47272b",
+        "0d0b23",
+        "3e1f54",
+        "424866",
+        "879bb0",
+        "83e6f3",
+        "2396de",
+        "3e40bc",
+        "5eb046",
+        "e1e848",
+        "db8840",
+        "a9262e",
+        "ff8aaf",
+        "ffd7a6",
+        "e8fffb"
+    ],
+    "downloads": "102",
+    "featured": false,
+    "likes": 7,
+    "comments": 1,
+    "title": "Doodle 16",
+    "hashtag": "doodle16",
+    "description": "",
+    "creator": true,
+    "slug": "doodle-16",
+    "publishedAt": "2020-10-13T10:30:00.038Z",
+    "user": {
+        "name": "Isa",
+        "slug": "isas-studio"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-10-12T14:15:23.333Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "8c473f",
+        "47272b",
+        "0d0b23",
+        "3e1f54",
+        "424866",
+        "879bb0",
+        "83e6f3",
+        "2396de",
+        "3e40bc",
+        "5eb046",
+        "e1e848",
+        "db8840",
+        "a9262e",
+        "ff8aaf",
+        "ffd7a6",
+        "e8fffb"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5f8464fb2b098b6d7005d2ac",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

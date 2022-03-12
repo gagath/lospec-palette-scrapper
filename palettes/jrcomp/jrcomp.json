@@ -1,0 +1,96 @@
+{
+    "_id": "6036d458a29fff512d41bd07",
+    "tags": [
+        "computer",
+        "retro",
+        "ibm"
+    ],
+    "colors": [
+        "030625",
+        "0000e8",
+        "077c35",
+        "028566",
+        "9f2441",
+        "6b03ca",
+        "4b7432",
+        "81899e",
+        "1c2536",
+        "0e59f0",
+        "2cc64e",
+        "0bc3a9",
+        "e85685",
+        "c137ff",
+        "a7c251",
+        "ced9ed"
+    ],
+    "downloads": "165",
+    "featured": false,
+    "likes": 13,
+    "comments": 2,
+    "title": "Jr-Comp",
+    "hashtag": "jrcomp",
+    "description": "",
+    "creator": true,
+    "slug": "jr-comp",
+    "publishedAt": "2021-03-04T21:40:00.033Z",
+    "user": {
+        "name": "retroadamshow",
+        "slug": "retroadamshow"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2021-02-24T22:34:00.623Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6036d4cea29fff512d41bd0e",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/pcjr-composite-palette-example-by-retroadamshow-6036d4.png",
+            "creator": true,
+            "description": "An example showcasing the colors from the Jr-Composite palette. (Identical in design to the example showcasing the regular Jr-16 palette.)",
+            "title": "Jr-Composite Palette Example",
+            "slug": "pcjr-composite-palette-example-by-retroadamshow",
+            "publishedAt": "2021-02-28T16:55:00.014Z",
+            "user": {
+                "name": "retroadamshow",
+                "slug": "retroadamshow"
+            },
+            "parent": "6036d458a29fff512d41bd07",
+            "createdAt": "2021-02-24T22:35:58.566Z",
+            "updatedAt": "2021-02-28T17:21:15.511Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "An example showcasing the colors from the Jr-Composite palette. (Identical in design to the example showcasing the regular Jr-16 palette.)"
+        }
+    ],
+    "colorsArray": [
+        "030625",
+        "0000e8",
+        "077c35",
+        "028566",
+        "9f2441",
+        "6b03ca",
+        "4b7432",
+        "81899e",
+        "1c2536",
+        "0e59f0",
+        "2cc64e",
+        "0bc3a9",
+        "e85685",
+        "c137ff",
+        "a7c251",
+        "ced9ed"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6036d458a29fff512d41bd07",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

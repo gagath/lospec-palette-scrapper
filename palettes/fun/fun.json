@@ -1,0 +1,64 @@
+{
+    "_id": "6103e42e8dd08f3b0f5e3355",
+    "tags": [
+        "fun",
+        "games"
+    ],
+    "colors": [
+        "992323",
+        "beb225",
+        "3561af",
+        "94bb4f",
+        "7e529a",
+        "dd997f",
+        "e05e95",
+        "636363",
+        "d1d1d1",
+        "202020",
+        "5b41c5",
+        "161b82"
+    ],
+    "downloads": "125",
+    "featured": false,
+    "likes": 4,
+    "comments": 1,
+    "slug": "byte-12",
+    "publishedAt": "2021-08-03T06:55:00.036Z",
+    "user": {
+        "name": "Alicja Kruszy\u0144ska",
+        "slug": "alicja-kruszynska"
+    },
+    "title": "BYTE-12",
+    "hashtag": "fun",
+    "description": "byte palette.\u00a0\u00a0",
+    "creator": true,
+    "numberOfColors": 12,
+    "createdAt": "2021-07-30T11:36:14.361Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "992323",
+        "beb225",
+        "3561af",
+        "94bb4f",
+        "7e529a",
+        "dd997f",
+        "e05e95",
+        "636363",
+        "d1d1d1",
+        "202020",
+        "5b41c5",
+        "161b82"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "6103e42e8dd08f3b0f5e3355",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,47 @@
+{
+    "_id": "5e8430d6aefe550d23b59db8",
+    "title": "Purple and more Purple",
+    "slug": "purple-and-more-purple",
+    "description": "",
+    "colors": [
+        "f8ecfd",
+        "c264fe",
+        "a82ffc",
+        "7a08fa"
+    ],
+    "user": {
+        "name": "Daniel Matos",
+        "slug": "daniel-matos"
+    },
+    "creator": false,
+    "hashtag": "purpleand-more-purple",
+    "publishedAt": "2020-04-23T00:15:00.052Z",
+    "createdAt": "2020-04-01T06:12:38.472Z",
+    "comments": 1,
+    "likes": 14,
+    "featured": false,
+    "tags": [
+        "purple"
+    ],
+    "downloads": "273",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "f8ecfd",
+        "c264fe",
+        "a82ffc",
+        "7a08fa"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5e8430d6aefe550d23b59db8",
+        "type": "palettes",
+        "count": 14,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

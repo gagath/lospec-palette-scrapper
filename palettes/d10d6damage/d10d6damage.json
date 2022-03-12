@@ -1,0 +1,97 @@
+{
+    "_id": "602eca2cbcc0a05723cabeb0",
+    "tags": [
+        "fantasy",
+        " dungeon",
+        " 16 color",
+        " 4 bit"
+    ],
+    "colors": [
+        "00000d",
+        "172126",
+        "324026",
+        "3e4e59",
+        "5c7173",
+        "468c8b",
+        "76a632",
+        "99bfbd",
+        "bbd9b8",
+        "f2f1da",
+        "45002a",
+        "5e3d17",
+        "913a2c",
+        "ab7444",
+        "d4a83f",
+        "eddf48"
+    ],
+    "downloads": "257",
+    "featured": false,
+    "likes": 16,
+    "comments": 2,
+    "title": "Damage Dice 10 & 6",
+    "hashtag": "d10d6damage",
+    "description": "16 color palette, a 10 count cool blue and green slate to gray main gradient, with a 6 count warm highlight compliment.Created for making very small size dungeon and fantasy stuff.Inspired by Ultima, Warcraft, D&amp;D, Pool of Raidiance, Zelda, Gargoyle's Quest &amp; Demon's Crest.",
+    "creator": true,
+    "slug": "damage-dice-10-6",
+    "publishedAt": "2021-02-23T09:20:00.014Z",
+    "user": {
+        "name": "Richmond Riddle",
+        "slug": "richmondriddle"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2021-02-18T20:12:28.106Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "602ed4c5bcc0a05723cabf1f",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/damage-dice-10-6-palette-example-by-richmond-riddle-2-602ed4.png",
+            "creator": true,
+            "description": "",
+            "title": "Damage Dice 10 & 6 Palette Example by Richmond Riddle",
+            "slug": "damage-dice-10-6-palette-example-by-richmond-riddle-2",
+            "publishedAt": "2021-02-19T17:25:00.015Z",
+            "user": {
+                "name": "Richmond Riddle",
+                "slug": "richmondriddle"
+            },
+            "parent": "602eca2cbcc0a05723cabeb0",
+            "createdAt": "2021-02-18T20:57:41.550Z",
+            "updatedAt": "2021-02-19T17:25:00.015Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "00000d",
+        "172126",
+        "324026",
+        "3e4e59",
+        "5c7173",
+        "468c8b",
+        "76a632",
+        "99bfbd",
+        "bbd9b8",
+        "f2f1da",
+        "45002a",
+        "5e3d17",
+        "913a2c",
+        "ab7444",
+        "d4a83f",
+        "eddf48"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "602eca2cbcc0a05723cabeb0",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

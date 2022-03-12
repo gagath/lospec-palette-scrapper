@@ -1,0 +1,75 @@
+{
+    "_id": "619a7671a6432f14cdcff0e7",
+    "tags": [
+        "gameboy",
+        "gb",
+        "vb",
+        "virtualboy",
+        "soviet",
+        "poster"
+    ],
+    "colors": [
+        "e8d6c0",
+        "92938d",
+        "a1281c",
+        "000000"
+    ],
+    "downloads": "284",
+    "featured": false,
+    "likes": 28,
+    "comments": 3,
+    "slug": "red-poster",
+    "publishedAt": "2021-11-25T14:35:00.024Z",
+    "user": {
+        "name": "Bruno Weinberger",
+        "slug": "bw672558"
+    },
+    "title": "Red Poster",
+    "hashtag": "gbrp",
+    "description": "Someday I came up with idea to make a palette based on color sheme which was used in many Soviet propaganda posters wich use grey, red and black colors on a biege paper.",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-11-21T16:40:17.758Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61a3906907c60c7661a2c112",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Red Poster Palette Example by Nenner KN",
+            "slug": "red-poster-palette-example-by-nenner-kn-2",
+            "publishedAt": "2021-11-28T15:20:00.031Z",
+            "user": {
+                "name": "Bruno Weinberger",
+                "slug": "bw672558"
+            },
+            "parent": "619a7671a6432f14cdcff0e7",
+            "image": "palette-examples/red-poster-palette-example-by-nenner-kn-2-61a390.png",
+            "creator": false,
+            "description": "Screenshots are taken from Tetris and the Hunt for Red October",
+            "createdAt": "2021-11-28T14:21:29.235Z",
+            "updatedAt": "2021-11-28T15:20:00.031Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Screenshots are taken from Tetris and the Hunt for Red October"
+        }
+    ],
+    "colorsArray": [
+        "e8d6c0",
+        "92938d",
+        "a1281c",
+        "000000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "619a7671a6432f14cdcff0e7",
+        "type": "palettes",
+        "count": 28,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,54 @@
+{
+    "_id": "61994dc9c7d6b554e04d865f",
+    "tags": [
+        "blue",
+        "sky",
+        "game",
+        "cool"
+    ],
+    "colors": [
+        "1a237e",
+        "303f9f",
+        "1565c0",
+        "82b1ff",
+        "ffffff",
+        "000000"
+    ],
+    "downloads": "94",
+    "featured": false,
+    "likes": 7,
+    "comments": 0,
+    "slug": "viridian-blue",
+    "publishedAt": "2021-11-26T06:35:00.024Z",
+    "user": {
+        "name": "Viridian",
+        "slug": "viridian"
+    },
+    "title": "Viridian Blue",
+    "hashtag": "sky",
+    "description": "This Palette was made by ViridianTelamon.",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2021-11-20T19:34:33.289Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "1a237e",
+        "303f9f",
+        "1565c0",
+        "82b1ff",
+        "ffffff",
+        "000000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "61994dc9c7d6b554e04d865f",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

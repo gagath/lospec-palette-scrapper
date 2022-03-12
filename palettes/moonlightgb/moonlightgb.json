@@ -1,0 +1,76 @@
+{
+    "_id": "60466e97918a213d4b4b5b20",
+    "tags": [
+        "dark",
+        " gameboy",
+        " night",
+        " moonlight",
+        " 2 bit",
+        " 4 colors",
+        " 4 colours"
+    ],
+    "colors": [
+        "0f052d",
+        "203671",
+        "36868f",
+        "5fc75d"
+    ],
+    "downloads": "2,223",
+    "featured": false,
+    "likes": 166,
+    "comments": 3,
+    "title": "Moonlight GB",
+    "hashtag": "moonlightgb",
+    "description": "",
+    "creator": true,
+    "slug": "moonlight-gb",
+    "publishedAt": "2021-03-13T05:40:00.016Z",
+    "user": {
+        "name": "Tofu",
+        "slug": "tofupixel"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-03-08T18:36:07.365Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60466fb0918a213d4b4b5b34",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/moonlight-gb-palette-example-by-tofu-60466f.png",
+            "creator": true,
+            "description": "",
+            "title": "Moonlight GB Palette Example by Tofu",
+            "slug": "moonlight-gb-palette-example-by-tofu",
+            "publishedAt": "2021-03-10T18:15:00.015Z",
+            "user": {
+                "name": "Tofu",
+                "slug": "tofupixel"
+            },
+            "parent": "60466e97918a213d4b4b5b20",
+            "createdAt": "2021-03-08T18:40:48.868Z",
+            "updatedAt": "2021-03-10T18:15:00.015Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "0f052d",
+        "203671",
+        "36868f",
+        "5fc75d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60466e97918a213d4b4b5b20",
+        "type": "palettes",
+        "count": 166,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,96 @@
+{
+    "_id": "5fe4c720f506f53830d1b28d",
+    "tags": [
+        "vampire",
+        "general",
+        "polyphrog"
+    ],
+    "colors": [
+        "0e0116",
+        "340a43",
+        "6d1a3d",
+        "ca2828",
+        "e99039",
+        "f4e27b",
+        "95c74d",
+        "2c9639",
+        "0b4b3b",
+        "6739bc",
+        "7ca0f4",
+        "f8f7f2",
+        "9a826b",
+        "4b2933",
+        "9d442c",
+        "f8b97f"
+    ],
+    "downloads": "316",
+    "featured": false,
+    "likes": 14,
+    "comments": 0,
+    "title": "vampire-16",
+    "hashtag": "vampire16",
+    "description": "",
+    "creator": true,
+    "slug": "vampire-16",
+    "publishedAt": "2020-12-27T06:50:00.013Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-12-24T16:51:44.471Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fe4f15af506f53830d1b4c9",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/vampire-16-palette-example-by-polyphorge-2-5fe4f1.png",
+            "creator": true,
+            "description": "",
+            "title": "vampire-16 Palette Example by polyphorge",
+            "slug": "vampire-16-palette-example-by-polyphorge-2",
+            "publishedAt": "2020-12-26T19:00:00.033Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "5fe4c720f506f53830d1b28d",
+            "createdAt": "2020-12-24T19:51:54.082Z",
+            "updatedAt": "2020-12-26T19:00:00.034Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "0e0116",
+        "340a43",
+        "6d1a3d",
+        "ca2828",
+        "e99039",
+        "f4e27b",
+        "95c74d",
+        "2c9639",
+        "0b4b3b",
+        "6739bc",
+        "7ca0f4",
+        "f8f7f2",
+        "9a826b",
+        "4b2933",
+        "9d442c",
+        "f8b97f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fe4c720f506f53830d1b28d",
+        "type": "palettes",
+        "count": 14,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

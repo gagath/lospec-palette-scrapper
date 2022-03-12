@@ -1,0 +1,57 @@
+{
+    "_id": "5f601cd0b2589679e35bfc9e",
+    "tags": [],
+    "colors": [
+        "ff8c8c",
+        "ffc9ba",
+        "fff7de",
+        "5d437a",
+        "8c7d9f",
+        "f2f4ff",
+        "b2e9ff",
+        "99c7ff",
+        "cc4f6e",
+        "28253e"
+    ],
+    "downloads": "263",
+    "featured": false,
+    "likes": 19,
+    "comments": 0,
+    "title": "Have a nice day!",
+    "hashtag": "soft",
+    "description": "",
+    "creator": true,
+    "slug": "have-a-nice-day",
+    "publishedAt": "2020-09-17T10:25:00.021Z",
+    "user": {
+        "name": "leliiscoding",
+        "slug": "leliiscoding"
+    },
+    "numberOfColors": 10,
+    "createdAt": "2020-09-15T01:45:52.635Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ff8c8c",
+        "ffc9ba",
+        "fff7de",
+        "5d437a",
+        "8c7d9f",
+        "f2f4ff",
+        "b2e9ff",
+        "99c7ff",
+        "cc4f6e",
+        "28253e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5f601cd0b2589679e35bfc9e",
+        "type": "palettes",
+        "count": 19,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

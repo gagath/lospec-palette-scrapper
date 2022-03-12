@@ -1,0 +1,53 @@
+{
+    "_id": "6155a247fc87710849491c27",
+    "tags": [],
+    "colors": [
+        "0b0b0d",
+        "514e37",
+        "aa8107",
+        "ffe00b",
+        "fbf8f0",
+        "a6a6a6",
+        "5861ea",
+        "1b32d5"
+    ],
+    "downloads": "21",
+    "featured": false,
+    "likes": 7,
+    "comments": 1,
+    "slug": "anomaly-rg8",
+    "publishedAt": "2021-10-13T17:45:00.036Z",
+    "user": {
+        "name": "Space Sandwich",
+        "slug": "spacesandwich"
+    },
+    "title": "Anomaly RG8",
+    "hashtag": "anomalyrg8",
+    "description": "An improved version of my older palette Deuteranopi8. 8 colours safe for people who have deuteranopia or protanopia",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-09-30T11:40:55.367Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "0b0b0d",
+        "514e37",
+        "aa8107",
+        "ffe00b",
+        "fbf8f0",
+        "a6a6a6",
+        "5861ea",
+        "1b32d5"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6155a247fc87710849491c27",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

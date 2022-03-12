@@ -1,0 +1,79 @@
+{
+    "_id": "61e5be2e04290e7cc53d380b",
+    "tags": [
+        "dream",
+        "candy",
+        "gb",
+        "gb",
+        "palette",
+        "gameboy",
+        "sweet",
+        "delicious",
+        "game",
+        "colors"
+    ],
+    "colors": [
+        "442d6e",
+        "d075b7",
+        "f0d063",
+        "ffffff"
+    ],
+    "downloads": "282",
+    "featured": false,
+    "likes": 34,
+    "comments": 0,
+    "slug": "dream-candy",
+    "publishedAt": "2022-01-19T01:15:00.040Z",
+    "user": {
+        "name": "Miguel Lucero",
+        "slug": "miguel-lucero"
+    },
+    "title": "DREAM CANDY",
+    "hashtag": "dreamcandy",
+    "description": "This is a GB palette I made to make pixel art and games with! But please use it for whatever you want and share it with me!",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2022-01-17T19:06:22.048Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61e5c28804290e7cc53d3831",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "DREAM CANDY Palette Example by Miguel Lucero",
+            "slug": "dream-candy-palette-example-by-miguel-luceroiuynwb",
+            "publishedAt": "2022-01-19T09:45:00.039Z",
+            "user": {
+                "name": "Miguel Lucero",
+                "slug": "miguel-lucero"
+            },
+            "parent": "61e5be2e04290e7cc53d380b",
+            "image": "palette-examples/dream-candy-palette-example-by-miguel-luceroiuynwb.png",
+            "creator": true,
+            "description": "This is a series of deserts and sweets I made with my dream candy palette!",
+            "createdAt": "2022-01-17T19:24:56.166Z",
+            "updatedAt": "2022-01-19T09:45:00.039Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "This is a series of deserts and sweets I made with my dream candy palette!"
+        }
+    ],
+    "colorsArray": [
+        "442d6e",
+        "d075b7",
+        "f0d063",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61e5be2e04290e7cc53d380b",
+        "type": "palettes",
+        "count": 34,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

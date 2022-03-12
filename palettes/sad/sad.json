@@ -1,0 +1,78 @@
+{
+    "_id": "6122f4f56b85b83eb6c5a92f",
+    "tags": [
+        "sad",
+        "desaturated",
+        "lonely"
+    ],
+    "colors": [
+        "1a1618",
+        "40342f",
+        "5d4561",
+        "73728f",
+        "769ea6",
+        "a3ccab",
+        "e6e6e6"
+    ],
+    "downloads": "163",
+    "featured": false,
+    "likes": 25,
+    "comments": 0,
+    "slug": "sad",
+    "publishedAt": "2021-09-16T03:20:00.036Z",
+    "user": {
+        "name": "Orbitron",
+        "slug": "joseph"
+    },
+    "title": "SAD!",
+    "hashtag": "sad",
+    "description": "Sad desaturated palette\u00a0",
+    "creator": true,
+    "numberOfColors": 7,
+    "createdAt": "2021-08-23T01:08:05.732Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6122f50c6b85b83eb6c5a931",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "SAD! Palette Example by Orbitron",
+            "slug": "sad-palette-example-by-orbitron",
+            "publishedAt": "2021-08-23T01:15:00.051Z",
+            "user": {
+                "name": "Orbitron",
+                "slug": "joseph"
+            },
+            "parent": "6122f4f56b85b83eb6c5a92f",
+            "image": "palette-examples/sad-palette-example-by-orbitron-6122f5.png",
+            "creator": true,
+            "description": "SAD!",
+            "createdAt": "2021-08-23T01:08:28.852Z",
+            "updatedAt": "2021-08-23T01:15:00.051Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "SAD!"
+        }
+    ],
+    "colorsArray": [
+        "1a1618",
+        "40342f",
+        "5d4561",
+        "73728f",
+        "769ea6",
+        "a3ccab",
+        "e6e6e6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "6122f4f56b85b83eb6c5a92f",
+        "type": "palettes",
+        "count": 25,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

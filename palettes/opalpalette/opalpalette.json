@@ -1,0 +1,75 @@
+{
+    "_id": "6038aadec77567771b6abf08",
+    "tags": [
+        "gem",
+        " gems",
+        " gameboy",
+        " 2 bit",
+        " 4 colors",
+        " opal"
+    ],
+    "colors": [
+        "ddfeff",
+        "e9ccff",
+        "87cbc5",
+        "9492d0"
+    ],
+    "downloads": "109",
+    "featured": false,
+    "likes": 24,
+    "comments": 1,
+    "title": "opixal",
+    "hashtag": "opalpalette",
+    "description": "just a four color palette based off of the color of opals. meant to make things look light, cute, and hopefully gemstoney",
+    "creator": true,
+    "slug": "opixal",
+    "publishedAt": "2021-03-03T03:40:00.028Z",
+    "user": {
+        "name": "Lady Marigold (comms open!)",
+        "slug": "marigold"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-02-26T08:01:34.773Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607f8cd99227cd7cfff62685",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "opixal Palette Example by Casei Solus",
+            "slug": "opixal-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-21T17:00:00.073Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "6038aadec77567771b6abf08",
+            "image": "palette-examples/opixal-palette-example-by-casei-solus-607f8c.png",
+            "creator": true,
+            "description": "Opal texture.",
+            "createdAt": "2021-04-21T02:24:25.119Z",
+            "updatedAt": "2021-04-21T17:00:00.074Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Opal texture."
+        }
+    ],
+    "colorsArray": [
+        "ddfeff",
+        "e9ccff",
+        "87cbc5",
+        "9492d0"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6038aadec77567771b6abf08",
+        "type": "palettes",
+        "count": 24,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

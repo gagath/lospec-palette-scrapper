@@ -1,0 +1,47 @@
+{
+    "_id": "5f1eee61933a24422e92f773",
+    "tags": [
+        "4"
+    ],
+    "colors": [
+        "ffffff",
+        "d3be8a",
+        "726244",
+        "35190f"
+    ],
+    "downloads": "80",
+    "featured": false,
+    "likes": 8,
+    "comments": 0,
+    "title": "Moth4",
+    "hashtag": "moth4pallete",
+    "description": "A 4 color pallete that I made.<br />",
+    "creator": true,
+    "slug": "moth4",
+    "publishedAt": "2020-07-28T12:00:00.022Z",
+    "user": {
+        "name": "PolyRoly",
+        "slug": "polyroly"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-07-27T15:10:25.241Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffffff",
+        "d3be8a",
+        "726244",
+        "35190f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f1eee61933a24422e92f773",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

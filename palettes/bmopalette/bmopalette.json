@@ -1,0 +1,73 @@
+{
+    "_id": "606fdb77d70ac85e80cef6c8",
+    "tags": [
+        "teal",
+        "green",
+        "bmo",
+        "adventuretime"
+    ],
+    "colors": [
+        "101e2b",
+        "183a42",
+        "407c84",
+        "8bbe93"
+    ],
+    "downloads": "288",
+    "featured": false,
+    "likes": 25,
+    "comments": 1,
+    "slug": "bmo",
+    "publishedAt": "2021-04-15T11:30:00.057Z",
+    "user": {
+        "name": "Visual-mov",
+        "slug": "visual-mov"
+    },
+    "title": "Bmo",
+    "hashtag": "bmopalette",
+    "description": "A palette with colors taken from everyone's favorite robot, bmo!",
+    "creator": true,
+    "createdAt": "2021-04-09T04:43:35.334Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6078d875b57ef03c5b5f1fae",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Bmo Palette Example by Casei Solus",
+            "slug": "bmo-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-16T22:50:00.032Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "606fdb77d70ac85e80cef6c8",
+            "image": "palette-examples/bmo-palette-example-by-casei-solus-6078d8.png",
+            "creator": true,
+            "description": "BMO and butterflies.",
+            "createdAt": "2021-04-16T00:21:09.073Z",
+            "updatedAt": "2021-04-16T22:50:00.032Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "BMO and butterflies."
+        }
+    ],
+    "colorsArray": [
+        "101e2b",
+        "183a42",
+        "407c84",
+        "8bbe93"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "606fdb77d70ac85e80cef6c8",
+        "type": "palettes",
+        "count": 25,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

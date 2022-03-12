@@ -1,0 +1,49 @@
+{
+    "_id": "60da8a48e3f4277f250ed687",
+    "tags": [
+        "gameboy",
+        "orange",
+        "warm"
+    ],
+    "colors": [
+        "fffcfe",
+        "ffc200",
+        "ff2a00",
+        "11070a"
+    ],
+    "downloads": "81",
+    "featured": false,
+    "likes": 5,
+    "comments": 1,
+    "slug": "solar-eclipse",
+    "publishedAt": "2021-07-08T16:55:00.033Z",
+    "user": {
+        "name": "Maxime Daoust",
+        "slug": "maxime-daoust"
+    },
+    "title": "solar eclipse",
+    "hashtag": "solareclipse",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-06-29T02:49:44.827Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "fffcfe",
+        "ffc200",
+        "ff2a00",
+        "11070a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60da8a48e3f4277f250ed687",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

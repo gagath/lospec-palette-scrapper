@@ -1,0 +1,71 @@
+{
+    "_id": "60dd351f404bbf069263d05c",
+    "tags": [
+        "gameboy",
+        "retro"
+    ],
+    "colors": [
+        "bebc99",
+        "6f8b6c",
+        "4f485e",
+        "171a24"
+    ],
+    "downloads": "357",
+    "featured": false,
+    "likes": 29,
+    "comments": 1,
+    "slug": "steampunk-4",
+    "publishedAt": "2021-07-07T10:55:00.033Z",
+    "user": {
+        "name": "Maft Crine",
+        "slug": "with-a-very-rude-face"
+    },
+    "title": "STEAMPUNK-4",
+    "hashtag": "peamstunk4",
+    "description": "four color desaturated palette",
+    "creator": false,
+    "numberOfColors": 4,
+    "createdAt": "2021-07-01T03:23:11.444Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60de04fb87dd310698374ec7",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "PEAMSTUNK-4 Palette Example by Mine Craft",
+            "slug": "peamstunk-4-palette-example-by-mine-craft",
+            "publishedAt": "2021-07-05T23:10:00.022Z",
+            "user": {
+                "name": "Maft Crine",
+                "slug": "with-a-very-rude-face"
+            },
+            "parent": "60dd351f404bbf069263d05c",
+            "image": "palette-examples/peamstunk-4-palette-example-by-mine-craft-60de04.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-07-01T18:10:03.503Z",
+            "updatedAt": "2021-07-05T23:10:00.022Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "bebc99",
+        "6f8b6c",
+        "4f485e",
+        "171a24"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60dd351f404bbf069263d05c",
+        "type": "palettes",
+        "count": 29,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,45 @@
+{
+    "_id": "5e4f328d4561f35a3f697d4e",
+    "slug": "shroom4",
+    "description": "A palette made by\u00a0<a href=\"https://twitter.com/PineTreePizza\" target=\"_blank\">PineTreePizza</a>.",
+    "colors": [
+        "000000",
+        "1923bd",
+        "1dbdf2",
+        "ffffff"
+    ],
+    "creator": false,
+    "hashtag": "shroom4",
+    "comments": 0,
+    "likes": 7,
+    "createdAt": "2020-02-21T01:29:49.692Z",
+    "featured": false,
+    "tags": [],
+    "downloads": "62",
+    "numberOfColors": 4,
+    "title": "Shroom4",
+    "user": {
+        "name": "P-Tux7",
+        "slug": "p-tux7"
+    },
+    "publishedAt": "2020-04-16T11:20:00.021Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "1923bd",
+        "1dbdf2",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5e4f328d4561f35a3f697d4e",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

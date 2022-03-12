@@ -1,0 +1,101 @@
+{
+    "_id": "5fdb7060f2bcbc157cea9fbc",
+    "tags": [
+        "skin",
+        " food"
+    ],
+    "colors": [
+        "dfd785",
+        "ebc275",
+        "f39949",
+        "ff7831",
+        "ca5a2e",
+        "963c3c",
+        "3a2802",
+        "202215"
+    ],
+    "downloads": "13,413",
+    "featured": false,
+    "likes": 188,
+    "comments": 9,
+    "title": "Borkfest",
+    "hashtag": "borkfest",
+    "description": "This palette mostly composed of warm colors is meant to bring softness and warmth, just like homemade bread that just came out of the oven, freshly made pancakes or patting a shiba inu on the cheeks.",
+    "creator": true,
+    "slug": "borkfest",
+    "publishedAt": "2020-12-18T02:30:00.039Z",
+    "user": {
+        "name": "\u307e\u308b\u304d",
+        "slug": "marukihurakami"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2020-12-17T14:51:12.806Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fdb706bf2bcbc157cea9fbf",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/borkfest-palette-example-by-5fdb70.png",
+            "creator": true,
+            "description": "",
+            "title": "Borkfest Palette Example by \u307e\u308b\u304d",
+            "slug": "borkfest-palette-example-by",
+            "publishedAt": "2020-12-17T18:35:00.012Z",
+            "user": {
+                "name": "\u307e\u308b\u304d",
+                "slug": "marukihurakami"
+            },
+            "parent": "5fdb7060f2bcbc157cea9fbc",
+            "createdAt": "2020-12-17T14:51:23.159Z",
+            "updatedAt": "2020-12-17T18:35:00.012Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "5fdb70b0f2bcbc157cea9fd2",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/borkfest-palette-example-by-2-5fdb70.png",
+            "creator": true,
+            "description": "",
+            "title": "Borkfest Palette Example by \u307e\u308b\u304d",
+            "slug": "borkfest-palette-example-by-2",
+            "publishedAt": "2020-12-17T18:40:00.011Z",
+            "user": {
+                "name": "\u307e\u308b\u304d",
+                "slug": "marukihurakami"
+            },
+            "parent": "5fdb7060f2bcbc157cea9fbc",
+            "createdAt": "2020-12-17T14:52:32.962Z",
+            "updatedAt": "2020-12-17T18:40:00.011Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "dfd785",
+        "ebc275",
+        "f39949",
+        "ff7831",
+        "ca5a2e",
+        "963c3c",
+        "3a2802",
+        "202215"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fdb7060f2bcbc157cea9fbc",
+        "type": "palettes",
+        "count": 188,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

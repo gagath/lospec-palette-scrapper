@@ -1,0 +1,51 @@
+{
+    "_id": "6037e1be139e764ae0aa5078",
+    "tags": [],
+    "colors": [
+        "e46018",
+        "fcb800",
+        "008894",
+        "004058",
+        "290d28",
+        "9d2496",
+        "db24d4"
+    ],
+    "downloads": "84",
+    "featured": false,
+    "likes": 9,
+    "comments": 1,
+    "title": "Synthetic 80s",
+    "hashtag": "synth80",
+    "description": "these are colors pulled from various images on google, though I did not handpick them, I did select the shades of the colors.",
+    "creator": false,
+    "slug": "synthetic-80s",
+    "publishedAt": "2021-03-09T11:40:00.021Z",
+    "user": {
+        "name": "Baylor Hood",
+        "slug": "baylor-hood"
+    },
+    "numberOfColors": 7,
+    "createdAt": "2021-02-25T17:43:26.210Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "e46018",
+        "fcb800",
+        "008894",
+        "004058",
+        "290d28",
+        "9d2496",
+        "db24d4"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "6037e1be139e764ae0aa5078",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,76 @@
+{
+    "_id": "60b30f0ddcf8971dca7de199",
+    "tags": [
+        "ice",
+        "winter",
+        "blue",
+        "cold",
+        "scifi"
+    ],
+    "colors": [
+        "4c282f",
+        "554c80",
+        "569bc9",
+        "84cec9",
+        "d3d6b2"
+    ],
+    "downloads": "516",
+    "featured": false,
+    "likes": 39,
+    "comments": 0,
+    "slug": "cyber-ping-pong",
+    "publishedAt": "2021-05-30T17:47:16.104Z",
+    "user": {
+        "name": "sukinapan",
+        "slug": "sukinapan"
+    },
+    "title": "cyber ping pong",
+    "hashtag": "cyberpingpong",
+    "description": "kind of an icy palette, a variation of leopold's dreams",
+    "creator": true,
+    "createdAt": "2021-05-30T04:05:33.188Z",
+    "numberOfColors": 5,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60b52b39e9b7cc1578d16ce6",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "cyber ping pong Palette Example",
+            "slug": "cyber-ping-pong-palette-example-by-sukinapan-2",
+            "publishedAt": "2021-05-31T18:31:03.318Z",
+            "user": {
+                "name": "sukinapan",
+                "slug": "sukinapan"
+            },
+            "parent": "60b30f0ddcf8971dca7de199",
+            "image": "palette-examples/cyber-ping-pong-palette-example-by-sukinapan-2-60b52b.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-05-31T18:30:17.519Z",
+            "updatedAt": "2021-05-31T18:32:15.625Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "4c282f",
+        "554c80",
+        "569bc9",
+        "84cec9",
+        "d3d6b2"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "60b30f0ddcf8971dca7de199",
+        "type": "palettes",
+        "count": 39,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

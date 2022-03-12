@@ -1,0 +1,57 @@
+{
+    "_id": "604a799a095da34234b19c5e",
+    "tags": [],
+    "colors": [
+        "2c0054",
+        "5b327d",
+        "04517d",
+        "388cdd",
+        "38e46d",
+        "389f51",
+        "ffff8c",
+        "ffb82c",
+        "ff546a",
+        "be166a"
+    ],
+    "downloads": "82",
+    "featured": false,
+    "likes": 8,
+    "comments": 0,
+    "title": "Space Rainbow",
+    "hashtag": "spacerainbow",
+    "description": "A rainbow pallete I made while messing around. I made an artwork with it and found that it looked good in a space theme, although it can probably work in other ways.",
+    "creator": true,
+    "slug": "space-rainbow",
+    "publishedAt": "2021-03-20T12:10:00.020Z",
+    "user": {
+        "name": "the dude",
+        "slug": "dude-real"
+    },
+    "numberOfColors": 10,
+    "createdAt": "2021-03-11T20:12:10.962Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "2c0054",
+        "5b327d",
+        "04517d",
+        "388cdd",
+        "38e46d",
+        "389f51",
+        "ffff8c",
+        "ffb82c",
+        "ff546a",
+        "be166a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "604a799a095da34234b19c5e",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

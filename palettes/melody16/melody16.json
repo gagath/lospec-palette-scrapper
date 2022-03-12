@@ -1,0 +1,97 @@
+{
+    "_id": "611065b28f112e0acfc503d8",
+    "tags": [
+        "soft",
+        "colorful",
+        "general",
+        "bright"
+    ],
+    "colors": [
+        "c686ca",
+        "7853a7",
+        "3c3e66",
+        "5d91d8",
+        "9dddf0",
+        "eff5f5",
+        "a3b0bb",
+        "676b8b",
+        "23232e",
+        "4d3347",
+        "8e516a",
+        "ce6374",
+        "f4ae70",
+        "f1de82",
+        "6fc453",
+        "3d8367"
+    ],
+    "downloads": "457",
+    "featured": false,
+    "likes": 22,
+    "comments": 2,
+    "slug": "melody-16",
+    "publishedAt": "2021-08-29T00:00:00.053Z",
+    "user": {
+        "name": "Yousurname",
+        "slug": "yousurname"
+    },
+    "title": "Melody 16",
+    "hashtag": "melody16",
+    "description": "Softer alternative to my\u00a0Shine 16\u00a0palette.",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2021-08-08T23:16:02.355Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "611066608f112e0acfc503e1",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Melody 16 Palette Example by Yousurname",
+            "slug": "melody-16-palette-example-by-yousurname",
+            "publishedAt": "2021-08-22T20:35:00.026Z",
+            "user": {
+                "name": "Yousurname",
+                "slug": "yousurname"
+            },
+            "parent": "611065b28f112e0acfc503d8",
+            "image": "palette-examples/melody-16-palette-example-by-yousurname-611066.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-08-08T23:18:56.604Z",
+            "updatedAt": "2021-08-22T20:35:00.027Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "c686ca",
+        "7853a7",
+        "3c3e66",
+        "5d91d8",
+        "9dddf0",
+        "eff5f5",
+        "a3b0bb",
+        "676b8b",
+        "23232e",
+        "4d3347",
+        "8e516a",
+        "ce6374",
+        "f4ae70",
+        "f1de82",
+        "6fc453",
+        "3d8367"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "611065b28f112e0acfc503d8",
+        "type": "palettes",
+        "count": 22,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

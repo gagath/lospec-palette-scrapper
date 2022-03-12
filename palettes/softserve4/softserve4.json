@@ -1,0 +1,73 @@
+{
+    "_id": "60b43a328705ea0689a04f10",
+    "tags": [
+        "pastel",
+        "soft",
+        "light",
+        "vibrant"
+    ],
+    "colors": [
+        "e64270",
+        "64c1bd",
+        "ead762",
+        "e3e6e8"
+    ],
+    "downloads": "301",
+    "featured": false,
+    "likes": 39,
+    "comments": 0,
+    "slug": "softserve-4",
+    "publishedAt": "2021-09-15T21:20:00.060Z",
+    "user": {
+        "name": "Snowy Owl",
+        "slug": "snowy-owl"
+    },
+    "title": "SOFTSERVE 4",
+    "hashtag": "softserve4",
+    "description": "A small collection of four bright colors",
+    "creator": true,
+    "createdAt": "2021-05-31T01:21:54.598Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "612403b82d81e2225d159453",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "SOFTSERVE 4 Palette Example by Snowy Owl",
+            "slug": "softserve-4-palette-example-by-snowy-owl-2",
+            "publishedAt": "2021-08-23T20:35:00.031Z",
+            "user": {
+                "name": "Snowy Owl",
+                "slug": "snowy-owl"
+            },
+            "parent": "60b43a328705ea0689a04f10",
+            "image": "palette-examples/softserve-4-palette-example-by-snowy-owl-2-612403.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-08-23T20:23:20.059Z",
+            "updatedAt": "2021-08-23T20:35:00.031Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "e64270",
+        "64c1bd",
+        "ead762",
+        "e3e6e8"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60b43a328705ea0689a04f10",
+        "type": "palettes",
+        "count": 39,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

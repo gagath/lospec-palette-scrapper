@@ -1,0 +1,66 @@
+{
+    "_id": "5fcc588f659e9e6c86239b65",
+    "tags": [
+        "1bit"
+    ],
+    "colors": [
+        "b8c2b9",
+        "382b26"
+    ],
+    "downloads": "1,673",
+    "featured": false,
+    "likes": 143,
+    "comments": 2,
+    "title": "Paperback-2",
+    "hashtag": "paperback2",
+    "description": "A cool off-white and a warm off-black to evoke the pages of a manga magazine.",
+    "creator": true,
+    "slug": "paperback-2",
+    "publishedAt": "2020-12-12T01:25:00.036Z",
+    "user": {
+        "name": "Doph",
+        "slug": "dophsart"
+    },
+    "numberOfColors": 2,
+    "createdAt": "2020-12-06T04:05:35.088Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fcc5925659e9e6c86239b6f",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/paperback-2-palette-example-by-doph-5fcc59.png",
+            "creator": true,
+            "description": "",
+            "title": "Paperback-2 Palette Example by Doph",
+            "slug": "paperback-2-palette-example-by-doph",
+            "publishedAt": "2020-12-11T19:30:00.027Z",
+            "user": {
+                "name": "Doph",
+                "slug": "dophsart"
+            },
+            "parent": "5fcc588f659e9e6c86239b65",
+            "createdAt": "2020-12-06T04:08:05.386Z",
+            "updatedAt": "2020-12-11T19:30:00.027Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "b8c2b9",
+        "382b26"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "5fcc588f659e9e6c86239b65",
+        "type": "palettes",
+        "count": 143,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

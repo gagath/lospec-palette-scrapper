@@ -1,0 +1,48 @@
+{
+    "_id": "5f46df0d2a5e7044f90c0a7c",
+    "tags": [
+        "gameboy",
+        "space"
+    ],
+    "colors": [
+        "1f084d",
+        "3d4466",
+        "24b3b3",
+        "e2e6cf"
+    ],
+    "downloads": "259",
+    "featured": false,
+    "likes": 16,
+    "comments": 0,
+    "title": "Astro",
+    "hashtag": "astro",
+    "description": "A four colour Game Boy palette ideal for space themes.",
+    "creator": "1",
+    "slug": "astro",
+    "publishedAt": "2020-08-28T02:10:00.022Z",
+    "user": {
+        "name": "Calabi",
+        "slug": "calabigames"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-08-26T22:15:41.572Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "1f084d",
+        "3d4466",
+        "24b3b3",
+        "e2e6cf"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f46df0d2a5e7044f90c0a7c",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,79 @@
+{
+    "_id": "611e03244091246eeda8597f",
+    "tags": [
+        "retro",
+        "strongcolors",
+        "limited",
+        "bright",
+        "nes",
+        "zelda"
+    ],
+    "colors": [
+        "261f1f",
+        "c0aa74",
+        "f1f1d1",
+        "319835",
+        "0f4d32",
+        "ff2d2d"
+    ],
+    "downloads": "96",
+    "featured": false,
+    "likes": 9,
+    "comments": 2,
+    "slug": "journey-6",
+    "publishedAt": "2021-08-27T00:00:00.074Z",
+    "user": {
+        "name": "Momen",
+        "slug": "momen-aldebs"
+    },
+    "title": "JOURNEY 6",
+    "hashtag": "journey6",
+    "description": "\u00a0",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2021-08-19T07:07:16.030Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "611e0e7ab48cc07a017a2791",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "JOURNEY 6 Palette Example by Momen",
+            "slug": "journey-6-palette-example-by-momen-2",
+            "publishedAt": "2021-08-22T19:05:00.034Z",
+            "user": {
+                "name": "Momen",
+                "slug": "momen-aldebs"
+            },
+            "parent": "611e03244091246eeda8597f",
+            "image": "palette-examples/journey-6-palette-example-by-momen-2-611e0e.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-08-19T07:55:38.781Z",
+            "updatedAt": "2021-08-22T19:05:00.034Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "261f1f",
+        "c0aa74",
+        "f1f1d1",
+        "319835",
+        "0f4d32",
+        "ff2d2d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "611e03244091246eeda8597f",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

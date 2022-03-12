@@ -1,0 +1,76 @@
+{
+    "_id": "6207c0adc1940a43e5141388",
+    "tags": [
+        "2bit",
+        "monoramp",
+        "2bit",
+        "red",
+        "pink",
+        "sunset",
+        "warm"
+    ],
+    "colors": [
+        "523237",
+        "ab645a",
+        "e39b7f",
+        "f9cda6"
+    ],
+    "downloads": "370",
+    "featured": false,
+    "likes": 19,
+    "comments": 0,
+    "slug": "sunset-lantern",
+    "publishedAt": "2022-02-14T05:50:00.048Z",
+    "user": {
+        "name": "CopheeMoth",
+        "slug": "copheemoth"
+    },
+    "title": "Sunset Lantern",
+    "hashtag": "sunsetlantern",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2022-02-12T14:14:05.534Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6207c567c1940a43e51414c6",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Sunset Lantern Palette Example by CopheeMoth",
+            "slug": "sunset-lantern-palette-example-by-copheemothrhjy5x",
+            "publishedAt": "2022-02-14T02:00:00.050Z",
+            "user": {
+                "name": "CopheeMoth",
+                "slug": "copheemoth"
+            },
+            "parent": "6207c0adc1940a43e5141388",
+            "image": "palette-examples/sunset-lantern-palette-example-by-copheemothrhjy5x.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-02-12T14:34:15.309Z",
+            "updatedAt": "2022-02-14T02:00:00.050Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "523237",
+        "ab645a",
+        "e39b7f",
+        "f9cda6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6207c0adc1940a43e5141388",
+        "type": "palettes",
+        "count": 19,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

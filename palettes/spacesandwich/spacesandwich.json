@@ -1,0 +1,53 @@
+{
+    "_id": "5fe20d2e9e308d1c4309636a",
+    "tags": [],
+    "colors": [
+        "080808",
+        "bb46ac",
+        "a42712",
+        "e3712c",
+        "234b8c",
+        "42c6db",
+        "41a326",
+        "ffffff"
+    ],
+    "downloads": "19",
+    "featured": false,
+    "likes": 4,
+    "comments": 0,
+    "title": "SS-8",
+    "hashtag": "spacesandwich",
+    "description": "Simply an 8 colour palette by me",
+    "creator": true,
+    "slug": "ss-8",
+    "publishedAt": "2020-12-30T06:50:00.026Z",
+    "user": {
+        "name": "Space Sandwich",
+        "slug": "spacesandwich"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2020-12-22T15:13:50.581Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "080808",
+        "bb46ac",
+        "a42712",
+        "e3712c",
+        "234b8c",
+        "42c6db",
+        "41a326",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fe20d2e9e308d1c4309636a",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

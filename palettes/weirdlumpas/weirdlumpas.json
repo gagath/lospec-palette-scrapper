@@ -1,0 +1,51 @@
+{
+    "_id": "5e4b1b97eb80bd32ac8542c0",
+    "slug": "weird-lumpmas",
+    "description": "A festive palette created for the\u00a0<a href=\"https://fy.do/quilt/39\" target=\"_blank\">Weird Lumpmas</a>\u00a0fydoTiles quilt.",
+    "colors": [
+        "353a3a",
+        "edf3ff",
+        "6e8ece",
+        "ae3654",
+        "db7269",
+        "257953",
+        "57ce64"
+    ],
+    "creator": false,
+    "hashtag": "weirdlumpas",
+    "comments": 0,
+    "likes": 8,
+    "createdAt": "2020-02-17T23:02:47.443Z",
+    "featured": false,
+    "tags": [],
+    "downloads": "71",
+    "numberOfColors": 7,
+    "title": "Weird Lumpmas",
+    "user": {
+        "name": "P-Tux7",
+        "slug": "p-tux7"
+    },
+    "publishedAt": "2020-03-19T20:37:50.008Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "353a3a",
+        "edf3ff",
+        "6e8ece",
+        "ae3654",
+        "db7269",
+        "257953",
+        "57ce64"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5e4b1b97eb80bd32ac8542c0",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,57 @@
+{
+    "_id": "620bc8cf7dc41b46e257caf9",
+    "tags": [
+        "massillon",
+        "8colors",
+        "ohio"
+    ],
+    "colors": [
+        "eff1e1",
+        "d9c7b4",
+        "b19475",
+        "7f6a62",
+        "d1ddde",
+        "96b0b3",
+        "7a7a93",
+        "2c2c39"
+    ],
+    "downloads": "136",
+    "featured": false,
+    "likes": 12,
+    "comments": 0,
+    "slug": "massillon-8",
+    "publishedAt": "2022-02-15T15:40:00.043Z",
+    "user": {
+        "name": "Piken",
+        "slug": "pike"
+    },
+    "title": "Massillon-8",
+    "hashtag": "massillon8",
+    "description": "Massillon-6, but a grayer starter and 2 new dull colors",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2022-02-15T15:37:51.102Z",
+    "isNew": true,
+    "sortNewest": "2022-02-15T15:40:00.043Z",
+    "examples": [],
+    "colorsArray": [
+        "eff1e1",
+        "d9c7b4",
+        "b19475",
+        "7f6a62",
+        "d1ddde",
+        "96b0b3",
+        "7a7a93",
+        "2c2c39"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "620bc8cf7dc41b46e257caf9",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

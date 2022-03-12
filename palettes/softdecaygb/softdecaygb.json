@@ -1,0 +1,52 @@
+{
+    "_id": "5ff27aeacae7d4410987ab53",
+    "tags": [
+        "soft",
+        " decay",
+        " gb",
+        " 2bit",
+        " charm",
+        " 4"
+    ],
+    "colors": [
+        "2e2e2e",
+        "7d8282",
+        "e7c7df",
+        "f5f5f5"
+    ],
+    "downloads": "273",
+    "featured": false,
+    "likes": 29,
+    "comments": 2,
+    "title": "SoftDecay GB",
+    "hashtag": "softdecaygb",
+    "description": "",
+    "creator": true,
+    "slug": "softdecay-gb",
+    "publishedAt": "2021-01-11T14:20:00.020Z",
+    "user": {
+        "name": "Charm",
+        "slug": "charm"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-01-04T02:18:18.252Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "2e2e2e",
+        "7d8282",
+        "e7c7df",
+        "f5f5f5"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5ff27aeacae7d4410987ab53",
+        "type": "palettes",
+        "count": 29,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

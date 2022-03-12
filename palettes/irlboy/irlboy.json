@@ -1,0 +1,49 @@
+{
+    "_id": "6106d04042f4ff729e0c63ff",
+    "tags": [
+        "gameboy",
+        "gb",
+        "2bit"
+    ],
+    "colors": [
+        "2b4c2d",
+        "44633d",
+        "688139",
+        "908c0c"
+    ],
+    "downloads": "142",
+    "featured": false,
+    "likes": 8,
+    "comments": 0,
+    "slug": "irlboy",
+    "publishedAt": "2021-09-04T18:25:00.039Z",
+    "user": {
+        "name": "Malo",
+        "slug": "malo"
+    },
+    "title": "IRLBoy",
+    "hashtag": "irlboy",
+    "description": "A Gameboy Palette Taken From A Real Life Image Of A Gameboy Playing Tetris",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-08-01T16:48:00.730Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "2b4c2d",
+        "44633d",
+        "688139",
+        "908c0c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6106d04042f4ff729e0c63ff",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

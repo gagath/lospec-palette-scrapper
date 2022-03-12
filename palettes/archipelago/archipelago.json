@@ -1,0 +1,88 @@
+{
+    "_id": "61f18ad7160f324d673b585d",
+    "tags": [],
+    "colors": [
+        "294239",
+        "6b9452",
+        "9cad84",
+        "4a7394",
+        "4294ad",
+        "9cbdb5",
+        "ada5a5",
+        "ce426b",
+        "e76352",
+        "f7c6a5",
+        "4a4239",
+        "7b5a31",
+        "317b7b",
+        "6b9494"
+    ],
+    "downloads": "353",
+    "featured": false,
+    "likes": 22,
+    "comments": 0,
+    "slug": "archipelago",
+    "publishedAt": "2022-01-27T13:15:00.041Z",
+    "user": {
+        "name": "Evan Bowman",
+        "slug": "evan-bowman"
+    },
+    "title": "archipelago",
+    "hashtag": "archipelago",
+    "description": "An atmospheric yellow-biased palette, with dark tones lifted and pushed cooler.",
+    "creator": true,
+    "numberOfColors": 14,
+    "createdAt": "2022-01-26T17:54:31.602Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61f18c19160f324d673b5869",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "archipelago Palette Example by Evan Bowman",
+            "slug": "archipelago-palette-example-by-evan-bowmanwyoifi",
+            "publishedAt": "2022-01-29T01:35:00.183Z",
+            "user": {
+                "name": "Evan Bowman",
+                "slug": "evan-bowman"
+            },
+            "parent": "61f18ad7160f324d673b585d",
+            "image": "palette-examples/archipelago-palette-example-by-evan-bowmanwyoifi.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-01-26T17:59:53.764Z",
+            "updatedAt": "2022-01-29T01:35:00.184Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "294239",
+        "6b9452",
+        "9cad84",
+        "4a7394",
+        "4294ad",
+        "9cbdb5",
+        "ada5a5",
+        "ce426b",
+        "e76352",
+        "f7c6a5",
+        "4a4239",
+        "7b5a31",
+        "317b7b",
+        "6b9494"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "61f18ad7160f324d673b585d",
+        "type": "palettes",
+        "count": 22,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

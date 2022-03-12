@@ -1,0 +1,95 @@
+{
+    "_id": "61df11eea1570c7f5ff03fce",
+    "tags": [
+        "artist",
+        "anoob",
+        "14",
+        "colorful",
+        "intacto14",
+        "versatile"
+    ],
+    "colors": [
+        "221529",
+        "4b5561",
+        "879ba3",
+        "cbf5ef",
+        "62b4de",
+        "5660d6",
+        "5b29a6",
+        "d64562",
+        "f2735c",
+        "edbb8e",
+        "ab6375",
+        "522152",
+        "37ada2",
+        "8cde8c"
+    ],
+    "downloads": "445",
+    "featured": false,
+    "likes": 34,
+    "comments": 1,
+    "slug": "intacto14",
+    "publishedAt": "2022-01-15T12:45:00.074Z",
+    "user": {
+        "name": "ANoob",
+        "slug": "anoob"
+    },
+    "title": "Intacto14",
+    "hashtag": "intacto14",
+    "description": "The palette I'm using nowadays for my pixel arts, 14 colors distributed along 5 color ramps (Gray, Green, Blue, Red, Brown), aiming to be flexible in many circunstances, while still not having way too many colors. The most common colors were picked for this palette, which should cover most of your ideas.",
+    "creator": true,
+    "numberOfColors": 14,
+    "createdAt": "2022-01-12T17:37:50.269Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61df1263a1570c7f5ff03fd2",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Intacto14 Palette Example by ANoob",
+            "slug": "intacto14-palette-example-by-anoobxtjvx4",
+            "publishedAt": "2022-01-15T04:55:00.030Z",
+            "user": {
+                "name": "ANoob",
+                "slug": "anoob"
+            },
+            "parent": "61df11eea1570c7f5ff03fce",
+            "image": "palette-examples/intacto14-palette-example-by-anoobxtjvx4.png",
+            "creator": true,
+            "description": "An example showing how this palette can be used. There's also the color ramps at the left side, which shows how some of these ramps (such as Green and Blue, or Red and Brown) connect with each other.",
+            "createdAt": "2022-01-12T17:39:47.855Z",
+            "updatedAt": "2022-01-15T04:55:00.031Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "An example showing how this palette can be used. There's also the color ramps at the left side, which shows how some of these ramps (such as Green and Blue, or Red and Brown) connect with each other."
+        }
+    ],
+    "colorsArray": [
+        "221529",
+        "4b5561",
+        "879ba3",
+        "cbf5ef",
+        "62b4de",
+        "5660d6",
+        "5b29a6",
+        "d64562",
+        "f2735c",
+        "edbb8e",
+        "ab6375",
+        "522152",
+        "37ada2",
+        "8cde8c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "61df11eea1570c7f5ff03fce",
+        "type": "palettes",
+        "count": 34,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

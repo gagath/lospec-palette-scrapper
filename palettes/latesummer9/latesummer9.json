@@ -1,0 +1,55 @@
+{
+    "_id": "5e847798aefe550d23b59f5c",
+    "title": "latesummer",
+    "slug": "latesummer",
+    "description": "A very small palette with only 9 colors that remind me of late summer",
+    "colors": [
+        "254e70",
+        "37718e",
+        "8ee3ef",
+        "a30000",
+        "ff7700",
+        "e8c547",
+        "118a45",
+        "60b426",
+        "bed558"
+    ],
+    "user": {
+        "name": "mmg28rtt",
+        "slug": "mmg28rtt"
+    },
+    "creator": true,
+    "hashtag": "latesummer9",
+    "publishedAt": "2020-04-02T21:34:50.581Z",
+    "createdAt": "2020-04-01T11:14:32.483Z",
+    "comments": 0,
+    "likes": 3,
+    "featured": false,
+    "tags": [],
+    "downloads": "90",
+    "numberOfColors": 9,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "254e70",
+        "37718e",
+        "8ee3ef",
+        "a30000",
+        "ff7700",
+        "e8c547",
+        "118a45",
+        "60b426",
+        "bed558"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5e847798aefe550d23b59f5c",
+        "type": "palettes",
+        "count": 3,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

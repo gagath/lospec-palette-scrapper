@@ -1,0 +1,74 @@
+{
+    "_id": "603decb7489f5763acf990a4",
+    "tags": [
+        "ice",
+        "cold",
+        "polxphorge",
+        "gb",
+        "stone"
+    ],
+    "colors": [
+        "f5fffa",
+        "5792a5",
+        "46393f",
+        "161327"
+    ],
+    "downloads": "220",
+    "featured": false,
+    "likes": 19,
+    "comments": 1,
+    "title": "dead ice",
+    "hashtag": "dicepal",
+    "description": "",
+    "creator": true,
+    "slug": "dead-ice",
+    "publishedAt": "2021-03-10T05:40:00.024Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-03-02T07:43:51.429Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60417a035a572e52b1095aab",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/dead-ice-palette-example-by-polyphorge-3-60417a.png",
+            "creator": true,
+            "description": "i hope this is better :)",
+            "title": "dead ice Palette Example by polyphorge",
+            "slug": "dead-ice-palette-example-by-polyphorge-3",
+            "publishedAt": "2021-03-05T01:25:00.020Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "603decb7489f5763acf990a4",
+            "createdAt": "2021-03-05T00:23:31.994Z",
+            "updatedAt": "2021-03-05T01:25:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "i hope this is better :)"
+        }
+    ],
+    "colorsArray": [
+        "f5fffa",
+        "5792a5",
+        "46393f",
+        "161327"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "603decb7489f5763acf990a4",
+        "type": "palettes",
+        "count": 19,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

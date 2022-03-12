@@ -1,0 +1,51 @@
+{
+    "_id": "616cc84b3b8f9d11040ea103",
+    "tags": [
+        "gameboy",
+        "2bit",
+        "4",
+        "blue",
+        "bluish"
+    ],
+    "colors": [
+        "13242f",
+        "2b4455",
+        "456778",
+        "7193a2"
+    ],
+    "downloads": "181",
+    "featured": false,
+    "likes": 6,
+    "comments": 0,
+    "slug": "2-bit-blue",
+    "publishedAt": "2021-10-19T15:45:00.021Z",
+    "user": {
+        "name": "twins white",
+        "slug": "twins-white"
+    },
+    "title": "2-bit Blue",
+    "hashtag": "blue2bit",
+    "description": "2-Bit Color Palette made of bluish color.",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-10-18T01:05:15.299Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "13242f",
+        "2b4455",
+        "456778",
+        "7193a2"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "616cc84b3b8f9d11040ea103",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

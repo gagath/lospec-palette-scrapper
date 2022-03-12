@@ -1,0 +1,45 @@
+{
+    "_id": "5ebb1349c73c067754dd8291",
+    "tags": [],
+    "colors": [
+        "1a0438",
+        "1c585f",
+        "5b7324",
+        "c19a5c"
+    ],
+    "downloads": "70",
+    "featured": false,
+    "likes": 12,
+    "comments": 0,
+    "title": "Jm ",
+    "hashtag": "jmp",
+    "description": "",
+    "creator": "1",
+    "slug": "jm",
+    "publishedAt": "2020-05-16T00:20:00.011Z",
+    "user": {
+        "name": "Just Maks Pixel",
+        "slug": "makspixel"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-05-12T21:21:13.900Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "1a0438",
+        "1c585f",
+        "5b7324",
+        "c19a5c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5ebb1349c73c067754dd8291",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,70 @@
+{
+    "_id": "5f0e0c2bc0d9234877bdfb49",
+    "tags": [
+        "blushgb"
+    ],
+    "colors": [
+        "fe9192",
+        "fcdebe",
+        "0cc0d4",
+        "5e5768"
+    ],
+    "downloads": "392",
+    "featured": false,
+    "likes": 47,
+    "comments": 0,
+    "title": "Blush GB",
+    "hashtag": "blushgb",
+    "description": "four color GB palette",
+    "creator": true,
+    "slug": "blush-gb",
+    "publishedAt": "2020-07-15T15:45:00.012Z",
+    "user": {
+        "name": "fro",
+        "slug": "its-fro"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-07-14T19:48:59.838Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60792bb440b13015edd6df9e",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Blush GB Palette Example by Casei Solus",
+            "slug": "blush-gb-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-16T22:25:00.043Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5f0e0c2bc0d9234877bdfb49",
+            "image": "palette-examples/blush-gb-palette-example-by-casei-solus-60792b.png",
+            "creator": true,
+            "description": "A beach.",
+            "createdAt": "2021-04-16T06:16:20.578Z",
+            "updatedAt": "2021-04-16T22:25:00.044Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A beach."
+        }
+    ],
+    "colorsArray": [
+        "fe9192",
+        "fcdebe",
+        "0cc0d4",
+        "5e5768"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f0e0c2bc0d9234877bdfb49",
+        "type": "palettes",
+        "count": 47,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

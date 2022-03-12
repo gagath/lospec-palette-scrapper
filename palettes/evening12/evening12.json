@@ -1,0 +1,66 @@
+{
+    "_id": "5da748dfaa69083e54c812fe",
+    "slug": "evening12",
+    "description": "A more saturated and warmer 12-color variation on <a href=\"https://lospec.com/palette-list/evening10\" target=\"_blank\">Evening10</a>",
+    "colors": [
+        "1b0d1f",
+        "2c329f",
+        "51a6ee",
+        "aeddca",
+        "f5f5ce",
+        "c75684",
+        "9a212d",
+        "3d152a",
+        "a85639",
+        "e6b543",
+        "729f7c",
+        "344233"
+    ],
+    "creator": true,
+    "comments": 0,
+    "likes": 12,
+    "createdAt": "2019-10-16T16:44:15.709Z",
+    "featured": false,
+    "tags": [
+        "12",
+        "evening",
+        "artist",
+        "slavfox"
+    ],
+    "downloads": "164",
+    "numberOfColors": 12,
+    "hashtag": "evening12",
+    "title": "Evening12",
+    "user": {
+        "name": "Slavfox",
+        "slug": "slavfoxman"
+    },
+    "publishedAt": "2019-10-16T16:44:15.709Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "1b0d1f",
+        "2c329f",
+        "51a6ee",
+        "aeddca",
+        "f5f5ce",
+        "c75684",
+        "9a212d",
+        "3d152a",
+        "a85639",
+        "e6b543",
+        "729f7c",
+        "344233"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5da748dfaa69083e54c812fe",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

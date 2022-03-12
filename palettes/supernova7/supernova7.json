@@ -1,0 +1,70 @@
+{
+    "_id": "5c646881513160703e9e7bf7",
+    "slug": "supernova-7",
+    "description": "Created by <a target=\"_blank\" href=\"https://twitter.com/PhoenixArtOffi1\">Blue Phoenix</a>",
+    "colors": [
+        "1a080e",
+        "3d203b",
+        "543246",
+        "773a4d",
+        "a75252",
+        "cf7862",
+        "ffce9c"
+    ],
+    "tags": [
+        "artist",
+        "bluephoenix",
+        "monoramp"
+    ],
+    "downloads": "2,686",
+    "numberOfColors": 7,
+    "createdAt": "2019-02-13T18:57:05.826Z",
+    "likes": 137,
+    "comments": 1,
+    "hashtag": "supernova7",
+    "title": "Supernova 7",
+    "creator": false,
+    "featured": false,
+    "publishedAt": "2019-02-13T18:57:05.826Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5c64694b513160703e9e7bf8",
+            "description": "Palette usage example by <a target=\"_blank\" href=\"https://twitter.com/PhoenixArtOffi1\">Blue Phoenix</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.164Z",
+            "creator": false,
+            "image": "palette-examples/supernova-7-palette-example-palette-usage-example-by-blue-phoenix-5c6469.png",
+            "likes": 0,
+            "parent": "5c646881513160703e9e7bf7",
+            "slug": "supernova-7-palette-example-palette-usage-example-by-blue-phoenix",
+            "title": "supernova 7 palette example palette usage example by blue phoenix",
+            "updatedAt": "2020-07-31T03:56:11.164Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Blue Phoenix"
+        }
+    ],
+    "colorsArray": [
+        "1a080e",
+        "3d203b",
+        "543246",
+        "773a4d",
+        "a75252",
+        "cf7862",
+        "ffce9c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5c646881513160703e9e7bf7",
+        "type": "palettes",
+        "count": 137,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

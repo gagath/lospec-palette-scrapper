@@ -1,0 +1,63 @@
+{
+    "_id": "60e40389e350803b47e6c3f9",
+    "tags": [
+        "vibe",
+        "snythwave",
+        "lofi",
+        "chill",
+        "10"
+    ],
+    "colors": [
+        "ffb845",
+        "fb7974",
+        "f97698",
+        "ce5f9f",
+        "a348a6",
+        "8549ad",
+        "674ab3",
+        "556dc8",
+        "6783db",
+        "7998ee"
+    ],
+    "downloads": "246",
+    "featured": false,
+    "likes": 15,
+    "comments": 0,
+    "slug": "hyperchill-10",
+    "publishedAt": "2021-07-25T09:05:00.034Z",
+    "user": {
+        "name": "woopertrooper",
+        "slug": "woopertrooper"
+    },
+    "title": "HYPERCHILL-10",
+    "hashtag": "hyperchill10",
+    "description": "A palette for lofi, snythwave and chill things",
+    "creator": true,
+    "numberOfColors": 10,
+    "createdAt": "2021-07-06T07:17:29.202Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffb845",
+        "fb7974",
+        "f97698",
+        "ce5f9f",
+        "a348a6",
+        "8549ad",
+        "674ab3",
+        "556dc8",
+        "6783db",
+        "7998ee"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "60e40389e350803b47e6c3f9",
+        "type": "palettes",
+        "count": 15,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

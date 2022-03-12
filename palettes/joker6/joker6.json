@@ -1,0 +1,79 @@
+{
+    "_id": "61f77c103b2cc9504147b7e9",
+    "tags": [
+        "joker",
+        "cards",
+        "red",
+        "white",
+        "black",
+        "persona5"
+    ],
+    "colors": [
+        "ef1a1a",
+        "ac1717",
+        "f3d8d8",
+        "b18b8b",
+        "353441",
+        "1b1a1d"
+    ],
+    "downloads": "281",
+    "featured": false,
+    "likes": 34,
+    "comments": 2,
+    "slug": "joker-6",
+    "publishedAt": "2022-01-31T21:15:00.045Z",
+    "user": {
+        "name": "Beta Lyn",
+        "slug": "betalyn"
+    },
+    "title": "Joker-6",
+    "hashtag": "joker6",
+    "description": "A small 6 color palette inspired by classic playing cards.",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2022-01-31T06:05:04.913Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61f77c343b2cc9504147b7eb",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Joker-6 Palette Example by Beta Lyn",
+            "slug": "joker-6-palette-example-by-beta-lynlp4rxl",
+            "publishedAt": "2022-01-31T14:50:00.026Z",
+            "user": {
+                "name": "Beta Lyn",
+                "slug": "betalyn"
+            },
+            "parent": "61f77c103b2cc9504147b7e9",
+            "image": "palette-examples/joker-6-palette-example-by-beta-lynlp4rxl.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-01-31T06:05:40.376Z",
+            "updatedAt": "2022-01-31T14:50:00.027Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "ef1a1a",
+        "ac1717",
+        "f3d8d8",
+        "b18b8b",
+        "353441",
+        "1b1a1d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "61f77c103b2cc9504147b7e9",
+        "type": "palettes",
+        "count": 34,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

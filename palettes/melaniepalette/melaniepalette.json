@@ -1,0 +1,59 @@
+{
+    "_id": "6147475771cb82489e41669f",
+    "tags": [
+        "pink",
+        "pastel",
+        "portrait"
+    ],
+    "colors": [
+        "fdd8c0",
+        "ffa9a4",
+        "c28189",
+        "d7717c",
+        "a85059",
+        "9b87bb",
+        "5b5474",
+        "40293c",
+        "c0c5cf"
+    ],
+    "downloads": "88",
+    "featured": false,
+    "likes": 5,
+    "comments": 0,
+    "slug": "melanie",
+    "publishedAt": "2021-10-10T15:45:00.027Z",
+    "user": {
+        "name": "Drew McN",
+        "slug": "drew-mcn"
+    },
+    "title": "Melanie",
+    "hashtag": "melaniepalette",
+    "description": "A palette I adapted from a reddit post by /u/yaskeey using pastel pinks, purples and reds. Original post: https://www.reddit.com/r/PixelArt/comments/hn4c75/oc_portrait_of_my_wife/",
+    "creator": false,
+    "numberOfColors": 9,
+    "createdAt": "2021-09-19T14:21:11.023Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "fdd8c0",
+        "ffa9a4",
+        "c28189",
+        "d7717c",
+        "a85059",
+        "9b87bb",
+        "5b5474",
+        "40293c",
+        "c0c5cf"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "6147475771cb82489e41669f",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

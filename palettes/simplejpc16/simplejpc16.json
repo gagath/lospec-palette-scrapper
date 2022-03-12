@@ -1,0 +1,91 @@
+{
+    "_id": "5abadc5a67e4ea46986012d5",
+    "createdAt": "2018-03-28T00:05:46.612Z",
+    "slug": "simplejpc-16",
+    "description": "Inspired by 1980s Japanese computer palettes including the MSX and PC88.",
+    "colors": [
+        "050403",
+        "221f31",
+        "543516",
+        "9b6e2d",
+        "e1b047",
+        "f5ee9b",
+        "fefefe",
+        "8be1e0",
+        "7cc264",
+        "678fcb",
+        "316f23",
+        "404a68",
+        "a14d3f",
+        "a568d4",
+        "9a93b7",
+        "ea9182"
+    ],
+    "tags": [
+        "artist",
+        "adigunpolack"
+    ],
+    "downloads": "868",
+    "numberOfColors": 16,
+    "featured": false,
+    "likes": 19,
+    "comments": 1,
+    "creator": true,
+    "hashtag": "simplejpc16",
+    "title": "SimpleJPC-16",
+    "user": {
+        "name": "Adigun A. Polack",
+        "slug": "adigunpolack"
+    },
+    "publishedAt": "2018-03-28T00:05:46.612Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5abadc8967e4ea46986012d6",
+            "description": "<a target=\"_blank\" href=\"https://twitter.com/AdigunPolack/status/978086591485882368\">Palette usage example</a> by <a href=\"https://twitter.com/AdigunPolack\">Adigun Polack</a>.",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.091Z",
+            "creator": false,
+            "image": "palette-examples/simplejpc-16-palette-example-palette-usage-example-by-adigun-polack-5abadc.png",
+            "likes": 0,
+            "parent": "5abadc5a67e4ea46986012d5",
+            "slug": "simplejpc-16-palette-example-palette-usage-example-by-adigun-polack",
+            "title": "simplejpc 16 palette example palette usage example by adigun polack",
+            "updatedAt": "2020-07-31T03:56:11.091Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Adigun Polack."
+        }
+    ],
+    "colorsArray": [
+        "050403",
+        "221f31",
+        "543516",
+        "9b6e2d",
+        "e1b047",
+        "f5ee9b",
+        "fefefe",
+        "8be1e0",
+        "7cc264",
+        "678fcb",
+        "316f23",
+        "404a68",
+        "a14d3f",
+        "a568d4",
+        "9a93b7",
+        "ea9182"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5abadc5a67e4ea46986012d5",
+        "type": "palettes",
+        "count": 19,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

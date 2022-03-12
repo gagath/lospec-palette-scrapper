@@ -1,0 +1,68 @@
+{
+    "_id": "600ee8040350353b4a30e4e2",
+    "tags": [],
+    "colors": [
+        "266b90",
+        "9b63bf",
+        "e477b6",
+        "fff3f3"
+    ],
+    "downloads": "179",
+    "featured": false,
+    "likes": 27,
+    "comments": 1,
+    "title": "That one tacobell table",
+    "hashtag": "thatonetacobelltable",
+    "description": "so I saw a picture of a TacoBell table and I liked the colors so here we are.",
+    "creator": true,
+    "slug": "that-one-tacobell-table",
+    "publishedAt": "2021-02-15T08:40:00.019Z",
+    "user": {
+        "name": "joshuadinada",
+        "slug": "joshuadinada"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-01-25T15:47:16.567Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607f7430f65947763bd0ac41",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "That one tacobell table Palette Example by Casei Solus",
+            "slug": "that-one-tacobell-table-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-21T16:40:00.020Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "600ee8040350353b4a30e4e2",
+            "image": "palette-examples/that-one-tacobell-table-palette-example-by-casei-solus-607f74.png",
+            "creator": true,
+            "description": "Memphis abstract.",
+            "createdAt": "2021-04-21T00:39:12.447Z",
+            "updatedAt": "2021-04-21T16:40:00.020Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Memphis abstract."
+        }
+    ],
+    "colorsArray": [
+        "266b90",
+        "9b63bf",
+        "e477b6",
+        "fff3f3"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "600ee8040350353b4a30e4e2",
+        "type": "palettes",
+        "count": 27,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

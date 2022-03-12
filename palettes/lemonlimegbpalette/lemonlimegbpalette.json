@@ -1,0 +1,71 @@
+{
+    "_id": "60d36c4c0d38e80ec2d9e8be",
+    "tags": [
+        "gameboy",
+        "bright"
+    ],
+    "colors": [
+        "cdb81b",
+        "afb525",
+        "87b133",
+        "5fad41"
+    ],
+    "downloads": "77",
+    "featured": false,
+    "likes": 11,
+    "comments": 0,
+    "slug": "lemonlime-gb",
+    "publishedAt": "2021-07-11T10:05:00.017Z",
+    "user": {
+        "name": "Anonymous Person",
+        "slug": "anonymous-person"
+    },
+    "title": "LemonLime GB",
+    "hashtag": "lemonlimegbpalette",
+    "description": "My first attempt on creating a gameboy color palette.",
+    "creator": true,
+    "createdAt": "2021-06-23T17:15:56.771Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60d36fef0d38e80ec2d9ef72",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "LemonLime GB Palette Example by Anonymous Person",
+            "slug": "lemonlime-gb-palette-example-by-anonymous-person",
+            "publishedAt": "2021-07-05T23:30:00.053Z",
+            "user": {
+                "name": "Anonymous Person",
+                "slug": "anonymous-person"
+            },
+            "parent": "60d36c4c0d38e80ec2d9e8be",
+            "image": "palette-examples/lemonlime-gb-palette-example-by-anonymous-person-60d36f.png",
+            "creator": true,
+            "description": "Pixel art displaying the LemonLime GB palette.",
+            "createdAt": "2021-06-23T17:31:27.959Z",
+            "updatedAt": "2021-07-05T23:30:00.054Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Pixel art displaying the LemonLime GB palette."
+        }
+    ],
+    "colorsArray": [
+        "cdb81b",
+        "afb525",
+        "87b133",
+        "5fad41"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60d36c4c0d38e80ec2d9e8be",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

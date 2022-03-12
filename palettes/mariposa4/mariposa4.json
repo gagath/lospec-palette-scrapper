@@ -1,0 +1,73 @@
+{
+    "_id": "615c053c2e9e9066d129100f",
+    "tags": [
+        "monoramp",
+        "moth",
+        "2bit",
+        "mahogany"
+    ],
+    "colors": [
+        "eacfb2",
+        "c69478",
+        "8a5543",
+        "441d1f"
+    ],
+    "downloads": "178",
+    "featured": false,
+    "likes": 16,
+    "comments": 0,
+    "slug": "mariposa-4",
+    "publishedAt": "2021-10-15T01:45:00.030Z",
+    "user": {
+        "name": "CopheeMoth",
+        "slug": "copheemoth"
+    },
+    "title": "Mariposa 4",
+    "hashtag": "mariposa4",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-10-05T07:56:44.002Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "616943c303cdb562f08ed8fb",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Mariposa 4 Palette Example by CopheeMoth \u2615",
+            "slug": "mariposa-4-palette-example-by-copheemoth",
+            "publishedAt": "2021-10-15T10:05:00.033Z",
+            "user": {
+                "name": "CopheeMoth",
+                "slug": "copheemoth"
+            },
+            "parent": "615c053c2e9e9066d129100f",
+            "image": "palette-examples/mariposa-4-palette-example-by-copheemoth-616943.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-10-15T09:02:59.866Z",
+            "updatedAt": "2021-10-15T10:05:00.034Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "eacfb2",
+        "c69478",
+        "8a5543",
+        "441d1f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "615c053c2e9e9066d129100f",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,84 @@
+{
+    "_id": "61357c7aff64b534a720acf9",
+    "tags": [
+        "monoramp",
+        "green",
+        "blue"
+    ],
+    "colors": [
+        "0d0613",
+        "051722",
+        "012c43",
+        "114b60",
+        "237178",
+        "399478",
+        "57b67f",
+        "6bd077",
+        "85e879",
+        "9ff26e"
+    ],
+    "downloads": "352",
+    "featured": false,
+    "likes": 17,
+    "comments": 0,
+    "slug": "emphasis10",
+    "publishedAt": "2021-10-03T20:45:00.062Z",
+    "user": {
+        "name": "Glowberry",
+        "slug": "glowberry"
+    },
+    "title": "Emphasis10 ",
+    "hashtag": "emphasis10",
+    "description": "Purply blues turning to vibrant greens, colorful and zesty.",
+    "creator": true,
+    "numberOfColors": 10,
+    "createdAt": "2021-09-06T02:27:06.328Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61369f4d99b7882ef4ca825d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Emphasis10  Palette Example by Glowberry",
+            "slug": "emphasis10-palette-example-by-glowberry",
+            "publishedAt": "2021-09-07T09:50:00.016Z",
+            "user": {
+                "name": "Glowberry",
+                "slug": "glowberry"
+            },
+            "parent": "61357c7aff64b534a720acf9",
+            "image": "palette-examples/emphasis10-palette-example-by-glowberry-61369f.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-09-06T23:07:57.933Z",
+            "updatedAt": "2021-09-07T09:50:00.016Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "0d0613",
+        "051722",
+        "012c43",
+        "114b60",
+        "237178",
+        "399478",
+        "57b67f",
+        "6bd077",
+        "85e879",
+        "9ff26e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "61357c7aff64b534a720acf9",
+        "type": "palettes",
+        "count": 17,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

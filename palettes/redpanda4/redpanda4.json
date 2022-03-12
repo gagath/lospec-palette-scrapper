@@ -1,0 +1,48 @@
+{
+    "_id": "61bb7fa1b91b202eaa120c95",
+    "tags": [
+        "2bit",
+        "gb"
+    ],
+    "colors": [
+        "03030f",
+        "ff5730",
+        "bbc1c4",
+        "fde4d4"
+    ],
+    "downloads": "35",
+    "featured": false,
+    "likes": 5,
+    "comments": 0,
+    "slug": "red-panda",
+    "publishedAt": "2021-12-21T20:30:00.048Z",
+    "user": {
+        "name": "maine",
+        "slug": "maine"
+    },
+    "title": "red panda",
+    "hashtag": "redpanda4",
+    "description": "honestly had no idea where i was going with this, not really a good ramp just four colors i really like lol",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-12-16T18:04:17.574Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "03030f",
+        "ff5730",
+        "bbc1c4",
+        "fde4d4"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61bb7fa1b91b202eaa120c95",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

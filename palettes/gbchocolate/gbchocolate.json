@@ -1,0 +1,62 @@
+{
+    "_id": "5a4ac3545441860b93594c7a",
+    "createdAt": "2018-01-01T23:25:08.017Z",
+    "slug": "gb-chocolate",
+    "description": "Custom <a href=\"https://en.wikipedia.org/wiki/Game_Boy\">Gameboy</a> alternative made by <a href=\"http://grafxkid.tumblr.com/palettes\" target=\"_blank\">GrafxKid</a>.",
+    "colors": [
+        "ffe4c2",
+        "dca456",
+        "a9604c",
+        "422936"
+    ],
+    "tags": [
+        "artist",
+        "grafxkid",
+        "gameboy"
+    ],
+    "downloads": "1,887",
+    "numberOfColors": 4,
+    "likes": 41,
+    "comments": 0,
+    "hashtag": "gbchocolate",
+    "title": "GB Chocolate",
+    "publishedAt": "2018-01-01T23:25:08.017Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5a4ac4b25441860b93594c7b",
+            "description": "Screenshots from various GameBoy games.",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.079Z",
+            "creator": false,
+            "image": "palette-examples/gb-chocolate-palette-example-screenshots-from-various-gameboy-games-5a4ac4.png",
+            "likes": 0,
+            "parent": "5a4ac3545441860b93594c7a",
+            "slug": "gb-chocolate-palette-example-screenshots-from-various-gameboy-games",
+            "title": "gb chocolate palette example screenshots from various gameboy games",
+            "updatedAt": "2020-07-31T03:56:11.079Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Screenshots from various GameBoy games."
+        }
+    ],
+    "colorsArray": [
+        "ffe4c2",
+        "dca456",
+        "a9604c",
+        "422936"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5a4ac3545441860b93594c7a",
+        "type": "palettes",
+        "count": 41,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,59 @@
+{
+    "_id": "5fc8c7b2e735e16b0b9921b6",
+    "tags": [
+        "colorblind",
+        "ibm",
+        "safe",
+        "deuteranopia",
+        "protanopia",
+        "tritanopia",
+        "friendly"
+    ],
+    "colors": [
+        "648fff",
+        "785ef0",
+        "dc267f",
+        "fe6100",
+        "ffb000",
+        "000000",
+        "ffffff"
+    ],
+    "downloads": "259",
+    "featured": false,
+    "likes": 9,
+    "comments": 0,
+    "title": "IBM Color Blind Safe",
+    "hashtag": "ibmcolorblindsafe",
+    "description": "Color Blind Safe Palette of IBM Design Language v1\u00a0Color Names: Ultramarine 40, Indigo 50, Magenta 50\r\n, Orange 40, Gold 20, Black 100, White 0",
+    "creator": false,
+    "slug": "ibm-color-blind-safe",
+    "publishedAt": "2020-12-08T01:45:00.033Z",
+    "user": {
+        "name": "\u00c1d\u00e1m Szieberth",
+        "slug": "adam-szieberth"
+    },
+    "numberOfColors": 7,
+    "createdAt": "2020-12-03T11:10:42.387Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "648fff",
+        "785ef0",
+        "dc267f",
+        "fe6100",
+        "ffb000",
+        "000000",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5fc8c7b2e735e16b0b9921b6",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

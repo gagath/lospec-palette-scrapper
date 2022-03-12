@@ -1,0 +1,92 @@
+{
+    "_id": "5efc7e02d619180b1af671e6",
+    "tags": [
+        "artist",
+        "tinylittlegirl",
+        "vivathis"
+    ],
+    "colors": [
+        "d3e4d3",
+        "7c8477",
+        "181d1a"
+    ],
+    "downloads": "418",
+    "featured": false,
+    "likes": 29,
+    "comments": 2,
+    "title": "TinyLittleGirl",
+    "hashtag": "tinylittlegirl",
+    "description": "My first 100% custom color palette. <br />",
+    "creator": true,
+    "slug": "tinylittlegirl",
+    "publishedAt": "2020-07-02T11:40:00.007Z",
+    "user": {
+        "name": "VivaThis",
+        "slug": "viva-this"
+    },
+    "numberOfColors": 3,
+    "createdAt": "2020-07-01T12:13:54.569Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6077b19e16f8450fae0b8173",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "TinyLittleGirl Palette Example by Casei Solus",
+            "slug": "tinylittlegirl-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-16T23:20:00.015Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5efc7e02d619180b1af671e6",
+            "image": "palette-examples/tinylittlegirl-palette-example-by-casei-solus-6077b1.png",
+            "creator": true,
+            "description": "A mountain range.",
+            "createdAt": "2021-04-15T03:23:10.916Z",
+            "updatedAt": "2021-04-16T23:20:00.016Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A mountain range."
+        },
+        {
+            "_id": "614facdb8d4418318c351a57",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "TinyLittleGirl Palette Example by nkoder",
+            "slug": "tinylittlegirl-palette-example-by-nkoder",
+            "publishedAt": "2021-09-27T20:30:00.048Z",
+            "user": {
+                "name": "Beetroot Paul",
+                "slug": "beetrootpaul"
+            },
+            "parent": "5efc7e02d619180b1af671e6",
+            "image": "palette-examples/tinylittlegirl-palette-example-by-nkoder-614fac.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-09-25T23:12:27.846Z",
+            "updatedAt": "2021-09-27T20:30:00.049Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "d3e4d3",
+        "7c8477",
+        "181d1a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 33.333333333333336,
+    "height": 32,
+    "likebutton": {
+        "content": "5efc7e02d619180b1af671e6",
+        "type": "palettes",
+        "count": 29,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

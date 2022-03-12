@@ -1,0 +1,113 @@
+{
+    "_id": "5f20e35d61902a7515b2eed2",
+    "tags": [
+        "artist",
+        " shinytseul",
+        " nature",
+        " desaturated"
+    ],
+    "colors": [
+        "66382e",
+        "2d4d26",
+        "5d804d",
+        "b3955a",
+        "995c3d",
+        "992e2e",
+        "383159",
+        "394c73",
+        "4d7f99",
+        "adbdcc",
+        "828499",
+        "5c5766",
+        "19161a"
+    ],
+    "downloads": "125",
+    "featured": false,
+    "likes": 11,
+    "comments": 0,
+    "title": "Faded Nature 13",
+    "hashtag": "fadednature13",
+    "description": "",
+    "creator": "1",
+    "slug": "faded-nature-13",
+    "publishedAt": "2020-08-12T07:15:00.019Z",
+    "user": {
+        "name": "ShinyTseul",
+        "slug": "shinytseul"
+    },
+    "numberOfColors": 13,
+    "createdAt": "2020-07-29T02:47:57.262Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f4f104137cce843d03d54d1",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/faded-nature-13-palette-example-by-shinytseul-3-5f4f10.png",
+            "creator": true,
+            "description": "A savannah scene with a parrot",
+            "title": "Faded Nature 13 Palette Example by ShinyTseul",
+            "slug": "faded-nature-13-palette-example-by-shinytseul-3",
+            "publishedAt": "2020-09-04T15:50:00.019Z",
+            "user": {
+                "name": "ShinyTseul",
+                "slug": "shinytseul"
+            },
+            "parent": "5f20e35d61902a7515b2eed2",
+            "createdAt": "2020-09-02T03:23:45.426Z",
+            "updatedAt": "2020-09-04T15:50:00.019Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A savannah scene with a parrot"
+        },
+        {
+            "_id": "5f5850867a32943e6f3eb7f1",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/faded-nature-13-palette-example-by-shinytseul-4-5f5850.png",
+            "creator": true,
+            "description": "A woman sitting near a cat-like thing (not a real cat)",
+            "title": "Faded Nature 13 Palette Example by ShinyTseul",
+            "slug": "faded-nature-13-palette-example-by-shinytseul-4",
+            "publishedAt": "2020-09-09T03:55:00.011Z",
+            "user": {
+                "name": "ShinyTseul",
+                "slug": "shinytseul"
+            },
+            "parent": "5f20e35d61902a7515b2eed2",
+            "createdAt": "2020-09-09T03:48:22.213Z",
+            "updatedAt": "2020-09-09T03:55:00.012Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": "A woman sitting near a cat-like thing (not a real cat)"
+        }
+    ],
+    "colorsArray": [
+        "66382e",
+        "2d4d26",
+        "5d804d",
+        "b3955a",
+        "995c3d",
+        "992e2e",
+        "383159",
+        "394c73",
+        "4d7f99",
+        "adbdcc",
+        "828499",
+        "5c5766",
+        "19161a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5f20e35d61902a7515b2eed2",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

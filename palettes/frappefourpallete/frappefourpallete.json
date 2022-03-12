@@ -1,0 +1,48 @@
+{
+    "_id": "5f1f3593933a24422e92f983",
+    "tags": [
+        "4",
+        "coffee"
+    ],
+    "colors": [
+        "ffedbd",
+        "be9569",
+        "7d3d15",
+        "3d1606"
+    ],
+    "downloads": "165",
+    "featured": false,
+    "likes": 11,
+    "comments": 0,
+    "title": "Frappe Four",
+    "hashtag": "frappefourpallete",
+    "description": "",
+    "creator": "1",
+    "slug": "frappe-four",
+    "publishedAt": "2020-07-29T06:00:00.019Z",
+    "user": {
+        "name": "PolyRoly",
+        "slug": "polyroly"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-07-27T20:14:11.958Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffedbd",
+        "be9569",
+        "7d3d15",
+        "3d1606"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f1f3593933a24422e92f983",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

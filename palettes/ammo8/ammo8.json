@@ -1,0 +1,73 @@
+{
+    "_id": "5c2bd195a5ae5a66b54876fd",
+    "slug": "ammo-8",
+    "description": "Created by <a target=\"_blank\" href=\"https://twitter.com/rsvpasap1\">rsvp asap</a>.",
+    "colors": [
+        "040c06",
+        "112318",
+        "1e3a29",
+        "305d42",
+        "4d8061",
+        "89a257",
+        "bedc7f",
+        "eeffcc"
+    ],
+    "tags": [
+        "artist",
+        "rsvpasap",
+        "monochrome",
+        "monoramp"
+    ],
+    "downloads": "7,314",
+    "numberOfColors": 8,
+    "createdAt": "2019-01-01T20:46:13.428Z",
+    "likes": 322,
+    "comments": 6,
+    "creator": false,
+    "featured": false,
+    "hashtag": "ammo8",
+    "title": "Ammo-8",
+    "publishedAt": "2019-01-01T20:46:13.428Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5c2bd1c9a5ae5a66b54876fe",
+            "description": "Palette usage example by <a target=\"_blank\" href=\"https://twitter.com/rsvpasap1\">rsvp asap</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.161Z",
+            "creator": false,
+            "image": "palette-examples/ammo-8-palette-example-palette-usage-example-by-rsvp-asap-5c2bd1.png",
+            "likes": 0,
+            "parent": "5c2bd195a5ae5a66b54876fd",
+            "slug": "ammo-8-palette-example-palette-usage-example-by-rsvp-asap",
+            "title": "ammo 8 palette example palette usage example by rsvp asap",
+            "updatedAt": "2020-07-31T03:56:11.161Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by rsvp asap"
+        }
+    ],
+    "colorsArray": [
+        "040c06",
+        "112318",
+        "1e3a29",
+        "305d42",
+        "4d8061",
+        "89a257",
+        "bedc7f",
+        "eeffcc"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5c2bd195a5ae5a66b54876fd",
+        "type": "palettes",
+        "count": 322,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

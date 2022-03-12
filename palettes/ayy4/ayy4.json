@@ -1,0 +1,68 @@
+{
+    "_id": "5d5988c6bc76100c65837fc3",
+    "slug": "ayy4",
+    "description": "A four colour palette for gameboy and a smooth aesthetic",
+    "colors": [
+        "00303b",
+        "ff7777",
+        "ffce96",
+        "f1f2da"
+    ],
+    "likes": 368,
+    "createdAt": "2019-08-18T17:20:06.104Z",
+    "featured": false,
+    "tags": [
+        "artist",
+        "polyducks",
+        "gameboy"
+    ],
+    "downloads": "4,894",
+    "numberOfColors": 4,
+    "comments": 9,
+    "creator": true,
+    "hashtag": "ayy4",
+    "title": "AYY4",
+    "user": {
+        "name": "Polyducks",
+        "slug": "polyducks"
+    },
+    "publishedAt": "2019-08-18T17:20:06.104Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5d5988f3bc76100c65837fc5",
+            "description": "Palette usage example by Polyducks",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.195Z",
+            "creator": false,
+            "image": "palette-examples/ayy4-palette-example-palette-usage-example-by-polyducks-5d5988.png",
+            "likes": 0,
+            "parent": "5d5988c6bc76100c65837fc3",
+            "slug": "ayy4-palette-example-palette-usage-example-by-polyducks",
+            "title": "ayy4 palette example palette usage example by polyducks",
+            "updatedAt": "2020-07-31T03:56:11.195Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Polyducks"
+        }
+    ],
+    "colorsArray": [
+        "00303b",
+        "ff7777",
+        "ffce96",
+        "f1f2da"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5d5988c6bc76100c65837fc3",
+        "type": "palettes",
+        "count": 368,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

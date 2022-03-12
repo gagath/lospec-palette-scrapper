@@ -1,0 +1,72 @@
+{
+    "_id": "5e47114f323e577c89dc813a",
+    "slug": "flowers",
+    "description": "I was bored so I made this.\u00a0<img class=\"emoji p16\" src=\"/emoji/lospec-discord/derp.png\" />\u00a0",
+    "colors": [
+        "613832",
+        "8b5851",
+        "bf8f75",
+        "ffdeb2",
+        "ffa5a5",
+        "ff8db5",
+        "b87ca4",
+        "856082",
+        "5a4a60",
+        "73628b",
+        "887fce",
+        "8cc1d4",
+        "8bf0c4",
+        "78bab4",
+        "527378",
+        "2f4447"
+    ],
+    "creator": true,
+    "hashtag": "flowers",
+    "comments": 1,
+    "likes": 53,
+    "createdAt": "2020-02-14T21:29:51.826Z",
+    "featured": false,
+    "tags": [
+        "artist",
+        "pastel"
+    ],
+    "downloads": "931",
+    "numberOfColors": 16,
+    "title": "Flowers",
+    "user": {
+        "name": "Gormie",
+        "slug": "gorm"
+    },
+    "publishedAt": "2020-02-14T21:29:51.826Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "613832",
+        "8b5851",
+        "bf8f75",
+        "ffdeb2",
+        "ffa5a5",
+        "ff8db5",
+        "b87ca4",
+        "856082",
+        "5a4a60",
+        "73628b",
+        "887fce",
+        "8cc1d4",
+        "8bf0c4",
+        "78bab4",
+        "527378",
+        "2f4447"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5e47114f323e577c89dc813a",
+        "type": "palettes",
+        "count": 53,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

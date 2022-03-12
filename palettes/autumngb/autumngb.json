@@ -1,0 +1,73 @@
+{
+    "_id": "61f7051549ab4470a5e80f41",
+    "tags": [
+        "seasonal",
+        "autumn",
+        "fall",
+        "gameboy"
+    ],
+    "colors": [
+        "2b2303",
+        "933513",
+        "ef975d",
+        "fffbd1"
+    ],
+    "downloads": "201",
+    "featured": false,
+    "likes": 23,
+    "comments": 0,
+    "slug": "autumngb",
+    "publishedAt": "2022-01-31T17:15:00.040Z",
+    "user": {
+        "name": "retroadamshow",
+        "slug": "retroadamshow"
+    },
+    "title": "AutumnGB",
+    "hashtag": "autumngb",
+    "description": "A four color palette utilizing warm colors/tones to give off the essence of the fall season.",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2022-01-30T21:37:25.374Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61f7056949ab4470a5e80f43",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "AutumnGB Palette Example by retroadamshow",
+            "slug": "autumngb-palette-example-by-retroadamshownqeojk",
+            "publishedAt": "2022-01-31T14:40:00.026Z",
+            "user": {
+                "name": "retroadamshow",
+                "slug": "retroadamshow"
+            },
+            "parent": "61f7051549ab4470a5e80f41",
+            "image": "palette-examples/autumngb-palette-example-by-retroadamshownqeojk.png",
+            "creator": false,
+            "description": "Final Fantasy Adventure for Game Boy (content made and owned by Square Enix)",
+            "createdAt": "2022-01-30T21:38:49.587Z",
+            "updatedAt": "2022-01-31T14:40:00.027Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Final Fantasy Adventure for Game Boy (content made and owned by Square Enix)"
+        }
+    ],
+    "colorsArray": [
+        "2b2303",
+        "933513",
+        "ef975d",
+        "fffbd1"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61f7051549ab4470a5e80f41",
+        "type": "palettes",
+        "count": 23,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,49 @@
+{
+    "_id": "617ed9fd4a4d056ca0332e77",
+    "tags": [
+        "sleep",
+        "calm",
+        "red"
+    ],
+    "colors": [
+        "000000",
+        "ff004d",
+        "fff1e8",
+        "1d2b53"
+    ],
+    "downloads": "95",
+    "featured": false,
+    "likes": 8,
+    "comments": 0,
+    "slug": "sleepy-boy",
+    "publishedAt": "2021-11-04T23:00:00.089Z",
+    "user": {
+        "name": "Gulpin",
+        "slug": "lok-nok"
+    },
+    "title": "Sleepy Boy",
+    "hashtag": "sleepyboy",
+    "description": "Sleepy man sleeping in his coat dreaming about spoopy month.",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-10-31T18:01:33.664Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "ff004d",
+        "fff1e8",
+        "1d2b53"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "617ed9fd4a4d056ca0332e77",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

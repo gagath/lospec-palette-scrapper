@@ -1,0 +1,69 @@
+{
+    "_id": "5b797f07e06d9a4fc5b04ee1",
+    "createdAt": "2018-08-19T14:30:31.859Z",
+    "slug": "westmost-8",
+    "description": "Created by <a target=\"_blank\" href=\"https://twitter.com/RetrosaurDev\">Retrosaur</a>.",
+    "colors": [
+        "131315",
+        "4a5381",
+        "b96f5a",
+        "dadada",
+        "343651",
+        "644338",
+        "4c9453",
+        "cab17a"
+    ],
+    "tags": [
+        "artist",
+        "retrosaur"
+    ],
+    "downloads": "278",
+    "numberOfColors": 8,
+    "likes": 7,
+    "comments": 0,
+    "hashtag": "westmost8",
+    "title": "Westmost 8",
+    "publishedAt": "2018-08-19T14:30:31.859Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5b7985c0e06d9a4fc5b04ee2",
+            "description": "Palette usage example by <a target=\"_blank\" href=\"https://twitter.com/RetrosaurDev\">Retrosaur</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.124Z",
+            "creator": false,
+            "image": "palette-examples/westmost-8-palette-example-palette-usage-example-by-retrosaur-5b7985.png",
+            "likes": 0,
+            "parent": "5b797f07e06d9a4fc5b04ee1",
+            "slug": "westmost-8-palette-example-palette-usage-example-by-retrosaur",
+            "title": "westmost 8 palette example palette usage example by retrosaur",
+            "updatedAt": "2020-07-31T03:56:11.124Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Retrosaur"
+        }
+    ],
+    "colorsArray": [
+        "131315",
+        "4a5381",
+        "b96f5a",
+        "dadada",
+        "343651",
+        "644338",
+        "4c9453",
+        "cab17a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5b797f07e06d9a4fc5b04ee1",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

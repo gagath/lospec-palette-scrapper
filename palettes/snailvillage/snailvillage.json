@@ -1,0 +1,79 @@
+{
+    "_id": "60ce30a2dbba7768bcd5a4bf",
+    "tags": [
+        "snail",
+        "6colors",
+        "nostalgic",
+        "retro",
+        "dark",
+        "desaturated"
+    ],
+    "colors": [
+        "323c39",
+        "524b24",
+        "7d5563",
+        "917a46",
+        "a3ad54",
+        "99e550"
+    ],
+    "downloads": "537",
+    "featured": false,
+    "likes": 51,
+    "comments": 3,
+    "slug": "snail-village",
+    "publishedAt": "2021-06-21T07:40:00.070Z",
+    "user": {
+        "name": "Royal_Naym",
+        "slug": "royalnaym"
+    },
+    "title": "Snail Village",
+    "hashtag": "snailvillage",
+    "description": "A 6 color palette I've used to draw a big snail with a village on top of its shell. I've been told the desaturated yellow and green, coupled with a purple accent, feel quite nostalgic.",
+    "creator": true,
+    "createdAt": "2021-06-19T18:00:02.228Z",
+    "numberOfColors": 6,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60ce322bdbba7768bcd5a993",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Snail Village Palette Example by Royal_Naym",
+            "slug": "snail-village-palette-example-by-royalnaym",
+            "publishedAt": "2021-06-21T01:45:00.025Z",
+            "user": {
+                "name": "Royal_Naym",
+                "slug": "royalnaym"
+            },
+            "parent": "60ce30a2dbba7768bcd5a4bf",
+            "image": "palette-examples/snail-village-palette-example-by-royalnaym-60ce32.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-06-19T18:06:35.449Z",
+            "updatedAt": "2021-06-21T01:45:00.026Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "323c39",
+        "524b24",
+        "7d5563",
+        "917a46",
+        "a3ad54",
+        "99e550"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "60ce30a2dbba7768bcd5a4bf",
+        "type": "palettes",
+        "count": 51,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,88 @@
+{
+    "_id": "60022d8dc98b24538e598afd",
+    "tags": [
+        "discordsquares",
+        "emoji",
+        "emoticon",
+        "discord",
+        "practicaljoke",
+        "disco9",
+        "glacier",
+        "windfallapples",
+        "haboo"
+    ],
+    "colors": [
+        "31373d",
+        "dd2e44",
+        "c1694f",
+        "f4900c",
+        "fdcb58",
+        "78b159",
+        "55acee",
+        "aa8ed6",
+        "e6e7e8"
+    ],
+    "downloads": "140",
+    "featured": false,
+    "likes": 18,
+    "comments": 1,
+    "title": "Discord Squares",
+    "hashtag": "discordsquares",
+    "description": "The range of colours of emoticon square found in the emoji library of popular text-voice-and-video-chat and digital distrubution platform \"Discord.\" (This palette represents the colours of Discord's basic-square icons, not the entire library of icons available by default.)Discovered with\u00a0Haboo, who suggested the name \"DISCO-9\" after I had submitted this palette which is a shame because that is a much better name. :1\u00a0Also find it under #DISCO9 on Twitter!",
+    "creator": false,
+    "slug": "discord-squares",
+    "publishedAt": "2021-01-27T18:25:00.034Z",
+    "user": {
+        "name": "windfallapples (glacier)",
+        "slug": "windfallapples"
+    },
+    "numberOfColors": 9,
+    "createdAt": "2021-01-16T00:04:29.315Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60023e72c98b24538e598c4e",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/discord-squares-palette-example-by-windfallapples-glacier-60023e.png",
+            "creator": true,
+            "description": "Created by drawing a regular bitmap, translating it pixel-at-a-time into Discord emoticons, then processing that into an uploadable graphic.",
+            "title": "Discord Squares Palette Example by windfallapples (glacier)",
+            "slug": "discord-squares-palette-example-by-windfallapples-glacier",
+            "publishedAt": "2021-01-23T19:10:00.017Z",
+            "user": {
+                "name": "windfallapples (glacier)",
+                "slug": "windfallapples"
+            },
+            "parent": "60022d8dc98b24538e598afd",
+            "createdAt": "2021-01-16T01:16:34.547Z",
+            "updatedAt": "2021-01-23T19:10:00.018Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Created by drawing a regular bitmap, translating it pixel-at-a-time into Discord emoticons, then processing that into an uploadable graphic."
+        }
+    ],
+    "colorsArray": [
+        "31373d",
+        "dd2e44",
+        "c1694f",
+        "f4900c",
+        "fdcb58",
+        "78b159",
+        "55acee",
+        "aa8ed6",
+        "e6e7e8"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "60022d8dc98b24538e598afd",
+        "type": "palettes",
+        "count": 18,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

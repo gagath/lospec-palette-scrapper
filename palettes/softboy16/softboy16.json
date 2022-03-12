@@ -1,0 +1,72 @@
+{
+    "_id": "5dd012236d54be5cde44289e",
+    "slug": "softboy-16",
+    "description": "!6 Color mode in my Softboy Series, for proper spriting limitations, I would rather use 3 per sprite and 5 pallete combinations per screen",
+    "colors": [
+        "000000",
+        "ffffff",
+        "ff0000",
+        "ff7100",
+        "ffff00",
+        "00ff00",
+        "0000ff",
+        "5900ff",
+        "7f0000",
+        "702c00",
+        "7c7c00",
+        "007c00",
+        "00007c",
+        "29007c",
+        "e29f4d",
+        "e2614d"
+    ],
+    "creator": true,
+    "comments": 1,
+    "likes": 4,
+    "createdAt": "2019-11-16T15:13:39.758Z",
+    "featured": false,
+    "tags": [
+        "purplespalletes",
+        "softboy"
+    ],
+    "downloads": "53",
+    "numberOfColors": 16,
+    "hashtag": "softboy16",
+    "title": "Softboy 16",
+    "user": {
+        "name": "Purple Bandit",
+        "slug": "purple-bandit"
+    },
+    "publishedAt": "2020-04-17T23:20:00.017Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "ffffff",
+        "ff0000",
+        "ff7100",
+        "ffff00",
+        "00ff00",
+        "0000ff",
+        "5900ff",
+        "7f0000",
+        "702c00",
+        "7c7c00",
+        "007c00",
+        "00007c",
+        "29007c",
+        "e29f4d",
+        "e2614d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5dd012236d54be5cde44289e",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

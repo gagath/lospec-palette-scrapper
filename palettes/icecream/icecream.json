@@ -1,0 +1,84 @@
+{
+    "_id": "61dc2fab4832665569d7cba0",
+    "tags": [
+        "icecream",
+        "banana",
+        "colourful",
+        "colorful",
+        "bright"
+    ],
+    "colors": [
+        "ffffff",
+        "ffffe8",
+        "ffffd3",
+        "ffffaa",
+        "e2e298",
+        "e2c298",
+        "e0a659",
+        "e0983a",
+        "c48533"
+    ],
+    "downloads": "55",
+    "featured": false,
+    "likes": 7,
+    "comments": 2,
+    "slug": "peelyweelybananyicecreamy",
+    "publishedAt": "2022-01-11T08:25:00.037Z",
+    "user": {
+        "name": "Shmorp",
+        "slug": "shmorp"
+    },
+    "title": "peelyweelybananyicecreamy",
+    "hashtag": "icecream",
+    "description": "So I guess I'm doing an ice cream palette now...\ud83c\udf66",
+    "creator": true,
+    "numberOfColors": 9,
+    "createdAt": "2022-01-10T13:07:55.667Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61dddf278048a516f8486573",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "peelyweelybananyicecreamy Palette Example by Shmorp",
+            "slug": "peelyweelybananyicecreamy-palette-example-by-shmorpgxeovv",
+            "publishedAt": "2022-01-15T05:05:00.039Z",
+            "user": {
+                "name": "Shmorp",
+                "slug": "shmorp"
+            },
+            "parent": "61dc2fab4832665569d7cba0",
+            "image": "palette-examples/peelyweelybananyicecreamy-palette-example-by-shmorpgxeovv.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-01-11T19:48:55.922Z",
+            "updatedAt": "2022-01-15T05:05:00.039Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "ffffff",
+        "ffffe8",
+        "ffffd3",
+        "ffffaa",
+        "e2e298",
+        "e2c298",
+        "e0a659",
+        "e0983a",
+        "c48533"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "61dc2fab4832665569d7cba0",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

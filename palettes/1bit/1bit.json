@@ -1,0 +1,70 @@
+{
+    "_id": "600fbbf98f3f024648568224",
+    "tags": [
+        "blue",
+        " brown",
+        " blue and brown",
+        " b4e7ef",
+        " af5534"
+    ],
+    "colors": [
+        "b4e7ef",
+        "af5534"
+    ],
+    "downloads": "46",
+    "featured": false,
+    "likes": 10,
+    "comments": 3,
+    "title": "bluerown 1bit",
+    "hashtag": "1bit",
+    "description": "this is a palette by me\u00a0<img class=\"emoji p16\" src=\"/emoji/shibmoji/happy.png\" />\u00a0",
+    "creator": true,
+    "slug": "bluerown-1bit",
+    "publishedAt": "2021-02-10T20:40:00.032Z",
+    "user": {
+        "name": "P0keePanda P",
+        "slug": "p0keepanda-p"
+    },
+    "numberOfColors": 2,
+    "createdAt": "2021-01-26T06:51:37.479Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60710921da554726aff06ba5",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "bluerown 1bit Palette Example by Casei Solus",
+            "slug": "bluerown-1bit-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-10T15:25:00.022Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "600fbbf98f3f024648568224",
+            "image": "palette-examples/bluerown-1bit-palette-example-by-casei-solus-607109.png",
+            "creator": true,
+            "description": "A figure looking out over a desert.",
+            "createdAt": "2021-04-10T02:10:41.102Z",
+            "updatedAt": "2021-04-10T15:25:00.023Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A figure looking out over a desert."
+        }
+    ],
+    "colorsArray": [
+        "b4e7ef",
+        "af5534"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "600fbbf98f3f024648568224",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

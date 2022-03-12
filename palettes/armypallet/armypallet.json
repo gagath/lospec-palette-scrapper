@@ -1,0 +1,49 @@
+{
+    "_id": "61324406c5df1a787cfe59e7",
+    "tags": [
+        "army",
+        "4color",
+        "camo"
+    ],
+    "colors": [
+        "000000",
+        "4b3a20",
+        "005d10",
+        "ced587"
+    ],
+    "downloads": "28",
+    "featured": false,
+    "likes": 5,
+    "comments": 2,
+    "slug": "army-pallet",
+    "publishedAt": "2021-10-01T19:55:00.047Z",
+    "user": {
+        "name": "helperman",
+        "slug": "helperman"
+    },
+    "title": "army pallet",
+    "hashtag": "armypallet",
+    "description": "a 4 color comifloge pallet i made",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-09-03T15:49:26.304Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "4b3a20",
+        "005d10",
+        "ced587"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61324406c5df1a787cfe59e7",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

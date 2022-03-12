@@ -1,0 +1,66 @@
+{
+    "_id": "619fdd0b6f9d982eca77b707",
+    "tags": [
+        "ancient"
+    ],
+    "colors": [
+        "eff7da",
+        "232420"
+    ],
+    "downloads": "109",
+    "featured": false,
+    "likes": 15,
+    "comments": 0,
+    "slug": "ancient-animation",
+    "publishedAt": "2021-12-02T17:00:00.069Z",
+    "user": {
+        "name": "Anderson Duarte",
+        "slug": "anderson-duarte1"
+    },
+    "title": "ANCIENT ANIMATION",
+    "hashtag": "ancientanimation",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 2,
+    "createdAt": "2021-11-25T18:59:23.870Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "619fe1ef6f9d982eca77b733",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "ANCIENT ANIMATION Palette Example by Anderson Duarte",
+            "slug": "ancient-animation-palette-example-by-anderson-duarte",
+            "publishedAt": "2021-11-27T17:05:00.025Z",
+            "user": {
+                "name": "Anderson Duarte",
+                "slug": "anderson-duarte1"
+            },
+            "parent": "619fdd0b6f9d982eca77b707",
+            "image": "palette-examples/ancient-animation-palette-example-by-anderson-duarte-619fe1.png",
+            "creator": true,
+            "description": "I was searching for colours that match the ancient Disney-Style animation",
+            "createdAt": "2021-11-25T19:20:15.064Z",
+            "updatedAt": "2021-11-27T17:05:00.025Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "I was searching for colours that match the ancient Disney-Style animation"
+        }
+    ],
+    "colorsArray": [
+        "eff7da",
+        "232420"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "619fdd0b6f9d982eca77b707",
+        "type": "palettes",
+        "count": 15,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

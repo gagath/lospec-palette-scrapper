@@ -1,0 +1,71 @@
+{
+    "_id": "60213b55d9eb210e5655dceb",
+    "tags": [
+        "4",
+        " green"
+    ],
+    "colors": [
+        "e7bb8b",
+        "968352",
+        "6b703e",
+        "292e23"
+    ],
+    "downloads": "86",
+    "featured": false,
+    "likes": 2,
+    "comments": 0,
+    "title": "Somturn",
+    "hashtag": "somturn",
+    "description": "",
+    "creator": true,
+    "slug": "somturn",
+    "publishedAt": "2021-02-12T08:40:00.024Z",
+    "user": {
+        "name": "The Pixel Man",
+        "slug": "thepixelman"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-02-08T13:23:33.710Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607ea521f9d2ea407c993d88",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Somturn Palette Example by Casei Solus",
+            "slug": "somturn-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-20T23:30:00.039Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "60213b55d9eb210e5655dceb",
+            "image": "palette-examples/somturn-palette-example-by-casei-solus-607ea5.png",
+            "creator": true,
+            "description": "A ziggurat in a forest.",
+            "createdAt": "2021-04-20T09:55:45.377Z",
+            "updatedAt": "2021-04-20T23:30:00.040Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A ziggurat in a forest."
+        }
+    ],
+    "colorsArray": [
+        "e7bb8b",
+        "968352",
+        "6b703e",
+        "292e23"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60213b55d9eb210e5655dceb",
+        "type": "palettes",
+        "count": 2,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

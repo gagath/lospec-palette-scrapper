@@ -1,0 +1,72 @@
+{
+    "_id": "61f427754c1db2486ffb780e",
+    "tags": [
+        "artist",
+        "pink",
+        "porcirelius"
+    ],
+    "colors": [
+        "282328",
+        "545c7e",
+        "c56981",
+        "a3a29a"
+    ],
+    "downloads": "512",
+    "featured": false,
+    "likes": 68,
+    "comments": 4,
+    "slug": "bittersweet",
+    "publishedAt": "2022-01-28T18:30:00.119Z",
+    "user": {
+        "name": "porcirelius",
+        "slug": "porcirelius"
+    },
+    "title": "bittersweet",
+    "hashtag": "bittersweet",
+    "description": "low saturation palette with a strong pink. Can be used for both cute and not-so cute things\u00a0",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2022-01-28T17:27:17.500Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61f433f82309fe52548c790d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "bittersweet Palette Example by porcirelius",
+            "slug": "bittersweet-palette-example-by-porcireliushkkhlu",
+            "publishedAt": "2022-01-28T18:30:00.069Z",
+            "user": {
+                "name": "porcirelius",
+                "slug": "porcirelius"
+            },
+            "parent": "61f427754c1db2486ffb780e",
+            "image": "palette-examples/bittersweet-palette-example-by-porcireliushkkhlu.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-01-28T18:20:40.006Z",
+            "updatedAt": "2022-01-28T18:30:00.069Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "282328",
+        "545c7e",
+        "c56981",
+        "a3a29a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61f427754c1db2486ffb780e",
+        "type": "palettes",
+        "count": 68,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

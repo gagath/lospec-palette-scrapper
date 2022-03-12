@@ -1,0 +1,83 @@
+{
+    "_id": "611bfacee7e7ed42a916894d",
+    "tags": [
+        "10colors",
+        "padhirangulu"
+    ],
+    "colors": [
+        "e9ba5b",
+        "729b6b",
+        "9aa38b",
+        "bdc2b3",
+        "19121a",
+        "6e6634",
+        "b9a08b",
+        "a67c59",
+        "40382d",
+        "9e8b61"
+    ],
+    "downloads": "235",
+    "featured": false,
+    "likes": 22,
+    "comments": 0,
+    "slug": "padhi-rangulu",
+    "publishedAt": "2021-08-30T12:00:00.071Z",
+    "user": {
+        "name": "Kartheek raj",
+        "slug": "karrthik77"
+    },
+    "title": "Padhi Rangulu",
+    "hashtag": "padhirangulu",
+    "description": "10 low saturation colors that impart a natural appeal. The term Padhi Rangulu (\u0c2a\u0c26\u0c3f \u0c30\u0c02\u0c17\u0c41\u0c32\u0c41) means 10 colors in the Telugu language",
+    "creator": true,
+    "numberOfColors": 10,
+    "createdAt": "2021-08-17T18:07:10.315Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "611c12d95ac0074e4ac6ac31",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Padhi Rangulu Palette Example by Kartheek raj",
+            "slug": "padhi-rangulu-palette-example-by-kartheek-raj",
+            "publishedAt": "2021-08-22T21:10:00.015Z",
+            "user": {
+                "name": "Kartheek raj",
+                "slug": "karrthik77"
+            },
+            "parent": "611bfacee7e7ed42a916894d",
+            "image": "palette-examples/padhi-rangulu-palette-example-by-kartheek-raj-611c12.png",
+            "creator": true,
+            "description": "An Image demonstrating the palette use.",
+            "createdAt": "2021-08-17T19:49:45.868Z",
+            "updatedAt": "2021-08-22T21:10:00.015Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "An Image demonstrating the palette use."
+        }
+    ],
+    "colorsArray": [
+        "e9ba5b",
+        "729b6b",
+        "9aa38b",
+        "bdc2b3",
+        "19121a",
+        "6e6634",
+        "b9a08b",
+        "a67c59",
+        "40382d",
+        "9e8b61"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "611bfacee7e7ed42a916894d",
+        "type": "palettes",
+        "count": 22,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

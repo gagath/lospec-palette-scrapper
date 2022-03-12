@@ -1,0 +1,66 @@
+{
+    "_id": "5e920b1d97b66f3b00388738",
+    "title": "Island Life",
+    "hashtag": "islandlife34",
+    "description": "",
+    "creator": "1",
+    "colors": [
+        "9ee7d7",
+        "6ac0bd",
+        "5889a2",
+        "462c4b",
+        "724254",
+        "c18c72",
+        "fcebb6",
+        "a9f05f",
+        "5fad67",
+        "4e5e5e"
+    ],
+    "slug": "island-life",
+    "user": {
+        "name": "Jimison3",
+        "slug": "jimison3"
+    },
+    "numberOfColors": 10,
+    "publishedAt": "2020-04-11T21:10:44.368Z",
+    "createdAt": "2020-04-11T18:23:25.690Z",
+    "comments": 1,
+    "likes": 38,
+    "featured": false,
+    "downloads": "790",
+    "tags": [
+        "green",
+        "blue",
+        "brown",
+        "tan",
+        "island",
+        "summer",
+        "beach",
+        "jimison3"
+    ],
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "9ee7d7",
+        "6ac0bd",
+        "5889a2",
+        "462c4b",
+        "724254",
+        "c18c72",
+        "fcebb6",
+        "a9f05f",
+        "5fad67",
+        "4e5e5e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5e920b1d97b66f3b00388738",
+        "type": "palettes",
+        "count": 38,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

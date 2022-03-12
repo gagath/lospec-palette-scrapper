@@ -1,0 +1,59 @@
+{
+    "_id": "6177678706f9d759c841cc6c",
+    "tags": [],
+    "colors": [
+        "0d2030",
+        "544761",
+        "a29dd4",
+        "2b5866",
+        "755d3b",
+        "b49a75",
+        "4a2323",
+        "873a3a",
+        "00342c",
+        "388549",
+        "15062b"
+    ],
+    "downloads": "61",
+    "featured": false,
+    "likes": 5,
+    "comments": 0,
+    "slug": "wall-10",
+    "publishedAt": "2021-10-27T05:35:00.034Z",
+    "user": {
+        "name": "Telephone",
+        "slug": "telephone"
+    },
+    "title": "Wall-10",
+    "hashtag": "wall10",
+    "description": "I got these colours from some robots in a Chuck e Cheese knockoff I don't remember the name of.",
+    "creator": true,
+    "numberOfColors": 11,
+    "createdAt": "2021-10-26T02:27:19.208Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "0d2030",
+        "544761",
+        "a29dd4",
+        "2b5866",
+        "755d3b",
+        "b49a75",
+        "4a2323",
+        "873a3a",
+        "00342c",
+        "388549",
+        "15062b"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "6177678706f9d759c841cc6c",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

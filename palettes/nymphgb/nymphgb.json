@@ -1,0 +1,72 @@
+{
+    "_id": "5adf365dd64cda308df721b7",
+    "createdAt": "2018-04-24T13:51:25.460Z",
+    "slug": "nymph-gb",
+    "description": "",
+    "colors": [
+        "2c2137",
+        "446176",
+        "3fac95",
+        "a1ef8c"
+    ],
+    "tags": [
+        "kerrielake",
+        "artist",
+        "gameboy"
+    ],
+    "downloads": "2,433",
+    "numberOfColors": 4,
+    "featured": false,
+    "likes": 103,
+    "comments": 2,
+    "creator": true,
+    "hashtag": "nymphgb",
+    "title": "Nymph GB",
+    "user": {
+        "name": "Kerrie Lake",
+        "slug": "kerrielake"
+    },
+    "publishedAt": "2018-04-24T13:51:25.460Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f3b304c046e623357b7d8d8",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/nymph-gb-palette-example-by-carlos-emmanuel-manolo-2-5f3b30.png",
+            "creator": true,
+            "description": "Game Boy-like recreation of the first stage of Castlevania Dracula X\u00a0",
+            "title": "Nymph GB Palette Example by Carlos Emmanuel (Manolo)",
+            "slug": "nymph-gb-palette-example-by-carlos-emmanuel-manolo-2",
+            "publishedAt": "2020-08-18T13:45:00.030Z",
+            "user": {
+                "name": "Carlos Emmanuel (Manolo)",
+                "slug": "carlos-emmanuel"
+            },
+            "parent": "5adf365dd64cda308df721b7",
+            "createdAt": "2020-08-18T01:35:08.617Z",
+            "updatedAt": "2020-08-18T13:45:00.030Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Game Boy-like recreation of the first stage of Castlevania Dracula X\u00a0"
+        }
+    ],
+    "colorsArray": [
+        "2c2137",
+        "446176",
+        "3fac95",
+        "a1ef8c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5adf365dd64cda308df721b7",
+        "type": "palettes",
+        "count": 103,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,81 @@
+{
+    "_id": "60684ad05a48cd1a3956b9f7",
+    "tags": [
+        "forest",
+        "plant",
+        "polyphrog",
+        "nature"
+    ],
+    "colors": [
+        "a08a79",
+        "8b4442",
+        "35212a",
+        "9a6b52",
+        "f9e4af",
+        "809e4f",
+        "3b404a",
+        "7aa1a4"
+    ],
+    "downloads": "289",
+    "featured": false,
+    "likes": 16,
+    "comments": 0,
+    "slug": "florast-8",
+    "publishedAt": "2021-04-06T17:30:00.037Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "florast-8",
+    "hashtag": "flor8",
+    "description": "a bright palette with natural yet still cartoony looking colors.",
+    "creator": true,
+    "createdAt": "2021-04-03T11:00:32.937Z",
+    "numberOfColors": 8,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60684ae45a48cd1a3956b9f9",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "florast-8 Palette Example by polyphorge",
+            "slug": "florast-8-palette-example-by-polyphorge",
+            "publishedAt": "2021-04-03T19:20:00.019Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "60684ad05a48cd1a3956b9f7",
+            "image": "palette-examples/florast-8-palette-example-by-polyphorge-60684a.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-04-03T11:00:52.371Z",
+            "updatedAt": "2021-04-03T19:20:00.020Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "a08a79",
+        "8b4442",
+        "35212a",
+        "9a6b52",
+        "f9e4af",
+        "809e4f",
+        "3b404a",
+        "7aa1a4"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60684ad05a48cd1a3956b9f7",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,69 @@
+{
+    "_id": "60a0c8a61568746a17ef68df",
+    "tags": [
+        "1bit",
+        "neutral",
+        "green",
+        "horror"
+    ],
+    "colors": [
+        "004c3d",
+        "ffeaf9"
+    ],
+    "downloads": "319",
+    "featured": false,
+    "likes": 41,
+    "comments": 1,
+    "slug": "ys-neutral-green",
+    "publishedAt": "2021-05-16T15:35:00.044Z",
+    "user": {
+        "name": "Yelta",
+        "slug": "yelta8"
+    },
+    "title": "Y's Neutral Green",
+    "hashtag": "ysneutralgreen",
+    "description": "It is hard to make neutral palettes with color. Sometimes, there is just no color that fits the right vibe and you're better off with Black and White. After a lot of research and analysis, I figured dark green with a hint of blue to be the the second best option there. Grayscale Value Difference: 74 ; Cielab Brightness: 61",
+    "creator": true,
+    "createdAt": "2021-05-16T07:24:22.242Z",
+    "numberOfColors": 2,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60a0c9201568746a17ef68e5",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Y's Neutral Green Palette Example by Yelta",
+            "slug": "ys-neutral-green-palette-example-by-yelta",
+            "publishedAt": "2021-05-16T15:35:00.021Z",
+            "user": {
+                "name": "Yelta",
+                "slug": "yelta8"
+            },
+            "parent": "60a0c8a61568746a17ef68df",
+            "image": "palette-examples/ys-neutral-green-palette-example-by-yelta-60a0c9.png",
+            "creator": true,
+            "description": "Cutout of Yelta's (my) The Bombstand, with the Neutral Green palette applied.",
+            "createdAt": "2021-05-16T07:26:24.343Z",
+            "updatedAt": "2021-05-16T15:35:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Cutout of Yelta's (my) The Bombstand, with the Neutral Green palette applied."
+        }
+    ],
+    "colorsArray": [
+        "004c3d",
+        "ffeaf9"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "60a0c8a61568746a17ef68df",
+        "type": "palettes",
+        "count": 41,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

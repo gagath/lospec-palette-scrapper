@@ -1,0 +1,53 @@
+{
+    "_id": "5aaa80f98e1f5e7392e7781f",
+    "createdAt": "2018-03-15T14:19:37.955Z",
+    "slug": "gameboy-pop",
+    "description": "A palette based on Game boy colour by <a target=\"_blank\" href=\"https://gumroad.com/mnrart\">MortMort</a>. #gameboypop",
+    "colors": [
+        "ff0033",
+        "ff3366",
+        "bd7100",
+        "ffcc00",
+        "76ec08",
+        "33ccff",
+        "2086fd",
+        "57001a",
+        "b2194c"
+    ],
+    "tags": [
+        "artist",
+        "mortmort",
+        "gameboy"
+    ],
+    "downloads": "501",
+    "numberOfColors": 9,
+    "likes": 14,
+    "comments": 0,
+    "hashtag": "gameboypop",
+    "title": "Gameboy Pop",
+    "publishedAt": "2018-03-15T14:19:37.955Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ff0033",
+        "ff3366",
+        "bd7100",
+        "ffcc00",
+        "76ec08",
+        "33ccff",
+        "2086fd",
+        "57001a",
+        "b2194c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5aaa80f98e1f5e7392e7781f",
+        "type": "palettes",
+        "count": 14,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

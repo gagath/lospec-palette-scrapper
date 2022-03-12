@@ -1,0 +1,50 @@
+{
+    "_id": "5d9a1c01dc982c67d873d7a1",
+    "slug": "water-lemon",
+    "description": "Made by KingW as a silly, little, cheery, all purpose palette.",
+    "colors": [
+        "02382d",
+        "3ba711",
+        "f8c15a",
+        "fefefe",
+        "fa2e42"
+    ],
+    "comments": 4,
+    "likes": 15,
+    "createdAt": "2019-10-06T16:53:21.505Z",
+    "featured": false,
+    "tags": [
+        "artist",
+        "kingworrell"
+    ],
+    "downloads": "108",
+    "numberOfColors": 5,
+    "creator": true,
+    "hashtag": "waterlemon",
+    "title": "Water Lemon",
+    "user": {
+        "name": "KingW",
+        "slug": "kingworrell"
+    },
+    "publishedAt": "2019-10-06T16:53:21.505Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "02382d",
+        "3ba711",
+        "f8c15a",
+        "fefefe",
+        "fa2e42"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5d9a1c01dc982c67d873d7a1",
+        "type": "palettes",
+        "count": 15,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

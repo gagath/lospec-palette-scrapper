@@ -1,0 +1,69 @@
+{
+    "_id": "5dc87156a5731c47cdeef33e",
+    "slug": "gato-roboto-grape",
+    "description": "A palette from the game <i><a href=\"https://gatoroboto.com/\" target=\"_blank\">Gato Roboto</a></i>.",
+    "colors": [
+        "040612",
+        "d400ff"
+    ],
+    "creator": false,
+    "comments": 0,
+    "likes": 7,
+    "createdAt": "2019-11-10T20:21:42.309Z",
+    "featured": false,
+    "tags": [
+        "game",
+        "gatoroboto",
+        "software",
+        "1bit"
+    ],
+    "downloads": "142",
+    "numberOfColors": 2,
+    "hashtag": "gatorobotogrape",
+    "title": "Gato Roboto - Grape",
+    "user": {
+        "name": "PureAsbestos",
+        "slug": "pureasbestos"
+    },
+    "publishedAt": "2019-11-10T20:21:42.309Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607182c371de192d1788b2cf",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Gato Roboto - Grape Palette Example by Casei Solus",
+            "slug": "gato-roboto-grape-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-10T15:45:00.016Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5dc87156a5731c47cdeef33e",
+            "image": "palette-examples/gato-roboto-grape-palette-example-by-casei-solus-607182.png",
+            "creator": true,
+            "description": "Some grapes on a table.",
+            "createdAt": "2021-04-10T10:49:39.397Z",
+            "updatedAt": "2021-04-10T15:45:00.016Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Some grapes on a table."
+        }
+    ],
+    "colorsArray": [
+        "040612",
+        "d400ff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "5dc87156a5731c47cdeef33e",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

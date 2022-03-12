@@ -1,0 +1,84 @@
+{
+    "_id": "62123ebe98c59f5f3180107f",
+    "tags": [
+        "artist",
+        "anoob",
+        "coldwood8",
+        "8",
+        "red",
+        "blue",
+        "saturated"
+    ],
+    "colors": [
+        "372e4d",
+        "5f699c",
+        "65aed6",
+        "a4ebcc",
+        "effae6",
+        "f0b38d",
+        "b56d7f",
+        "614363"
+    ],
+    "downloads": "275",
+    "featured": false,
+    "likes": 31,
+    "comments": 1,
+    "slug": "coldwood8",
+    "publishedAt": "2022-02-20T21:40:00.090Z",
+    "user": {
+        "name": "ANoob",
+        "slug": "anoob"
+    },
+    "title": "Coldwood8",
+    "hashtag": "coldwood8",
+    "description": "A palette containing two color ramps, blue and red, which share their same brightest and darkest color (white and black). The colors were made to be flexible, so the blues can work as a bright green too, while the reds can also work as a saturated brown.\u00a0",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2022-02-20T13:14:38.117Z",
+    "isNew": true,
+    "sortNewest": "2022-02-20T21:40:00.090Z",
+    "examples": [
+        {
+            "_id": "62123ee198c59f5f31801087",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Coldwood8 Palette Example by ANoob",
+            "slug": "coldwood8-palette-example-by-anoob5hcter",
+            "publishedAt": "2022-02-20T17:45:00.033Z",
+            "user": {
+                "name": "ANoob",
+                "slug": "anoob"
+            },
+            "parent": "62123ebe98c59f5f3180107f",
+            "image": "palette-examples/coldwood8-palette-example-by-anoob5hcter.png",
+            "creator": true,
+            "description": "Slippery Snow",
+            "createdAt": "2022-02-20T13:15:13.876Z",
+            "updatedAt": "2022-02-20T17:45:00.033Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Slippery Snow"
+        }
+    ],
+    "colorsArray": [
+        "372e4d",
+        "5f699c",
+        "65aed6",
+        "a4ebcc",
+        "effae6",
+        "f0b38d",
+        "b56d7f",
+        "614363"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "62123ebe98c59f5f3180107f",
+        "type": "palettes",
+        "count": 31,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

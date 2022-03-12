@@ -1,0 +1,43 @@
+{
+    "_id": "58e2d8ee61e9e662184cf34f",
+    "createdAt": "2017-04-03T23:21:18.128Z",
+    "slug": "cga-palette-1-low",
+    "description": "One of the palettes available in the standard mode on the <a href=\"https://en.wikipedia.org/wiki/Color_Graphics_Adapter\">CGA</a>. The black can be replaced by any of the other colors in the full CGA palette.",
+    "colors": [
+        "000000",
+        "aa00aa",
+        "00aaaa",
+        "aaaaaa"
+    ],
+    "tags": [
+        "hardware",
+        "computer",
+        "cga"
+    ],
+    "downloads": "462",
+    "numberOfColors": 4,
+    "likes": 12,
+    "comments": 0,
+    "hashtag": "cgapalette1low",
+    "title": "CGA Palette 1 (Low)",
+    "publishedAt": "2017-04-03T23:21:18.128Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "aa00aa",
+        "00aaaa",
+        "aaaaaa"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "58e2d8ee61e9e662184cf34f",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

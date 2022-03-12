@@ -1,0 +1,80 @@
+{
+    "_id": "606ef34a993a4061bbf0d846",
+    "tags": [
+        "wednesdaypink",
+        "pink",
+        "meangirls"
+    ],
+    "colors": [
+        "f4cedb",
+        "fea6c4",
+        "c36dbe",
+        "3e214f",
+        "bc1f4a",
+        "8397e0",
+        "452426",
+        "000000"
+    ],
+    "downloads": "226",
+    "featured": false,
+    "likes": 26,
+    "comments": 0,
+    "slug": "wednesday-pink",
+    "publishedAt": "2021-04-12T23:30:00.054Z",
+    "user": {
+        "name": "Gors",
+        "slug": "spritergors"
+    },
+    "title": "Wednesday Pink",
+    "hashtag": "wednesdaypink",
+    "description": "Extracted from Brazilian vegan cosmetics producer, Vizella. The specific product is \"\u00c0s Quartas Usamos Rosa!\" (We use pink at Wednesdays, freely translated) eyeshadow. This is a reference to 2004 movie \"Mean Girls\", a teen comedy movie about a girl who has to deal with school cliques and bullying. This specific cosmetics set is not tested in animals and thus, vegan supporters can safely buy these. The pink tones, contrasting with blue and brown, gives it a warm feeling with a good sense of presence, matching well with similarly bright attires and accessories.",
+    "creator": false,
+    "createdAt": "2021-04-08T12:12:58.238Z",
+    "numberOfColors": 8,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "606fb238d70ac85e80cef53a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Wednesday Pink Palette Example by Gors",
+            "slug": "wednesday-pink-palette-example-by-gors",
+            "publishedAt": "2021-04-09T02:05:00.020Z",
+            "user": {
+                "name": "Gors",
+                "slug": "spritergors"
+            },
+            "parent": "606ef34a993a4061bbf0d846",
+            "image": "palette-examples/wednesday-pink-palette-example-by-gors-606fb2.png",
+            "creator": true,
+            "description": "Design support: ckelsallpxls, mew2heart, Claire S.",
+            "createdAt": "2021-04-09T01:47:36.172Z",
+            "updatedAt": "2021-04-09T02:05:00.020Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Design support: ckelsallpxls, mew2heart, Claire S."
+        }
+    ],
+    "colorsArray": [
+        "f4cedb",
+        "fea6c4",
+        "c36dbe",
+        "3e214f",
+        "bc1f4a",
+        "8397e0",
+        "452426",
+        "000000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "606ef34a993a4061bbf0d846",
+        "type": "palettes",
+        "count": 26,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

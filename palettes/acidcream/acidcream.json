@@ -1,0 +1,49 @@
+{
+    "_id": "60a573903168d34d461d02b4",
+    "tags": [
+        "acid"
+    ],
+    "colors": [
+        "353544",
+        "6a6eb2",
+        "f76ca0",
+        "99d6d5",
+        "f6ff95"
+    ],
+    "downloads": "89",
+    "featured": false,
+    "likes": 12,
+    "comments": 2,
+    "slug": "radioactive-ice-cream",
+    "publishedAt": "2021-09-07T06:25:00.032Z",
+    "user": {
+        "name": "Saultoons",
+        "slug": "saultoons"
+    },
+    "title": "Radioactive Ice-Cream",
+    "hashtag": "acidcream",
+    "description": "A fun palette I put together quickly for a daily challenge on our discord server!",
+    "creator": true,
+    "createdAt": "2021-05-19T20:22:40.568Z",
+    "numberOfColors": 5,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "353544",
+        "6a6eb2",
+        "f76ca0",
+        "99d6d5",
+        "f6ff95"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "60a573903168d34d461d02b4",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

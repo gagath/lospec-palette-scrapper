@@ -1,0 +1,53 @@
+{
+    "_id": "60becf0ef2d8eb09a5e3933c",
+    "tags": [
+        "tomioka",
+        "demonslayer",
+        "character",
+        "hashira",
+        "anime"
+    ],
+    "colors": [
+        "030708",
+        "984d64",
+        "3c9261",
+        "f48a22",
+        "ecc158"
+    ],
+    "downloads": "53",
+    "featured": false,
+    "likes": 2,
+    "comments": 1,
+    "slug": "tomioka",
+    "publishedAt": "2021-09-06T12:25:00.039Z",
+    "user": {
+        "name": "Zeflyn",
+        "slug": "zeflyn"
+    },
+    "title": "Tomioka",
+    "hashtag": "tomioka",
+    "description": "A palette based off the colors of our favorite water Hashira",
+    "creator": true,
+    "createdAt": "2021-06-08T01:59:42.830Z",
+    "numberOfColors": 5,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "030708",
+        "984d64",
+        "3c9261",
+        "f48a22",
+        "ecc158"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "60becf0ef2d8eb09a5e3933c",
+        "type": "palettes",
+        "count": 2,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

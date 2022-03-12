@@ -1,0 +1,97 @@
+{
+    "_id": "6099f2e0b572f8540493181e",
+    "tags": [
+        "artist",
+        "lowsaturation",
+        "dark",
+        "scifi"
+    ],
+    "colors": [
+        "cbd1be",
+        "8f9389",
+        "52534c",
+        "26201d",
+        "e0a46e",
+        "91a47a",
+        "5d7643",
+        "4d533a",
+        "a93130",
+        "7a1338",
+        "834664",
+        "917692",
+        "160712",
+        "593084",
+        "3870be",
+        "579fb4"
+    ],
+    "downloads": "793",
+    "featured": false,
+    "likes": 43,
+    "comments": 5,
+    "slug": "urbex-16",
+    "publishedAt": "2021-05-13T04:45:00.025Z",
+    "user": {
+        "name": "Rustocrat",
+        "slug": "rustocrat"
+    },
+    "title": "URBEX 16",
+    "hashtag": "urbex16",
+    "description": "Colors that remind me of exploring futuristic, underground ruins.",
+    "creator": true,
+    "createdAt": "2021-05-11T02:58:40.382Z",
+    "numberOfColors": 16,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6099f780b572f85404931849",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "URBEX 16 Palette Example by Rustocrat",
+            "slug": "urbex-16-palette-example-by-rustocrat",
+            "publishedAt": "2021-05-12T10:55:00.017Z",
+            "user": {
+                "name": "Rustocrat",
+                "slug": "rustocrat"
+            },
+            "parent": "6099f2e0b572f8540493181e",
+            "image": "palette-examples/urbex-16-palette-example-by-rustocrat-6099f7.png",
+            "creator": true,
+            "description": "An example image/diorama made of tiles, inspired by Environmental Station Alpha.",
+            "createdAt": "2021-05-11T03:18:24.009Z",
+            "updatedAt": "2021-05-12T10:55:00.017Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "An example image/diorama made of tiles, inspired by Environmental Station Alpha."
+        }
+    ],
+    "colorsArray": [
+        "cbd1be",
+        "8f9389",
+        "52534c",
+        "26201d",
+        "e0a46e",
+        "91a47a",
+        "5d7643",
+        "4d533a",
+        "a93130",
+        "7a1338",
+        "834664",
+        "917692",
+        "160712",
+        "593084",
+        "3870be",
+        "579fb4"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6099f2e0b572f8540493181e",
+        "type": "palettes",
+        "count": 43,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

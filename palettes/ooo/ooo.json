@@ -1,0 +1,70 @@
+{
+    "_id": "606fed13d70ac85e80cef73e",
+    "tags": [
+        "o"
+    ],
+    "colors": [
+        "dfe292",
+        "619a5a",
+        "476770",
+        "3d345d"
+    ],
+    "downloads": "93",
+    "featured": false,
+    "likes": 11,
+    "comments": 1,
+    "slug": "ooo",
+    "publishedAt": "2021-04-15T05:30:00.050Z",
+    "user": {
+        "name": "MrSponge",
+        "slug": "mrsponge"
+    },
+    "title": "ooo",
+    "hashtag": "ooo",
+    "description": "o",
+    "creator": true,
+    "createdAt": "2021-04-09T05:58:43.109Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60780bfb16f8450fae0b83ff",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "ooo Palette Example by Casei Solus",
+            "slug": "ooo-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-16T23:10:00.029Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "606fed13d70ac85e80cef73e",
+            "image": "palette-examples/ooo-palette-example-by-casei-solus-60780b.png",
+            "creator": true,
+            "description": "A snake in a jungle tree.",
+            "createdAt": "2021-04-15T09:48:43.548Z",
+            "updatedAt": "2021-04-16T23:10:00.030Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A snake in a jungle tree."
+        }
+    ],
+    "colorsArray": [
+        "dfe292",
+        "619a5a",
+        "476770",
+        "3d345d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "606fed13d70ac85e80cef73e",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,76 @@
+{
+    "_id": "606c399398f2200ac1ea6728",
+    "tags": [
+        "rose",
+        "juliet",
+        "soft",
+        "pink",
+        "5colors"
+    ],
+    "colors": [
+        "292b30",
+        "613854",
+        "ab6c84",
+        "ffc4d1",
+        "ffe8e1"
+    ],
+    "downloads": "427",
+    "featured": false,
+    "likes": 49,
+    "comments": 2,
+    "slug": "juliet",
+    "publishedAt": "2021-04-08T11:30:00.047Z",
+    "user": {
+        "name": "Poltergasm",
+        "slug": "iampoltergasm"
+    },
+    "title": "Juliet",
+    "hashtag": "juliet5",
+    "description": "\"A rose by any other name would smell as sweet\" - Romeo.",
+    "creator": true,
+    "createdAt": "2021-04-06T10:36:03.267Z",
+    "numberOfColors": 5,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "606c399c98f2200ac1ea672a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Juliet Palette Example by Poltergasm",
+            "slug": "juliet-palette-example-by-poltergasm",
+            "publishedAt": "2021-04-06T18:35:00.017Z",
+            "user": {
+                "name": "Poltergasm",
+                "slug": "iampoltergasm"
+            },
+            "parent": "606c399398f2200ac1ea6728",
+            "image": "palette-examples/juliet-palette-example-by-poltergasm-606c39.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-04-06T10:36:12.135Z",
+            "updatedAt": "2021-04-06T18:35:00.017Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "292b30",
+        "613854",
+        "ab6c84",
+        "ffc4d1",
+        "ffe8e1"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "606c399398f2200ac1ea6728",
+        "type": "palettes",
+        "count": 49,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

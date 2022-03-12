@@ -1,0 +1,72 @@
+{
+    "_id": "61a8ab9fb595506164d0ef0b",
+    "tags": [
+        "2bit",
+        "sunrise",
+        "soundsdotzip"
+    ],
+    "colors": [
+        "171726",
+        "804055",
+        "d99d62",
+        "fff2d9"
+    ],
+    "downloads": "337",
+    "featured": false,
+    "likes": 31,
+    "comments": 1,
+    "slug": "2bit-sunrise",
+    "publishedAt": "2021-12-05T09:00:00.081Z",
+    "user": {
+        "name": "SoundsDotZip",
+        "slug": "soundsdotzip"
+    },
+    "title": "2BIT Sunrise",
+    "hashtag": "2bitsunrise",
+    "description": "2BIT Sunrise is a warm colour palette, which was inspired by a sunrise (duh) that I saw while I was on a bus. Hope you like it!",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-12-02T11:18:55.279Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61a8abc2b595506164d0ef0d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "2BIT Sunrise Palette Example by SoundsDotZip",
+            "slug": "2bit-sunrise-palette-example-by-soundsdotzip",
+            "publishedAt": "2021-12-02T20:10:00.009Z",
+            "user": {
+                "name": "SoundsDotZip",
+                "slug": "soundsdotzip"
+            },
+            "parent": "61a8ab9fb595506164d0ef0b",
+            "image": "palette-examples/2bit-sunrise-palette-example-by-soundsdotzip-61a8ab.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-12-02T11:19:30.100Z",
+            "updatedAt": "2021-12-02T20:10:00.009Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "171726",
+        "804055",
+        "d99d62",
+        "fff2d9"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61a8ab9fb595506164d0ef0b",
+        "type": "palettes",
+        "count": 31,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

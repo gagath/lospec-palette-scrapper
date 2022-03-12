@@ -1,0 +1,82 @@
+{
+    "_id": "58fbb596e15f242214faf179",
+    "createdAt": "2017-04-22T19:57:10.580Z",
+    "slug": "nintendo-gameboy-bgb",
+    "description": "The default palette used by the <a href=\"http://bgb.bircd.org/\">bgb emulator</a> for Gameboy games.",
+    "colors": [
+        "081820",
+        "346856",
+        "88c070",
+        "e0f8d0"
+    ],
+    "tags": [
+        "gameboy"
+    ],
+    "downloads": "4,704",
+    "numberOfColors": 4,
+    "likes": 59,
+    "comments": 0,
+    "hashtag": "nintendogameboybgb",
+    "title": "Nintendo Gameboy (bgb)",
+    "publishedAt": "2017-04-22T19:57:10.580Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "58fbb663e15f242214faf17a",
+            "description": "<a href=\"https://en.wikipedia.org/wiki/Taz-Mania_(video_game)\">Taz-Mania</a> for Gameboy screenshots",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.045Z",
+            "creator": false,
+            "image": "palette-examples/nintendo-gameboy-bgb-palette-example-taz-mania-for-gameboy-screenshots-58fbb6.png",
+            "likes": 0,
+            "parent": "58fbb596e15f242214faf179",
+            "slug": "nintendo-gameboy-bgb-palette-example-taz-mania-for-gameboy-screenshots",
+            "title": "nintendo gameboy bgb palette example taz mania for gameboy screenshots",
+            "updatedAt": "2020-07-31T03:56:11.045Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Taz-Mania for Gameboy screenshots"
+        },
+        {
+            "_id": "60b7854c16ce7a0f77057969",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Nintendo Gameboy (bgb) Palette Example by nkoder",
+            "slug": "nintendo-gameboy-bgb-palette-example-by-nkoder",
+            "publishedAt": "2021-06-14T21:00:00.065Z",
+            "user": {
+                "name": "Beetroot Paul",
+                "slug": "beetrootpaul"
+            },
+            "parent": "58fbb596e15f242214faf179",
+            "image": "palette-examples/nintendo-gameboy-bgb-palette-example-by-nkoder-60b785.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-06-02T13:19:08.709Z",
+            "updatedAt": "2021-06-14T21:00:00.065Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "081820",
+        "346856",
+        "88c070",
+        "e0f8d0"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "58fbb596e15f242214faf179",
+        "type": "palettes",
+        "count": 59,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

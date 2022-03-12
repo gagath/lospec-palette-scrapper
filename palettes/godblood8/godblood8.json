@@ -1,0 +1,57 @@
+{
+    "_id": "6123038f8df7d44d56f0ed0a",
+    "tags": [
+        "godblood",
+        "godblood8",
+        "subscribbl"
+    ],
+    "colors": [
+        "000511",
+        "051233",
+        "122a5e",
+        "15526b",
+        "227a7a",
+        "38ba8b",
+        "55ff79",
+        "c5ff8c"
+    ],
+    "downloads": "402",
+    "featured": false,
+    "likes": 14,
+    "comments": 1,
+    "slug": "godblood8",
+    "publishedAt": "2021-09-17T09:20:00.050Z",
+    "user": {
+        "name": "Subscribbl",
+        "slug": "subscribbl"
+    },
+    "title": "GODBLOOD8",
+    "hashtag": "godblood8",
+    "description": "A simple palette that hue-shifts from light greens to dark blues. Made for fun.",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-08-23T02:10:23.673Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000511",
+        "051233",
+        "122a5e",
+        "15526b",
+        "227a7a",
+        "38ba8b",
+        "55ff79",
+        "c5ff8c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6123038f8df7d44d56f0ed0a",
+        "type": "palettes",
+        "count": 14,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

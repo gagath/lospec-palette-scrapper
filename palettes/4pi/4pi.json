@@ -1,0 +1,79 @@
+{
+    "_id": "619d0062dceea41c57b6a203",
+    "tags": [
+        "vibrant",
+        "pico8"
+    ],
+    "colors": [
+        "ffe2ce",
+        "f56214",
+        "ffc414",
+        "3bd827",
+        "147658",
+        "14c4ce",
+        "1d3162",
+        "a73176"
+    ],
+    "downloads": "217",
+    "featured": false,
+    "likes": 19,
+    "comments": 0,
+    "slug": "4pi",
+    "publishedAt": "2021-11-27T14:35:00.021Z",
+    "user": {
+        "name": "Bo Tie",
+        "slug": "bo-tie"
+    },
+    "title": "4pi",
+    "hashtag": "4pi",
+    "description": "A small, vibrant palette based off a shortened version of the PICO-8 palette.",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-11-23T14:53:22.429Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "619d05cbdceea41c57b6a2c9",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "4pi Palette Example by Bo Tie",
+            "slug": "4pi-palette-example-by-bo-tie-2",
+            "publishedAt": "2021-11-23T20:05:00.073Z",
+            "user": {
+                "name": "Bo Tie",
+                "slug": "bo-tie"
+            },
+            "parent": "619d0062dceea41c57b6a203",
+            "image": "palette-examples/4pi-palette-example-by-bo-tie-2-619d05.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-11-23T15:16:27.637Z",
+            "updatedAt": "2021-11-23T20:05:00.073Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "ffe2ce",
+        "f56214",
+        "ffc414",
+        "3bd827",
+        "147658",
+        "14c4ce",
+        "1d3162",
+        "a73176"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "619d0062dceea41c57b6a203",
+        "type": "palettes",
+        "count": 19,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,85 @@
+{
+    "_id": "60a16f749cc7290962f8e760",
+    "tags": [
+        "blood",
+        "moon",
+        "red",
+        "purple",
+        "dark",
+        "21"
+    ],
+    "colors": [
+        "130310",
+        "1d0518",
+        "270721",
+        "3c0921",
+        "520b20",
+        "7d0f1f",
+        "a8141d",
+        "d3181c",
+        "ff252b"
+    ],
+    "downloads": "1,501",
+    "featured": false,
+    "likes": 86,
+    "comments": 2,
+    "slug": "bloodmoon21",
+    "publishedAt": "2021-05-24T17:00:00.090Z",
+    "user": {
+        "name": "Ademack",
+        "slug": "ademack"
+    },
+    "title": "BloodMoon21",
+    "hashtag": "bloodmoon21",
+    "description": "A Dark Art inspired Palette I made for myself. If used correctly, you could make a piece that looks quite sinister and or apocalyptic.",
+    "creator": true,
+    "createdAt": "2021-05-16T19:16:04.720Z",
+    "numberOfColors": 9,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60a16f9b9cc7290962f8e762",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "BloodMoon21 Palette Example by Ademack",
+            "slug": "bloodmoon21-palette-example-by-ademack",
+            "publishedAt": "2021-05-23T17:15:00.016Z",
+            "user": {
+                "name": "Ademack",
+                "slug": "ademack"
+            },
+            "parent": "60a16f749cc7290962f8e760",
+            "image": "palette-examples/bloodmoon21-palette-example-by-ademack-60a16f.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-05-16T19:16:43.347Z",
+            "updatedAt": "2021-05-23T17:15:00.016Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "130310",
+        "1d0518",
+        "270721",
+        "3c0921",
+        "520b20",
+        "7d0f1f",
+        "a8141d",
+        "d3181c",
+        "ff252b"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "60a16f749cc7290962f8e760",
+        "type": "palettes",
+        "count": 86,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

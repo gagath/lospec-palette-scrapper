@@ -1,0 +1,71 @@
+{
+    "_id": "603a96a3e6ccdc051170a2f7",
+    "tags": [
+        "nord"
+    ],
+    "colors": [
+        "2e3440",
+        "3b4252",
+        "434c5e",
+        "4c566a",
+        "d8dee9",
+        "e5e9f0",
+        "eceff4",
+        "8fbcbb",
+        "88c0d0",
+        "81a1c1",
+        "5e81ac",
+        "bf616a",
+        "d08770",
+        "ebcb8b",
+        "a3be8c",
+        "b48ead"
+    ],
+    "downloads": "426",
+    "featured": false,
+    "likes": 17,
+    "comments": 0,
+    "title": "Nord theme",
+    "hashtag": "nord",
+    "description": "An arctic, north-bluish color palette.<i>I am not original creator </i>This palette is from <a href=\"https://www.nordtheme.com\" target=\"_blank\">here</a><span> (https://www.nordtheme.com)</span>",
+    "creator": false,
+    "slug": "nord-theme",
+    "publishedAt": "2021-03-08T23:40:00.022Z",
+    "user": {
+        "name": "Kendy205",
+        "slug": "kendy205"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2021-02-27T18:59:47.335Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "2e3440",
+        "3b4252",
+        "434c5e",
+        "4c566a",
+        "d8dee9",
+        "e5e9f0",
+        "eceff4",
+        "8fbcbb",
+        "88c0d0",
+        "81a1c1",
+        "5e81ac",
+        "bf616a",
+        "d08770",
+        "ebcb8b",
+        "a3be8c",
+        "b48ead"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "603a96a3e6ccdc051170a2f7",
+        "type": "palettes",
+        "count": 17,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

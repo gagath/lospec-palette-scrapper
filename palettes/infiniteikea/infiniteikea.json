@@ -1,0 +1,52 @@
+{
+    "_id": "5daa7d807418a06f1b538683",
+    "slug": "infinite-ikea",
+    "description": "A night-themed palette both based on the IKEA brand and the thumbnail for Lord Bung's Confinement: Episode 7 video, along with one extra color for added depth",
+    "colors": [
+        "12223c",
+        "104a7d",
+        "45a9ff",
+        "f6d76b",
+        "f6f0f7"
+    ],
+    "creator": true,
+    "comments": 2,
+    "likes": 16,
+    "createdAt": "2019-10-19T03:05:36.691Z",
+    "featured": false,
+    "tags": [
+        "thejwphter88",
+        "night",
+        "ikea",
+        "scp3008"
+    ],
+    "downloads": "207",
+    "numberOfColors": 5,
+    "hashtag": "infiniteikea",
+    "title": "Infinite IKEA",
+    "user": {
+        "name": "JWPH",
+        "slug": "thejwphter88"
+    },
+    "publishedAt": "2019-10-19T03:05:36.691Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "12223c",
+        "104a7d",
+        "45a9ff",
+        "f6d76b",
+        "f6f0f7"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5daa7d807418a06f1b538683",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

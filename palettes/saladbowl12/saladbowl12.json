@@ -1,0 +1,63 @@
+{
+    "_id": "5e113a5032cbab6cd44a3026",
+    "slug": "salad-bowl",
+    "description": "",
+    "colors": [
+        "541b3c",
+        "802040",
+        "a04040",
+        "c06040",
+        "e0e080",
+        "a0c040",
+        "60a040",
+        "206040",
+        "103040"
+    ],
+    "creator": true,
+    "hashtag": "saladbowl12",
+    "comments": 0,
+    "likes": 24,
+    "createdAt": "2020-01-05T01:22:24.540Z",
+    "featured": false,
+    "tags": [
+        "red",
+        "green",
+        "hot",
+        "cool",
+        "watermelon",
+        "fruit",
+        "jimison3"
+    ],
+    "downloads": "525",
+    "numberOfColors": 9,
+    "title": "Salad Bowl",
+    "user": {
+        "name": "Jimison3",
+        "slug": "jimison3"
+    },
+    "publishedAt": "2020-01-05T01:22:24.540Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "541b3c",
+        "802040",
+        "a04040",
+        "c06040",
+        "e0e080",
+        "a0c040",
+        "60a040",
+        "206040",
+        "103040"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5e113a5032cbab6cd44a3026",
+        "type": "palettes",
+        "count": 24,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

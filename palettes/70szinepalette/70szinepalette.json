@@ -1,0 +1,82 @@
+{
+    "_id": "5edd0ec657947c7aa40e69de",
+    "tags": [
+        "print",
+        "polyducks",
+        "vintage"
+    ],
+    "colors": [
+        "1e1610",
+        "d3ad8b",
+        "fcce8d",
+        "f3ede3",
+        "f95142",
+        "ff8f46",
+        "f2bb4e",
+        "84a3a5",
+        "4d7c71",
+        "405987",
+        "1f2f49"
+    ],
+    "downloads": "803",
+    "featured": false,
+    "likes": 62,
+    "comments": 1,
+    "title": "70s Zine",
+    "hashtag": "70szinepalette",
+    "description": "A collection of colours used in early print media; sampled from various examples here: http://oa.letterformarchive.org/<br /><br />The colours mostly rely on a black/red/orange/white scheme, but I brewed up companion cyan-greens which bridge across the blues/yellows.<br /><br />For best results, use in big, punchy blocks.",
+    "creator": "1",
+    "slug": "70s-zine",
+    "publishedAt": "2020-06-09T22:45:00.008Z",
+    "user": {
+        "name": "Polyducks",
+        "slug": "polyducks"
+    },
+    "numberOfColors": 11,
+    "createdAt": "2020-06-07T15:59:02.174Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5edee9c12be876071482e5b4",
+            "description": "Palette usage example by Polyducks",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.221Z",
+            "creator": false,
+            "image": "palette-examples/70s-zine-palette-example-palette-usage-example-by-polyducks-5edee9.png",
+            "likes": 0,
+            "parent": "5edd0ec657947c7aa40e69de",
+            "slug": "70s-zine-palette-example-palette-usage-example-by-polyducks",
+            "title": "70s zine palette example palette usage example by polyducks",
+            "updatedAt": "2020-07-31T03:56:11.221Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Polyducks"
+        }
+    ],
+    "colorsArray": [
+        "1e1610",
+        "d3ad8b",
+        "fcce8d",
+        "f3ede3",
+        "f95142",
+        "ff8f46",
+        "f2bb4e",
+        "84a3a5",
+        "4d7c71",
+        "405987",
+        "1f2f49"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5edd0ec657947c7aa40e69de",
+        "type": "palettes",
+        "count": 62,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

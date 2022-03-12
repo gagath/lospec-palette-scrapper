@@ -1,0 +1,99 @@
+{
+    "_id": "60d7bbdf0c86b01bfd66777f",
+    "tags": [
+        "sunsetsky",
+        "sunsetclouds",
+        "sunset",
+        "sky",
+        "5colors",
+        "afternoon"
+    ],
+    "colors": [
+        "f9c5c4",
+        "efa9c5",
+        "d1a8d9",
+        "ae9ee1",
+        "939adf"
+    ],
+    "downloads": "447",
+    "featured": false,
+    "likes": 34,
+    "comments": 2,
+    "slug": "clouds-at-sunset",
+    "publishedAt": "2021-07-09T22:55:00.023Z",
+    "user": {
+        "name": "yan nobi",
+        "slug": "nullyan"
+    },
+    "title": "CLOUDS AT SUNSET",
+    "hashtag": "sunset",
+    "description": "Pallete created by\u00a0\u00a0Jubille",
+    "creator": false,
+    "numberOfColors": 5,
+    "createdAt": "2021-06-26T23:44:31.923Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60f568968535811696b6648d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "CLOUDS AT SUNSET Palette Example by \u064b",
+            "slug": "clouds-at-sunset-palette-example-by",
+            "publishedAt": "2021-08-22T21:20:00.022Z",
+            "user": {
+                "name": "\u064b",
+                "slug": "ylshuu"
+            },
+            "parent": "60d7bbdf0c86b01bfd66777f",
+            "image": "palette-examples/clouds-at-sunset-palette-example-by-60f568.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-07-19T11:57:10.437Z",
+            "updatedAt": "2021-08-22T21:20:00.023Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "610877d85932a234bee7b622",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "CLOUDS AT SUNSET Palette Example by Salamendro",
+            "slug": "clouds-at-sunset-palette-example-by-salamendro",
+            "publishedAt": "2021-08-22T21:44:47.686Z",
+            "user": {
+                "name": "Salamendro",
+                "slug": "salamendro"
+            },
+            "parent": "60d7bbdf0c86b01bfd66777f",
+            "image": "palette-examples/clouds-at-sunset-palette-example-by-salamendro-610877.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-08-02T22:55:20.898Z",
+            "updatedAt": "2021-08-22T21:44:47.687Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "f9c5c4",
+        "efa9c5",
+        "d1a8d9",
+        "ae9ee1",
+        "939adf"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "60d7bbdf0c86b01bfd66777f",
+        "type": "palettes",
+        "count": 34,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

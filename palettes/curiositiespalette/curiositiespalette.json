@@ -1,0 +1,78 @@
+{
+    "_id": "606f6c774c82ee488e2f1b33",
+    "tags": [
+        "pink",
+        "green",
+        "soft",
+        "pastel",
+        "cute"
+    ],
+    "colors": [
+        "46425e",
+        "15788c",
+        "00b9be",
+        "ffeecc",
+        "ffb0a3",
+        "ff6973"
+    ],
+    "downloads": "1,687",
+    "featured": false,
+    "likes": 145,
+    "comments": 1,
+    "slug": "curiosities",
+    "publishedAt": "2021-04-13T23:30:00.042Z",
+    "user": {
+        "name": "sukinapan",
+        "slug": "sukinapan"
+    },
+    "title": "curiosities",
+    "hashtag": "curiositiespalette",
+    "description": "A soft palette, small but with some variation across hues.",
+    "creator": true,
+    "createdAt": "2021-04-08T20:49:59.386Z",
+    "numberOfColors": 6,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "606f6e714c82ee488e2f1b43",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "curiosities Palette Example by sukinapan",
+            "slug": "curiosities-palette-example-by-sukinapan",
+            "publishedAt": "2021-04-08T21:55:00.024Z",
+            "user": {
+                "name": "sukinapan",
+                "slug": "sukinapan"
+            },
+            "parent": "606f6c774c82ee488e2f1b33",
+            "image": "palette-examples/curiosities-palette-example-by-sukinapan-606f6e.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-04-08T20:58:25.937Z",
+            "updatedAt": "2021-04-08T21:55:00.025Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "46425e",
+        "15788c",
+        "00b9be",
+        "ffeecc",
+        "ffb0a3",
+        "ff6973"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "606f6c774c82ee488e2f1b33",
+        "type": "palettes",
+        "count": 145,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

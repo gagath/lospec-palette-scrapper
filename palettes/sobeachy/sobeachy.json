@@ -1,0 +1,80 @@
+{
+    "_id": "6021c4e8a1fef94c797ab810",
+    "tags": [
+        "pastel",
+        " light",
+        " sobeachy"
+    ],
+    "colors": [
+        "e55388",
+        "e57d88",
+        "e59f88",
+        "e5d988",
+        "e3d5cc",
+        "bad5cc",
+        "6dd5cc",
+        "5ac5cc"
+    ],
+    "downloads": "1,029",
+    "featured": false,
+    "likes": 101,
+    "comments": 0,
+    "title": "SOBEACHY8",
+    "hashtag": "sobeachy",
+    "description": "",
+    "creator": true,
+    "slug": "sobeachy8",
+    "publishedAt": "2021-04-25T17:05:00.037Z",
+    "user": {
+        "name": "Snowy Owl",
+        "slug": "snowy-owl"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2021-02-08T23:10:32.803Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "609dd7625022e501683885ec",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "SOBEACHY8 Palette Example by Snowy Owl",
+            "slug": "sobeachy8-palette-example-by-snowy-owl-3",
+            "publishedAt": "2021-05-14T09:55:00.025Z",
+            "user": {
+                "name": "Snowy Owl",
+                "slug": "snowy-owl"
+            },
+            "parent": "6021c4e8a1fef94c797ab810",
+            "image": "palette-examples/sobeachy8-palette-example-by-snowy-owl-3-609dd7.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-05-14T01:50:26.786Z",
+            "updatedAt": "2021-05-14T09:55:00.025Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "e55388",
+        "e57d88",
+        "e59f88",
+        "e5d988",
+        "e3d5cc",
+        "bad5cc",
+        "6dd5cc",
+        "5ac5cc"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6021c4e8a1fef94c797ab810",
+        "type": "palettes",
+        "count": 101,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,64 @@
+{
+    "_id": "5fa7016c9af9ce34a9da0af2",
+    "tags": [
+        "naturalistic",
+        " natural colour system",
+        " teal",
+        " mint",
+        " silver",
+        " mustard",
+        " beaver",
+        " crimson",
+        " many ramps",
+        " good ramps"
+    ],
+    "colors": [
+        "252018",
+        "006462",
+        "67a387",
+        "b9b9ac",
+        "ffffe3",
+        "eddd3d",
+        "916f51",
+        "7b0304"
+    ],
+    "downloads": "92",
+    "featured": false,
+    "likes": 17,
+    "comments": 1,
+    "title": "Natural Colour System 8",
+    "hashtag": "naturalcoloursystem8",
+    "description": "A reduction of the\u00a0<a href=\"https://ncscolour.com/ncs/\" target=\"_blank\">Natural Colour System</a>'s 1952 colours into 8 colours, with brightness/contrast correction.",
+    "creator": false,
+    "slug": "natural-colour-system-8",
+    "publishedAt": "2020-11-09T15:35:00.019Z",
+    "user": {
+        "name": "P-Tux7",
+        "slug": "p-tux7"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2020-11-07T20:19:56.798Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "252018",
+        "006462",
+        "67a387",
+        "b9b9ac",
+        "ffffe3",
+        "eddd3d",
+        "916f51",
+        "7b0304"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fa7016c9af9ce34a9da0af2",
+        "type": "palettes",
+        "count": 17,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

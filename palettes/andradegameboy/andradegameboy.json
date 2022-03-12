@@ -1,0 +1,62 @@
+{
+    "_id": "5907bd1b56d1107d5ec60adc",
+    "createdAt": "2017-05-01T22:56:27.587Z",
+    "slug": "andrade-gameboy",
+    "description": "Alternative Gameboy palette by <a href=\"http://pixeljoint.com/p/63928.htm\">Andrade</a>.",
+    "colors": [
+        "202020",
+        "5e6745",
+        "aeba89",
+        "e3eec0"
+    ],
+    "tags": [
+        "artist",
+        "gameboy"
+    ],
+    "downloads": "2,558",
+    "numberOfColors": 4,
+    "featured": false,
+    "likes": 81,
+    "comments": 0,
+    "hashtag": "andradegameboy",
+    "title": "Andrade Gameboy",
+    "publishedAt": "2017-05-01T22:56:27.587Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5907be1d56d1107d5ec60add",
+            "description": "<a href=\"http://pixeljoint.com/pixelart/112447.htm\">Galactic Girl Jam Assets</a> by <a href=\"http://pixeljoint.com/p/63928.htm\">Andrade</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.062Z",
+            "creator": false,
+            "image": "palette-examples/andrade-gameboy-palette-example-galactic-girl-jam-assets-by-andrade-5907be.png",
+            "likes": 0,
+            "parent": "5907bd1b56d1107d5ec60adc",
+            "slug": "andrade-gameboy-palette-example-galactic-girl-jam-assets-by-andrade",
+            "title": "andrade gameboy palette example galactic girl jam assets by andrade",
+            "updatedAt": "2020-07-31T03:56:11.062Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Galactic Girl Jam Assets by Andrade"
+        }
+    ],
+    "colorsArray": [
+        "202020",
+        "5e6745",
+        "aeba89",
+        "e3eec0"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5907bd1b56d1107d5ec60adc",
+        "type": "palettes",
+        "count": 81,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

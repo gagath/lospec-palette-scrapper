@@ -1,0 +1,78 @@
+{
+    "_id": "60041f6881728e0e69d05b92",
+    "tags": [
+        "colourful",
+        "colorful",
+        "6color",
+        "6colour",
+        "groxguy"
+    ],
+    "colors": [
+        "5b401e",
+        "aa7837",
+        "efeade",
+        "95e539",
+        "f2b313",
+        "f27837"
+    ],
+    "downloads": "88",
+    "featured": false,
+    "likes": 13,
+    "comments": 0,
+    "title": "Colourful 6",
+    "hashtag": "colourful6",
+    "description": "",
+    "creator": true,
+    "slug": "colourful-6",
+    "publishedAt": "2021-01-29T18:25:00.024Z",
+    "user": {
+        "name": "Groxguy",
+        "slug": "groxguy"
+    },
+    "numberOfColors": 6,
+    "createdAt": "2021-01-17T11:28:40.664Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60041f7181728e0e69d05b94",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/colourful-6-palette-example-by-groxguy-60041f.png",
+            "creator": true,
+            "description": "",
+            "title": "Colourful 6 Palette Example by Groxguy",
+            "slug": "colourful-6-palette-example-by-groxguy",
+            "publishedAt": "2021-01-23T19:00:00.037Z",
+            "user": {
+                "name": "Groxguy",
+                "slug": "groxguy"
+            },
+            "parent": "60041f6881728e0e69d05b92",
+            "createdAt": "2021-01-17T11:28:49.085Z",
+            "updatedAt": "2021-01-23T19:00:00.037Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "5b401e",
+        "aa7837",
+        "efeade",
+        "95e539",
+        "f2b313",
+        "f27837"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "60041f6881728e0e69d05b92",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

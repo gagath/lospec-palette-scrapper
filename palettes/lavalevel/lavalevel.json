@@ -1,0 +1,95 @@
+{
+    "_id": "600c6f8dcea8d07db5fddc25",
+    "tags": [
+        "lava",
+        "hot",
+        "gb",
+        "polyphrog"
+    ],
+    "colors": [
+        "726059",
+        "301922",
+        "cf331e",
+        "f29d2c"
+    ],
+    "downloads": "478",
+    "featured": false,
+    "likes": 43,
+    "comments": 1,
+    "title": "lava level",
+    "hashtag": "lavalevel",
+    "description": "small gameboy palette for making games",
+    "creator": true,
+    "slug": "lava-level",
+    "publishedAt": "2021-01-31T00:25:00.022Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-01-23T18:48:45.125Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "600c6fa9cea8d07db5fddc28",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/lava-level-palette-example-by-polyphorge-600c6f.png",
+            "creator": true,
+            "description": "dont look at this one. it doesnt exist :)",
+            "title": "lava level Palette Example",
+            "slug": "lava-level-palette-example-by-polyphorge",
+            "publishedAt": "2021-01-23T19:05:00.012Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "600c6f8dcea8d07db5fddc25",
+            "createdAt": "2021-01-23T18:49:13.771Z",
+            "updatedAt": "2021-01-24T08:19:16.215Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "dont look at this one. it doesnt exist :)"
+        },
+        {
+            "_id": "600c83611444d402ead671a5",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/lava-level-palette-example-by-polyphorge-2-600c83.png",
+            "creator": true,
+            "description": "fixed example",
+            "title": "lava level Palette Example by polyphorge",
+            "slug": "lava-level-palette-example-by-polyphorge-2",
+            "publishedAt": "2021-01-23T22:00:00.028Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "600c6f8dcea8d07db5fddc25",
+            "createdAt": "2021-01-23T20:13:21.061Z",
+            "updatedAt": "2021-01-23T22:00:00.029Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": "fixed example"
+        }
+    ],
+    "colorsArray": [
+        "726059",
+        "301922",
+        "cf331e",
+        "f29d2c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "600c6f8dcea8d07db5fddc25",
+        "type": "palettes",
+        "count": 43,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

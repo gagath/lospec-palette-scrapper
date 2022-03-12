@@ -1,0 +1,76 @@
+{
+    "_id": "5dae2a55a1643f728cc1a80c",
+    "slug": "primal8",
+    "description": "A soft, general-use palette inspired by prehistory.<br />",
+    "colors": [
+        "1a1828",
+        "4d5a6c",
+        "6da9e3",
+        "ffffff",
+        "eeb333",
+        "259322",
+        "b04848",
+        "5b2e33"
+    ],
+    "creator": true,
+    "comments": 0,
+    "likes": 36,
+    "createdAt": "2019-10-21T21:59:49.855Z",
+    "featured": false,
+    "tags": [
+        "soft",
+        "generic",
+        "3bit"
+    ],
+    "downloads": "665",
+    "numberOfColors": 8,
+    "hashtag": "primal8",
+    "title": "PRIMAL8",
+    "user": {
+        "name": "GooGroker",
+        "slug": "googroker"
+    },
+    "publishedAt": "2019-10-21T21:59:49.855Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5daf1a659d7558553d384504",
+            "description": "Palette usage example by GooGroker",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.204Z",
+            "creator": false,
+            "image": "palette-examples/primal8-palette-example-palette-usage-example-by-googroker-5daf1a.png",
+            "likes": 0,
+            "parent": "5dae2a55a1643f728cc1a80c",
+            "slug": "primal8-palette-example-palette-usage-example-by-googroker",
+            "title": "primal8 palette example palette usage example by googroker",
+            "updatedAt": "2020-07-31T03:56:11.204Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by GooGroker"
+        }
+    ],
+    "colorsArray": [
+        "1a1828",
+        "4d5a6c",
+        "6da9e3",
+        "ffffff",
+        "eeb333",
+        "259322",
+        "b04848",
+        "5b2e33"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5dae2a55a1643f728cc1a80c",
+        "type": "palettes",
+        "count": 36,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

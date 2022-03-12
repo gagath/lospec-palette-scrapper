@@ -1,0 +1,80 @@
+{
+    "_id": "6185fa8cf3653e129359ef12",
+    "tags": [
+        "chocolate",
+        "milk",
+        "brown"
+    ],
+    "colors": [
+        "d6f5e4",
+        "f7ffc5",
+        "b4c788",
+        "8a8969",
+        "8b6a44",
+        "62554c",
+        "463c3c",
+        "312629"
+    ],
+    "downloads": "15,965",
+    "featured": false,
+    "likes": 27,
+    "comments": 0,
+    "slug": "chocomilk-8",
+    "publishedAt": "2021-11-10T18:10:00.023Z",
+    "user": {
+        "name": "Blylzz",
+        "slug": "blylzz"
+    },
+    "title": "CHOCOMILK-8",
+    "hashtag": "chocomilk",
+    "description": "LA paleta de colores para colorear chocolate y leche",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-11-06T03:46:20.375Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6186c83919bfc744787aceeb",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "CHOCOMILK-8 Palette Example by Blylzz",
+            "slug": "chocomilk-8-palette-example-by-blylzz-2",
+            "publishedAt": "2021-11-06T19:00:00.051Z",
+            "user": {
+                "name": "Blylzz",
+                "slug": "blylzz"
+            },
+            "parent": "6185fa8cf3653e129359ef12",
+            "image": "palette-examples/chocomilk-8-palette-example-by-blylzz-2-6186c8.png",
+            "creator": true,
+            "description": "Linda y sabrosa im\u00e1gen que antoja. un lindo ejemplo de como usar la combinaci\u00f3n de los colores de la paleta, espero les guste.",
+            "createdAt": "2021-11-06T18:23:53.618Z",
+            "updatedAt": "2021-11-06T19:00:00.051Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Linda y sabrosa im\u00e1gen que antoja. un lindo ejemplo de como usar la combinaci\u00f3n de los colores de la paleta, espero les guste."
+        }
+    ],
+    "colorsArray": [
+        "d6f5e4",
+        "f7ffc5",
+        "b4c788",
+        "8a8969",
+        "8b6a44",
+        "62554c",
+        "463c3c",
+        "312629"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6185fa8cf3653e129359ef12",
+        "type": "palettes",
+        "count": 27,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

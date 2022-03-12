@@ -1,0 +1,67 @@
+{
+    "_id": "616ca5c03a66f90b30cd59be",
+    "tags": [
+        "isasstudio"
+    ],
+    "colors": [
+        "aca969",
+        "c183ff",
+        "99aa00",
+        "00b286",
+        "909090",
+        "d73600",
+        "dd0975",
+        "c111c3",
+        "2400ff",
+        "225500",
+        "5e3801",
+        "4d3b41",
+        "0d1b2e",
+        "171900"
+    ],
+    "downloads": "29",
+    "featured": false,
+    "likes": 8,
+    "comments": 0,
+    "slug": "spaff-16",
+    "publishedAt": "2021-10-19T17:45:00.015Z",
+    "user": {
+        "name": "Isa",
+        "slug": "isas-studio"
+    },
+    "title": "Spaff 16",
+    "hashtag": "spaff16",
+    "description": "I attempted to extended\u00a0Spaff 8\u00a0while trying keeping the palette as terrible as the original",
+    "creator": true,
+    "numberOfColors": 14,
+    "createdAt": "2021-10-17T22:37:52.505Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "aca969",
+        "c183ff",
+        "99aa00",
+        "00b286",
+        "909090",
+        "d73600",
+        "dd0975",
+        "c111c3",
+        "2400ff",
+        "225500",
+        "5e3801",
+        "4d3b41",
+        "0d1b2e",
+        "171900"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "616ca5c03a66f90b30cd59be",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

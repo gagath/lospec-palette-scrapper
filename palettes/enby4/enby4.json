@@ -1,0 +1,47 @@
+{
+    "_id": "5fd2368447cf800f31c7765d",
+    "tags": [
+        "nonbinary"
+    ],
+    "colors": [
+        "ffffff",
+        "e9bc31",
+        "7148dc",
+        "000000"
+    ],
+    "downloads": "42",
+    "featured": false,
+    "likes": 11,
+    "comments": 4,
+    "title": "Enby4",
+    "hashtag": "enby4",
+    "description": "A palette based on the (most frequently used) nonbinary flag.",
+    "creator": true,
+    "slug": "enby4",
+    "publishedAt": "2020-12-14T08:30:00.039Z",
+    "user": {
+        "name": "reverie",
+        "slug": "revereverevere1"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-12-10T14:53:56.743Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffffff",
+        "e9bc31",
+        "7148dc",
+        "000000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5fd2368447cf800f31c7765d",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

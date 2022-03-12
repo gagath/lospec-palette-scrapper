@@ -1,0 +1,92 @@
+{
+    "_id": "61966680acfd6668695a3afa",
+    "tags": [
+        "evaladarr",
+        "fantasy",
+        "diluted"
+    ],
+    "colors": [
+        "070707",
+        "3b3a57",
+        "807874",
+        "79a9a9",
+        "d7d3cf",
+        "192815",
+        "576b23",
+        "c2c95d",
+        "4a2d1e",
+        "c23d3d",
+        "ae6338",
+        "c99168",
+        "845b8d",
+        "eb93cc"
+    ],
+    "downloads": "97",
+    "featured": false,
+    "likes": 11,
+    "comments": 2,
+    "slug": "evaladarr",
+    "publishedAt": "2021-11-21T14:35:00.048Z",
+    "user": {
+        "name": "Nightmare 3711",
+        "slug": "nightmare-3711"
+    },
+    "title": "Evaladarr",
+    "hashtag": "evaladarr",
+    "description": "The palette for my Evaladarr series. Tried to give it a diluted color look. https://pixeljoint.com/pixelart/142619.htm",
+    "creator": true,
+    "numberOfColors": 14,
+    "createdAt": "2021-11-18T14:43:12.858Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61966764acfd6668695a3b09",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Evaladarr Palette Example by Nightmare 3711",
+            "slug": "evaladarr-palette-example-by-nightmare-3711",
+            "publishedAt": "2021-11-18T16:10:00.081Z",
+            "user": {
+                "name": "Nightmare 3711",
+                "slug": "nightmare-3711"
+            },
+            "parent": "61966680acfd6668695a3afa",
+            "image": "palette-examples/evaladarr-palette-example-by-nightmare-3711-619667.png",
+            "creator": true,
+            "description": "A strip from my Evaladarr map using the Evaladarr palette (Full map: https://pixeljoint.com/pixelart/142619.htm)",
+            "createdAt": "2021-11-18T14:47:00.491Z",
+            "updatedAt": "2021-11-18T16:10:00.081Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A strip from my Evaladarr map using the Evaladarr palette (Full map: https://pixeljoint.com/pixelart/142619.htm)"
+        }
+    ],
+    "colorsArray": [
+        "070707",
+        "3b3a57",
+        "807874",
+        "79a9a9",
+        "d7d3cf",
+        "192815",
+        "576b23",
+        "c2c95d",
+        "4a2d1e",
+        "c23d3d",
+        "ae6338",
+        "c99168",
+        "845b8d",
+        "eb93cc"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "61966680acfd6668695a3afa",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,45 @@
+{
+    "_id": "61ae8d5cbbc1be22018bf626",
+    "tags": [],
+    "colors": [
+        "26798e",
+        "63caa7",
+        "ffc172",
+        "ffe383"
+    ],
+    "downloads": "49",
+    "featured": false,
+    "likes": 4,
+    "comments": 0,
+    "slug": "lagoon",
+    "publishedAt": "2021-12-12T09:00:00.141Z",
+    "user": {
+        "name": "Netic",
+        "slug": "frenetic-wallaby"
+    },
+    "title": "Lagoon",
+    "hashtag": "nature",
+    "description": "Paleta que encontr\u00e9 en las im\u00e1genes de googleOrigin: https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fwww.xn--nosotros-los-diseadores-8hc.com%2F2019%2F10%2F11%2F25-hermosas-paletas-de-colores-para-tu-proximo-proyecto-de-diseno%2F&amp;psig=AOvVaw3msfUEq_V4j_LfYwBaBWzv&amp;ust=1638915348882000&amp;source=images&amp;cd=vfe&amp;ved=0CAsQjRxqFwoTCMCG5c6Z0PQCFQAAAAAdAAAAABAJ",
+    "creator": false,
+    "numberOfColors": 4,
+    "createdAt": "2021-12-06T22:23:24.019Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "26798e",
+        "63caa7",
+        "ffc172",
+        "ffe383"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61ae8d5cbbc1be22018bf626",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

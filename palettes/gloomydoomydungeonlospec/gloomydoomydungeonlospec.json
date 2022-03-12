@@ -1,0 +1,50 @@
+{
+    "_id": "61c23ece1be8e710b1c94b96",
+    "tags": [
+        "gloom",
+        "doom",
+        "dungeon",
+        "dark"
+    ],
+    "colors": [
+        "000000",
+        "222034",
+        "45283c",
+        "643a57"
+    ],
+    "downloads": "113",
+    "featured": false,
+    "likes": 7,
+    "comments": 1,
+    "slug": "gloomy-dungeon",
+    "publishedAt": "2021-12-24T00:30:00.039Z",
+    "user": {
+        "name": "SandwichBlamwich",
+        "slug": "ever-heard-of-pico-8"
+    },
+    "title": "Gloomy Dungeon",
+    "hashtag": "gloomydoomydungeonlospec",
+    "description": "a gloomy doomy dungeon...",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-12-21T20:53:34.209Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "222034",
+        "45283c",
+        "643a57"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61c23ece1be8e710b1c94b96",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

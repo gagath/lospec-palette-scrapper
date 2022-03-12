@@ -1,0 +1,63 @@
+{
+    "_id": "618c1d102ce02670ea399e36",
+    "tags": [],
+    "colors": [
+        "161c50",
+        "2a305e",
+        "255197",
+        "368198",
+        "48a591",
+        "7ab169",
+        "accd6d",
+        "e8c03b",
+        "ffad2a",
+        "ff8929",
+        "ff5d17",
+        "54220d",
+        "270d03"
+    ],
+    "downloads": "120",
+    "featured": false,
+    "likes": 3,
+    "comments": 0,
+    "slug": "burntsweet",
+    "publishedAt": "2021-11-13T10:10:00.035Z",
+    "user": {
+        "name": "ghost",
+        "slug": "ghostsmhost"
+    },
+    "title": "burntsweet",
+    "hashtag": "burntsweet",
+    "description": "B)",
+    "creator": true,
+    "numberOfColors": 13,
+    "createdAt": "2021-11-10T19:27:12.152Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "161c50",
+        "2a305e",
+        "255197",
+        "368198",
+        "48a591",
+        "7ab169",
+        "accd6d",
+        "e8c03b",
+        "ffad2a",
+        "ff8929",
+        "ff5d17",
+        "54220d",
+        "270d03"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "618c1d102ce02670ea399e36",
+        "type": "palettes",
+        "count": 3,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

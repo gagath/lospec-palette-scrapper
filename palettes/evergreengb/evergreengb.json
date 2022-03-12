@@ -1,0 +1,49 @@
+{
+    "_id": "5f59200c4972c40eb09a4d36",
+    "tags": [
+        "isasstudio",
+        "gameboy",
+        "2bit"
+    ],
+    "colors": [
+        "0e2b1c",
+        "285828",
+        "9b784c",
+        "c9c149"
+    ],
+    "downloads": "65",
+    "featured": false,
+    "likes": 4,
+    "comments": 0,
+    "title": "Evergreen GB",
+    "hashtag": "evergreengb",
+    "description": "",
+    "creator": true,
+    "slug": "evergreen-gb",
+    "publishedAt": "2020-09-19T23:20:00.025Z",
+    "user": {
+        "name": "Isa",
+        "slug": "isas-studio"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-09-09T18:33:48.686Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "0e2b1c",
+        "285828",
+        "9b784c",
+        "c9c149"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f59200c4972c40eb09a4d36",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

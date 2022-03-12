@@ -1,0 +1,57 @@
+{
+    "_id": "5eb79493334b752a2fb3e336",
+    "tags": [
+        "vibrant"
+    ],
+    "colors": [
+        "1f0031",
+        "110554",
+        "24afcc",
+        "4bee57",
+        "f4f9a5",
+        "fbe859",
+        "e16032",
+        "ce0e38",
+        "9a005f"
+    ],
+    "downloads": "118",
+    "featured": false,
+    "likes": 4,
+    "comments": 0,
+    "title": "Reformed Rainbow",
+    "hashtag": "reformedrainbow",
+    "description": "Limited pallette with all essential colours.",
+    "creator": true,
+    "slug": "reformed-rainbow",
+    "publishedAt": "2020-05-12T10:10:00.014Z",
+    "user": {
+        "name": "Gormie",
+        "slug": "gorm"
+    },
+    "numberOfColors": 9,
+    "createdAt": "2020-05-10T05:43:47.985Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "1f0031",
+        "110554",
+        "24afcc",
+        "4bee57",
+        "f4f9a5",
+        "fbe859",
+        "e16032",
+        "ce0e38",
+        "9a005f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5eb79493334b752a2fb3e336",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

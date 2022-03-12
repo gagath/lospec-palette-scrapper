@@ -1,0 +1,71 @@
+{
+    "_id": "616bda1a45bfe37070040f79",
+    "tags": [
+        "neon",
+        "cyberpunk"
+    ],
+    "colors": [
+        "222323",
+        "ff4adc",
+        "3dff98",
+        "f0f6f0"
+    ],
+    "downloads": "392",
+    "featured": false,
+    "likes": 30,
+    "comments": 1,
+    "slug": "bitbits-neon",
+    "publishedAt": "2021-10-19T11:45:00.032Z",
+    "user": {
+        "name": "BitBits",
+        "slug": "bbttan"
+    },
+    "title": "BITBITS NEON",
+    "hashtag": "bitbitsneon",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-10-17T08:08:58.424Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "616be37845bfe37070040fed",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "BITBITS NEON Palette Example by BitBits",
+            "slug": "bitbits-neon-palette-example-by-bitbits",
+            "publishedAt": "2021-10-17T16:15:00.021Z",
+            "user": {
+                "name": "BitBits",
+                "slug": "bbttan"
+            },
+            "parent": "616bda1a45bfe37070040f79",
+            "image": "palette-examples/bitbits-neon-palette-example-by-bitbits-616be3.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-10-17T08:48:56.307Z",
+            "updatedAt": "2021-10-17T16:15:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "222323",
+        "ff4adc",
+        "3dff98",
+        "f0f6f0"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "616bda1a45bfe37070040f79",
+        "type": "palettes",
+        "count": 30,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

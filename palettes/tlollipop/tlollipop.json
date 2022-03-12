@@ -1,0 +1,98 @@
+{
+    "_id": "61f3e71f5f5bd91fc00de821",
+    "tags": [
+        "gameboy",
+        "gb",
+        "artist",
+        "anoob",
+        "colorful",
+        "versatile",
+        "tlollipop"
+    ],
+    "colors": [
+        "151640",
+        "3f6d9e",
+        "f783b0",
+        "e6f2ef"
+    ],
+    "downloads": "433",
+    "featured": false,
+    "likes": 56,
+    "comments": 7,
+    "slug": "t-lollipop",
+    "publishedAt": "2022-01-28T22:30:00.046Z",
+    "user": {
+        "name": "ANoob",
+        "slug": "anoob"
+    },
+    "title": "T-Lollipop",
+    "hashtag": "tlollipop",
+    "description": "A palette inspired by the gameboy and a certain flag (which you can see in the 2nd example, thanks a lot Beta Lyn!), T-Lollipop has 4 colors that give it a dreamlike, and/or night-time feeling. equipped with a very strong hue-shifting, which can even make this palette have two color ramps instead of one, anything can be possible.",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2022-01-28T12:52:47.697Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61f3e7455f5bd91fc00de824",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "T-Lollipop Palette Example by ANoob",
+            "slug": "t-lollipop-palette-example-by-anoobbwil95",
+            "publishedAt": "2022-01-28T18:35:00.038Z",
+            "user": {
+                "name": "ANoob",
+                "slug": "anoob"
+            },
+            "parent": "61f3e71f5f5bd91fc00de821",
+            "image": "palette-examples/t-lollipop-palette-example-by-anoobbwil95.png",
+            "creator": true,
+            "description": "Some concept art, along with the palette at the side.",
+            "createdAt": "2022-01-28T12:53:25.531Z",
+            "updatedAt": "2022-01-28T18:35:00.039Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Some concept art, along with the palette at the side."
+        },
+        {
+            "_id": "61f63ec22d2bd55ccdc4eb65",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "T-Lollipop Palette Example by Beta Lyn",
+            "slug": "t-lollipop-palette-example-by-beta-lynq0dtc2",
+            "publishedAt": "2022-01-30T21:35:00.047Z",
+            "user": {
+                "name": "Beta Lyn",
+                "slug": "betalyn"
+            },
+            "parent": "61f3e71f5f5bd91fc00de821",
+            "image": "palette-examples/t-lollipop-palette-example-by-beta-lynq0dtc2.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-01-30T07:31:14.141Z",
+            "updatedAt": "2022-01-30T21:35:00.048Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "151640",
+        "3f6d9e",
+        "f783b0",
+        "e6f2ef"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61f3e71f5f5bd91fc00de821",
+        "type": "palettes",
+        "count": 56,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

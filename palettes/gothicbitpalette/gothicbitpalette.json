@@ -1,0 +1,85 @@
+{
+    "_id": "61253510bf173472edc10157",
+    "tags": [
+        "dark",
+        "black",
+        "white",
+        "goth",
+        "gothic",
+        "aesthetic",
+        "8",
+        "8color"
+    ],
+    "colors": [
+        "0e0e12",
+        "1a1a24",
+        "333346",
+        "535373",
+        "8080a4",
+        "a6a6bf",
+        "c1c1d2",
+        "e6e6ec"
+    ],
+    "downloads": "1,218",
+    "featured": false,
+    "likes": 65,
+    "comments": 4,
+    "slug": "gothic-bit",
+    "publishedAt": "2021-09-19T03:20:00.043Z",
+    "user": {
+        "name": "HiroHi",
+        "slug": "itshirohi"
+    },
+    "title": "Gothic Bit",
+    "hashtag": "gothicbitpalette",
+    "description": "A more dark and moody palette with gothic aesthetic to it.",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-08-24T18:06:08.484Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "612543d68899da52c9583f18",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Gothic Bit Palette Example by HiroHi",
+            "slug": "gothic-bit-palette-example-by-hirohi",
+            "publishedAt": "2021-08-24T19:10:00.031Z",
+            "user": {
+                "name": "HiroHi",
+                "slug": "itshirohi"
+            },
+            "parent": "61253510bf173472edc10157",
+            "image": "palette-examples/gothic-bit-palette-example-by-hirohi-612543.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-08-24T19:09:10.321Z",
+            "updatedAt": "2021-08-24T19:10:00.031Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "0e0e12",
+        "1a1a24",
+        "333346",
+        "535373",
+        "8080a4",
+        "a6a6bf",
+        "c1c1d2",
+        "e6e6ec"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61253510bf173472edc10157",
+        "type": "palettes",
+        "count": 65,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,49 @@
+{
+    "_id": "5e7266a0ce6ac3393969fdee",
+    "title": "Dark 18",
+    "slug": "dark-18",
+    "description": "Dark colors for a dark work of art",
+    "colors": [
+        "000000",
+        "501544",
+        "241550",
+        "205015"
+    ],
+    "user": {
+        "name": "Parrot Boi",
+        "slug": "parrot-boi"
+    },
+    "creator": true,
+    "hashtag": "dark",
+    "createdAt": "2020-03-18T18:21:20.893Z",
+    "comments": 1,
+    "likes": 6,
+    "featured": false,
+    "tags": [
+        "dark",
+        "quad",
+        "4"
+    ],
+    "downloads": "50",
+    "numberOfColors": 4,
+    "publishedAt": "2020-04-16T05:20:00.018Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "501544",
+        "241550",
+        "205015"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5e7266a0ce6ac3393969fdee",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

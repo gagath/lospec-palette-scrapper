@@ -1,0 +1,47 @@
+{
+    "_id": "61d31c36c3f5913c0442d736",
+    "tags": [
+        "virtualboy"
+    ],
+    "colors": [
+        "ff0000",
+        "780000",
+        "2d0000",
+        "000000"
+    ],
+    "downloads": "73",
+    "featured": false,
+    "likes": 8,
+    "comments": 0,
+    "slug": "virtual-boy-corrected-palette",
+    "publishedAt": "2022-01-24T09:20:00.053Z",
+    "user": {
+        "name": "Bruno Weinberger",
+        "slug": "bw672558"
+    },
+    "title": "Virtual Boy corrected palette",
+    "hashtag": "virtualboycorrectedpalette",
+    "description": "I've changed the shades of red to be darker to make the picture feel more organical because the \"brightest\" color out there was just red, so the equally separated shades makes the darkest red look too bright compared to black in context of whole palette. I hope you understood all the s#*t I wrote. Anyway, here's a palette if you want to make VB styled pictures",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2022-01-03T15:54:30.112Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ff0000",
+        "780000",
+        "2d0000",
+        "000000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61d31c36c3f5913c0442d736",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

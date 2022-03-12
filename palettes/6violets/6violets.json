@@ -1,0 +1,74 @@
+{
+    "_id": "5fe75ef57518691b57c79948",
+    "tags": [
+        "violet violets 6violets 6 violetshadowshack violetshadow shadowshack "
+    ],
+    "colors": [
+        "74d7e9",
+        "4792eb",
+        "2c2fa3",
+        "2b0b76",
+        "b343d1",
+        "7d37d4"
+    ],
+    "downloads": "325",
+    "featured": false,
+    "likes": 28,
+    "comments": 0,
+    "title": "6 Violets",
+    "hashtag": "6violets",
+    "description": "A simple 6 color palette for pixel art",
+    "creator": true,
+    "slug": "6-violets",
+    "publishedAt": "2021-04-14T11:30:00.051Z",
+    "user": {
+        "name": "Violet Shadow Shack",
+        "slug": "violetshadowshack"
+    },
+    "numberOfColors": 6,
+    "createdAt": "2020-12-26T16:04:05.599Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6077781116f8450fae0b7f82",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "6 Violets Palette Example by Casei Solus",
+            "slug": "6-violets-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-16T23:50:00.019Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5fe75ef57518691b57c79948",
+            "image": "palette-examples/6-violets-palette-example-by-casei-solus-607778.png",
+            "creator": true,
+            "description": "A bunch of violets.",
+            "createdAt": "2021-04-14T23:17:37.210Z",
+            "updatedAt": "2021-04-16T23:50:00.019Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A bunch of violets."
+        }
+    ],
+    "colorsArray": [
+        "74d7e9",
+        "4792eb",
+        "2c2fa3",
+        "2b0b76",
+        "b343d1",
+        "7d37d4"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5fe75ef57518691b57c79948",
+        "type": "palettes",
+        "count": 28,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

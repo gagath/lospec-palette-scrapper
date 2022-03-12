@@ -1,0 +1,50 @@
+{
+    "_id": "602483b99d7b3256df5b75ad",
+    "tags": [
+        "woh",
+        " gaming",
+        " 2bits",
+        " world of horror"
+    ],
+    "colors": [
+        "000000",
+        "ffffff",
+        "c000c0",
+        "ff40ff"
+    ],
+    "downloads": "38",
+    "featured": false,
+    "likes": 2,
+    "comments": 0,
+    "title": "World of horror",
+    "hashtag": "worldofhorror",
+    "description": "The palette used to make mods for the game \"World of horror\"",
+    "creator": false,
+    "slug": "world-of-horror",
+    "publishedAt": "2021-09-24T13:55:00.034Z",
+    "user": {
+        "name": "TheChurchGuy",
+        "slug": "thechurchguy"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-02-11T01:09:13.665Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "ffffff",
+        "c000c0",
+        "ff40ff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "602483b99d7b3256df5b75ad",
+        "type": "palettes",
+        "count": 2,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

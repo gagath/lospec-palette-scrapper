@@ -1,0 +1,74 @@
+{
+    "_id": "603daaee489f5763acf98d62",
+    "tags": [
+        "2bit",
+        " 4 colors",
+        " 4 colours",
+        " gb",
+        " green"
+    ],
+    "colors": [
+        "c5ccb8",
+        "899b98",
+        "5d6872",
+        "333343"
+    ],
+    "downloads": "402",
+    "featured": false,
+    "likes": 33,
+    "comments": 2,
+    "title": "keeby",
+    "hashtag": "keeby",
+    "description": "just another simple 2-bit palette, with a hint of cool green",
+    "creator": true,
+    "slug": "keeby",
+    "publishedAt": "2021-03-19T18:10:00.017Z",
+    "user": {
+        "name": "Mustard",
+        "slug": "mustard"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-03-02T03:03:10.212Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "604571f7cc5fcf3a5fc9d550",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/keeby-palette-example-by-mustard-604571.png",
+            "creator": true,
+            "description": "",
+            "title": "keeby Palette Example by Mustard",
+            "slug": "keeby-palette-example-by-mustard",
+            "publishedAt": "2021-03-08T14:10:00.022Z",
+            "user": {
+                "name": "Mustard",
+                "slug": "mustard"
+            },
+            "parent": "603daaee489f5763acf98d62",
+            "createdAt": "2021-03-08T00:38:15.496Z",
+            "updatedAt": "2021-03-08T14:10:00.022Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "c5ccb8",
+        "899b98",
+        "5d6872",
+        "333343"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "603daaee489f5763acf98d62",
+        "type": "palettes",
+        "count": 33,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

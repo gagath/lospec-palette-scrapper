@@ -1,0 +1,69 @@
+{
+    "_id": "5ccdb458763a4a5e61845fac",
+    "createdAt": "2019-05-04T15:48:40.874Z",
+    "slug": "spacehaze",
+    "description": "Part of the <a target=\"_blank\" href=\"https://lospec.com/palette-list/tag/wildleoknightgameboy\">WildLeoKnight Gameboy Palettes Set</a>",
+    "colors": [
+        "f8e3c4",
+        "cc3495",
+        "6b1fb1",
+        "0b0630"
+    ],
+    "featured": false,
+    "tags": [
+        "artist",
+        "wildleoknight",
+        "gameboy",
+        "wildleoknightgameboy"
+    ],
+    "downloads": "3,747",
+    "numberOfColors": 4,
+    "likes": 194,
+    "comments": 0,
+    "creator": true,
+    "hashtag": "spacehaze",
+    "title": "SpaceHaze",
+    "user": {
+        "name": "WildLeoKnight",
+        "slug": "wildleoknight"
+    },
+    "publishedAt": "2019-05-04T15:48:40.874Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5d9a1f4ddc982c67d873d7b3",
+            "description": "Palette usage example by Rhoq",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.202Z",
+            "creator": false,
+            "image": "palette-examples/spacehaze-palette-example-palette-usage-example-by-rhoq-5d9a1f.png",
+            "likes": 0,
+            "parent": "5ccdb458763a4a5e61845fac",
+            "slug": "spacehaze-palette-example-palette-usage-example-by-rhoq",
+            "title": "spacehaze palette example palette usage example by rhoq",
+            "updatedAt": "2020-07-31T03:56:11.202Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Rhoq"
+        }
+    ],
+    "colorsArray": [
+        "f8e3c4",
+        "cc3495",
+        "6b1fb1",
+        "0b0630"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5ccdb458763a4a5e61845fac",
+        "type": "palettes",
+        "count": 194,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

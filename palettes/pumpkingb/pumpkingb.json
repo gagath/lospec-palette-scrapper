@@ -1,0 +1,72 @@
+{
+    "_id": "5f83a092a9af5347facd0a90",
+    "tags": [
+        "isasstudio",
+        "gameboy",
+        "2bit"
+    ],
+    "colors": [
+        "142b23",
+        "19692c",
+        "e06e16",
+        "f7db7e"
+    ],
+    "downloads": "430",
+    "featured": false,
+    "likes": 49,
+    "comments": 1,
+    "title": "Pumpkin GB",
+    "hashtag": "pumpkingb",
+    "description": "Halloween themed GB palette",
+    "creator": true,
+    "slug": "pumpkin-gb",
+    "publishedAt": "2020-10-12T16:30:00.064Z",
+    "user": {
+        "name": "Isa",
+        "slug": "isas-studio"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-10-12T00:17:22.510Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f83a0afa9af5347facd0a93",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/pumpkin-gb-palette-example-by-isagamer-5f83a0.png",
+            "creator": true,
+            "description": "Some pumpkins...",
+            "title": "Pumpkin GB Palette Example by IsaGamer",
+            "slug": "pumpkin-gb-palette-example-by-isagamer",
+            "publishedAt": "2020-10-12T16:55:00.010Z",
+            "user": {
+                "name": "Isa",
+                "slug": "isas-studio"
+            },
+            "parent": "5f83a092a9af5347facd0a90",
+            "createdAt": "2020-10-12T00:17:51.791Z",
+            "updatedAt": "2020-10-12T16:55:00.011Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Some pumpkins..."
+        }
+    ],
+    "colorsArray": [
+        "142b23",
+        "19692c",
+        "e06e16",
+        "f7db7e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f83a092a9af5347facd0a90",
+        "type": "palettes",
+        "count": 49,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

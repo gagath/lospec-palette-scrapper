@@ -1,0 +1,54 @@
+{
+    "_id": "5dad0984bdf4b4667365a6db",
+    "slug": "mini-7",
+    "description": "The palette used in Minisoniczx's Piranha Plant piece. Has a somewhat faded look. Highly versatile for the small number of colors used.",
+    "colors": [
+        "30303d",
+        "5564a0",
+        "61b7ac",
+        "ede4da",
+        "f7b33d",
+        "ea6e48",
+        "818747"
+    ],
+    "creator": false,
+    "comments": 2,
+    "likes": 20,
+    "createdAt": "2019-10-21T01:27:32.348Z",
+    "featured": false,
+    "tags": [
+        "artist",
+        "minisoniczx"
+    ],
+    "downloads": "243",
+    "numberOfColors": 7,
+    "hashtag": "mini7",
+    "title": "Mini 7",
+    "user": {
+        "name": "PureAsbestos",
+        "slug": "pureasbestos"
+    },
+    "publishedAt": "2019-10-21T01:27:32.348Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "30303d",
+        "5564a0",
+        "61b7ac",
+        "ede4da",
+        "f7b33d",
+        "ea6e48",
+        "818747"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5dad0984bdf4b4667365a6db",
+        "type": "palettes",
+        "count": 20,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

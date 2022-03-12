@@ -1,0 +1,49 @@
+{
+    "_id": "60de34d287dd31069837bee3",
+    "tags": [
+        "valentines",
+        "love",
+        "pink"
+    ],
+    "colors": [
+        "fdd9ff",
+        "f2798d",
+        "851f99",
+        "19004d"
+    ],
+    "downloads": "99",
+    "featured": false,
+    "likes": 11,
+    "comments": 1,
+    "slug": "love-puppy",
+    "publishedAt": "2021-07-15T16:05:00.022Z",
+    "user": {
+        "name": "Something Fishy",
+        "slug": "something-fishy"
+    },
+    "title": "Love Puppy",
+    "hashtag": "lovepuppy",
+    "description": "It's a cute pink palette.\u00a0\u00a0\u00a0",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-07-01T21:34:10.943Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "fdd9ff",
+        "f2798d",
+        "851f99",
+        "19004d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60de34d287dd31069837bee3",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,57 @@
+{
+    "_id": "60c274adbeba637c07146ccc",
+    "tags": [
+        "bunny",
+        "8colors",
+        "palette"
+    ],
+    "colors": [
+        "5b976f",
+        "ffa41a",
+        "b32a32",
+        "fff9fc",
+        "7e95bb",
+        "292453",
+        "1f1b32",
+        "100a21"
+    ],
+    "downloads": "90",
+    "featured": false,
+    "likes": 12,
+    "comments": 0,
+    "slug": "nice-rabbit",
+    "publishedAt": "2021-07-13T22:05:00.031Z",
+    "user": {
+        "name": "N Mozart",
+        "slug": "n-mozart"
+    },
+    "title": "Nice Rabbit",
+    "hashtag": "nicerabbit",
+    "description": "palette made while I was remaking an old pixel art of mine",
+    "creator": true,
+    "createdAt": "2021-06-10T20:23:09.856Z",
+    "numberOfColors": 8,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "5b976f",
+        "ffa41a",
+        "b32a32",
+        "fff9fc",
+        "7e95bb",
+        "292453",
+        "1f1b32",
+        "100a21"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60c274adbeba637c07146ccc",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

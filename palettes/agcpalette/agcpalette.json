@@ -1,0 +1,73 @@
+{
+    "_id": "5e6a6488eefb183e424377a9",
+    "title": "AGC16",
+    "slug": "agc16",
+    "description": "[<b>A</b>daptable <b>G</b>roup of <b>C</b>olours]<br /><br />The basis for the AGC palette was the CGA palette, which I've edited into something more subdued, and with more blending possibilities, at the cost of losing the bright colours which make CGA so distinctive. Enjoy!<br />",
+    "colors": [
+        "cbc6c0",
+        "bfcb69",
+        "61cbac",
+        "4fbb64",
+        "cb80a3",
+        "8b8b8b",
+        "86765d",
+        "b54c66",
+        "5b754f",
+        "4b6d6d",
+        "5555b8",
+        "5a5252",
+        "6b4064",
+        "4c3737",
+        "2d273b",
+        "220c22"
+    ],
+    "user": {
+        "name": "ckelsallpxls",
+        "slug": "ckelsallpxls"
+    },
+    "creator": true,
+    "hashtag": "agcpalette",
+    "createdAt": "2020-03-12T16:34:16.335Z",
+    "comments": 4,
+    "likes": 16,
+    "featured": false,
+    "tags": [
+        "16color",
+        "agc",
+        "agcpalette"
+    ],
+    "downloads": "148",
+    "numberOfColors": 16,
+    "publishedAt": "2020-03-12T16:34:16.335Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "cbc6c0",
+        "bfcb69",
+        "61cbac",
+        "4fbb64",
+        "cb80a3",
+        "8b8b8b",
+        "86765d",
+        "b54c66",
+        "5b754f",
+        "4b6d6d",
+        "5555b8",
+        "5a5252",
+        "6b4064",
+        "4c3737",
+        "2d273b",
+        "220c22"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5e6a6488eefb183e424377a9",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

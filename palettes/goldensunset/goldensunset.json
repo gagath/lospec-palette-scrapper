@@ -1,0 +1,77 @@
+{
+    "_id": "608702d57339f968fd1fe881",
+    "tags": [
+        "yellow",
+        "purple",
+        "polyphrog",
+        "monoramp",
+        "light",
+        "gold"
+    ],
+    "colors": [
+        "ffecd6",
+        "ffb873",
+        "cb765c",
+        "7a4a5a",
+        "25213e"
+    ],
+    "downloads": "615",
+    "featured": false,
+    "likes": 60,
+    "comments": 2,
+    "slug": "golden-sunset",
+    "publishedAt": "2021-05-03T09:45:00.022Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "golden-sunset\ud83d\udd05",
+    "hashtag": "goldensunset",
+    "description": "",
+    "creator": true,
+    "createdAt": "2021-04-26T18:13:41.562Z",
+    "numberOfColors": 5,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "608702e07339f968fd1fe883",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "golden-sunset\ud83d\udd05 Palette Example by polyphorge",
+            "slug": "golden-sunset-palette-example-by-polyphorge",
+            "publishedAt": "2021-05-10T13:55:00.017Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "608702d57339f968fd1fe881",
+            "image": "palette-examples/golden-sunset-palette-example-by-polyphorge-608702.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-04-26T18:13:52.100Z",
+            "updatedAt": "2021-05-10T13:55:00.018Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "ffecd6",
+        "ffb873",
+        "cb765c",
+        "7a4a5a",
+        "25213e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "608702d57339f968fd1fe881",
+        "type": "palettes",
+        "count": 60,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

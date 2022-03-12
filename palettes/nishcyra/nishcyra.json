@@ -1,0 +1,87 @@
+{
+    "_id": "5f6804bca13bce4829ea875f",
+    "tags": [
+        "duochrome",
+        "midcontrast",
+        "midsaturation",
+        "3bit",
+        "catgirl",
+        "catgirls",
+        "glacier",
+        "windfallapples",
+        "3bitcats",
+        "3bitcatgirls"
+    ],
+    "colors": [
+        "b81939",
+        "c3aa69",
+        "e4e0af",
+        "e1f6f7",
+        "b0d5e3",
+        "7a8bb3",
+        "5c5478",
+        "3d115f"
+    ],
+    "downloads": "172",
+    "featured": false,
+    "likes": 16,
+    "comments": 0,
+    "title": "3bit Catgirls: Nish Cyra",
+    "hashtag": "nishcyra",
+    "description": "An eight-colour, red-yellow-silver palette specific to glacier's <i>Die Angry </i>catgirl,\u00a0<a href=\"https://twitter.com/windfallapples/status/1259626684992667649\" target=\"_blank\">the summoner-consort, Nish Cyra.</a>",
+    "creator": true,
+    "slug": "3bit-catgirls-nish-cyra",
+    "publishedAt": "2020-09-24T14:35:00.028Z",
+    "user": {
+        "name": "windfallapples (glacier)",
+        "slug": "windfallapples"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2020-09-21T01:41:16.345Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f6cafc9a4d8f328e9016f91",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/3bit-catgirls-nish-cyra-palette-example-by-windfallapples-glacier-5f6caf.png",
+            "creator": true,
+            "description": "Nish!",
+            "title": "3bit Catgirls: Nish Cyra Palette Example by windfallapples (glacier)",
+            "slug": "3bit-catgirls-nish-cyra-palette-example-by-windfallapples-glacier",
+            "publishedAt": "2020-10-06T06:35:00.013Z",
+            "user": {
+                "name": "windfallapples (glacier)",
+                "slug": "windfallapples"
+            },
+            "parent": "5f6804bca13bce4829ea875f",
+            "createdAt": "2020-09-24T14:40:09.802Z",
+            "updatedAt": "2020-10-06T06:35:00.013Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Nish!"
+        }
+    ],
+    "colorsArray": [
+        "b81939",
+        "c3aa69",
+        "e4e0af",
+        "e1f6f7",
+        "b0d5e3",
+        "7a8bb3",
+        "5c5478",
+        "3d115f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5f6804bca13bce4829ea875f",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,75 @@
+{
+    "_id": "5da8e32972011a7d941deed3",
+    "slug": "2bit-catgirls-rise",
+    "description": "The character palette for glacier's catgirl, \"Rise\" Rita Zehhian.<br />From a series of four-colour characters.",
+    "colors": [
+        "162c27",
+        "534650",
+        "6f9b8a",
+        "ead7be"
+    ],
+    "creator": true,
+    "comments": 1,
+    "likes": 37,
+    "createdAt": "2019-10-18T16:45:40.617Z",
+    "featured": false,
+    "tags": [
+        "glacier",
+        "windfallapples",
+        "duochrome",
+        "lowsaturation",
+        "2bitcats",
+        "2bit"
+    ],
+    "downloads": "419",
+    "numberOfColors": 4,
+    "hashtag": "2bitcatgirlsrise",
+    "title": "2Bit Catgirls: Rise",
+    "user": {
+        "name": "windfallapples (glacier)",
+        "slug": "windfallapples"
+    },
+    "publishedAt": "2019-10-18T16:45:40.617Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f35c7d8e0a05747ebb9b607",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/2bit-catgirls-rise-palette-example-by-windfallapples-glacier-5f35c7.png",
+            "creator": true,
+            "description": "A sample for the <i><b>2Bit Cats: Rise Zehhian</b></i> four-colour palette, featuring a random catgirl (left) and Rise Zehhian, upside down (right).",
+            "title": "2Bit Catgirls: Rise Palette Example by windfallapples (glacier)",
+            "slug": "2bit-catgirls-rise-palette-example-by-windfallapples-glacier",
+            "publishedAt": "2020-08-14T00:45:00.017Z",
+            "user": {
+                "name": "windfallapples (glacier)",
+                "slug": "windfallapples"
+            },
+            "parent": "5da8e32972011a7d941deed3",
+            "createdAt": "2020-08-13T23:08:08.834Z",
+            "updatedAt": "2020-08-14T00:45:00.017Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A sample for the 2Bit Cats: Rise Zehhian four-colour palette, featuring a random catgirl (left) and Rise Zehhian, upside down (right)."
+        }
+    ],
+    "colorsArray": [
+        "162c27",
+        "534650",
+        "6f9b8a",
+        "ead7be"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5da8e32972011a7d941deed3",
+        "type": "palettes",
+        "count": 37,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

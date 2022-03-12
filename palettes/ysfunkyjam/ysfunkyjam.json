@@ -1,0 +1,90 @@
+{
+    "_id": "60588a115ad811298e5a076e",
+    "tags": [
+        "1bit",
+        " funk",
+        " jam"
+    ],
+    "colors": [
+        "920244",
+        "fec28c"
+    ],
+    "downloads": "157",
+    "featured": false,
+    "likes": 25,
+    "comments": 0,
+    "title": "Y's funky jam",
+    "hashtag": "ysfunkyjam",
+    "description": "As juicy as 1bit palettes get. Used in \"Block of Funk\" by Yelta (me).",
+    "creator": true,
+    "slug": "ys-funky-jam",
+    "publishedAt": "2021-03-24T00:10:00.044Z",
+    "user": {
+        "name": "Yelta",
+        "slug": "yelta8"
+    },
+    "numberOfColors": 2,
+    "createdAt": "2021-03-22T12:14:09.593Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60588b355ad811298e5a0781",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/ys-funky-jam-palette-example-by-yelta-60588b.png",
+            "creator": true,
+            "description": "",
+            "title": "Y's funky jam Palette Example by Yelta",
+            "slug": "ys-funky-jam-palette-example-by-yelta",
+            "publishedAt": "2021-03-23T15:35:00.011Z",
+            "user": {
+                "name": "Yelta",
+                "slug": "yelta8"
+            },
+            "parent": "60588a115ad811298e5a076e",
+            "createdAt": "2021-03-22T12:19:01.392Z",
+            "updatedAt": "2021-03-23T15:35:00.012Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "60588d785ad811298e5a07b4",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/ys-funky-jam-palette-example-by-yelta-2-60588d.png",
+            "creator": true,
+            "description": "",
+            "title": "Y's funky jam Palette Example by Yelta",
+            "slug": "ys-funky-jam-palette-example-by-yelta-2",
+            "publishedAt": "2021-03-23T15:30:00.028Z",
+            "user": {
+                "name": "Yelta",
+                "slug": "yelta8"
+            },
+            "parent": "60588a115ad811298e5a076e",
+            "createdAt": "2021-03-22T12:28:40.519Z",
+            "updatedAt": "2021-03-23T15:30:00.028Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "920244",
+        "fec28c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "60588a115ad811298e5a076e",
+        "type": "palettes",
+        "count": 25,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

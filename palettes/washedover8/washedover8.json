@@ -1,0 +1,53 @@
+{
+    "_id": "60a450765a96ad06c0555e40",
+    "tags": [],
+    "colors": [
+        "110022",
+        "887766",
+        "ffffdd",
+        "883333",
+        "ffdd88",
+        "44bb66",
+        "446699",
+        "552277"
+    ],
+    "downloads": "70",
+    "featured": false,
+    "likes": 10,
+    "comments": 4,
+    "slug": "washed-over8",
+    "publishedAt": "2021-05-24T05:00:00.052Z",
+    "user": {
+        "name": "A.J. Otero",
+        "slug": "aj-otero"
+    },
+    "title": "Washed-Over8",
+    "hashtag": "washedover8",
+    "description": "So as with my first 16-color palette, my first 8-color palette anded up being a bit too saturated for my liking.\u00a0 So, (as sort of a sequel to washed-over16, I guess), here's Washed-Over8.\u00a0 Also, thanks to Isa for the input on adjusting the colors!",
+    "creator": true,
+    "createdAt": "2021-05-18T23:40:38.667Z",
+    "numberOfColors": 8,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "110022",
+        "887766",
+        "ffffdd",
+        "883333",
+        "ffdd88",
+        "44bb66",
+        "446699",
+        "552277"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60a450765a96ad06c0555e40",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

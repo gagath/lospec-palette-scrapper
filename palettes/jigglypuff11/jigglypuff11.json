@@ -1,0 +1,62 @@
+{
+    "_id": "609c0c99a0e7eb2177c68899",
+    "tags": [
+        "ludibrolo",
+        "light"
+    ],
+    "colors": [
+        "000000",
+        "5c3c5c",
+        "875151",
+        "b5855e",
+        "bab280",
+        "63ab6c",
+        "457080",
+        "554580",
+        "ad58ad",
+        "bfa8bf",
+        "dde8eb"
+    ],
+    "downloads": "93",
+    "featured": false,
+    "likes": 12,
+    "comments": 0,
+    "slug": "jigglypuff-11",
+    "publishedAt": "2021-05-14T22:45:00.021Z",
+    "user": {
+        "name": "LudiBrolo",
+        "slug": "purple-yoshi"
+    },
+    "title": "Jigglypuff-11",
+    "hashtag": "jigglypuff11",
+    "description": "Unlike the last palette \"I\" made, this one I did actually handpick the colors for. Hope you like this light ramp!\u00a0",
+    "creator": true,
+    "createdAt": "2021-05-12T17:12:57.032Z",
+    "numberOfColors": 11,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "5c3c5c",
+        "875151",
+        "b5855e",
+        "bab280",
+        "63ab6c",
+        "457080",
+        "554580",
+        "ad58ad",
+        "bfa8bf",
+        "dde8eb"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "609c0c99a0e7eb2177c68899",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

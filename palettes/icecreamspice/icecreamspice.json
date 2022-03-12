@@ -1,0 +1,76 @@
+{
+    "_id": "61c9200d09d93a2bd15f29e5",
+    "tags": [
+        "icecream",
+        "cold",
+        "soundsdotzip"
+    ],
+    "colors": [
+        "341a1a",
+        "563d4d",
+        "64739c",
+        "57aab6",
+        "90d8b4",
+        "fff1da"
+    ],
+    "downloads": "462",
+    "featured": false,
+    "likes": 31,
+    "comments": 1,
+    "slug": "ice-cream-spice",
+    "publishedAt": "2021-12-28T09:00:00.048Z",
+    "user": {
+        "name": "SoundsDotZip",
+        "slug": "soundsdotzip"
+    },
+    "title": "Ice Cream Spice",
+    "hashtag": "icecreamspice",
+    "description": "Ice Cream Spice was inspired by my favourite ice cream flavours, Vanilla, Pistachio, Bubblegum, Blueberry, Caramel and Chocolate.",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2021-12-27T02:08:13.697Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61c9259009d93a2bd15f2a13",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Ice Cream Spice Palette Example by SoundsDotZip",
+            "slug": "ice-cream-spice-palette-example-by-soundsdotzip527c6s",
+            "publishedAt": "2021-12-28T09:25:00.035Z",
+            "user": {
+                "name": "SoundsDotZip",
+                "slug": "soundsdotzip"
+            },
+            "parent": "61c9200d09d93a2bd15f29e5",
+            "image": "palette-examples/ice-cream-spice-palette-example-by-soundsdotzip527c6s.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-12-27T02:31:44.067Z",
+            "updatedAt": "2021-12-28T09:25:00.036Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "341a1a",
+        "563d4d",
+        "64739c",
+        "57aab6",
+        "90d8b4",
+        "fff1da"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "61c9200d09d93a2bd15f29e5",
+        "type": "palettes",
+        "count": 31,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

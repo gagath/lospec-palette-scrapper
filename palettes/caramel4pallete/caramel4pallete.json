@@ -1,0 +1,47 @@
+{
+    "_id": "5f1f10f7933a24422e92f859",
+    "tags": [
+        "4"
+    ],
+    "colors": [
+        "ffffff",
+        "caa827",
+        "552c00",
+        "0b0000"
+    ],
+    "downloads": "33",
+    "featured": false,
+    "likes": 6,
+    "comments": 0,
+    "title": "Caramel4",
+    "hashtag": "caramel4pallete",
+    "description": "A new pallete created by using Moth4 with another layer filled with the second color of Moth4 using the Color Burn filter. It looks like Caramel.<br />",
+    "creator": true,
+    "slug": "caramel4",
+    "publishedAt": "2020-07-28T18:00:00.018Z",
+    "user": {
+        "name": "PolyRoly",
+        "slug": "polyroly"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-07-27T17:37:59.066Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffffff",
+        "caa827",
+        "552c00",
+        "0b0000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f1f10f7933a24422e92f859",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

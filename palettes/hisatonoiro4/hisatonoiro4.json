@@ -1,0 +1,47 @@
+{
+    "_id": "5daf6c3b9d7558553d384652",
+    "slug": "hisato-no-iro-4",
+    "description": "4-Color Palette used by short game \"Hisato no Saku\".\u00a0",
+    "colors": [
+        "211758",
+        "284657",
+        "4791af",
+        "99b9ad"
+    ],
+    "creator": true,
+    "comments": 0,
+    "likes": 10,
+    "createdAt": "2019-10-22T20:53:15.198Z",
+    "featured": false,
+    "tags": [
+        "gameboy"
+    ],
+    "downloads": "178",
+    "numberOfColors": 4,
+    "hashtag": "hisatonoiro4",
+    "title": "Hisato no Iro 4",
+    "user": {
+        "name": "Rhoq",
+        "slug": "rhoq"
+    },
+    "publishedAt": "2019-10-22T20:53:15.198Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "211758",
+        "284657",
+        "4791af",
+        "99b9ad"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5daf6c3b9d7558553d384652",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

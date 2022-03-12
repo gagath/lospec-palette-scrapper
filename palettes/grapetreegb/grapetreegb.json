@@ -1,0 +1,70 @@
+{
+    "_id": "5ffd12f51a614d34696c901b",
+    "tags": [
+        "ludibrolo"
+    ],
+    "colors": [
+        "cfb690",
+        "845a78",
+        "4c4138",
+        "17072b"
+    ],
+    "downloads": "399",
+    "featured": false,
+    "likes": 43,
+    "comments": 4,
+    "title": "Grape Tree GB",
+    "hashtag": "grapetreegb",
+    "description": "I'm very new to palette making, so I'm sticking with some simple gameboy/2-bit palettes before working on some bigger stuff.\u00a0<img class=\"emoji p16\" src=\"/emoji/lospec-discord/ditto.png\" />\u00a0",
+    "creator": true,
+    "slug": "grape-tree-gb",
+    "publishedAt": "2021-01-31T06:25:00.029Z",
+    "user": {
+        "name": "LudiBrolo",
+        "slug": "purple-yoshi"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-01-12T03:09:41.303Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5ffe71c11a614d34696ca3c4",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/grape-tree-gb-palette-example-by-ludibrolo-5ffe71.png",
+            "creator": true,
+            "description": "",
+            "title": "Grape Tree GB Palette Example by LudiBrolo",
+            "slug": "grape-tree-gb-palette-example-by-ludibrolo",
+            "publishedAt": "2021-01-23T19:35:00.010Z",
+            "user": {
+                "name": "LudiBrolo",
+                "slug": "purple-yoshi"
+            },
+            "parent": "5ffd12f51a614d34696c901b",
+            "createdAt": "2021-01-13T04:06:25.136Z",
+            "updatedAt": "2021-01-23T19:35:00.010Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "cfb690",
+        "845a78",
+        "4c4138",
+        "17072b"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5ffd12f51a614d34696c901b",
+        "type": "palettes",
+        "count": 43,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

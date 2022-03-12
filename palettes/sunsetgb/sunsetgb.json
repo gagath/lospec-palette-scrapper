@@ -1,0 +1,84 @@
+{
+    "_id": "5ffd78051a614d34696c9501",
+    "tags": [
+        "sun",
+        " sunset",
+        " sun set",
+        " art",
+        " purple",
+        " orange",
+        " yellow",
+        " gb",
+        " 2bit",
+        " 4 color",
+        " nice",
+        " cool",
+        " warm",
+        " hue shift",
+        " solitarycatk1ng"
+    ],
+    "colors": [
+        "1f0f21",
+        "5c1e41",
+        "b85e54",
+        "eaeb96"
+    ],
+    "downloads": "309",
+    "featured": false,
+    "likes": 23,
+    "comments": 1,
+    "title": "SunSet GB",
+    "hashtag": "sunsetgb",
+    "description": "GB palette i made and liked",
+    "creator": true,
+    "slug": "sunset-gb",
+    "publishedAt": "2021-03-31T23:30:00.052Z",
+    "user": {
+        "name": "SolitaryCatK1ng",
+        "slug": "solitarycatk1ng"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-01-12T10:20:53.779Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5ffd872e1a614d34696c95e2",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/sunset-gb-palette-example-by-solitarycatk1ng-2-5ffd87.png",
+            "creator": true,
+            "description": "",
+            "title": "SunSet GB Palette Example by SolitaryCatK1ng",
+            "slug": "sunset-gb-palette-example-by-solitarycatk1ng-2",
+            "publishedAt": "2021-03-27T20:25:00.017Z",
+            "user": {
+                "name": "SolitaryCatK1ng",
+                "slug": "solitarycatk1ng"
+            },
+            "parent": "5ffd78051a614d34696c9501",
+            "createdAt": "2021-01-12T11:25:34.716Z",
+            "updatedAt": "2021-03-27T20:25:00.019Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "1f0f21",
+        "5c1e41",
+        "b85e54",
+        "eaeb96"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5ffd78051a614d34696c9501",
+        "type": "palettes",
+        "count": 23,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

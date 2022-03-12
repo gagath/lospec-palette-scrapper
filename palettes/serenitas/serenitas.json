@@ -1,0 +1,74 @@
+{
+    "_id": "60217e5aa1fef94c797ab3b1",
+    "tags": [
+        "smooth",
+        "gb",
+        "polyphrog",
+        "calm",
+        "serenity"
+    ],
+    "colors": [
+        "fbff96",
+        "8ed761",
+        "3d5440",
+        "2c1421"
+    ],
+    "downloads": "238",
+    "featured": false,
+    "likes": 20,
+    "comments": 0,
+    "title": "serenitas",
+    "hashtag": "serenitas",
+    "description": "a small palette made with soothing colors that still blend well.",
+    "creator": false,
+    "slug": "serenitas",
+    "publishedAt": "2021-02-11T20:40:00.022Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-02-08T18:09:30.489Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60217e69a1fef94c797ab3b3",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/serenitas-palette-example-by-polyphorge-60217e.png",
+            "creator": true,
+            "description": "",
+            "title": "serenitas Palette Example by polyphorge",
+            "slug": "serenitas-palette-example-by-polyphorge",
+            "publishedAt": "2021-02-08T19:05:00.021Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "60217e5aa1fef94c797ab3b1",
+            "createdAt": "2021-02-08T18:09:45.713Z",
+            "updatedAt": "2021-02-08T19:05:00.022Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "fbff96",
+        "8ed761",
+        "3d5440",
+        "2c1421"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60217e5aa1fef94c797ab3b1",
+        "type": "palettes",
+        "count": 20,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

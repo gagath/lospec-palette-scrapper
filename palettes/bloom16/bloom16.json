@@ -1,0 +1,98 @@
+{
+    "_id": "60e7b4e13ad44551df8ef285",
+    "tags": [
+        "colorful",
+        "rainbow",
+        "bright",
+        "saturated",
+        "vibrant"
+    ],
+    "colors": [
+        "ff9072",
+        "ffc567",
+        "fce39a",
+        "f7f7c7",
+        "afe48d",
+        "61d868",
+        "29ab7d",
+        "2b75b7",
+        "00408f",
+        "092867",
+        "110f3e",
+        "371a77",
+        "6f2a8f",
+        "ab2aa3",
+        "d64d9a",
+        "ff718c"
+    ],
+    "downloads": "490",
+    "featured": false,
+    "likes": 31,
+    "comments": 2,
+    "slug": "bloom-16",
+    "publishedAt": "2021-08-31T18:00:00.072Z",
+    "user": {
+        "name": "Yousurname",
+        "slug": "yousurname"
+    },
+    "title": "Bloom 16",
+    "hashtag": "bloom16",
+    "description": "A colorful and vibrant 16-color palette without browns or grays.",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2021-07-09T02:30:57.426Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60e86204bc75a03a9846de88",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Bloom 16 Palette Example by Yousurname",
+            "slug": "bloom-16-palette-example-by-yousurname",
+            "publishedAt": "2021-08-22T21:35:00.021Z",
+            "user": {
+                "name": "Yousurname",
+                "slug": "yousurname"
+            },
+            "parent": "60e7b4e13ad44551df8ef285",
+            "image": "palette-examples/bloom-16-palette-example-by-yousurname-60e862.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-07-09T14:49:40.528Z",
+            "updatedAt": "2021-08-22T21:35:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "ff9072",
+        "ffc567",
+        "fce39a",
+        "f7f7c7",
+        "afe48d",
+        "61d868",
+        "29ab7d",
+        "2b75b7",
+        "00408f",
+        "092867",
+        "110f3e",
+        "371a77",
+        "6f2a8f",
+        "ab2aa3",
+        "d64d9a",
+        "ff718c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60e7b4e13ad44551df8ef285",
+        "type": "palettes",
+        "count": 31,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

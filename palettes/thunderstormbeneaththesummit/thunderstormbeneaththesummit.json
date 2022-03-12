@@ -1,0 +1,89 @@
+{
+    "_id": "5ff17d790eecbe1b3b997626",
+    "tags": [
+        "earthtones",
+        " mountain",
+        " woodblock",
+        " rust"
+    ],
+    "colors": [
+        "fbaf71",
+        "713a29",
+        "582918",
+        "221e15",
+        "ebe3cc",
+        "96b3ae",
+        "162944",
+        "0a151b",
+        "565c56",
+        "293032",
+        "fbe5c9",
+        "b7a182"
+    ],
+    "downloads": "640",
+    "featured": false,
+    "likes": 71,
+    "comments": 3,
+    "title": "Thunderstorm Beneath The Summit",
+    "hashtag": "thunderstormbeneaththesummit",
+    "description": "A palette derived from one of Hokusai's Thirty-Six Views of Mt Fuji woodcut series.\u00a0",
+    "creator": true,
+    "slug": "thunderstorm-beneath-the-summit",
+    "publishedAt": "2021-01-04T23:35:00.016Z",
+    "user": {
+        "name": "airy disc",
+        "slug": "airy-disc"
+    },
+    "numberOfColors": 12,
+    "createdAt": "2021-01-03T08:16:57.906Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5ff187960eecbe1b3b9976bf",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/thunderstorm-beneath-the-summit-palette-example-by-caitlin-bechtel-5ff187.png",
+            "creator": true,
+            "description": "Based on Katsushika Hokusai's Thunderstorm Beneath the Summit (woodcut print c. 1830-1832)",
+            "title": "Thunderstorm Beneath The Summit Palette Example by caitlin bechtel",
+            "slug": "thunderstorm-beneath-the-summit-palette-example-by-caitlin-bechtel",
+            "publishedAt": "2021-01-04T17:40:00.020Z",
+            "user": {
+                "name": "airy disc",
+                "slug": "airy-disc"
+            },
+            "parent": "5ff17d790eecbe1b3b997626",
+            "createdAt": "2021-01-03T09:00:06.082Z",
+            "updatedAt": "2021-01-04T17:40:00.020Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Based on Katsushika Hokusai's Thunderstorm Beneath the Summit (woodcut print c. 1830-1832)"
+        }
+    ],
+    "colorsArray": [
+        "fbaf71",
+        "713a29",
+        "582918",
+        "221e15",
+        "ebe3cc",
+        "96b3ae",
+        "162944",
+        "0a151b",
+        "565c56",
+        "293032",
+        "fbe5c9",
+        "b7a182"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5ff17d790eecbe1b3b997626",
+        "type": "palettes",
+        "count": 71,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

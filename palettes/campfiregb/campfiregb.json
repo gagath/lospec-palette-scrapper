@@ -1,0 +1,51 @@
+{
+    "_id": "61425bf8fc4c895ace2cbfd9",
+    "tags": [
+        "gameboy",
+        "warm",
+        "cozy",
+        "campfire",
+        "nintendo"
+    ],
+    "colors": [
+        "d9ffd3",
+        "ede969",
+        "de804d",
+        "b33131"
+    ],
+    "downloads": "51",
+    "featured": false,
+    "likes": 7,
+    "comments": 0,
+    "slug": "campfire-gb",
+    "publishedAt": "2021-10-09T13:45:00.036Z",
+    "user": {
+        "name": "Spicygame Studios",
+        "slug": "spicygame-studios"
+    },
+    "title": "Campfire GB",
+    "hashtag": "campfiregb",
+    "description": "Campfire GB is a 4-color gameboy pallete I made by taking Ice cream GB and tweaking the colors. The colors are mostly warm except for the white which has a light green tint.",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-09-15T20:47:52.161Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "d9ffd3",
+        "ede969",
+        "de804d",
+        "b33131"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61425bf8fc4c895ace2cbfd9",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

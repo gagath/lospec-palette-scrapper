@@ -1,0 +1,50 @@
+{
+    "_id": "60917247f96ff5375d8ccff6",
+    "tags": [
+        "gameboy",
+        "palette",
+        "4color",
+        "2bit"
+    ],
+    "colors": [
+        "211429",
+        "373553",
+        "587b97",
+        "9ee7ca"
+    ],
+    "downloads": "149",
+    "featured": false,
+    "likes": 15,
+    "comments": 0,
+    "slug": "somber",
+    "publishedAt": "2021-05-17T03:35:00.022Z",
+    "user": {
+        "name": "Mason Levingston",
+        "slug": "mason-levingston"
+    },
+    "title": "Somber",
+    "hashtag": "somberpalette",
+    "description": "A somber palette for A somber piece",
+    "creator": true,
+    "createdAt": "2021-05-04T16:11:51.306Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "211429",
+        "373553",
+        "587b97",
+        "9ee7ca"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60917247f96ff5375d8ccff6",
+        "type": "palettes",
+        "count": 15,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

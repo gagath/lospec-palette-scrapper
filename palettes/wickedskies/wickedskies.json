@@ -1,0 +1,67 @@
+{
+    "_id": "603526afefee077d08a8a36b",
+    "tags": [
+        "vivid",
+        "radiant",
+        "wicked",
+        "sky",
+        "sunset"
+    ],
+    "colors": [
+        "00000f",
+        "000133",
+        "000356",
+        "0203e2",
+        "00cdfe",
+        "680880",
+        "fe007d",
+        "de1738",
+        "fd5e53",
+        "fc9c54",
+        "ffe373",
+        "fafbbd"
+    ],
+    "downloads": "138",
+    "featured": false,
+    "likes": 10,
+    "comments": 0,
+    "title": "Wicked Skies",
+    "hashtag": "wickedskies",
+    "description": "A palette made for soaring through a vivid and radiant sky as the sun sets.",
+    "creator": true,
+    "slug": "wicked-skies",
+    "publishedAt": "2021-03-09T17:40:00.028Z",
+    "user": {
+        "name": "clonethirteen",
+        "slug": "clonethirteen"
+    },
+    "numberOfColors": 12,
+    "createdAt": "2021-02-23T16:00:47.438Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "00000f",
+        "000133",
+        "000356",
+        "0203e2",
+        "00cdfe",
+        "680880",
+        "fe007d",
+        "de1738",
+        "fd5e53",
+        "fc9c54",
+        "ffe373",
+        "fafbbd"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "603526afefee077d08a8a36b",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

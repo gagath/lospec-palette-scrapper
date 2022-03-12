@@ -1,0 +1,70 @@
+{
+    "_id": "605899f05ad811298e5a08ae",
+    "tags": [
+        "brown",
+        " dust",
+        " gray",
+        " grey",
+        " paper"
+    ],
+    "colors": [
+        "252932",
+        "cb9e6a"
+    ],
+    "downloads": "79",
+    "featured": false,
+    "likes": 8,
+    "comments": 0,
+    "title": "Y's Paper and Dust",
+    "hashtag": "yspaperanddust",
+    "description": "Dusty paper to build a bomb from. Used in \"Gamebomb\" by Yelta (me).",
+    "creator": true,
+    "slug": "ys-paper-and-dust",
+    "publishedAt": "2021-03-23T18:10:00.025Z",
+    "user": {
+        "name": "Yelta",
+        "slug": "yelta8"
+    },
+    "numberOfColors": 2,
+    "createdAt": "2021-03-22T13:21:52.700Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60700108cfb8204304b3cf44",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Y's Paper and Dust Palette Example by Casei Solus",
+            "slug": "ys-paper-and-dust-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-09T14:45:00.041Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "605899f05ad811298e5a08ae",
+            "image": "palette-examples/ys-paper-and-dust-palette-example-by-casei-solus-607001.png",
+            "creator": true,
+            "description": "Art inspired by \"Gamebomb\" by Yelta.",
+            "createdAt": "2021-04-09T07:23:52.906Z",
+            "updatedAt": "2021-04-09T14:45:00.041Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Art inspired by \"Gamebomb\" by Yelta."
+        }
+    ],
+    "colorsArray": [
+        "252932",
+        "cb9e6a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "605899f05ad811298e5a08ae",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

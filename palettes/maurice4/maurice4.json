@@ -1,0 +1,71 @@
+{
+    "_id": "6007b65db06b6d7ad5e394fc",
+    "tags": [
+        "froeu",
+        "maurice"
+    ],
+    "colors": [
+        "371f2f",
+        "235a5c",
+        "d88f8f",
+        "ced7e8"
+    ],
+    "downloads": "110",
+    "featured": false,
+    "likes": 22,
+    "comments": 2,
+    "title": "maurice",
+    "hashtag": "maurice4",
+    "description": "i have no idea",
+    "creator": true,
+    "slug": "maurice",
+    "publishedAt": "2021-01-25T18:25:00.018Z",
+    "user": {
+        "name": "finn",
+        "slug": "cuk"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-01-20T04:49:33.205Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60891a967acb7e441b78d99e",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "maurice Palette Example by Casei Solus",
+            "slug": "maurice-palette-example-by-casei-solus",
+            "publishedAt": "2021-08-22T21:44:45.283Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "6007b65db06b6d7ad5e394fc",
+            "image": "palette-examples/maurice-palette-example-by-casei-solus-60891a.png",
+            "creator": true,
+            "description": "Some flowers.",
+            "createdAt": "2021-04-28T08:19:34.068Z",
+            "updatedAt": "2021-08-22T21:44:45.283Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Some flowers."
+        }
+    ],
+    "colorsArray": [
+        "371f2f",
+        "235a5c",
+        "d88f8f",
+        "ced7e8"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6007b65db06b6d7ad5e394fc",
+        "type": "palettes",
+        "count": 22,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

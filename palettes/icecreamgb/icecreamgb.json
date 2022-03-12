@@ -1,0 +1,108 @@
+{
+    "_id": "5adf3633d64cda308df721b6",
+    "createdAt": "2018-04-24T13:50:43.376Z",
+    "slug": "ice-cream-gb",
+    "description": "",
+    "colors": [
+        "7c3f58",
+        "eb6b6f",
+        "f9a875",
+        "fff6d3"
+    ],
+    "tags": [
+        "kerrielake",
+        "artist",
+        "gameboy"
+    ],
+    "downloads": "11,001",
+    "numberOfColors": 4,
+    "featured": false,
+    "likes": 504,
+    "comments": 8,
+    "creator": true,
+    "hashtag": "icecreamgb",
+    "title": "Ice Cream GB",
+    "user": {
+        "name": "Kerrie Lake",
+        "slug": "kerrielake"
+    },
+    "publishedAt": "2018-04-24T13:50:43.376Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5ae4d8138602ec3a790bcf71",
+            "description": "Palette usage example by <a target=\"_blank\" href=\"https://kerrielakeportfolio.wordpress.com/opensource-assets/\">Kerrie Lake</a>.",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.095Z",
+            "creator": false,
+            "image": "palette-examples/ice-cream-gb-palette-example-palette-usage-example-by-kerrie-lake-5ae4d8.png",
+            "likes": 0,
+            "parent": "5adf3633d64cda308df721b6",
+            "slug": "ice-cream-gb-palette-example-palette-usage-example-by-kerrie-lake",
+            "title": "ice cream gb palette example palette usage example by kerrie lake",
+            "updatedAt": "2020-07-31T03:56:11.095Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Kerrie Lake."
+        },
+        {
+            "_id": "5b736c20e06d9a4fc5b04edc",
+            "description": "Screenshots from <a target=\"_blank\" href=\"https://rostigerloeffel.itch.io/desert-bandit\">Desert Bandit</a>.",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.123Z",
+            "creator": false,
+            "image": "palette-examples/ice-cream-gb-palette-example-screenshots-from-desert-bandit-5b736c.png",
+            "likes": 0,
+            "parent": "5adf3633d64cda308df721b6",
+            "slug": "ice-cream-gb-palette-example-screenshots-from-desert-bandit",
+            "title": "ice cream gb palette example screenshots from desert bandit",
+            "updatedAt": "2020-07-31T03:56:11.123Z",
+            "user": null,
+            "thumbnailOffset": 50,
+            "descriptionText": "Screenshots from Desert Bandit."
+        },
+        {
+            "_id": "61dd85458aa5f04d0d49173c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Ice Cream GB Palette Example by Pixelbat",
+            "slug": "ice-cream-gb-palette-example-by-pixelbatirultc",
+            "publishedAt": "2022-01-11T15:50:00.030Z",
+            "user": {
+                "name": "Pixelbat",
+                "slug": "pixelbat"
+            },
+            "parent": "5adf3633d64cda308df721b6",
+            "image": "palette-examples/ice-cream-gb-palette-example-by-pixelbatirultc.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-01-11T13:25:25.165Z",
+            "updatedAt": "2022-01-11T15:50:00.030Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "7c3f58",
+        "eb6b6f",
+        "f9a875",
+        "fff6d3"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5adf3633d64cda308df721b6",
+        "type": "palettes",
+        "count": 504,
+        "liked": 0
+    },
+    "thumbnailWidth": 33.333333333333336
+}

@@ -1,0 +1,50 @@
+{
+    "_id": "5da612d807ae7d1acc5e033d",
+    "slug": "fire-weeds",
+    "description": "Made by <a href=\"https://twitter.com/King_Worrell\" target=\"_blank\">KingW</a> as an <i>all purpose</i> and <i>warm </i>color palette",
+    "colors": [
+        "060013",
+        "e2d6fe",
+        "fea631",
+        "e5371b",
+        "630f19"
+    ],
+    "creator": true,
+    "comments": 0,
+    "likes": 14,
+    "createdAt": "2019-10-15T18:41:28.522Z",
+    "featured": false,
+    "tags": [
+        "kingw",
+        "fireweeds"
+    ],
+    "downloads": "228",
+    "numberOfColors": 5,
+    "hashtag": "fireweeds",
+    "title": "Fire weeds",
+    "user": {
+        "name": "KingW",
+        "slug": "kingworrell"
+    },
+    "publishedAt": "2019-10-15T18:41:28.522Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "060013",
+        "e2d6fe",
+        "fea631",
+        "e5371b",
+        "630f19"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5da612d807ae7d1acc5e033d",
+        "type": "palettes",
+        "count": 14,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

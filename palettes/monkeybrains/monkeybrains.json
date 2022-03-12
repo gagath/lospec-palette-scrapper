@@ -1,0 +1,82 @@
+{
+    "_id": "608da89d6dad96317d2d202b",
+    "tags": [
+        "monkey",
+        "brains",
+        "monkeybrains",
+        "monkeybrains",
+        "7",
+        "bright",
+        "saturated"
+    ],
+    "colors": [
+        "292a42",
+        "735f94",
+        "6a3b64",
+        "eaeac3",
+        "b6a07c",
+        "965d3d",
+        "3b4b6a"
+    ],
+    "downloads": "147",
+    "featured": false,
+    "likes": 18,
+    "comments": 4,
+    "slug": "monkey-brains",
+    "publishedAt": "2021-09-12T03:20:00.054Z",
+    "user": {
+        "name": "Miguel Lucero",
+        "slug": "miguel-lucero"
+    },
+    "title": "MONKEY BRAINS",
+    "hashtag": "monkeybrains",
+    "description": "i made this palette for a game mockup. I challenged myself to only use 7 colors. I'd love to see anyone use it in a creative way!",
+    "creator": true,
+    "createdAt": "2021-05-01T19:14:37.904Z",
+    "numberOfColors": 7,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "608db2936dad96317d2d209b",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "MONKEY BRAINS Palette Example by Miguel Lucero",
+            "slug": "monkey-brains-palette-example-by-miguel-lucero",
+            "publishedAt": "2021-05-02T22:35:00.019Z",
+            "user": {
+                "name": "Miguel Lucero",
+                "slug": "miguel-lucero"
+            },
+            "parent": "608da89d6dad96317d2d202b",
+            "image": "palette-examples/monkey-brains-palette-example-by-miguel-lucero-608db2.png",
+            "creator": true,
+            "description": "Here are a few examples I did for my palette!",
+            "createdAt": "2021-05-01T19:57:07.229Z",
+            "updatedAt": "2021-05-02T22:35:00.020Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Here are a few examples I did for my palette!"
+        }
+    ],
+    "colorsArray": [
+        "292a42",
+        "735f94",
+        "6a3b64",
+        "eaeac3",
+        "b6a07c",
+        "965d3d",
+        "3b4b6a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "608da89d6dad96317d2d202b",
+        "type": "palettes",
+        "count": 18,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

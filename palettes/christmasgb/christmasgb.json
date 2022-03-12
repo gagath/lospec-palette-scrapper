@@ -1,0 +1,50 @@
+{
+    "_id": "5fbdbc296ad6297925f8d8d6",
+    "tags": [
+        "artist",
+        " shinytseul",
+        " holiday",
+        " christmas"
+    ],
+    "colors": [
+        "f2e986",
+        "29a633",
+        "8c1c1c",
+        "1c0b4d"
+    ],
+    "downloads": "27",
+    "featured": false,
+    "likes": 6,
+    "comments": 2,
+    "title": "Christmas GB",
+    "hashtag": "christmasgb",
+    "description": "A 4-color Christmas-based palette",
+    "creator": true,
+    "slug": "christmas-gb",
+    "publishedAt": "2020-11-25T16:20:00.031Z",
+    "user": {
+        "name": "ShinyTseul",
+        "slug": "shinytseul"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-11-25T02:06:33.659Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "f2e986",
+        "29a633",
+        "8c1c1c",
+        "1c0b4d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5fbdbc296ad6297925f8d8d6",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

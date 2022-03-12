@@ -1,0 +1,65 @@
+{
+    "_id": "5ef2755ed68565104eab8595",
+    "tags": [
+        "artist",
+        " dots",
+        " pink",
+        " purple",
+        " blue",
+        " yellow",
+        " turquoise"
+    ],
+    "colors": [
+        "032165",
+        "00608c",
+        "00d6ba",
+        "fffad6",
+        "ffc0cf",
+        "ff73c1",
+        "cc1c58",
+        "7b5cab",
+        "4f2d84",
+        "000000"
+    ],
+    "downloads": "260",
+    "featured": false,
+    "likes": 16,
+    "comments": 1,
+    "title": "Cotton Candy",
+    "hashtag": "cottoncandy",
+    "description": "",
+    "creator": "1",
+    "slug": "cotton-candy",
+    "publishedAt": "2020-06-25T05:20:00.012Z",
+    "user": {
+        "name": "dots!",
+        "slug": "dotsandpans"
+    },
+    "numberOfColors": 10,
+    "createdAt": "2020-06-23T21:34:22.619Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "032165",
+        "00608c",
+        "00d6ba",
+        "fffad6",
+        "ffc0cf",
+        "ff73c1",
+        "cc1c58",
+        "7b5cab",
+        "4f2d84",
+        "000000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5ef2755ed68565104eab8595",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

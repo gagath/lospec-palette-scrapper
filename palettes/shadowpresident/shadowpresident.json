@@ -1,0 +1,70 @@
+{
+    "_id": "5db63ab8616dc91c59ae1a8b",
+    "slug": "shadow-president",
+    "description": "This is the palette from the dos game Shadow President by DC true",
+    "colors": [
+        "000000",
+        "545454",
+        "a8a8a8",
+        "fcfcfc",
+        "0000a8",
+        "5454a8",
+        "0054fc",
+        "54fcfc",
+        "a80000",
+        "a85400",
+        "fc0000",
+        "fcfc54",
+        "00a800",
+        "00f400",
+        "a800a8"
+    ],
+    "creator": false,
+    "comments": 0,
+    "likes": 2,
+    "createdAt": "2019-10-28T00:47:52.962Z",
+    "featured": false,
+    "tags": [
+        "dos",
+        "game"
+    ],
+    "downloads": "54",
+    "numberOfColors": 15,
+    "hashtag": "shadowpresident",
+    "title": "Shadow President ",
+    "user": {
+        "name": "Lecon Basin",
+        "slug": "leconbasin"
+    },
+    "publishedAt": "2019-10-28T00:47:52.962Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "545454",
+        "a8a8a8",
+        "fcfcfc",
+        "0000a8",
+        "5454a8",
+        "0054fc",
+        "54fcfc",
+        "a80000",
+        "a85400",
+        "fc0000",
+        "fcfc54",
+        "00a800",
+        "00f400",
+        "a800a8"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5db63ab8616dc91c59ae1a8b",
+        "type": "palettes",
+        "count": 2,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

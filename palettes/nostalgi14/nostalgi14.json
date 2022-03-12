@@ -1,0 +1,94 @@
+{
+    "_id": "61ec6e770ffd9224e7334542",
+    "tags": [
+        "artist",
+        "anoob",
+        "versatile",
+        "desaturated",
+        "nostalgi14"
+    ],
+    "colors": [
+        "261f33",
+        "3c3f4f",
+        "717882",
+        "cccccc",
+        "81cc88",
+        "77959e",
+        "58578c",
+        "492d54",
+        "a65370",
+        "c78e77",
+        "855967",
+        "663a5e",
+        "7b4c7d",
+        "b07994"
+    ],
+    "downloads": "340",
+    "featured": false,
+    "likes": 27,
+    "comments": 0,
+    "slug": "nostalgi14",
+    "publishedAt": "2022-01-25T13:20:00.066Z",
+    "user": {
+        "name": "ANoob",
+        "slug": "anoob"
+    },
+    "title": "Nostalgi14",
+    "hashtag": "nostalgi14",
+    "description": "(Probably) my final take on the Nostalgi palette series. 14 desaturated colors placed in 5 (6, if you count a different color a new) different ramps (gray, green/blue, red, brown, purple), with many of these colors being shared between ramps (most noticeably the dark purple/brown, which is shared between all ramps except gray!). Due to this, the connections of colors between ramps was improved in comparison with Nostalgi8, which should allow for smoother transitions between colors. An all-in-one palette for desaturated colors.",
+    "creator": true,
+    "numberOfColors": 14,
+    "createdAt": "2022-01-22T20:52:07.982Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61ec6ea60ffd9224e7334547",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Nostalgi14 Palette Example by ANoob",
+            "slug": "nostalgi14-palette-example-by-anoobd0hjnt",
+            "publishedAt": "2022-01-23T02:55:00.036Z",
+            "user": {
+                "name": "ANoob",
+                "slug": "anoob"
+            },
+            "parent": "61ec6e770ffd9224e7334542",
+            "image": "palette-examples/nostalgi14-palette-example-by-anoobd0hjnt.png",
+            "creator": true,
+            "description": "An example showing some general uses for this palette, along with some of the possibles color ramps at the left side.",
+            "createdAt": "2022-01-22T20:52:54.617Z",
+            "updatedAt": "2022-01-23T02:55:00.036Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "An example showing some general uses for this palette, along with some of the possibles color ramps at the left side."
+        }
+    ],
+    "colorsArray": [
+        "261f33",
+        "3c3f4f",
+        "717882",
+        "cccccc",
+        "81cc88",
+        "77959e",
+        "58578c",
+        "492d54",
+        "a65370",
+        "c78e77",
+        "855967",
+        "663a5e",
+        "7b4c7d",
+        "b07994"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "61ec6e770ffd9224e7334542",
+        "type": "palettes",
+        "count": 27,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

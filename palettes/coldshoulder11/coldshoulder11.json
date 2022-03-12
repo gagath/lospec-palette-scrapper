@@ -1,0 +1,55 @@
+{
+    "_id": "618d14905c80ec1a194ec0af",
+    "tags": [],
+    "colors": [
+        "fff2de",
+        "e0c9bc",
+        "c7a197",
+        "ba7b77",
+        "ad4c4c",
+        "9e192b",
+        "573870",
+        "2f2180",
+        "00004d"
+    ],
+    "downloads": "48",
+    "featured": false,
+    "likes": 4,
+    "comments": 1,
+    "slug": "cold-shoulder-9",
+    "publishedAt": "2021-11-14T18:10:00.032Z",
+    "user": {
+        "name": "Valerie Lynn",
+        "slug": "weulkin"
+    },
+    "title": "Cold-Shoulder-9",
+    "hashtag": "coldshoulder11",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 9,
+    "createdAt": "2021-11-11T13:03:12.429Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "fff2de",
+        "e0c9bc",
+        "c7a197",
+        "ba7b77",
+        "ad4c4c",
+        "9e192b",
+        "573870",
+        "2f2180",
+        "00004d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "618d14905c80ec1a194ec0af",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

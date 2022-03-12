@@ -1,0 +1,76 @@
+{
+    "_id": "60e21f5ddb506a4f5ea170ef",
+    "tags": [],
+    "colors": [
+        "3d3a39",
+        "f8fefe",
+        "dad7cc",
+        "f9a4cb",
+        "93d1de",
+        "f6e518",
+        "ec7e15",
+        "718dbc"
+    ],
+    "downloads": "165",
+    "featured": false,
+    "likes": 7,
+    "comments": 0,
+    "slug": "scaled-and-icy",
+    "publishedAt": "2021-09-08T09:20:00.083Z",
+    "user": {
+        "name": "Alan G\u00f8nzalez",
+        "slug": "alan-gonzalez"
+    },
+    "title": "Scaled And Icy",
+    "hashtag": "twentyonepilots",
+    "description": "Paleta de colores del alb\u00fam Scaled And Icy de la banda Twenty One Pilots",
+    "creator": false,
+    "numberOfColors": 8,
+    "createdAt": "2021-07-04T20:51:41.241Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60ea235f8466147a11c23124",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Scaled And Icy Palette Example by Alan G\u00f8nzalez",
+            "slug": "scaled-and-icy-palette-example-by-alan-gonzalez",
+            "publishedAt": "2021-08-22T21:44:54.276Z",
+            "user": {
+                "name": "Alan G\u00f8nzalez",
+                "slug": "alan-gonzalez"
+            },
+            "parent": "60e21f5ddb506a4f5ea170ef",
+            "image": "palette-examples/scaled-and-icy-palette-example-by-alan-gonzalez-60ea23.png",
+            "creator": true,
+            "description": "Iconos creados a partir de sus respectivos iconos originales pero con la estetica de Scaled And Icy\u00a0",
+            "createdAt": "2021-07-10T22:46:55.574Z",
+            "updatedAt": "2021-08-22T21:44:54.276Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Iconos creados a partir de sus respectivos iconos originales pero con la estetica de Scaled And Icy\u00a0"
+        }
+    ],
+    "colorsArray": [
+        "3d3a39",
+        "f8fefe",
+        "dad7cc",
+        "f9a4cb",
+        "93d1de",
+        "f6e518",
+        "ec7e15",
+        "718dbc"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60e21f5ddb506a4f5ea170ef",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

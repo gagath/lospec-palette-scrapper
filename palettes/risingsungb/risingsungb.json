@@ -1,0 +1,68 @@
+{
+    "_id": "603f14718ce37d0d1b52e1d5",
+    "tags": [],
+    "colors": [
+        "181322",
+        "4b372c",
+        "a2423a",
+        "cdc1a7"
+    ],
+    "downloads": "554",
+    "featured": false,
+    "likes": 53,
+    "comments": 0,
+    "title": "Rising Sun GB",
+    "hashtag": "risingsungb",
+    "description": "",
+    "creator": true,
+    "slug": "rising-sun-gb",
+    "publishedAt": "2021-03-14T05:40:00.024Z",
+    "user": {
+        "name": "Clorox_Cappuccino",
+        "slug": "chris-anstead"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-03-03T04:45:37.773Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "603f1a468ce37d0d1b52e21c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/rising-sun-gb-palette-example-by-cloroxcappuccino-603f1a.png",
+            "creator": true,
+            "description": "",
+            "title": "Rising Sun GB Palette Example by Clorox_Cappuccino",
+            "slug": "rising-sun-gb-palette-example-by-cloroxcappuccino",
+            "publishedAt": "2021-03-10T18:30:00.059Z",
+            "user": {
+                "name": "Clorox_Cappuccino",
+                "slug": "chris-anstead"
+            },
+            "parent": "603f14718ce37d0d1b52e1d5",
+            "createdAt": "2021-03-03T05:10:30.184Z",
+            "updatedAt": "2021-03-10T18:30:00.059Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "181322",
+        "4b372c",
+        "a2423a",
+        "cdc1a7"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "603f14718ce37d0d1b52e1d5",
+        "type": "palettes",
+        "count": 53,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

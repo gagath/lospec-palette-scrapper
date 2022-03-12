@@ -1,0 +1,74 @@
+{
+    "_id": "612ece63526f103e3c5fdf66",
+    "tags": [
+        "halloween"
+    ],
+    "colors": [
+        "fffef6",
+        "ffc118",
+        "ff8b18",
+        "653611",
+        "261305",
+        "160c09"
+    ],
+    "downloads": "285",
+    "featured": false,
+    "likes": 14,
+    "comments": 0,
+    "slug": "spoozy",
+    "publishedAt": "2021-09-30T13:55:00.066Z",
+    "user": {
+        "name": "ItzFred",
+        "slug": "itzfred"
+    },
+    "title": "Spoozy",
+    "hashtag": "spoozy",
+    "description": "A Halloween styled Palette centered around the Color Orange. A mix of Spooky and Cozy, Spoozy\u00a0",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2021-09-01T00:50:43.837Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "612ed13645d1434969404407",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Spoozy Palette Example by ItzFred",
+            "slug": "spoozy-palette-example-by-itzfred",
+            "publishedAt": "2021-09-01T08:40:00.011Z",
+            "user": {
+                "name": "ItzFred",
+                "slug": "itzfred"
+            },
+            "parent": "612ece63526f103e3c5fdf66",
+            "image": "palette-examples/spoozy-palette-example-by-itzfred-612ed1.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-09-01T01:02:46.015Z",
+            "updatedAt": "2021-09-01T08:40:00.011Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "fffef6",
+        "ffc118",
+        "ff8b18",
+        "653611",
+        "261305",
+        "160c09"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "612ece63526f103e3c5fdf66",
+        "type": "palettes",
+        "count": 14,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

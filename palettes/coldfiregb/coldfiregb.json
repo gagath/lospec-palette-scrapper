@@ -1,0 +1,77 @@
+{
+    "_id": "5deebaac27f24b493500125f",
+    "slug": "coldfire-gb",
+    "description": "A 4-colour Gameboy palette that combines cool and warm tones.",
+    "colors": [
+        "46425e",
+        "5b768d",
+        "d17c7c",
+        "f6c6a8"
+    ],
+    "creator": true,
+    "hashtag": "coldfiregb",
+    "comments": 3,
+    "likes": 136,
+    "createdAt": "2019-12-09T21:20:44.889Z",
+    "featured": false,
+    "tags": [
+        "coldfire",
+        "gameboy",
+        "gb",
+        "coldfiregb",
+        "kerrielake",
+        "4",
+        "cold",
+        "fire"
+    ],
+    "downloads": "1,635",
+    "numberOfColors": 4,
+    "title": "Coldfire GB",
+    "user": {
+        "name": "Kerrie Lake",
+        "slug": "kerrielake"
+    },
+    "publishedAt": "2019-12-09T21:20:44.889Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6078d2ebb57ef03c5b5f1f48",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Coldfire GB Palette Example by Casei Solus",
+            "slug": "coldfire-gb-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-16T22:55:00.040Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5deebaac27f24b493500125f",
+            "image": "palette-examples/coldfire-gb-palette-example-by-casei-solus-6078d2.png",
+            "creator": true,
+            "description": "A fire.",
+            "createdAt": "2021-04-15T23:57:31.750Z",
+            "updatedAt": "2021-04-16T22:55:00.041Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A fire."
+        }
+    ],
+    "colorsArray": [
+        "46425e",
+        "5b768d",
+        "d17c7c",
+        "f6c6a8"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5deebaac27f24b493500125f",
+        "type": "palettes",
+        "count": 136,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

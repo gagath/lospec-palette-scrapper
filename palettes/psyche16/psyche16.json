@@ -1,0 +1,73 @@
+{
+    "_id": "5ea6d7179cea4f24eaa10be9",
+    "tags": [
+        "psychedelic",
+        "cute",
+        "colorful"
+    ],
+    "colors": [
+        "fafafa",
+        "ebe8da",
+        "ff7196",
+        "eb418a",
+        "304059",
+        "071822",
+        "f0007d",
+        "7f0d4b",
+        "962bb5",
+        "3c43ad",
+        "ffdd5f",
+        "fbb03b",
+        "b9e226",
+        "5ab00f",
+        "5dd8d6",
+        "40a095"
+    ],
+    "downloads": "243",
+    "featured": false,
+    "likes": 16,
+    "comments": 0,
+    "title": "psyche16",
+    "hashtag": "psyche16",
+    "description": "a cute psychedelic color palette inspired by Mamoru Hosoda",
+    "creator": "0",
+    "slug": "psyche16",
+    "publishedAt": "2020-06-06T16:45:00.010Z",
+    "user": {
+        "name": "Frosty Rabbid \ud83d\udc30",
+        "slug": "frostyrabbid"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-04-27T12:59:03.788Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "fafafa",
+        "ebe8da",
+        "ff7196",
+        "eb418a",
+        "304059",
+        "071822",
+        "f0007d",
+        "7f0d4b",
+        "962bb5",
+        "3c43ad",
+        "ffdd5f",
+        "fbb03b",
+        "b9e226",
+        "5ab00f",
+        "5dd8d6",
+        "40a095"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5ea6d7179cea4f24eaa10be9",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

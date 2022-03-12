@@ -1,0 +1,62 @@
+{
+    "_id": "58f7e3d30498757f806462d1",
+    "createdAt": "2017-04-19T22:25:24.010Z",
+    "slug": "kirby-sgb",
+    "description": "A palette used by <a href=\"https://en.wikipedia.org/wiki/Kirby%27s_Dream_Land\">Kirby's Dream Land</a> when played on the <a href=\"https://en.wikipedia.org/wiki/Super_Game_Boy\">Super Gameboy</a>.",
+    "colors": [
+        "2c2c96",
+        "7733e7",
+        "e78686",
+        "f7bef7"
+    ],
+    "tags": [
+        "hardware",
+        "gameboy",
+        "supergameboy"
+    ],
+    "downloads": "1,248",
+    "numberOfColors": 4,
+    "likes": 47,
+    "comments": 0,
+    "hashtag": "kirbysgb",
+    "title": "Kirby (SGB)",
+    "publishedAt": "2017-04-19T22:25:24.010Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "58f7e4000498757f806462d2",
+            "description": "<a href=\"https://en.wikipedia.org/wiki/Kirby%27s_Dream_Land\">Kirby's Dream Land</a> Screenshots",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.041Z",
+            "creator": false,
+            "image": "palette-examples/kirby-sgb-palette-example-kirbys-dream-land-screenshots-58f7e4.png",
+            "likes": 0,
+            "parent": "58f7e3d30498757f806462d1",
+            "slug": "kirby-sgb-palette-example-kirbys-dream-land-screenshots",
+            "title": "kirby sgb palette example kirbys dream land screenshots",
+            "updatedAt": "2020-07-31T03:56:11.041Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Kirby's Dream Land Screenshots"
+        }
+    ],
+    "colorsArray": [
+        "2c2c96",
+        "7733e7",
+        "e78686",
+        "f7bef7"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "58f7e3d30498757f806462d1",
+        "type": "palettes",
+        "count": 47,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

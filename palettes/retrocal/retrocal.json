@@ -1,0 +1,94 @@
+{
+    "_id": "5fc1c549d3eeec693954b5fd",
+    "tags": [
+        "polyphrog"
+    ],
+    "colors": [
+        "2e1b37",
+        "4e53a2",
+        "7394ba",
+        "e6e1cc",
+        "28524e",
+        "3a7e4c",
+        "7da446",
+        "edd15a",
+        "4b1d45",
+        "8c315d",
+        "cf4f4f",
+        "f6788d",
+        "6a5154",
+        "a45a41",
+        "d87e46",
+        "b49a8d"
+    ],
+    "downloads": "580",
+    "featured": false,
+    "likes": 35,
+    "comments": 0,
+    "title": "retro_cal",
+    "hashtag": "retrocal",
+    "description": "a palette that i made for the gedot 27 game jam game\u00a0through the light and dark.",
+    "creator": true,
+    "slug": "retrocal",
+    "publishedAt": "2020-12-06T19:45:00.029Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-11-28T03:34:33.151Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fd3f9896b46456eaa90e17f",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/retrocal-palette-example-by-polyphorge-2-5fd3f9.png",
+            "creator": true,
+            "description": "",
+            "title": "retro_cal Palette Example by polyphorge",
+            "slug": "retrocal-palette-example-by-polyphorge-2",
+            "publishedAt": "2020-12-12T18:55:00.012Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "5fc1c549d3eeec693954b5fd",
+            "createdAt": "2020-12-11T22:58:17.618Z",
+            "updatedAt": "2020-12-12T18:55:00.013Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "2e1b37",
+        "4e53a2",
+        "7394ba",
+        "e6e1cc",
+        "28524e",
+        "3a7e4c",
+        "7da446",
+        "edd15a",
+        "4b1d45",
+        "8c315d",
+        "cf4f4f",
+        "f6788d",
+        "6a5154",
+        "a45a41",
+        "d87e46",
+        "b49a8d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fc1c549d3eeec693954b5fd",
+        "type": "palettes",
+        "count": 35,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,98 @@
+{
+    "_id": "604826d64c751d1d51c415a1",
+    "tags": [
+        "cyber",
+        "neon",
+        "shido",
+        "shido",
+        "cyberneon"
+    ],
+    "colors": [
+        "00033c",
+        "005260",
+        "009d4a",
+        "0aff52",
+        "003884",
+        "008ac5",
+        "00f7ff",
+        "ff5cff",
+        "ac29ce",
+        "600088",
+        "b10585",
+        "ff004e",
+        "2a2e79",
+        "4e6ea8",
+        "add4fa",
+        "ffffff"
+    ],
+    "downloads": "1,185",
+    "featured": false,
+    "likes": 64,
+    "comments": 4,
+    "title": "SHIDO CYBERNEON",
+    "hashtag": "shidoneon",
+    "description": "",
+    "creator": true,
+    "slug": "shido-cyberneon",
+    "publishedAt": "2021-03-19T12:10:00.024Z",
+    "user": {
+        "name": "Shidoengie",
+        "slug": "shidoengie"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2021-03-10T01:54:30.314Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "604d1606cf4f5f5ff3316a8f",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/shido-cyberneon-palette-example-by-shidoengie-604d16.png",
+            "creator": true,
+            "description": "",
+            "title": "SHIDO CYBERNEON Palette Example by Shidoengie",
+            "slug": "shido-cyberneon-palette-example-by-shidoengie",
+            "publishedAt": "2021-03-17T18:20:00.008Z",
+            "user": {
+                "name": "Shidoengie",
+                "slug": "shidoengie"
+            },
+            "parent": "604826d64c751d1d51c415a1",
+            "createdAt": "2021-03-13T19:44:06.078Z",
+            "updatedAt": "2021-03-17T18:20:00.009Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "00033c",
+        "005260",
+        "009d4a",
+        "0aff52",
+        "003884",
+        "008ac5",
+        "00f7ff",
+        "ff5cff",
+        "ac29ce",
+        "600088",
+        "b10585",
+        "ff004e",
+        "2a2e79",
+        "4e6ea8",
+        "add4fa",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "604826d64c751d1d51c415a1",
+        "type": "palettes",
+        "count": 64,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

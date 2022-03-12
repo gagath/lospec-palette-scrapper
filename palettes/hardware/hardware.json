@@ -1,0 +1,47 @@
+{
+    "_id": "61369c6a99b7882ef4ca823d",
+    "tags": [
+        "dsi"
+    ],
+    "colors": [
+        "000000",
+        "ff0000",
+        "0000ff",
+        "ffffff"
+    ],
+    "downloads": "19",
+    "featured": false,
+    "likes": 3,
+    "comments": 0,
+    "slug": "flipnote-dsi",
+    "publishedAt": "2021-10-04T20:45:00.059Z",
+    "user": {
+        "name": "Vectorial Transcooler",
+        "slug": "stimu-contro-herbs"
+    },
+    "title": "Flipnote DSI",
+    "hashtag": "hardware",
+    "description": "Palette use limitation for Flipnote Studio software from the DS era. Note that artists use dithering techniques to blend the colors together.",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-09-06T22:55:38.579Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "ff0000",
+        "0000ff",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61369c6a99b7882ef4ca823d",
+        "type": "palettes",
+        "count": 3,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

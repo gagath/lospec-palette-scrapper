@@ -1,0 +1,87 @@
+{
+    "_id": "5dd093616d54be5cde442a90",
+    "slug": "neon-space",
+    "description": "",
+    "colors": [
+        "df0772",
+        "fe546f",
+        "ff9e7d",
+        "ffd080",
+        "fffdff",
+        "0bffe6",
+        "01cbcf",
+        "0188a5",
+        "3e3264",
+        "352a55"
+    ],
+    "creator": "1",
+    "comments": 7,
+    "likes": 103,
+    "createdAt": "2019-11-17T00:25:05.278Z",
+    "featured": false,
+    "tags": [
+        "neon",
+        "space",
+        "blue",
+        "red",
+        "gradient",
+        "jimison3"
+    ],
+    "downloads": "2,346",
+    "numberOfColors": 10,
+    "hashtag": "neonspace17",
+    "title": "Neon Space",
+    "user": {
+        "name": "Jimison3",
+        "slug": "jimison3"
+    },
+    "publishedAt": "2019-11-17T00:25:05.278Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61edd5705c335d7a0c5a21d4",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Neon Space Palette Example by Ron HobbyDev",
+            "slug": "neon-space-palette-example-by-ron-hobbydevu8rz9o",
+            "publishedAt": "2022-01-26T00:50:00.029Z",
+            "user": {
+                "name": "Ron HobbyDev",
+                "slug": "ron-hobbydev"
+            },
+            "parent": "5dd093616d54be5cde442a90",
+            "image": "palette-examples/neon-space-palette-example-by-ron-hobbydevu8rz9o.png",
+            "creator": true,
+            "description": "A little mock-up for a space game\u00a0",
+            "createdAt": "2022-01-23T22:23:44.571Z",
+            "updatedAt": "2022-01-26T00:50:00.029Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A little mock-up for a space game\u00a0"
+        }
+    ],
+    "colorsArray": [
+        "df0772",
+        "fe546f",
+        "ff9e7d",
+        "ffd080",
+        "fffdff",
+        "0bffe6",
+        "01cbcf",
+        "0188a5",
+        "3e3264",
+        "352a55"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5dd093616d54be5cde442a90",
+        "type": "palettes",
+        "count": 103,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,58 @@
+{
+    "_id": "5ffce5dfbc7af119a67e06fa",
+    "tags": [
+        "colorblind",
+        "cvd",
+        "safe",
+        "friendly"
+    ],
+    "colors": [
+        "000000",
+        "0c2d98",
+        "78411f",
+        "2b74e2",
+        "df5f5b",
+        "3bccf6",
+        "f4cf60",
+        "ffffff"
+    ],
+    "downloads": "67",
+    "featured": false,
+    "likes": 7,
+    "comments": 5,
+    "title": "CVD8",
+    "hashtag": "cvd8",
+    "description": "Color vision deficiency (color blindness) friendly palette with 8 colors. Result of computation. More info in the comments.",
+    "creator": true,
+    "slug": "cvd8",
+    "publishedAt": "2021-02-01T06:25:00.042Z",
+    "user": {
+        "name": "\u00c1d\u00e1m Szieberth",
+        "slug": "adam-szieberth"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2021-01-11T23:57:19.494Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "0c2d98",
+        "78411f",
+        "2b74e2",
+        "df5f5b",
+        "3bccf6",
+        "f4cf60",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5ffce5dfbc7af119a67e06fa",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

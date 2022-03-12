@@ -1,0 +1,81 @@
+{
+    "_id": "5fd63f79b56fe53c0a71a089",
+    "tags": [
+        "mold",
+        " yellow",
+        " black",
+        " black mold"
+    ],
+    "colors": [
+        "101010",
+        "353334",
+        "4d4c43",
+        "727356",
+        "734d25",
+        "917421",
+        "b58b31",
+        "9d9e8a"
+    ],
+    "downloads": "218",
+    "featured": false,
+    "likes": 13,
+    "comments": 0,
+    "title": "blackm0ld",
+    "hashtag": "blackm0ld",
+    "description": "Based on actual black mold. It's more diverse than we think.",
+    "creator": true,
+    "slug": "blackm0ld",
+    "publishedAt": "2020-12-17T14:30:00.034Z",
+    "user": {
+        "name": "warpixel",
+        "slug": "warpixel"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2020-12-13T16:21:13.431Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fdd3725998bf0170a55e62c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/blackm0ld-palette-example-by-warpixel-2-5fdd37.png",
+            "creator": true,
+            "description": "",
+            "title": "blackm0ld Palette Example by warpixel",
+            "slug": "blackm0ld-palette-example-by-warpixel-2",
+            "publishedAt": "2020-12-18T23:20:00.023Z",
+            "user": {
+                "name": "warpixel",
+                "slug": "warpixel"
+            },
+            "parent": "5fd63f79b56fe53c0a71a089",
+            "createdAt": "2020-12-18T23:11:33.402Z",
+            "updatedAt": "2020-12-18T23:20:00.023Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "101010",
+        "353334",
+        "4d4c43",
+        "727356",
+        "734d25",
+        "917421",
+        "b58b31",
+        "9d9e8a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fd63f79b56fe53c0a71a089",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

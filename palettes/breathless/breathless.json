@@ -1,0 +1,86 @@
+{
+    "_id": "60691fb704fb81292ec4f4e9",
+    "tags": [
+        "pale",
+        "soft",
+        "light",
+        "relaxing",
+        "soothing"
+    ],
+    "colors": [
+        "181818",
+        "292831",
+        "333f58",
+        "4a7a96",
+        "ee8695",
+        "f9f9f9",
+        "cf7862",
+        "a75252",
+        "773a4d",
+        "543246"
+    ],
+    "downloads": "407",
+    "featured": false,
+    "likes": 16,
+    "comments": 1,
+    "slug": "breathless-calm",
+    "publishedAt": "2021-04-08T05:30:00.030Z",
+    "user": {
+        "name": "clonethirteen",
+        "slug": "clonethirteen"
+    },
+    "title": "Breathless Calm",
+    "hashtag": "breathless",
+    "description": "A palette made for a relaxing, chill evening with a campfire flickering in the background.",
+    "creator": true,
+    "createdAt": "2021-04-04T02:08:55.126Z",
+    "numberOfColors": 10,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "606eba1492ea304273e1ecf0",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Breathless Calm Palette Example by Casei Solus",
+            "slug": "breathless-calm-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-08T16:25:00.033Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "60691fb704fb81292ec4f4e9",
+            "image": "palette-examples/breathless-calm-palette-example-by-casei-solus-606eba.png",
+            "creator": true,
+            "description": "A fire in a calm forest.",
+            "createdAt": "2021-04-08T08:08:52.512Z",
+            "updatedAt": "2021-04-08T16:25:00.033Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A fire in a calm forest."
+        }
+    ],
+    "colorsArray": [
+        "181818",
+        "292831",
+        "333f58",
+        "4a7a96",
+        "ee8695",
+        "f9f9f9",
+        "cf7862",
+        "a75252",
+        "773a4d",
+        "543246"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "60691fb704fb81292ec4f4e9",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

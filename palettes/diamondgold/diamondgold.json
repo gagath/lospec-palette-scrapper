@@ -1,0 +1,56 @@
+{
+    "_id": "5fdaaf913f784b136b8e4d9e",
+    "tags": [
+        "diamond gb",
+        " gold gb"
+    ],
+    "colors": [
+        "300b00",
+        "66330a",
+        "9d654c",
+        "e5d6a0",
+        "1c0933",
+        "2242b2",
+        "5a8ee2",
+        "b2fffb"
+    ],
+    "downloads": "73",
+    "featured": false,
+    "likes": 7,
+    "comments": 0,
+    "title": "Diamond & Gold",
+    "hashtag": "diamondgold",
+    "description": "A Diamond and Gold palette, useful for GB Color type looks.",
+    "creator": true,
+    "slug": "diamond-gold",
+    "publishedAt": "2021-03-21T18:10:00.026Z",
+    "user": {
+        "name": "FreddySquarepants",
+        "slug": "freddysquarepants"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2020-12-17T01:08:33.406Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "300b00",
+        "66330a",
+        "9d654c",
+        "e5d6a0",
+        "1c0933",
+        "2242b2",
+        "5a8ee2",
+        "b2fffb"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fdaaf913f784b136b8e4d9e",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,84 @@
+{
+    "_id": "601297f44310c2050eb156e0",
+    "tags": [],
+    "colors": [
+        "fefcf2",
+        "fee6dd",
+        "ffdfab",
+        "ffbf8f",
+        "ff8567",
+        "dd4d68",
+        "7b3945",
+        "b18458",
+        "baa268",
+        "b89fa1",
+        "7684cb",
+        "6bafe5"
+    ],
+    "downloads": "348",
+    "featured": false,
+    "likes": 30,
+    "comments": 0,
+    "title": "Beret12",
+    "hashtag": "beret12",
+    "description": "A 12 colour palette, inspired by the Bakemonogatari opening 4.",
+    "creator": true,
+    "slug": "beret12",
+    "publishedAt": "2021-04-25T23:05:00.101Z",
+    "user": {
+        "name": "Nizart",
+        "slug": "nizart"
+    },
+    "numberOfColors": 12,
+    "createdAt": "2021-01-28T10:54:44.163Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "601298064310c2050eb156e6",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/beret12-palette-example-by-nizart-601298.png",
+            "creator": true,
+            "description": "",
+            "title": "Beret12 Palette Example by Nizart",
+            "slug": "beret12-palette-example-by-nizart",
+            "publishedAt": "2021-01-28T18:15:00.057Z",
+            "user": {
+                "name": "Nizart",
+                "slug": "nizart"
+            },
+            "parent": "601297f44310c2050eb156e0",
+            "createdAt": "2021-01-28T10:55:02.406Z",
+            "updatedAt": "2021-01-28T18:15:00.058Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "fefcf2",
+        "fee6dd",
+        "ffdfab",
+        "ffbf8f",
+        "ff8567",
+        "dd4d68",
+        "7b3945",
+        "b18458",
+        "baa268",
+        "b89fa1",
+        "7684cb",
+        "6bafe5"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "601297f44310c2050eb156e0",
+        "type": "palettes",
+        "count": 30,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

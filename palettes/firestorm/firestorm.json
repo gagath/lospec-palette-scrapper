@@ -1,0 +1,71 @@
+{
+    "_id": "5b901040e06d9a4fc5b04f11",
+    "createdAt": "2018-09-05T17:20:00.812Z",
+    "slug": "firestorm",
+    "description": "Created by <a target=\"_blank\" href=\"https://twitter.com/theartistjulian\">@theartistjulian</a>.",
+    "colors": [
+        "1b2032",
+        "46344a",
+        "f95e3e",
+        "fd4b35",
+        "ec6756",
+        "ff845f",
+        "ffa15f",
+        "fdde85",
+        "ffecb3"
+    ],
+    "tags": [
+        "artist",
+        "theartistjulian"
+    ],
+    "downloads": "1,116",
+    "numberOfColors": 9,
+    "likes": 34,
+    "comments": 1,
+    "hashtag": "firestorm",
+    "title": "Firestorm",
+    "publishedAt": "2018-09-05T17:20:00.812Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5b90105ee06d9a4fc5b04f12",
+            "description": "Palette usage example by <a target=\"_blank\" href=\"https://twitter.com/theartistjulian\">@theartistjulian</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.138Z",
+            "creator": false,
+            "image": "palette-examples/firestorm-palette-example-palette-usage-example-by-theartistjulian-5b9010.png",
+            "likes": 0,
+            "parent": "5b901040e06d9a4fc5b04f11",
+            "slug": "firestorm-palette-example-palette-usage-example-by-theartistjulian",
+            "title": "firestorm palette example palette usage example by theartistjulian",
+            "updatedAt": "2020-07-31T03:56:11.138Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by @theartistjulian"
+        }
+    ],
+    "colorsArray": [
+        "1b2032",
+        "46344a",
+        "f95e3e",
+        "fd4b35",
+        "ec6756",
+        "ff845f",
+        "ffa15f",
+        "fdde85",
+        "ffecb3"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5b901040e06d9a4fc5b04f11",
+        "type": "palettes",
+        "count": 34,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,50 @@
+{
+    "_id": "613fee5c5f02ad6ff86a55e3",
+    "tags": [
+        "rejected",
+        "pastel"
+    ],
+    "colors": [
+        "270722",
+        "8e8bc0",
+        "7dc0c5",
+        "b5ef9e",
+        "dbf1e3"
+    ],
+    "downloads": "38",
+    "featured": false,
+    "likes": 9,
+    "comments": 0,
+    "slug": "cosmic-castle-by-clonethirteen",
+    "publishedAt": "2021-10-09T05:45:00.064Z",
+    "user": {
+        "name": "WingBean",
+        "slug": "wingbean"
+    },
+    "title": "Cosmic Castle by clonethirteen",
+    "hashtag": "cosmiccastle",
+    "description": "I find that all palettes are useful and I had some fun with this one, so I want to give it a second shot. Thanks clonethirteen for this wonderful palette, I love what I made with it, all palettes should be given a chance. https://sites.google.com/view/rejected-palettes/palette-list/page-03?authuser=0#h.cjlq63kj9jog",
+    "creator": false,
+    "numberOfColors": 5,
+    "createdAt": "2021-09-14T00:35:40.346Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "270722",
+        "8e8bc0",
+        "7dc0c5",
+        "b5ef9e",
+        "dbf1e3"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "613fee5c5f02ad6ff86a55e3",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,65 @@
+{
+    "_id": "60594393ddb1e84a45ac64dd",
+    "tags": [
+        "robot",
+        " art",
+        " matt dixon"
+    ],
+    "colors": [
+        "000000",
+        "261b15",
+        "362b16",
+        "4c4526",
+        "625f35",
+        "826239",
+        "dbc08c",
+        "c29460",
+        "a86b39",
+        "7e4b24",
+        "522e13",
+        "2e1a09"
+    ],
+    "downloads": "230",
+    "featured": false,
+    "likes": 13,
+    "comments": 0,
+    "title": "Rising Tide",
+    "hashtag": "risingtide",
+    "description": "",
+    "creator": true,
+    "slug": "rising-tide",
+    "publishedAt": "2021-03-24T12:10:00.015Z",
+    "user": {
+        "name": "Anorganisch Nichtmetallisch",
+        "slug": "anorganisch-nichtmetallisch"
+    },
+    "numberOfColors": 12,
+    "createdAt": "2021-03-23T01:25:39.708Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "261b15",
+        "362b16",
+        "4c4526",
+        "625f35",
+        "826239",
+        "dbc08c",
+        "c29460",
+        "a86b39",
+        "7e4b24",
+        "522e13",
+        "2e1a09"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "60594393ddb1e84a45ac64dd",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

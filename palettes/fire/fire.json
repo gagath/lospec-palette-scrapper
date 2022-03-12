@@ -1,0 +1,47 @@
+{
+    "_id": "61c611e5ff56675bde2a7473",
+    "tags": [],
+    "colors": [
+        "ad343e",
+        "474747",
+        "f2af29",
+        "000000",
+        "e0e0ce"
+    ],
+    "downloads": "39",
+    "featured": false,
+    "likes": 6,
+    "comments": 0,
+    "slug": "ice-and-fire-and-fire",
+    "publishedAt": "2022-01-24T17:20:00.061Z",
+    "user": {
+        "name": "Migwelium",
+        "slug": "migwelium"
+    },
+    "title": "Ice and Fire and Fire",
+    "hashtag": "fire",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 5,
+    "createdAt": "2021-12-24T18:31:02.006Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ad343e",
+        "474747",
+        "f2af29",
+        "000000",
+        "e0e0ce"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "61c611e5ff56675bde2a7473",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

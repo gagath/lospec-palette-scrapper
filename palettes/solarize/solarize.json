@@ -1,0 +1,49 @@
+{
+    "_id": "616dc5e63a783f3339dd60d7",
+    "tags": [
+        "warm"
+    ],
+    "colors": [
+        "ffff4e",
+        "fece84",
+        "e59c7b",
+        "f5704b",
+        "a86577"
+    ],
+    "downloads": "36",
+    "featured": false,
+    "likes": 3,
+    "comments": 0,
+    "slug": "solarize",
+    "publishedAt": "2021-10-20T01:45:00.026Z",
+    "user": {
+        "name": "Glamdring804",
+        "slug": "glamdring804"
+    },
+    "title": "Solarize",
+    "hashtag": "solarize",
+    "description": "A warm palette based on artwork from the game Destiny 2",
+    "creator": true,
+    "numberOfColors": 5,
+    "createdAt": "2021-10-18T19:07:18.260Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffff4e",
+        "fece84",
+        "e59c7b",
+        "f5704b",
+        "a86577"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "616dc5e63a783f3339dd60d7",
+        "type": "palettes",
+        "count": 3,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

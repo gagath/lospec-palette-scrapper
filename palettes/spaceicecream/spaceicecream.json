@@ -1,0 +1,71 @@
+{
+    "_id": "6168e7ceca99a1540611ea2c",
+    "tags": [
+        "soft",
+        "4color"
+    ],
+    "colors": [
+        "fffed6",
+        "ffabab",
+        "644666",
+        "100221"
+    ],
+    "downloads": "213",
+    "featured": false,
+    "likes": 18,
+    "comments": 2,
+    "slug": "space-icecream",
+    "publishedAt": "2021-10-17T17:45:00.039Z",
+    "user": {
+        "name": "Rexsarus",
+        "slug": "rexsarus"
+    },
+    "title": "Space Icecream",
+    "hashtag": "spaceicecream",
+    "description": "I used this one in the game\u00a0Space Reward\u00a0 https://gamejolt.com/games/space_reward/638565",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-10-15T02:30:38.921Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6168eb86ca99a1540611ea80",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Space Icecream Palette Example by Rexsarus",
+            "slug": "space-icecream-palette-example-by-rexsarus",
+            "publishedAt": "2021-10-15T10:10:00.015Z",
+            "user": {
+                "name": "Rexsarus",
+                "slug": "rexsarus"
+            },
+            "parent": "6168e7ceca99a1540611ea2c",
+            "image": "palette-examples/space-icecream-palette-example-by-rexsarus-6168eb.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-10-15T02:46:30.605Z",
+            "updatedAt": "2021-10-15T10:10:00.016Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "fffed6",
+        "ffabab",
+        "644666",
+        "100221"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6168e7ceca99a1540611ea2c",
+        "type": "palettes",
+        "count": 18,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

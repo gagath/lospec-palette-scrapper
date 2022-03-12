@@ -1,0 +1,71 @@
+{
+    "_id": "6086e0db7339f968fd1fe72f",
+    "tags": [
+        "gameboy",
+        "lospec"
+    ],
+    "colors": [
+        "000000",
+        "382843",
+        "7c6d80",
+        "c7c6c6"
+    ],
+    "downloads": "952",
+    "featured": false,
+    "likes": 79,
+    "comments": 7,
+    "slug": "lospec-gb",
+    "publishedAt": "2021-04-26T15:49:42.535Z",
+    "user": {
+        "name": "skeddles",
+        "slug": "skeddles"
+    },
+    "title": "Lospec GB",
+    "hashtag": "lospecgb",
+    "description": "Simple gameboy style palette with Lospec-ish colors (a bit more saturated), made for a game on the Lospec discord. Best used for cartoonish things with no shading.",
+    "creator": true,
+    "createdAt": "2021-04-26T15:48:43.781Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "608c4811d2dc7f0a700ef41e",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Lospec GB Palette Example by Sam Keddy",
+            "slug": "lospec-gb-palette-example-by-sam-keddy-2",
+            "publishedAt": "2021-04-30T18:15:00.010Z",
+            "user": {
+                "name": "skeddles",
+                "slug": "skeddles"
+            },
+            "parent": "6086e0db7339f968fd1fe72f",
+            "image": "palette-examples/lospec-gb-palette-example-by-sam-keddy-2-608c48.png",
+            "creator": false,
+            "description": "https://twitter.com/StrawPact",
+            "createdAt": "2021-04-30T18:10:25.104Z",
+            "updatedAt": "2021-04-30T18:15:00.011Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "https://twitter.com/StrawPact"
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "382843",
+        "7c6d80",
+        "c7c6c6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6086e0db7339f968fd1fe72f",
+        "type": "palettes",
+        "count": 79,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

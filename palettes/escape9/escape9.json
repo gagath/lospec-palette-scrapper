@@ -1,0 +1,85 @@
+{
+    "_id": "60d17decca24590fe9bd13f4",
+    "tags": [
+        "blue",
+        "green",
+        "night",
+        "gloom",
+        "water",
+        "moonlight"
+    ],
+    "colors": [
+        "230019",
+        "1f2439",
+        "19374b",
+        "396d7d",
+        "719797",
+        "a2b8b1",
+        "557b78",
+        "3c5f66",
+        "254351"
+    ],
+    "downloads": "555",
+    "featured": false,
+    "likes": 32,
+    "comments": 0,
+    "slug": "escape9",
+    "publishedAt": "2021-07-11T22:05:00.027Z",
+    "user": {
+        "name": "magodellepercussioni",
+        "slug": "magodellepercussioni"
+    },
+    "title": "escape9",
+    "hashtag": "escape9",
+    "description": "Blue / green color ramp, good for night scenes and gloomy atmospheres",
+    "creator": true,
+    "createdAt": "2021-06-22T06:06:36.310Z",
+    "numberOfColors": 9,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60eb205dc5580167a4c7adc3",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "escape9 Palette Example by magodellepercussioni",
+            "slug": "escape9-palette-example-by-magodellepercussioni-2",
+            "publishedAt": "2021-07-22T12:55:00.026Z",
+            "user": {
+                "name": "magodellepercussioni",
+                "slug": "magodellepercussioni"
+            },
+            "parent": "60d17decca24590fe9bd13f4",
+            "image": "palette-examples/escape9-palette-example-by-magodellepercussioni-2-60eb20.png",
+            "creator": true,
+            "description": "Examples of use with night sky, water and moonlight",
+            "createdAt": "2021-07-11T16:46:21.825Z",
+            "updatedAt": "2021-07-22T12:55:00.027Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Examples of use with night sky, water and moonlight"
+        }
+    ],
+    "colorsArray": [
+        "230019",
+        "1f2439",
+        "19374b",
+        "396d7d",
+        "719797",
+        "a2b8b1",
+        "557b78",
+        "3c5f66",
+        "254351"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "60d17decca24590fe9bd13f4",
+        "type": "palettes",
+        "count": 32,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

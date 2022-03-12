@@ -1,0 +1,72 @@
+{
+    "_id": "5ccdb619763a4a5e61845fad",
+    "createdAt": "2019-05-04T15:56:09.643Z",
+    "slug": "europa-16",
+    "description": "Created by <a target=\"_blank\" href=\"https://twitter.com/Starbound64\">Starlane</a>.",
+    "colors": [
+        "ffffff",
+        "75ceea",
+        "317ad7",
+        "283785",
+        "1a1b35",
+        "2e354e",
+        "4f6678",
+        "a4bcc2",
+        "ecf860",
+        "94d446",
+        "3b7850",
+        "20322e",
+        "512031",
+        "a43e4b",
+        "dc7d5e",
+        "f0cc90"
+    ],
+    "featured": false,
+    "tags": [
+        "artist",
+        "starlane"
+    ],
+    "downloads": "602",
+    "numberOfColors": 16,
+    "likes": 28,
+    "comments": 4,
+    "creator": true,
+    "hashtag": "europa16",
+    "title": "Europa 16",
+    "user": {
+        "name": "Star",
+        "slug": "starlane"
+    },
+    "publishedAt": "2019-05-04T15:56:09.643Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffffff",
+        "75ceea",
+        "317ad7",
+        "283785",
+        "1a1b35",
+        "2e354e",
+        "4f6678",
+        "a4bcc2",
+        "ecf860",
+        "94d446",
+        "3b7850",
+        "20322e",
+        "512031",
+        "a43e4b",
+        "dc7d5e",
+        "f0cc90"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5ccdb619763a4a5e61845fad",
+        "type": "palettes",
+        "count": 28,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

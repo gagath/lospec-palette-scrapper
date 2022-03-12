@@ -1,0 +1,94 @@
+{
+    "_id": "6037cd4d982ec4383d27b77c",
+    "tags": [
+        "bfb",
+        " bfdi",
+        " final 14",
+        " final",
+        " 14"
+    ],
+    "colors": [
+        "ffffff",
+        "ffdd84",
+        "ec955b",
+        "883a56",
+        "d95959",
+        "fc83c7",
+        "aa5ec3",
+        "443c7e",
+        "566ed0",
+        "7bb1eb",
+        "98eb77",
+        "3eca6b",
+        "49868b",
+        "10101d"
+    ],
+    "downloads": "559",
+    "featured": false,
+    "likes": 38,
+    "comments": 5,
+    "title": "Final 14",
+    "hashtag": "final14",
+    "description": "This palette was inspired by the last 15 contestants in BFB\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Yes, there are 14 colors, but I still count Profily as a contestant\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 BFB and all the other seasons of BFDI were made by\u00a0<a href=\"https://youtube.com/user/jacknjellify\" target=\"_blank\">Jacknjellify</a>",
+    "creator": false,
+    "slug": "final-14",
+    "publishedAt": "2021-03-03T15:40:00.018Z",
+    "user": {
+        "name": "Adam Barrett",
+        "slug": "adam-barrett"
+    },
+    "numberOfColors": 14,
+    "createdAt": "2021-02-25T16:16:13.543Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6042aa1d3eb77d5ef6b2361d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/final-14-palette-example-by-space-sandwich-6042aa.png",
+            "creator": true,
+            "description": "",
+            "title": "Final 14 Palette Example by Space Sandwich",
+            "slug": "final-14-palette-example-by-space-sandwich",
+            "publishedAt": "2021-03-08T14:30:00.011Z",
+            "user": {
+                "name": "Space Sandwich",
+                "slug": "spacesandwich"
+            },
+            "parent": "6037cd4d982ec4383d27b77c",
+            "createdAt": "2021-03-05T22:01:01.437Z",
+            "updatedAt": "2021-03-08T14:30:00.011Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "ffffff",
+        "ffdd84",
+        "ec955b",
+        "883a56",
+        "d95959",
+        "fc83c7",
+        "aa5ec3",
+        "443c7e",
+        "566ed0",
+        "7bb1eb",
+        "98eb77",
+        "3eca6b",
+        "49868b",
+        "10101d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "6037cd4d982ec4383d27b77c",
+        "type": "palettes",
+        "count": 38,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

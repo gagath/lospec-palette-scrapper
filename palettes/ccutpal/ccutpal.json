@@ -1,0 +1,73 @@
+{
+    "_id": "60480c403871d070a47d8f49",
+    "tags": [
+        "metal",
+        "polyphorge",
+        "abstract",
+        "copper"
+    ],
+    "colors": [
+        "fffbd1",
+        "f4a374",
+        "3f7a63",
+        "1b1829"
+    ],
+    "downloads": "232",
+    "featured": false,
+    "likes": 35,
+    "comments": 0,
+    "title": "copper cut",
+    "hashtag": "ccutpal",
+    "description": "copper and oxidized copper palette",
+    "creator": true,
+    "slug": "copper-cut",
+    "publishedAt": "2021-03-12T17:40:00.024Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-03-10T00:01:04.921Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60480c4f3871d070a47d8f4d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/copper-cut-palette-example-by-polyphorge-60480c.png",
+            "creator": true,
+            "description": "",
+            "title": "copper cut Palette Example by polyphorge",
+            "slug": "copper-cut-palette-example-by-polyphorge",
+            "publishedAt": "2021-03-10T18:00:00.047Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "60480c403871d070a47d8f49",
+            "createdAt": "2021-03-10T00:01:19.577Z",
+            "updatedAt": "2021-03-10T18:00:00.047Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "fffbd1",
+        "f4a374",
+        "3f7a63",
+        "1b1829"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60480c403871d070a47d8f49",
+        "type": "palettes",
+        "count": 35,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,97 @@
+{
+    "_id": "606f956dd70ac85e80cef412",
+    "tags": [
+        "ink",
+        "paper",
+        "drawing",
+        "purple",
+        "polyphrog",
+        "gb"
+    ],
+    "colors": [
+        "e4dbba",
+        "a4929a",
+        "4f3a54",
+        "260d1c"
+    ],
+    "downloads": "593",
+    "featured": false,
+    "likes": 66,
+    "comments": 0,
+    "slug": "pen-n-paper",
+    "publishedAt": "2021-04-14T17:30:00.050Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "pen n paper",
+    "hashtag": "pnpalette",
+    "description": "a simple gb palette to make games look handrawn :)",
+    "creator": true,
+    "createdAt": "2021-04-08T23:44:45.580Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "606f957ed70ac85e80cef416",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "pen n paper Palette Example by polyphorge",
+            "slug": "pen-n-paper-palette-example-by-polyphorge",
+            "publishedAt": "2021-04-09T00:30:00.034Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "606f956dd70ac85e80cef412",
+            "image": "palette-examples/pen-n-paper-palette-example-by-polyphorge-606f95.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-04-08T23:45:02.817Z",
+            "updatedAt": "2021-04-09T00:30:00.034Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "61bb80e5b91b202eaa120ca9",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "pen n paper Palette Example by Angel V.",
+            "slug": "pen-n-paper-palette-example-by-angel-v",
+            "publishedAt": "2021-12-17T19:05:00.027Z",
+            "user": {
+                "name": "Angel V.",
+                "slug": "angel-v"
+            },
+            "parent": "606f956dd70ac85e80cef412",
+            "image": "palette-examples/pen-n-paper-palette-example-by-angel-v-61bb80.png",
+            "creator": true,
+            "description": "Believe in rabbits",
+            "createdAt": "2021-12-16T18:09:41.025Z",
+            "updatedAt": "2021-12-17T19:05:00.028Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": "Believe in rabbits"
+        }
+    ],
+    "colorsArray": [
+        "e4dbba",
+        "a4929a",
+        "4f3a54",
+        "260d1c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "606f956dd70ac85e80cef412",
+        "type": "palettes",
+        "count": 66,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

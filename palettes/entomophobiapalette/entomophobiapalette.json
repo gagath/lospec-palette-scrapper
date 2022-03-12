@@ -1,0 +1,81 @@
+{
+    "_id": "61e5e60cd7298420de28a1e0",
+    "tags": [
+        "artist",
+        "musthbly",
+        "desaturated",
+        "watercolor"
+    ],
+    "colors": [
+        "212236",
+        "73303e",
+        "794e6b",
+        "527a76",
+        "6d8560",
+        "a3866b",
+        "c99c69",
+        "d0c4bd"
+    ],
+    "downloads": "312",
+    "featured": false,
+    "likes": 35,
+    "comments": 0,
+    "slug": "entomophobia",
+    "publishedAt": "2022-01-18T21:15:00.052Z",
+    "user": {
+        "name": "musthbly",
+        "slug": "musthbly"
+    },
+    "title": "entomophobia",
+    "hashtag": "entomophobiapalette",
+    "description": "A desaturated palette inspired by watercolor",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2022-01-17T21:56:28.938Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61e5e63ed7298420de28a1e2",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "entomophobia Palette Example by musthbly",
+            "slug": "entomophobia-palette-example-by-musthblyqamku6",
+            "publishedAt": "2022-01-19T09:40:00.024Z",
+            "user": {
+                "name": "musthbly",
+                "slug": "musthbly"
+            },
+            "parent": "61e5e60cd7298420de28a1e0",
+            "image": "palette-examples/entomophobia-palette-example-by-musthblyqamku6.png",
+            "creator": true,
+            "description": "Icons from top left: Aseprite, Chrome, Discord, Firefox, L\u00d6VE, Messages, Tor, Zoom",
+            "createdAt": "2022-01-17T21:57:18.562Z",
+            "updatedAt": "2022-01-19T09:40:00.024Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Icons from top left: Aseprite, Chrome, Discord, Firefox, L\u00d6VE, Messages, Tor, Zoom"
+        }
+    ],
+    "colorsArray": [
+        "212236",
+        "73303e",
+        "794e6b",
+        "527a76",
+        "6d8560",
+        "a3866b",
+        "c99c69",
+        "d0c4bd"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61e5e60cd7298420de28a1e0",
+        "type": "palettes",
+        "count": 35,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

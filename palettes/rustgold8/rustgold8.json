@@ -1,0 +1,79 @@
+{
+    "_id": "5f49a02b1b59157efd866b51",
+    "tags": [
+        "golden",
+        " rusty"
+    ],
+    "colors": [
+        "f6cd26",
+        "ac6b26",
+        "563226",
+        "331c17",
+        "bb7f57",
+        "725956",
+        "393939",
+        "202020"
+    ],
+    "downloads": "4,469",
+    "featured": false,
+    "likes": 269,
+    "comments": 4,
+    "title": "Rust Gold 8",
+    "hashtag": "rustgold8",
+    "description": "This pallete was made based on rust colors and gold tones.",
+    "creator": "1",
+    "slug": "rust-gold-8",
+    "publishedAt": "2020-08-31T07:15:00.071Z",
+    "user": {
+        "name": "Trigo Mathmancer",
+        "slug": "trigo-mathmancer"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2020-08-29T00:24:11.955Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f4c03df39f06d536cb0295d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/rust-gold-8-palette-example-by-trigo-mathmancer-5f4c03.png",
+            "creator": true,
+            "description": "Revisioned Rust Gold's pallete example.",
+            "title": "Rust Gold 8 Palette Example",
+            "slug": "rust-gold-8-palette-example-by-trigo-mathmancer",
+            "publishedAt": "2020-08-30T20:00:00.026Z",
+            "user": {
+                "name": "Trigo Mathmancer",
+                "slug": "trigo-mathmancer"
+            },
+            "parent": "5f49a02b1b59157efd866b51",
+            "createdAt": "2020-08-30T19:54:07.259Z",
+            "updatedAt": "2020-12-21T02:48:37.566Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Revisioned Rust Gold's pallete example."
+        }
+    ],
+    "colorsArray": [
+        "f6cd26",
+        "ac6b26",
+        "563226",
+        "331c17",
+        "bb7f57",
+        "725956",
+        "393939",
+        "202020"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5f49a02b1b59157efd866b51",
+        "type": "palettes",
+        "count": 269,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

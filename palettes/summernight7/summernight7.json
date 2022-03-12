@@ -1,0 +1,51 @@
+{
+    "_id": "5e35b390a45c3b696bf77e97",
+    "slug": "summer-night-7",
+    "description": "My first palette for lospec's sunset pixel dailies!",
+    "colors": [
+        "00083d",
+        "680067",
+        "930440",
+        "be0707",
+        "e16710",
+        "ffb821",
+        "fff394"
+    ],
+    "creator": true,
+    "hashtag": "summernight7",
+    "comments": 2,
+    "likes": 24,
+    "createdAt": "2020-02-01T17:21:20.148Z",
+    "featured": false,
+    "tags": [],
+    "downloads": "300",
+    "numberOfColors": 7,
+    "title": "Summer Night-7",
+    "user": {
+        "name": "VannuTheBoi",
+        "slug": "vannutheboi"
+    },
+    "publishedAt": "2020-02-01T17:21:20.148Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "00083d",
+        "680067",
+        "930440",
+        "be0707",
+        "e16710",
+        "ffb821",
+        "fff394"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5e35b390a45c3b696bf77e97",
+        "type": "palettes",
+        "count": 24,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

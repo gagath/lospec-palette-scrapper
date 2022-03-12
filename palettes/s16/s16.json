@@ -1,0 +1,76 @@
+{
+    "_id": "61860850f795e91dea98d3c4",
+    "tags": [
+        "frio",
+        "nocturno",
+        "azul"
+    ],
+    "colors": [
+        "ffffff",
+        "37ffff",
+        "00a9e4",
+        "5916ff",
+        "000aec",
+        "2e00a1"
+    ],
+    "downloads": "151",
+    "featured": false,
+    "likes": 9,
+    "comments": 0,
+    "slug": "s1-6",
+    "publishedAt": "2021-11-10T02:10:00.037Z",
+    "user": {
+        "name": "Blylzz",
+        "slug": "blylzz"
+    },
+    "title": "S1-6",
+    "hashtag": "s16",
+    "description": "Paleta de color frio luminiscente",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2021-11-06T04:45:04.095Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "618608bef795e91dea98d3c8",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "S1-6 Palette Example by Blylzz",
+            "slug": "s1-6-palette-example-by-blylzz",
+            "publishedAt": "2021-11-06T09:15:00.027Z",
+            "user": {
+                "name": "Blylzz",
+                "slug": "blylzz"
+            },
+            "parent": "61860850f795e91dea98d3c4",
+            "image": "palette-examples/s1-6-palette-example-by-blylzz-618608.png",
+            "creator": false,
+            "description": "Un ejemplo simple de una forma de usar la paleta",
+            "createdAt": "2021-11-06T04:46:54.091Z",
+            "updatedAt": "2021-11-06T09:15:00.027Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Un ejemplo simple de una forma de usar la paleta"
+        }
+    ],
+    "colorsArray": [
+        "ffffff",
+        "37ffff",
+        "00a9e4",
+        "5916ff",
+        "000aec",
+        "2e00a1"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "61860850f795e91dea98d3c4",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

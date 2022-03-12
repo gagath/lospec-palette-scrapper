@@ -1,0 +1,72 @@
+{
+    "_id": "5f402fa51ee9863104835a9d",
+    "tags": [
+        "8bit",
+        "pixel art"
+    ],
+    "colors": [
+        "000000",
+        "f50f27",
+        "f56c3f",
+        "ffffff",
+        "004785",
+        "0395b1",
+        "36eb8f",
+        "abffa8",
+        "8f2700",
+        "ff8f15",
+        "ffec3c",
+        "e3fdaf",
+        "2d006a",
+        "0003f5",
+        "6ed1f5",
+        "adffca"
+    ],
+    "downloads": "91",
+    "featured": false,
+    "likes": 6,
+    "comments": 0,
+    "title": "the16wonder",
+    "hashtag": "the16wonder",
+    "description": "",
+    "creator": true,
+    "slug": "the16wonder",
+    "publishedAt": "2020-09-07T03:55:00.014Z",
+    "user": {
+        "name": "ARTBOY",
+        "slug": "emeekae-plummer"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-08-21T20:33:41.683Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "f50f27",
+        "f56c3f",
+        "ffffff",
+        "004785",
+        "0395b1",
+        "36eb8f",
+        "abffa8",
+        "8f2700",
+        "ff8f15",
+        "ffec3c",
+        "e3fdaf",
+        "2d006a",
+        "0003f5",
+        "6ed1f5",
+        "adffca"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5f402fa51ee9863104835a9d",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

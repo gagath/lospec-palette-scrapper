@@ -1,0 +1,53 @@
+{
+    "_id": "5e80694b7c4dfc2433a723dc",
+    "title": "Afternoon haze",
+    "slug": "afternoon-haze",
+    "description": "The default palette editor palette from the Retrospecs pixel art image processing app for iOS.",
+    "colors": [
+        "0d1221",
+        "243a56",
+        "2f6f87",
+        "3ca0af",
+        "cbbfb2",
+        "cf9d36",
+        "b0523f",
+        "a00f0e"
+    ],
+    "user": {
+        "name": "Retrospecs",
+        "slug": "retrospecs"
+    },
+    "creator": true,
+    "hashtag": "ahaze",
+    "publishedAt": "2020-04-01T00:47:13.694Z",
+    "createdAt": "2020-03-29T09:24:27.896Z",
+    "comments": 1,
+    "likes": 20,
+    "featured": false,
+    "tags": [],
+    "downloads": "403",
+    "numberOfColors": 8,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "0d1221",
+        "243a56",
+        "2f6f87",
+        "3ca0af",
+        "cbbfb2",
+        "cf9d36",
+        "b0523f",
+        "a00f0e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5e80694b7c4dfc2433a723dc",
+        "type": "palettes",
+        "count": 20,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

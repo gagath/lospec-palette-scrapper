@@ -1,0 +1,87 @@
+{
+    "_id": "604d96f73266e439586c8481",
+    "tags": [
+        "existential",
+        "demo",
+        "3bit",
+        "gb",
+        "gameboy",
+        "triadic",
+        "green",
+        "teal",
+        "magenta",
+        "vision"
+    ],
+    "colors": [
+        "f8f3fd",
+        "fac6b4",
+        "9adae7",
+        "97cb1d",
+        "5da2ca",
+        "da298e",
+        "0b8633",
+        "2e2b12"
+    ],
+    "downloads": "275",
+    "featured": false,
+    "likes": 28,
+    "comments": 6,
+    "title": "EXISTENTIAL DEMO",
+    "hashtag": "existentialdemo",
+    "description": "I accepted the fact I may never find the inception of these artifacts, yet this did not discourage me.\u00a0 Choosing to persist, my ardor carried me to a trancendant existential sight.",
+    "creator": true,
+    "slug": "existential-demo",
+    "publishedAt": "2021-03-16T21:25:00.031Z",
+    "user": {
+        "name": "Kattman",
+        "slug": "kattman"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2021-03-14T04:54:15.981Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "604d97d63266e439586c848a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/existential-demo-palette-example-by-kattman-604d97.png",
+            "creator": true,
+            "description": "\u00a0",
+            "title": "EXISTENTIAL DEMO Palette Example by Kattman",
+            "slug": "existential-demo-palette-example-by-kattman",
+            "publishedAt": "2021-03-15T15:50:00.098Z",
+            "user": {
+                "name": "Kattman",
+                "slug": "kattman"
+            },
+            "parent": "604d96f73266e439586c8481",
+            "createdAt": "2021-03-14T04:57:58.186Z",
+            "updatedAt": "2021-03-15T15:50:00.099Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "\u00a0"
+        }
+    ],
+    "colorsArray": [
+        "f8f3fd",
+        "fac6b4",
+        "9adae7",
+        "97cb1d",
+        "5da2ca",
+        "da298e",
+        "0b8633",
+        "2e2b12"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "604d96f73266e439586c8481",
+        "type": "palettes",
+        "count": 28,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

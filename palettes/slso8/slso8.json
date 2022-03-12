@@ -1,0 +1,120 @@
+{
+    "_id": "5cdb25df8071763eed3e48a0",
+    "createdAt": "2019-05-14T20:32:31.253Z",
+    "slug": "slso8",
+    "description": "",
+    "colors": [
+        "0d2b45",
+        "203c56",
+        "544e68",
+        "8d697a",
+        "d08159",
+        "ffaa5e",
+        "ffd4a3",
+        "ffecd6"
+    ],
+    "featured": false,
+    "tags": [
+        "artist",
+        "solosalsero",
+        "monoramp"
+    ],
+    "downloads": "25,731",
+    "numberOfColors": 8,
+    "likes": 1000,
+    "comments": 33,
+    "creator": true,
+    "hashtag": "slso8",
+    "title": "SLSO8",
+    "user": {
+        "name": "Luis Miguel Maldonado",
+        "slug": "solosalsero"
+    },
+    "publishedAt": "2019-05-14T20:32:31.253Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5cdb30b58071763eed3e48a1",
+            "description": "Palette usage examples by <a target=\"_blank\" href=\"https://twitter.com/solosalsero\">SoloSalsero</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.186Z",
+            "creator": false,
+            "image": "palette-examples/slso8-palette-example-palette-usage-examples-by-solosalsero-5cdb30.png",
+            "likes": 0,
+            "parent": "5cdb25df8071763eed3e48a0",
+            "slug": "slso8-palette-example-palette-usage-examples-by-solosalsero",
+            "title": "slso8 palette example palette usage examples by solosalsero",
+            "updatedAt": "2020-07-31T03:56:11.186Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage examples by SoloSalsero"
+        },
+        {
+            "_id": "6037dce6139e764ae0aa5022",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/slso8-palette-example-by-nura-6037dc.png",
+            "creator": true,
+            "description": "Home sweet home. &lt;3",
+            "title": "SLSO8 Palette Example by Nura",
+            "slug": "slso8-palette-example-by-nura",
+            "publishedAt": "2021-02-28T15:50:00.015Z",
+            "user": {
+                "name": "Nura",
+                "slug": "nura-pix"
+            },
+            "parent": "5cdb25df8071763eed3e48a0",
+            "createdAt": "2021-02-25T17:22:46.640Z",
+            "updatedAt": "2021-02-28T15:50:00.016Z",
+            "__v": 0,
+            "thumbnailOffset": 50,
+            "descriptionText": "Home sweet home. &lt;3"
+        },
+        {
+            "_id": "60d49f52d16ca20d3e66f950",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "SLSO8 Palette Example",
+            "slug": "slso8-palette-example-by-toaster",
+            "publishedAt": "2021-06-24T22:45:00.013Z",
+            "user": {
+                "name": "toaster",
+                "slug": "1000toastrs"
+            },
+            "parent": "5cdb25df8071763eed3e48a0",
+            "image": "palette-examples/slso8-palette-example-by-toaster-60d49f.png",
+            "creator": true,
+            "description": "comfy",
+            "createdAt": "2021-06-24T15:05:54.717Z",
+            "updatedAt": "2021-06-25T11:28:06.407Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": "comfy"
+        }
+    ],
+    "colorsArray": [
+        "0d2b45",
+        "203c56",
+        "544e68",
+        "8d697a",
+        "d08159",
+        "ffaa5e",
+        "ffd4a3",
+        "ffecd6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5cdb25df8071763eed3e48a0",
+        "type": "palettes",
+        "count": 1000,
+        "liked": 0
+    },
+    "thumbnailWidth": 33.333333333333336
+}

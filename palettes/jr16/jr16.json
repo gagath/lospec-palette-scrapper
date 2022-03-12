@@ -1,0 +1,96 @@
+{
+    "_id": "6031bb61519724514cc29604",
+    "tags": [
+        "computer",
+        " 16colors",
+        " ibm"
+    ],
+    "colors": [
+        "040404",
+        "00015d",
+        "003808",
+        "00374b",
+        "580a0a",
+        "520a54",
+        "7a3820",
+        "4b4956",
+        "81f4b1",
+        "72ffff",
+        "a2a2ac",
+        "4d84ff",
+        "d76f6c",
+        "d887f0",
+        "f6f8ad",
+        "f5fffd"
+    ],
+    "downloads": "82",
+    "featured": false,
+    "likes": 9,
+    "comments": 0,
+    "title": "Jr-16",
+    "hashtag": "jr16",
+    "description": "",
+    "creator": true,
+    "slug": "jr-16",
+    "publishedAt": "2021-03-04T15:40:00.020Z",
+    "user": {
+        "name": "retroadamshow",
+        "slug": "retroadamshow"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2021-02-21T01:46:09.286Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6031bbcf519724514cc2960c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/pcjr-16-palette-example-by-retroadamshow-6031bb.png",
+            "creator": true,
+            "description": "A collection of images for showcasing the Jr-16 palette.",
+            "title": "Jr-16 Palette Example",
+            "slug": "pcjr-16-palette-example-by-retroadamshow",
+            "publishedAt": "2021-02-28T17:00:00.023Z",
+            "user": {
+                "name": "retroadamshow",
+                "slug": "retroadamshow"
+            },
+            "parent": "6031bb61519724514cc29604",
+            "createdAt": "2021-02-21T01:47:59.674Z",
+            "updatedAt": "2021-02-28T17:20:45.222Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A collection of images for showcasing the Jr-16 palette."
+        }
+    ],
+    "colorsArray": [
+        "040404",
+        "00015d",
+        "003808",
+        "00374b",
+        "580a0a",
+        "520a54",
+        "7a3820",
+        "4b4956",
+        "81f4b1",
+        "72ffff",
+        "a2a2ac",
+        "4d84ff",
+        "d76f6c",
+        "d887f0",
+        "f6f8ad",
+        "f5fffd"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6031bb61519724514cc29604",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

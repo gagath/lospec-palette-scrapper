@@ -1,0 +1,76 @@
+{
+    "_id": "610012936396232148826a0f",
+    "tags": [
+        "muted",
+        "desaturated",
+        "dark",
+        "purple",
+        "warm",
+        "gameboy",
+        "monoramp"
+    ],
+    "colors": [
+        "ac8876",
+        "906776",
+        "634d69",
+        "353546"
+    ],
+    "downloads": "321",
+    "featured": false,
+    "likes": 33,
+    "comments": 2,
+    "slug": "monday-4",
+    "publishedAt": "2021-07-28T04:25:00.027Z",
+    "user": {
+        "name": "Yousurname",
+        "slug": "yousurname"
+    },
+    "title": "Monday 4",
+    "hashtag": "monday4",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-07-27T14:05:07.628Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "610012c56396232148826a44",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Monday 4 Palette Example by Yousurname",
+            "slug": "monday-4-palette-example-by-yousurname",
+            "publishedAt": "2021-07-27T16:35:00.014Z",
+            "user": {
+                "name": "Yousurname",
+                "slug": "yousurname"
+            },
+            "parent": "610012936396232148826a0f",
+            "image": "palette-examples/monday-4-palette-example-by-yousurname-610012.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-07-27T14:05:57.606Z",
+            "updatedAt": "2021-07-27T16:35:00.014Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "ac8876",
+        "906776",
+        "634d69",
+        "353546"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "610012936396232148826a0f",
+        "type": "palettes",
+        "count": 33,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

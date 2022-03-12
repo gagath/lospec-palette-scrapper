@@ -1,0 +1,95 @@
+{
+    "_id": "613abbeb7413b92eeb0c7067",
+    "tags": [
+        "calculated",
+        "perceptual"
+    ],
+    "colors": [
+        "ffffff",
+        "a3a3a3",
+        "4e4e4e",
+        "000000",
+        "e5a8b9",
+        "cab78b",
+        "80c6b8",
+        "9dbbe6",
+        "9f6778",
+        "86764c",
+        "3d8376",
+        "5a79a1",
+        "5d2b3c",
+        "463a14",
+        "00443b",
+        "173d61"
+    ],
+    "downloads": "58",
+    "featured": false,
+    "likes": 5,
+    "comments": 2,
+    "slug": "kippets-quares-16",
+    "publishedAt": "2021-10-08T08:45:00.039Z",
+    "user": {
+        "name": "mije nasa",
+        "slug": "mije-nasa"
+    },
+    "title": "Kippets Quare's 16",
+    "hashtag": "kq16",
+    "description": "with the help of\u00a0http://gramaz.io/chromaticity/, i made the most regular palette ever. Just look at the DB analysis.",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2021-09-10T01:59:07.405Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "613ac1427413b92eeb0c712b",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Kippets Quare's 16 Palette Example by mije nasa",
+            "slug": "kippets-quares-16-palette-example-by-mije-nasa",
+            "publishedAt": "2021-09-13T11:45:00.019Z",
+            "user": {
+                "name": "mije nasa",
+                "slug": "mije-nasa"
+            },
+            "parent": "613abbeb7413b92eeb0c7067",
+            "image": "palette-examples/kippets-quares-16-palette-example-by-mije-nasa-613ac1.png",
+            "creator": true,
+            "description": "guy, sun, rain, apple and gem",
+            "createdAt": "2021-09-10T02:21:54.319Z",
+            "updatedAt": "2021-09-13T11:45:00.020Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "guy, sun, rain, apple and gem"
+        }
+    ],
+    "colorsArray": [
+        "ffffff",
+        "a3a3a3",
+        "4e4e4e",
+        "000000",
+        "e5a8b9",
+        "cab78b",
+        "80c6b8",
+        "9dbbe6",
+        "9f6778",
+        "86764c",
+        "3d8376",
+        "5a79a1",
+        "5d2b3c",
+        "463a14",
+        "00443b",
+        "173d61"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "613abbeb7413b92eeb0c7067",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

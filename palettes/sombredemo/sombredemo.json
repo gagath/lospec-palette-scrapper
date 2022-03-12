@@ -1,0 +1,73 @@
+{
+    "_id": "5f87b69d866da921a445026b",
+    "tags": [
+        "gb",
+        "2bit",
+        "teal",
+        "sombre"
+    ],
+    "colors": [
+        "f8f3fd",
+        "9adae7",
+        "5da2ca",
+        "2e2b12"
+    ],
+    "downloads": "251",
+    "featured": false,
+    "likes": 22,
+    "comments": 2,
+    "title": "SOMBRE DEMO",
+    "hashtag": "sombredemo",
+    "description": "...my curiosity led me to a sombre place, so I left feeling baste...",
+    "creator": true,
+    "slug": "sombre-demo",
+    "publishedAt": "2020-10-17T01:50:00.019Z",
+    "user": {
+        "name": "Kattman",
+        "slug": "kattman"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-10-15T02:40:29.329Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f87b6fb866da921a4450273",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/sombre-demo-palette-example-by-kattman-5f87b6.png",
+            "creator": true,
+            "description": "Also tweaked*",
+            "title": "SOMBRE DEMO Palette Example by Kattman",
+            "slug": "sombre-demo-palette-example-by-kattman",
+            "publishedAt": "2020-10-16T20:00:00.026Z",
+            "user": {
+                "name": "Kattman",
+                "slug": "kattman"
+            },
+            "parent": "5f87b69d866da921a445026b",
+            "createdAt": "2020-10-15T02:42:03.381Z",
+            "updatedAt": "2020-10-16T20:00:00.026Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Also tweaked*"
+        }
+    ],
+    "colorsArray": [
+        "f8f3fd",
+        "9adae7",
+        "5da2ca",
+        "2e2b12"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f87b69d866da921a445026b",
+        "type": "palettes",
+        "count": 22,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

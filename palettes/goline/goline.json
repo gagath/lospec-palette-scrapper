@@ -1,0 +1,92 @@
+{
+    "_id": "5f774b4191a97b66c60f6f5e",
+    "tags": [],
+    "colors": [
+        "430067",
+        "94216a",
+        "ff004d",
+        "ff8426",
+        "ffdd34",
+        "50e112",
+        "3fa66f",
+        "365987",
+        "000000",
+        "0033ff",
+        "29adff",
+        "00ffcc",
+        "fff1e8",
+        "c2c3c7",
+        "ab5236",
+        "5f574f"
+    ],
+    "downloads": "1,146",
+    "featured": false,
+    "likes": 83,
+    "comments": 9,
+    "title": "Go-line",
+    "hashtag": "goline",
+    "description": "",
+    "creator": true,
+    "slug": "go-line",
+    "publishedAt": "2020-10-06T06:35:00.036Z",
+    "user": {
+        "name": "Zackie Photon",
+        "slug": "zackie-photon"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-10-02T15:46:09.091Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f7a0f3437c19e3b10743e01",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/goline-palette-example-by-zackie-photon-3-5f7a0f.png",
+            "creator": true,
+            "description": "",
+            "title": "Goline Palette Example by Zackie Photon",
+            "slug": "goline-palette-example-by-zackie-photon-3",
+            "publishedAt": "2020-10-06T06:45:00.023Z",
+            "user": {
+                "name": "Zackie Photon",
+                "slug": "zackie-photon"
+            },
+            "parent": "5f774b4191a97b66c60f6f5e",
+            "createdAt": "2020-10-04T18:06:44.598Z",
+            "updatedAt": "2020-10-06T06:45:00.024Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "430067",
+        "94216a",
+        "ff004d",
+        "ff8426",
+        "ffdd34",
+        "50e112",
+        "3fa66f",
+        "365987",
+        "000000",
+        "0033ff",
+        "29adff",
+        "00ffcc",
+        "fff1e8",
+        "c2c3c7",
+        "ab5236",
+        "5f574f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5f774b4191a97b66c60f6f5e",
+        "type": "palettes",
+        "count": 83,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

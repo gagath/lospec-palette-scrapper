@@ -1,0 +1,104 @@
+{
+    "_id": "6074d95ebb486e704c8f389d",
+    "tags": [
+        "sherbertshark",
+        "bright",
+        "retro"
+    ],
+    "colors": [
+        "dde4e8",
+        "ffc97a",
+        "8dc196",
+        "5a6e93",
+        "301c44",
+        "ce2f7f",
+        "ef8a6e",
+        "514cad",
+        "877aff"
+    ],
+    "downloads": "231",
+    "featured": false,
+    "likes": 27,
+    "comments": 1,
+    "slug": "sherbert-shark",
+    "publishedAt": "2021-04-17T18:15:00.013Z",
+    "user": {
+        "name": "Polyducks",
+        "slug": "polyducks"
+    },
+    "title": "Sherbert Shark",
+    "hashtag": "sherbertshark",
+    "description": "A simultaneously cosy, spooky and sunny palette for climbing over rocks and losing things in wells, picking flowers in the woods and making food for people you love. You have permission to use this in any of your projects. Please do tweet me if you do, I love to see your work!",
+    "creator": true,
+    "createdAt": "2021-04-12T23:35:58.153Z",
+    "numberOfColors": 9,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607e5b7968bf7d3600427010",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Sherbert Shark Palette Example by Casei Solus",
+            "slug": "sherbert-shark-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-21T16:10:00.021Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "6074d95ebb486e704c8f389d",
+            "image": "palette-examples/sherbert-shark-palette-example-by-casei-solus-607e5b.png",
+            "creator": true,
+            "description": "Some scoops of ice cream.",
+            "createdAt": "2021-04-20T04:41:29.663Z",
+            "updatedAt": "2021-04-21T16:10:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Some scoops of ice cream."
+        },
+        {
+            "_id": "6080bcd889730e508ccb958b",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Sherbert Shark Palette Example by Polyducks",
+            "slug": "sherbert-shark-palette-example-by-polyducks",
+            "publishedAt": "2021-04-22T01:25:00.020Z",
+            "user": {
+                "name": "Polyducks",
+                "slug": "polyducks"
+            },
+            "parent": "6074d95ebb486e704c8f389d",
+            "image": "palette-examples/sherbert-shark-palette-example-by-polyducks-6080bc.png",
+            "creator": true,
+            "description": "Textmode image by Polyducks using the font 'Kitchen Sink' by Retroshark and Polyducks.",
+            "createdAt": "2021-04-22T00:01:28.021Z",
+            "updatedAt": "2021-04-22T01:25:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": "Textmode image by Polyducks using the font 'Kitchen Sink' by Retroshark and Polyducks."
+        }
+    ],
+    "colorsArray": [
+        "dde4e8",
+        "ffc97a",
+        "8dc196",
+        "5a6e93",
+        "301c44",
+        "ce2f7f",
+        "ef8a6e",
+        "514cad",
+        "877aff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "6074d95ebb486e704c8f389d",
+        "type": "palettes",
+        "count": 27,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

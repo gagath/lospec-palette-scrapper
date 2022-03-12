@@ -1,0 +1,72 @@
+{
+    "_id": "6090a2093f261c7761c60146",
+    "tags": [
+        "magic",
+        "cool"
+    ],
+    "colors": [
+        "1c1e1f",
+        "3c4348",
+        "668b90",
+        "bee5e1",
+        "fbfceb",
+        "e9cea8",
+        "9b5a44",
+        "591e37",
+        "6d2fa7",
+        "d454c6",
+        "e98bb3",
+        "f0f3c4",
+        "bde9bf",
+        "82d3b0",
+        "58aaad",
+        "234663"
+    ],
+    "downloads": "261",
+    "featured": false,
+    "likes": 18,
+    "comments": 0,
+    "slug": "magik16",
+    "publishedAt": "2021-05-07T03:45:00.045Z",
+    "user": {
+        "name": "Orbitron",
+        "slug": "joseph"
+    },
+    "title": "Magik16",
+    "hashtag": "magik16",
+    "description": "Magik-y palette",
+    "creator": true,
+    "createdAt": "2021-05-04T01:23:21.250Z",
+    "numberOfColors": 16,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "1c1e1f",
+        "3c4348",
+        "668b90",
+        "bee5e1",
+        "fbfceb",
+        "e9cea8",
+        "9b5a44",
+        "591e37",
+        "6d2fa7",
+        "d454c6",
+        "e98bb3",
+        "f0f3c4",
+        "bde9bf",
+        "82d3b0",
+        "58aaad",
+        "234663"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6090a2093f261c7761c60146",
+        "type": "palettes",
+        "count": 18,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

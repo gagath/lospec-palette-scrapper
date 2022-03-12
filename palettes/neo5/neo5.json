@@ -1,0 +1,73 @@
+{
+    "_id": "612c0b7ae49dd57860ebf78b",
+    "tags": [
+        "neon",
+        "neo"
+    ],
+    "colors": [
+        "0e0e0e",
+        "5433be",
+        "e624af",
+        "3df9ea",
+        "effafa"
+    ],
+    "downloads": "560",
+    "featured": false,
+    "likes": 41,
+    "comments": 3,
+    "slug": "neo-5",
+    "publishedAt": "2021-09-29T07:55:00.048Z",
+    "user": {
+        "name": "MunchE",
+        "slug": "munche1"
+    },
+    "title": "NEO-5",
+    "hashtag": "neo5",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 5,
+    "createdAt": "2021-08-29T22:34:34.288Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "612c0c1fe49dd57860ebf794",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "NEO-5 Palette Example by Radiaction",
+            "slug": "neo-5-palette-example-by-radiaction",
+            "publishedAt": "2021-08-30T09:30:00.030Z",
+            "user": {
+                "name": "Radiaction",
+                "slug": "radiaction"
+            },
+            "parent": "612c0b7ae49dd57860ebf78b",
+            "image": "palette-examples/neo-5-palette-example-by-radiaction-612c0c.png",
+            "creator": true,
+            "description": "Inspiration from Sky: Children of the Light",
+            "createdAt": "2021-08-29T22:37:19.330Z",
+            "updatedAt": "2021-08-30T09:30:00.031Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Inspiration from Sky: Children of the Light"
+        }
+    ],
+    "colorsArray": [
+        "0e0e0e",
+        "5433be",
+        "e624af",
+        "3df9ea",
+        "effafa"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "612c0b7ae49dd57860ebf78b",
+        "type": "palettes",
+        "count": 41,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

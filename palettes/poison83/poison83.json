@@ -1,0 +1,74 @@
+{
+    "_id": "5dd091326d54be5cde442a88",
+    "slug": "poison",
+    "description": "",
+    "colors": [
+        "2a2a2b",
+        "454a4d",
+        "2f7571",
+        "5a9470",
+        "81b071"
+    ],
+    "creator": "1",
+    "comments": 1,
+    "likes": 43,
+    "createdAt": "2019-11-17T00:15:46.279Z",
+    "featured": false,
+    "tags": [
+        "green",
+        "dark",
+        "poison"
+    ],
+    "downloads": "895",
+    "numberOfColors": 5,
+    "hashtag": "poison83",
+    "title": "Poison",
+    "user": {
+        "name": "Jimison3",
+        "slug": "jimison3"
+    },
+    "publishedAt": "2019-11-17T00:15:46.279Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fcffca056681b5b7146515c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/poison-palette-example-by-s0ulessb0nes-5fcffc.png",
+            "creator": true,
+            "description": "",
+            "title": "Poison Palette Example by S0ULESSB0NES",
+            "slug": "poison-palette-example-by-s0ulessb0nes",
+            "publishedAt": "2020-12-11T19:50:00.011Z",
+            "user": {
+                "name": "S0ULESSB0NES",
+                "slug": "s0ulessb0nes"
+            },
+            "parent": "5dd091326d54be5cde442a88",
+            "createdAt": "2020-12-08T22:22:24.717Z",
+            "updatedAt": "2020-12-11T19:50:00.011Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "2a2a2b",
+        "454a4d",
+        "2f7571",
+        "5a9470",
+        "81b071"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5dd091326d54be5cde442a88",
+        "type": "palettes",
+        "count": 43,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

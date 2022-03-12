@@ -1,0 +1,73 @@
+{
+    "_id": "603d66092d9dbf5fd09b2005",
+    "tags": [
+        "polyphrog",
+        "grey",
+        "gb",
+        "stone"
+    ],
+    "colors": [
+        "f1ffe0",
+        "988171",
+        "463534",
+        "1e1721"
+    ],
+    "downloads": "387",
+    "featured": false,
+    "likes": 21,
+    "comments": 1,
+    "title": "grey mist",
+    "hashtag": "gmistpal",
+    "description": "",
+    "creator": true,
+    "slug": "grey-mist",
+    "publishedAt": "2021-03-07T09:40:00.014Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-03-01T22:09:13.632Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "603d66182d9dbf5fd09b2007",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/greyveyard-palette-example-by-polyphorge-603d66.png",
+            "creator": true,
+            "description": "",
+            "title": "greyveyard Palette Example by polyphorge",
+            "slug": "greyveyard-palette-example-by-polyphorge",
+            "publishedAt": "2021-03-01T22:15:00.019Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "603d66092d9dbf5fd09b2005",
+            "createdAt": "2021-03-01T22:09:28.788Z",
+            "updatedAt": "2021-03-01T22:15:00.019Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "f1ffe0",
+        "988171",
+        "463534",
+        "1e1721"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "603d66092d9dbf5fd09b2005",
+        "type": "palettes",
+        "count": 21,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

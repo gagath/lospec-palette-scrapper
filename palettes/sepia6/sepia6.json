@@ -1,0 +1,76 @@
+{
+    "_id": "6112a646f68fd165bb02b4af",
+    "tags": [
+        "sepia",
+        "western",
+        "old"
+    ],
+    "colors": [
+        "212529",
+        "614750",
+        "8c5c47",
+        "b47d58",
+        "d9b77e",
+        "ead9a7"
+    ],
+    "downloads": "513",
+    "featured": false,
+    "likes": 35,
+    "comments": 0,
+    "slug": "sepia6",
+    "publishedAt": "2021-08-28T06:00:00.067Z",
+    "user": {
+        "name": "HappyPiggy",
+        "slug": "realhappypiggy"
+    },
+    "title": "Sepia6",
+    "hashtag": "sepia6",
+    "description": "Feel free to use this palette, works well for Western/old art",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2021-08-10T16:16:06.906Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6112af076c26d671de109207",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Sepia6 Palette Example by HappyPiggy",
+            "slug": "sepia6-palette-example-by-happypiggy-2",
+            "publishedAt": "2021-08-22T19:30:00.042Z",
+            "user": {
+                "name": "HappyPiggy",
+                "slug": "realhappypiggy"
+            },
+            "parent": "6112a646f68fd165bb02b4af",
+            "image": "palette-examples/sepia6-palette-example-by-happypiggy-2-6112af.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-08-10T16:53:27.651Z",
+            "updatedAt": "2021-08-22T19:30:00.043Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "212529",
+        "614750",
+        "8c5c47",
+        "b47d58",
+        "d9b77e",
+        "ead9a7"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "6112a646f68fd165bb02b4af",
+        "type": "palettes",
+        "count": 35,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

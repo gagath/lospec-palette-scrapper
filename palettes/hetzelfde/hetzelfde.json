@@ -1,0 +1,93 @@
+{
+    "_id": "608c0a06d45ef2040f7c421b",
+    "tags": [
+        "gray",
+        "red",
+        "blue",
+        "white",
+        "black",
+        "serious",
+        "grim",
+        "edgy"
+    ],
+    "colors": [
+        "3e3f4a",
+        "5d606b",
+        "6f687c",
+        "91929b",
+        "1d1e26",
+        "2e2a34",
+        "293455",
+        "4c5f81",
+        "b4d8f7",
+        "ffffff",
+        "6e053d",
+        "ff0100"
+    ],
+    "downloads": "247",
+    "featured": false,
+    "likes": 11,
+    "comments": 0,
+    "slug": "hetzelfde",
+    "publishedAt": "2021-05-05T21:45:00.038Z",
+    "user": {
+        "name": "Phanpy100",
+        "slug": "phanpy100"
+    },
+    "title": "Hetzelfde",
+    "hashtag": "hetzelfde",
+    "description": "Little (mostly gray) colour pallette based on Agent Anders, from the Friday Night Funkin Mod",
+    "creator": true,
+    "createdAt": "2021-04-30T13:45:42.446Z",
+    "numberOfColors": 12,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "608c1864d2dc7f0a700ef26c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Hetzelfde Palette Example by Phanpy100",
+            "slug": "hetzelfde-palette-example-by-phanpy100",
+            "publishedAt": "2021-05-05T12:15:00.021Z",
+            "user": {
+                "name": "Phanpy100",
+                "slug": "phanpy100"
+            },
+            "parent": "608c0a06d45ef2040f7c421b",
+            "image": "palette-examples/hetzelfde-palette-example-by-phanpy100-608c18.png",
+            "creator": true,
+            "description": "Example of the pallette \"Hetzelfde\", featuring agent Anders from the Friday Night Funkin' Mod \"Vs. Anders\"",
+            "createdAt": "2021-04-30T14:47:00.398Z",
+            "updatedAt": "2021-05-05T12:15:00.022Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Example of the pallette \"Hetzelfde\", featuring agent Anders from the Friday Night Funkin' Mod \"Vs. Anders\""
+        }
+    ],
+    "colorsArray": [
+        "3e3f4a",
+        "5d606b",
+        "6f687c",
+        "91929b",
+        "1d1e26",
+        "2e2a34",
+        "293455",
+        "4c5f81",
+        "b4d8f7",
+        "ffffff",
+        "6e053d",
+        "ff0100"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "608c0a06d45ef2040f7c421b",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

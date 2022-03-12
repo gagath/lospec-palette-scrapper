@@ -1,0 +1,46 @@
+{
+    "_id": "609e787916e2a119a31e81f8",
+    "tags": [
+        "blood",
+        "3color"
+    ],
+    "colors": [
+        "130f0f",
+        "dac8c8",
+        "670909"
+    ],
+    "downloads": "71",
+    "featured": false,
+    "likes": 9,
+    "comments": 0,
+    "slug": "black-and-blood",
+    "publishedAt": "2021-09-13T09:20:00.058Z",
+    "user": {
+        "name": "S&P",
+        "slug": "spencer-plante"
+    },
+    "title": "Black and Blood",
+    "hashtag": "blackandblood",
+    "description": "Black and Blood and a bit of white.",
+    "creator": true,
+    "createdAt": "2021-05-14T13:17:45.283Z",
+    "numberOfColors": 3,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "130f0f",
+        "dac8c8",
+        "670909"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 33.333333333333336,
+    "height": 32,
+    "likebutton": {
+        "content": "609e787916e2a119a31e81f8",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

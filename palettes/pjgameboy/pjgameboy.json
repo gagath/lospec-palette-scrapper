@@ -1,0 +1,78 @@
+{
+    "_id": "59d81bc70323c15352a71aca",
+    "createdAt": "2017-10-07T00:11:51.621Z",
+    "slug": "pj-gameboy",
+    "description": "Palette created for the PJ Challenge <a href=\"http://pixeljoint.com/2009/05/11/2833/Challenge_Awards-_Game_Boy_Turns_20.htm\">Gameboy Turns 20</a>.",
+    "colors": [
+        "1f1f1f",
+        "4d533c",
+        "8b956d",
+        "c4cfa1"
+    ],
+    "tags": [
+        "gameboy"
+    ],
+    "downloads": "769",
+    "numberOfColors": 4,
+    "likes": 19,
+    "comments": 0,
+    "hashtag": "pjgameboy",
+    "title": "PJ Gameboy",
+    "publishedAt": "2017-10-07T00:11:51.621Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5b4de2eed0e0cb0253955666",
+            "description": "Palette usage example by Oktakok",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.117Z",
+            "creator": false,
+            "image": "palette-examples/pj-gameboy-palette-example-palette-usage-example-by-oktakok-5b4de2.png",
+            "likes": 0,
+            "parent": "59d81bc70323c15352a71aca",
+            "slug": "pj-gameboy-palette-example-palette-usage-example-by-oktakok",
+            "title": "pj gameboy palette example palette usage example by oktakok",
+            "updatedAt": "2020-07-31T03:56:11.117Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Oktakok"
+        },
+        {
+            "_id": "5ef619e20df3ca409af288b3",
+            "description": "Palette usage example by doctor manuadvance",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.225Z",
+            "creator": false,
+            "image": "palette-examples/pj-gameboy-palette-example-palette-usage-example-by-doctor-manuadvance-5ef619.png",
+            "likes": 0,
+            "parent": "59d81bc70323c15352a71aca",
+            "slug": "pj-gameboy-palette-example-palette-usage-example-by-doctor-manuadvance",
+            "title": "pj gameboy palette example palette usage example by doctor manuadvance",
+            "updatedAt": "2020-07-31T03:56:11.225Z",
+            "user": null,
+            "thumbnailOffset": 100,
+            "descriptionText": "Palette usage example by doctor manuadvance"
+        }
+    ],
+    "colorsArray": [
+        "1f1f1f",
+        "4d533c",
+        "8b956d",
+        "c4cfa1"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "59d81bc70323c15352a71aca",
+        "type": "palettes",
+        "count": 19,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

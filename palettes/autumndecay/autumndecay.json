@@ -1,0 +1,78 @@
+{
+    "_id": "6086ee457339f968fd1fe7be",
+    "tags": [
+        "autumn",
+        "six",
+        "orange",
+        "green",
+        "leaves"
+    ],
+    "colors": [
+        "313638",
+        "574729",
+        "975330",
+        "c57938",
+        "ffad3b",
+        "ffe596"
+    ],
+    "downloads": "921",
+    "featured": false,
+    "likes": 73,
+    "comments": 0,
+    "slug": "autumn-decay",
+    "publishedAt": "2021-05-03T15:45:00.033Z",
+    "user": {
+        "name": "Royal_Naym",
+        "slug": "royalnaym"
+    },
+    "title": "Autumn Decay",
+    "hashtag": "autumndecay",
+    "description": "A palette inspired by the orange tinge of leaves in Autumn.",
+    "creator": true,
+    "createdAt": "2021-04-26T16:45:57.216Z",
+    "numberOfColors": 6,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6086eef27339f968fd1fe7c3",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Autumn Decay Palette Example by Royal_Naym",
+            "slug": "autumn-decay-palette-example-by-royalnaym",
+            "publishedAt": "2021-04-26T16:55:34.279Z",
+            "user": {
+                "name": "Royal_Naym",
+                "slug": "royalnaym"
+            },
+            "parent": "6086ee457339f968fd1fe7be",
+            "image": "palette-examples/autumn-decay-palette-example-by-royalnaym-6086ee.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-04-26T16:48:50.519Z",
+            "updatedAt": "2021-04-26T16:55:34.279Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "313638",
+        "574729",
+        "975330",
+        "c57938",
+        "ffad3b",
+        "ffe596"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "6086ee457339f968fd1fe7be",
+        "type": "palettes",
+        "count": 73,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,59 @@
+{
+    "_id": "5c1817415e138838ec0511ab",
+    "slug": "jungle-level",
+    "description": "Created for a <a target=\"_blank\" href=\"http://pixeljoint.com/2018/12/17/5883/Pixel_Art_Challenge-_The_Jungle_Level.htm\">PixelJoint Weekly Challenge</a> for creating a jungle level game mockup.",
+    "colors": [
+        "856360",
+        "8d2887",
+        "2b180a",
+        "862a00",
+        "c76735",
+        "e29f51",
+        "c5e369",
+        "c8ede0",
+        "4492ee",
+        "698426",
+        "2e5b3f",
+        "082b0e"
+    ],
+    "featured": false,
+    "tags": [
+        "artist",
+        "pixeljoint"
+    ],
+    "downloads": "233",
+    "numberOfColors": 12,
+    "createdAt": "2018-12-17T21:38:09.904Z",
+    "comments": 0,
+    "likes": 6,
+    "hashtag": "junglelevel",
+    "title": "Jungle Level",
+    "publishedAt": "2018-12-17T21:38:09.904Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "856360",
+        "8d2887",
+        "2b180a",
+        "862a00",
+        "c76735",
+        "e29f51",
+        "c5e369",
+        "c8ede0",
+        "4492ee",
+        "698426",
+        "2e5b3f",
+        "082b0e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5c1817415e138838ec0511ab",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

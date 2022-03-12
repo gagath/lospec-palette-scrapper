@@ -1,0 +1,53 @@
+{
+    "_id": "5eec56ef11b978023085fac8",
+    "tags": [],
+    "colors": [
+        "000000",
+        "523451",
+        "b0765d",
+        "d3bcb0",
+        "f6eade",
+        "8fb332",
+        "4d7d23",
+        "3c8ee7"
+    ],
+    "downloads": "83",
+    "featured": false,
+    "likes": 14,
+    "comments": 1,
+    "title": "Oekaki.nl-8",
+    "hashtag": "oekakinl8",
+    "description": "<a href=\"https://lospec.com/palette-list/oekakinl\" target=\"_blank\">Oekaki.nl</a>\u00a0reduced to 8 colors. Very unique and good for naturalistic pieces!",
+    "creator": false,
+    "slug": "oekakinl-8",
+    "publishedAt": "2020-06-23T16:55:00.007Z",
+    "user": {
+        "name": "P-Tux7",
+        "slug": "p-tux7"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2020-06-19T06:10:55.529Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "523451",
+        "b0765d",
+        "d3bcb0",
+        "f6eade",
+        "8fb332",
+        "4d7d23",
+        "3c8ee7"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5eec56ef11b978023085fac8",
+        "type": "palettes",
+        "count": 14,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

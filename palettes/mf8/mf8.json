@@ -1,0 +1,78 @@
+{
+    "_id": "6128528b1b865504b3d57564",
+    "tags": [
+        "retro"
+    ],
+    "colors": [
+        "fcf8ea",
+        "fdd156",
+        "1ac1fe",
+        "32a75c",
+        "e04113",
+        "7f339a",
+        "a7763e",
+        "292320"
+    ],
+    "downloads": "61",
+    "featured": false,
+    "likes": 7,
+    "comments": 0,
+    "slug": "mf-8",
+    "publishedAt": "2021-09-27T01:55:00.047Z",
+    "user": {
+        "name": "MFauzan",
+        "slug": "mfauzan"
+    },
+    "title": "MF-8",
+    "hashtag": "mf8",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-08-27T02:48:43.106Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6201e2531824b71397e4b698",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "MF-8 Palette Example by MFauzan",
+            "slug": "mf-8-palette-example-by-mfauzanr3gupu",
+            "publishedAt": "2022-02-09T18:00:00.057Z",
+            "user": {
+                "name": "MFauzan",
+                "slug": "mfauzan"
+            },
+            "parent": "6128528b1b865504b3d57564",
+            "image": "palette-examples/mf-8-palette-example-by-mfauzanr3gupu.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-02-08T03:24:03.048Z",
+            "updatedAt": "2022-02-09T18:00:00.058Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "fcf8ea",
+        "fdd156",
+        "1ac1fe",
+        "32a75c",
+        "e04113",
+        "7f339a",
+        "a7763e",
+        "292320"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6128528b1b865504b3d57564",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,76 @@
+{
+    "_id": "5fb7e4921e6fa622a265ff80",
+    "tags": [
+        "earth",
+        " nature",
+        " simple",
+        " minimal",
+        " maps"
+    ],
+    "colors": [
+        "241726",
+        "4a66bc",
+        "abc2c0",
+        "a9a487",
+        "185618"
+    ],
+    "downloads": "75",
+    "featured": false,
+    "likes": 10,
+    "comments": 1,
+    "title": "Essential Earth",
+    "hashtag": "essear",
+    "description": "Earth and the vastness of space. So much universe to appreciate. Minimal Mapping or simplistic natural splender. The Essentials to draw our little blue marble.\u00a0",
+    "creator": true,
+    "slug": "essential-earth",
+    "publishedAt": "2020-11-22T01:45:00.023Z",
+    "user": {
+        "name": "Cheeseismysoul",
+        "slug": "nomz-toes-420"
+    },
+    "numberOfColors": 5,
+    "createdAt": "2020-11-20T15:45:22.540Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fb7e49f1e6fa622a265ff82",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/essential-earth-palette-example-by-cheeseismysoul-5fb7e4.png",
+            "creator": true,
+            "description": "",
+            "title": "Essential Earth Palette Example by Cheeseismysoul",
+            "slug": "essential-earth-palette-example-by-cheeseismysoul",
+            "publishedAt": "2020-11-20T16:50:00.010Z",
+            "user": {
+                "name": "Cheeseismysoul",
+                "slug": "nomz-toes-420"
+            },
+            "parent": "5fb7e4921e6fa622a265ff80",
+            "createdAt": "2020-11-20T15:45:35.330Z",
+            "updatedAt": "2020-11-20T16:50:00.010Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "241726",
+        "4a66bc",
+        "abc2c0",
+        "a9a487",
+        "185618"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5fb7e4921e6fa622a265ff80",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

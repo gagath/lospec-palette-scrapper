@@ -1,0 +1,113 @@
+{
+    "_id": "5b099d9f2f18e54491e8b6af",
+    "createdAt": "2018-05-26T17:47:11.383Z",
+    "slug": "arq16",
+    "description": "",
+    "colors": [
+        "ffffff",
+        "ffd19d",
+        "aeb5bd",
+        "4d80c9",
+        "e93841",
+        "100820",
+        "511e43",
+        "054494",
+        "f1892d",
+        "823e2c",
+        "ffa9a9",
+        "5ae150",
+        "ffe947",
+        "7d3ebf",
+        "eb6c82",
+        "1e8a4c"
+    ],
+    "tags": [
+        "artist",
+        "endesga"
+    ],
+    "downloads": "1,794",
+    "numberOfColors": 16,
+    "featured": false,
+    "likes": 59,
+    "comments": 0,
+    "creator": true,
+    "hashtag": "arq16",
+    "title": "ARQ16",
+    "user": {
+        "name": "ENDESGA",
+        "slug": "endesga"
+    },
+    "publishedAt": "2018-05-26T17:47:11.383Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5b099ddd2f18e54491e8b6b0",
+            "description": "<a target=\"_blank\" href=\"https://twitter.com/chriswearly/status/996867329211461632\">Palette map</a> by <a target=\"_blank\" href=\"https://twitter.com/chriswearly\">Chris Wearly</a>. ",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.107Z",
+            "creator": false,
+            "image": "palette-examples/arq16-palette-example-palette-map-by-chris-wearly-5b099d.png",
+            "likes": 0,
+            "parent": "5b099d9f2f18e54491e8b6af",
+            "slug": "arq16-palette-example-palette-map-by-chris-wearly",
+            "title": "arq16 palette example palette map by chris wearly",
+            "updatedAt": "2020-07-31T03:56:11.107Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette map by Chris Wearly. "
+        },
+        {
+            "_id": "5ffa920e92a64f5a85e505f0",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/arq16-palette-example-by-hector-gonzalez-5ffa92.png",
+            "creator": true,
+            "description": "Sprites of \"<a href=\"https://www.gonvalhector.com/gallery/art_gallery/lofi_girl_halloween_2020\" target=\"_blank\">LoFi Girl Halloween 2020</a>\"\u00a0and \"<a href=\"https://www.gonvalhector.com/gallery/art_gallery/aveliana_&amp;_fox\" target=\"_blank\">Aveliana &amp; the Fox</a>\".",
+            "title": "ARQ16 Palette Example by Hector Gonzalez",
+            "slug": "arq16-palette-example-by-hector-gonzalez",
+            "publishedAt": "2021-01-10T20:25:00.008Z",
+            "user": {
+                "name": "Hector Gonzalez",
+                "slug": "gonvalhector"
+            },
+            "parent": "5b099d9f2f18e54491e8b6af",
+            "createdAt": "2021-01-10T05:35:10.277Z",
+            "updatedAt": "2021-01-10T20:25:00.008Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": "Sprites of \"LoFi Girl Halloween 2020\"\u00a0and \"Aveliana &amp; the Fox\"."
+        }
+    ],
+    "colorsArray": [
+        "ffffff",
+        "ffd19d",
+        "aeb5bd",
+        "4d80c9",
+        "e93841",
+        "100820",
+        "511e43",
+        "054494",
+        "f1892d",
+        "823e2c",
+        "ffa9a9",
+        "5ae150",
+        "ffe947",
+        "7d3ebf",
+        "eb6c82",
+        "1e8a4c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5b099d9f2f18e54491e8b6af",
+        "type": "palettes",
+        "count": 59,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

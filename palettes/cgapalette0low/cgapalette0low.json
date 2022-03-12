@@ -1,0 +1,62 @@
+{
+    "_id": "58e2da0d61e9e662184cf351",
+    "createdAt": "2017-04-03T23:26:05.238Z",
+    "slug": "cga-palette-0-low",
+    "description": "One of the palettes available in the standard mode on the <a href=\"https://en.wikipedia.org/wiki/Color_Graphics_Adapter\">CGA</a>. The black can be replaced by any of the other colors in the full CGA palette.",
+    "colors": [
+        "000000",
+        "00aa00",
+        "aa0000",
+        "aa5500"
+    ],
+    "tags": [
+        "hardware",
+        "computer",
+        "cga"
+    ],
+    "downloads": "563",
+    "numberOfColors": 4,
+    "likes": 21,
+    "comments": 0,
+    "hashtag": "cgapalette0low",
+    "title": "CGA Palette 0 (Low)",
+    "publishedAt": "2017-04-03T23:26:05.238Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "58e6b1d6686f6307d80495dd",
+            "description": "<a href=\"http://pixeljoint.com/pixelart/18192.htm\">Jabberwocky</a> by <a href=\"http://pixeljoint.com/p/6005.htm\">Skurwy87</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.036Z",
+            "creator": false,
+            "image": "palette-examples/cga-palette-0-low-palette-example-jabberwocky-by-skurwy87-58e6b1.png",
+            "likes": 0,
+            "parent": "58e2da0d61e9e662184cf351",
+            "slug": "cga-palette-0-low-palette-example-jabberwocky-by-skurwy87",
+            "title": "cga palette 0 low palette example jabberwocky by skurwy87",
+            "updatedAt": "2020-07-31T03:56:11.036Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Jabberwocky by Skurwy87"
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "00aa00",
+        "aa0000",
+        "aa5500"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "58e2da0d61e9e662184cf351",
+        "type": "palettes",
+        "count": 21,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

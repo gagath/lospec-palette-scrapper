@@ -1,0 +1,71 @@
+{
+    "_id": "61609c9f70b29c5bbbc53584",
+    "tags": [
+        "gameboy",
+        "carp"
+    ],
+    "colors": [
+        "e2e8bd",
+        "af986f",
+        "9c8277",
+        "6b6066"
+    ],
+    "downloads": "206",
+    "featured": false,
+    "likes": 14,
+    "comments": 0,
+    "slug": "deadbeat-gb",
+    "publishedAt": "2021-10-16T03:45:00.029Z",
+    "user": {
+        "name": "Piken",
+        "slug": "pike"
+    },
+    "title": "Deadbeat GB",
+    "hashtag": "deadbeatgb",
+    "description": "A modified version of this guy's palette https://www.pixilart.com/palettes/deadbeatsummer-5617, saturated some colors, made others blander.",
+    "creator": false,
+    "numberOfColors": 4,
+    "createdAt": "2021-10-08T19:31:43.700Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61609cb870b29c5bbbc53586",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Deadbeat GB Palette Example by Piken",
+            "slug": "deadbeat-gb-palette-example-by-piken-2",
+            "publishedAt": "2021-10-09T08:55:00.025Z",
+            "user": {
+                "name": "Piken",
+                "slug": "pike"
+            },
+            "parent": "61609c9f70b29c5bbbc53584",
+            "image": "palette-examples/deadbeat-gb-palette-example-by-piken-2-61609c.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-10-08T19:32:08.335Z",
+            "updatedAt": "2021-10-09T08:55:00.026Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "e2e8bd",
+        "af986f",
+        "9c8277",
+        "6b6066"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61609c9f70b29c5bbbc53584",
+        "type": "palettes",
+        "count": 14,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

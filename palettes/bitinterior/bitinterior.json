@@ -1,0 +1,93 @@
+{
+    "_id": "608dc6f1a0747b35a56d870f",
+    "tags": [
+        "retro",
+        "vexed"
+    ],
+    "colors": [
+        "f3e2b1",
+        "f7c439",
+        "ff880b",
+        "ff5036",
+        "ae3737",
+        "e05ad1",
+        "4dd464",
+        "5fb7f3",
+        "c98c4b",
+        "a26134",
+        "bec4bb",
+        "929992",
+        "2e2823",
+        "331b0b",
+        "201208"
+    ],
+    "downloads": "205",
+    "featured": false,
+    "likes": 19,
+    "comments": 1,
+    "slug": "bit-interior",
+    "publishedAt": "2021-05-02T15:45:00.044Z",
+    "user": {
+        "name": "VEXED",
+        "slug": "v3x3d"
+    },
+    "title": "Bit Interior",
+    "hashtag": "bitinterior",
+    "description": "From my asset pack\u00a0Bountiful Bits.",
+    "creator": true,
+    "createdAt": "2021-05-01T21:24:01.037Z",
+    "numberOfColors": 15,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "608dc7bba0747b35a56d871b",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Bit Interior Palette Example by VEXED",
+            "slug": "bit-interior-palette-example-by-vexed",
+            "publishedAt": "2021-05-02T16:05:00.030Z",
+            "user": {
+                "name": "VEXED",
+                "slug": "v3x3d"
+            },
+            "parent": "608dc6f1a0747b35a56d870f",
+            "image": "palette-examples/bit-interior-palette-example-by-vexed-608dc7.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-05-01T21:27:23.509Z",
+            "updatedAt": "2021-05-02T16:05:00.030Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "f3e2b1",
+        "f7c439",
+        "ff880b",
+        "ff5036",
+        "ae3737",
+        "e05ad1",
+        "4dd464",
+        "5fb7f3",
+        "c98c4b",
+        "a26134",
+        "bec4bb",
+        "929992",
+        "2e2823",
+        "331b0b",
+        "201208"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "608dc6f1a0747b35a56d870f",
+        "type": "palettes",
+        "count": 19,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,68 @@
+{
+    "_id": "6004a306369cc0379b78e752",
+    "tags": [],
+    "colors": [
+        "407777",
+        "739691",
+        "bea57d",
+        "eff2c0"
+    ],
+    "downloads": "112",
+    "featured": false,
+    "likes": 17,
+    "comments": 0,
+    "title": "Beach-Front",
+    "hashtag": "light",
+    "description": "",
+    "creator": true,
+    "slug": "beach-front",
+    "publishedAt": "2021-01-26T18:25:00.021Z",
+    "user": {
+        "name": "Mint Cats",
+        "slug": "mint-cats"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-01-17T20:50:14.306Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "608916fe7acb7e441b78d986",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Beach-Front Palette Example by Casei Solus",
+            "slug": "beach-front-palette-example-by-casei-solus",
+            "publishedAt": "2021-05-02T15:45:00.023Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "6004a306369cc0379b78e752",
+            "image": "palette-examples/beach-front-palette-example-by-casei-solus-608916.png",
+            "creator": true,
+            "description": "A beach during the day.",
+            "createdAt": "2021-04-28T08:04:14.966Z",
+            "updatedAt": "2021-05-02T15:45:00.023Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A beach during the day."
+        }
+    ],
+    "colorsArray": [
+        "407777",
+        "739691",
+        "bea57d",
+        "eff2c0"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6004a306369cc0379b78e752",
+        "type": "palettes",
+        "count": 17,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

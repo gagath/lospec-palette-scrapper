@@ -1,0 +1,72 @@
+{
+    "_id": "61435cbb1d1df22e1738c292",
+    "tags": [
+        "warm",
+        "slime"
+    ],
+    "colors": [
+        "3d5a66",
+        "47b292",
+        "6dd979",
+        "f5ffcc",
+        "4b1717",
+        "9a3e3e",
+        "b36647",
+        "e5b05b",
+        "3d4e65",
+        "596880",
+        "7a8799",
+        "b8c0cc",
+        "25284d",
+        "366ab3",
+        "5b95e5",
+        "65d1ff"
+    ],
+    "downloads": "58",
+    "featured": false,
+    "likes": 3,
+    "comments": 0,
+    "slug": "slime-16",
+    "publishedAt": "2021-10-10T03:45:00.212Z",
+    "user": {
+        "name": "PH0ENIIX_dev",
+        "slug": "ph0eniix-dev"
+    },
+    "title": "Slime-16",
+    "hashtag": "slime16",
+    "description": "My first pallete. Created in a day",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2021-09-16T15:03:23.783Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "3d5a66",
+        "47b292",
+        "6dd979",
+        "f5ffcc",
+        "4b1717",
+        "9a3e3e",
+        "b36647",
+        "e5b05b",
+        "3d4e65",
+        "596880",
+        "7a8799",
+        "b8c0cc",
+        "25284d",
+        "366ab3",
+        "5b95e5",
+        "65d1ff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61435cbb1d1df22e1738c292",
+        "type": "palettes",
+        "count": 3,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

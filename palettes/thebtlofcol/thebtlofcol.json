@@ -1,0 +1,73 @@
+{
+    "_id": "61db2fc58818ae1d38cdd5e4",
+    "tags": [
+        "improved",
+        "redvblu",
+        "tboc"
+    ],
+    "colors": [
+        "5b2b2b",
+        "984a49",
+        "c59392",
+        "f3dcdc",
+        "2c495b",
+        "497a98",
+        "92b1c5",
+        "dce9f3",
+        "925f3d",
+        "7d835c",
+        "c99350",
+        "cfbd5e",
+        "1e1a1e",
+        "433a43",
+        "716271",
+        "aca2ac"
+    ],
+    "downloads": "150",
+    "featured": false,
+    "likes": 10,
+    "comments": 0,
+    "slug": "thebattlesofcolours-v2",
+    "publishedAt": "2022-01-11T16:25:00.050Z",
+    "user": {
+        "name": "-CodingIsFun-",
+        "slug": "codingisfun"
+    },
+    "title": "TheBattlesOfColours (v2)",
+    "hashtag": "thebtlofcol",
+    "description": "An improved version of a palette made a while ago with some complementary colours and darker shade (reupload)",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2022-01-09T18:56:05.142Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "5b2b2b",
+        "984a49",
+        "c59392",
+        "f3dcdc",
+        "2c495b",
+        "497a98",
+        "92b1c5",
+        "dce9f3",
+        "925f3d",
+        "7d835c",
+        "c99350",
+        "cfbd5e",
+        "1e1a1e",
+        "433a43",
+        "716271",
+        "aca2ac"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61db2fc58818ae1d38cdd5e4",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

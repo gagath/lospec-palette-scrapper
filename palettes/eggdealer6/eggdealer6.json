@@ -1,0 +1,80 @@
+{
+    "_id": "611b7b51d89d3856c7d7eaf0",
+    "tags": [
+        "egg",
+        "desaturated",
+        "royalnaym",
+        "yolk",
+        "6colors",
+        "night",
+        "dealer"
+    ],
+    "colors": [
+        "47323b",
+        "5c4657",
+        "735a55",
+        "b0764f",
+        "baac81",
+        "e9d79d"
+    ],
+    "downloads": "593",
+    "featured": false,
+    "likes": 52,
+    "comments": 0,
+    "slug": "eggdealer6",
+    "publishedAt": "2021-08-28T00:00:00.065Z",
+    "user": {
+        "name": "Royal_Naym",
+        "slug": "royalnaym"
+    },
+    "title": "EggDealer6",
+    "hashtag": "eggdealer6",
+    "description": "EggDealer6 is a palette like no other. Years of color combination technology has finally brought humanity to the only set of colors that truly matter: one perfectly apt to the drawing of eggs. May its desaturated orange, its calm purples and its greenish whites bring you to the golden gates of egg heaven.",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2021-08-17T09:03:13.163Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "611b7b66d89d3856c7d7eaf2",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "EggDealer6 Palette Example by Royal_Naym",
+            "slug": "eggdealer6-palette-example-by-royalnaym",
+            "publishedAt": "2021-08-22T19:25:00.036Z",
+            "user": {
+                "name": "Royal_Naym",
+                "slug": "royalnaym"
+            },
+            "parent": "611b7b51d89d3856c7d7eaf0",
+            "image": "palette-examples/eggdealer6-palette-example-by-royalnaym-611b7b.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-08-17T09:03:34.764Z",
+            "updatedAt": "2021-08-22T19:25:00.036Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "47323b",
+        "5c4657",
+        "735a55",
+        "b0764f",
+        "baac81",
+        "e9d79d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "611b7b51d89d3856c7d7eaf0",
+        "type": "palettes",
+        "count": 52,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,67 @@
+{
+    "_id": "5fe253639e308d1c43096699",
+    "tags": [
+        "1bit",
+        " simple"
+    ],
+    "colors": [
+        "1c221c",
+        "e0c9e0"
+    ],
+    "downloads": "64",
+    "featured": false,
+    "likes": 8,
+    "comments": 0,
+    "title": "Y's 1-bit",
+    "hashtag": "yelta",
+    "description": "Green-red 1-bit palette. Nothing special, but still quite neat.",
+    "creator": true,
+    "slug": "ys-1-bit",
+    "publishedAt": "2020-12-29T06:50:00.017Z",
+    "user": {
+        "name": "Yelta_",
+        "slug": "yelta"
+    },
+    "numberOfColors": 2,
+    "createdAt": "2020-12-22T20:13:23.407Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60710b90da554726aff06bd4",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Y's 1-bit Palette Example by Casei Solus",
+            "slug": "ys-1-bit-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-10T15:30:00.037Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5fe253639e308d1c43096699",
+            "image": "palette-examples/ys-1-bit-palette-example-by-casei-solus-60710b.png",
+            "creator": true,
+            "description": "Alien abstraction.",
+            "createdAt": "2021-04-10T02:21:04.858Z",
+            "updatedAt": "2021-04-10T15:30:00.037Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Alien abstraction."
+        }
+    ],
+    "colorsArray": [
+        "1c221c",
+        "e0c9e0"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "5fe253639e308d1c43096699",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

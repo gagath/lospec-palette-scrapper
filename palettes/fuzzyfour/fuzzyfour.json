@@ -1,0 +1,48 @@
+{
+    "_id": "5dabfae4bdf4b4667365a25b",
+    "slug": "fuzzyfour-v2",
+    "description": "A more balanced version of my\u00a0<a href=\"https://lospec.com/palette-list/fuzzyfour\" target=\"_blank\">previous palette</a>.",
+    "colors": [
+        "241178",
+        "ff0087",
+        "46ff9c",
+        "ffff9e"
+    ],
+    "creator": true,
+    "comments": 0,
+    "likes": 12,
+    "createdAt": "2019-10-20T06:12:52.227Z",
+    "featured": false,
+    "tags": [
+        "artist",
+        "ptux7"
+    ],
+    "downloads": "166",
+    "numberOfColors": 4,
+    "hashtag": "fuzzyfour",
+    "title": "FuzzyFour V2",
+    "user": {
+        "name": "P-Tux7",
+        "slug": "p-tux7"
+    },
+    "publishedAt": "2019-10-20T06:12:52.227Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "241178",
+        "ff0087",
+        "46ff9c",
+        "ffff9e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5dabfae4bdf4b4667365a25b",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

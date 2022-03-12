@@ -1,0 +1,69 @@
+{
+    "_id": "5dc85e6be8b5507637cc75d8",
+    "slug": "obra-dinn-macintosh",
+    "description": "The palette used in the game\u00a0<i><a href=\"https://obradinn.com/\" target=\"_blank\">Return of the Obra Dinn</a> </i>when using the \"Macintosh\" monitor setting.",
+    "colors": [
+        "333319",
+        "e5ffff"
+    ],
+    "creator": false,
+    "comments": 0,
+    "likes": 14,
+    "createdAt": "2019-11-10T19:00:59.907Z",
+    "featured": false,
+    "tags": [
+        "game",
+        "obradinn",
+        "software",
+        "1bit"
+    ],
+    "downloads": "138",
+    "numberOfColors": 2,
+    "hashtag": "obradinnmacintosh",
+    "title": "Obra Dinn - Macintosh",
+    "user": {
+        "name": "PureAsbestos",
+        "slug": "pureasbestos"
+    },
+    "publishedAt": "2019-11-10T19:00:59.907Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "606eaf23fb9e3b2cc71ec36b",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Obra Dinn - Macintosh Palette Example by Casei Solus",
+            "slug": "obra-dinn-macintosh-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-08T16:20:00.025Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5dc85e6be8b5507637cc75d8",
+            "image": "palette-examples/obra-dinn-macintosh-palette-example-by-casei-solus-606eaf.png",
+            "creator": true,
+            "description": "A ship silhouetted by the moon.",
+            "createdAt": "2021-04-08T07:22:11.424Z",
+            "updatedAt": "2021-04-08T16:20:00.026Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A ship silhouetted by the moon."
+        }
+    ],
+    "colorsArray": [
+        "333319",
+        "e5ffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "5dc85e6be8b5507637cc75d8",
+        "type": "palettes",
+        "count": 14,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

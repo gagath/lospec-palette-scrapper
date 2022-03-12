@@ -1,0 +1,91 @@
+{
+    "_id": "616c49d3e366f27e03ddacb0",
+    "tags": [
+        "red",
+        "gray",
+        "scarlet",
+        "yellow",
+        "orange",
+        "gold"
+    ],
+    "colors": [
+        "1a1c22",
+        "3f272b",
+        "54353d",
+        "50494c",
+        "6a5960",
+        "701f17",
+        "942626",
+        "a62e36",
+        "a14626",
+        "b15c34",
+        "d58941",
+        "ffe257"
+    ],
+    "downloads": "451",
+    "featured": false,
+    "likes": 28,
+    "comments": 1,
+    "slug": "everglow-diamond",
+    "publishedAt": "2021-10-19T09:45:00.027Z",
+    "user": {
+        "name": "patchouli",
+        "slug": "patchoulitei"
+    },
+    "title": "Everglow Diamond",
+    "hashtag": "everglow",
+    "description": "the end of an era",
+    "creator": true,
+    "numberOfColors": 12,
+    "createdAt": "2021-10-17T16:05:39.219Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "616c4a99e366f27e03ddacb8",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Everglow Diamond Palette Example by patchouli",
+            "slug": "everglow-diamond-palette-example-by-patchouli",
+            "publishedAt": "2021-10-17T16:10:00.011Z",
+            "user": {
+                "name": "patchouli",
+                "slug": "patchoulitei"
+            },
+            "parent": "616c49d3e366f27e03ddacb0",
+            "image": "palette-examples/everglow-diamond-palette-example-by-patchouli-616c4a.png",
+            "creator": true,
+            "description": "all is red",
+            "createdAt": "2021-10-17T16:08:57.165Z",
+            "updatedAt": "2021-10-17T16:10:00.012Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "all is red"
+        }
+    ],
+    "colorsArray": [
+        "1a1c22",
+        "3f272b",
+        "54353d",
+        "50494c",
+        "6a5960",
+        "701f17",
+        "942626",
+        "a62e36",
+        "a14626",
+        "b15c34",
+        "d58941",
+        "ffe257"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "616c49d3e366f27e03ddacb0",
+        "type": "palettes",
+        "count": 28,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

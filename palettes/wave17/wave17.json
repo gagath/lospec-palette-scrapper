@@ -1,0 +1,99 @@
+{
+    "_id": "5f307c1ff3620516726dbea6",
+    "tags": [
+        "chill",
+        " clean",
+        " minimalist",
+        " wave17"
+    ],
+    "colors": [
+        "221a24",
+        "36353d",
+        "6e6c6e",
+        "a5b6bd",
+        "0c4a25",
+        "4c9449",
+        "b9d683",
+        "731325",
+        "9c6628",
+        "dbdb44",
+        "1f196e",
+        "6552e3",
+        "a9c0c9",
+        "3b196e",
+        "a738bd",
+        "e08bc5",
+        "e8f0d8"
+    ],
+    "downloads": "131",
+    "featured": false,
+    "likes": 16,
+    "comments": 6,
+    "title": "Wave 17",
+    "hashtag": "wave17",
+    "description": "",
+    "creator": "1",
+    "slug": "wave-17",
+    "publishedAt": "2020-08-17T17:05:00.018Z",
+    "user": {
+        "name": "Mark-MP",
+        "slug": "mark-mp"
+    },
+    "numberOfColors": 17,
+    "createdAt": "2020-08-09T22:43:43.277Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f39a13cc476d611b46bbe4b",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/wave-17-palette-example-by-mark-mp-2-5f39a1.png",
+            "creator": true,
+            "description": "",
+            "title": "Wave 17 Palette Example by Mark-MP",
+            "slug": "wave-17-palette-example-by-mark-mp-2",
+            "publishedAt": "2020-08-17T15:30:00.025Z",
+            "user": {
+                "name": "Mark-MP",
+                "slug": "mark-mp"
+            },
+            "parent": "5f307c1ff3620516726dbea6",
+            "createdAt": "2020-08-16T21:12:28.186Z",
+            "updatedAt": "2020-08-17T15:30:00.025Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "221a24",
+        "36353d",
+        "6e6c6e",
+        "a5b6bd",
+        "0c4a25",
+        "4c9449",
+        "b9d683",
+        "731325",
+        "9c6628",
+        "dbdb44",
+        "1f196e",
+        "6552e3",
+        "a9c0c9",
+        "3b196e",
+        "a738bd",
+        "e08bc5",
+        "e8f0d8"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 11.11111111111111,
+    "height": 32,
+    "likebutton": {
+        "content": "5f307c1ff3620516726dbea6",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

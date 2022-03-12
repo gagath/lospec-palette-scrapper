@@ -1,0 +1,93 @@
+{
+    "_id": "618370d4e078a8382103824e",
+    "tags": [
+        "makecode",
+        "microsoft"
+    ],
+    "colors": [
+        "ffffff",
+        "ff2121",
+        "ff93c4",
+        "ff8135",
+        "fff609",
+        "249ca3",
+        "78dc52",
+        "003fad",
+        "87f2ff",
+        "8e2ec4",
+        "a4839f",
+        "5c406c",
+        "e5cdc4",
+        "91463d",
+        "000000"
+    ],
+    "downloads": "69",
+    "featured": false,
+    "likes": 6,
+    "comments": 0,
+    "slug": "microsoft-makecode-arcade",
+    "publishedAt": "2021-11-07T10:10:00.030Z",
+    "user": {
+        "name": "PureAsbestos",
+        "slug": "pureasbestos"
+    },
+    "title": "Microsoft MakeCode Arcade",
+    "hashtag": "makecodearcadepalette",
+    "description": "MakeCode Arcade is an online \"2D pixelated game development environment\" created by Microsoft. This is its default palette. The exact hex codes were taken from here: https://arcade.makecode.com/developer/images. Index zero is usually transparent, but that has been left out.",
+    "creator": false,
+    "numberOfColors": 15,
+    "createdAt": "2021-11-04T05:34:12.480Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "618385fd6c0b4a555f585219",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Microsoft MakeCode Arcade Palette Example",
+            "slug": "microsoft-makecode-arcade-palette-example-by-pureasbestos-2",
+            "publishedAt": "2021-11-04T07:10:00.015Z",
+            "user": {
+                "name": "PureAsbestos",
+                "slug": "pureasbestos"
+            },
+            "parent": "618370d4e078a8382103824e",
+            "image": "palette-examples/microsoft-makecode-arcade-palette-example-by-pureasbestos-2-618385.png",
+            "creator": false,
+            "description": "Adapted from promotional art here: https://makecode.com/blog/arcade/01-18-2019",
+            "createdAt": "2021-11-04T07:04:29.345Z",
+            "updatedAt": "2021-11-04T07:10:00.015Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Adapted from promotional art here: https://makecode.com/blog/arcade/01-18-2019"
+        }
+    ],
+    "colorsArray": [
+        "ffffff",
+        "ff2121",
+        "ff93c4",
+        "ff8135",
+        "fff609",
+        "249ca3",
+        "78dc52",
+        "003fad",
+        "87f2ff",
+        "8e2ec4",
+        "a4839f",
+        "5c406c",
+        "e5cdc4",
+        "91463d",
+        "000000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "618370d4e078a8382103824e",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,73 @@
+{
+    "_id": "5da631ff36e1ff223d07a6f0",
+    "slug": "rabbit-jump",
+    "description": "The palette from Reisoft's\u00a0<a href=\"https://www.mobygames.com/game/atari-st/rabbit-jump\" target=\"_blank\">Rabbit Jump</a>\u00a0for the Atari ST.",
+    "colors": [
+        "e0e0e0",
+        "e0c040",
+        "e06020",
+        "e00000",
+        "a00000",
+        "000000",
+        "808080",
+        "a0a0a0",
+        "a08040",
+        "008000",
+        "006000",
+        "004000",
+        "2080a0",
+        "006060",
+        "e0a0a0",
+        "c06060"
+    ],
+    "creator": false,
+    "comments": 1,
+    "likes": 5,
+    "createdAt": "2019-10-18T16:45:00.523Z",
+    "featured": false,
+    "tags": [
+        "game",
+        "atari",
+        "ptux7"
+    ],
+    "downloads": "70",
+    "numberOfColors": 16,
+    "hashtag": "rabbitjump",
+    "title": "Rabbit Jump",
+    "user": {
+        "name": "P-Tux7",
+        "slug": "p-tux7"
+    },
+    "publishedAt": "2019-10-18T16:45:00.523Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "e0e0e0",
+        "e0c040",
+        "e06020",
+        "e00000",
+        "a00000",
+        "000000",
+        "808080",
+        "a0a0a0",
+        "a08040",
+        "008000",
+        "006000",
+        "004000",
+        "2080a0",
+        "006060",
+        "e0a0a0",
+        "c06060"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5da631ff36e1ff223d07a6f0",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

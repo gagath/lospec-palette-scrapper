@@ -1,0 +1,152 @@
+{
+    "_id": "5a4ac5415441860b93594c7c",
+    "createdAt": "2018-01-01T23:33:21.995Z",
+    "slug": "oil-6",
+    "description": "Created by <a href=\"http://grafxkid.tumblr.com/palettes\" target=\"_blank\">GrafxKid</a>.",
+    "colors": [
+        "fbf5ef",
+        "f2d3ab",
+        "c69fa5",
+        "8b6d9c",
+        "494d7e",
+        "272744"
+    ],
+    "tags": [
+        "artist",
+        "grafxkid",
+        "monoramp"
+    ],
+    "downloads": "19,157",
+    "numberOfColors": 6,
+    "likes": 747,
+    "comments": 9,
+    "hashtag": "oil6",
+    "title": "Oil 6",
+    "creator": false,
+    "featured": false,
+    "publishedAt": "2018-01-01T23:33:21.995Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5b4d4954d0e0cb0253955661",
+            "description": "Example by <a target=\"_blank\" href=\"https://twitter.com/MateCziner\">Mate Cziner</a>.",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.115Z",
+            "creator": false,
+            "image": "palette-examples/oil-6-palette-example-example-by-mate-cziner-5b4d49.png",
+            "likes": 0,
+            "parent": "5a4ac5415441860b93594c7c",
+            "slug": "oil-6-palette-example-example-by-mate-cziner",
+            "title": "oil 6 palette example example by mate cziner",
+            "updatedAt": "2020-07-31T03:56:11.115Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Example by Mate Cziner."
+        },
+        {
+            "_id": "5b4d49a3d0e0cb0253955662",
+            "description": "Example by <a target=\"_blank\" href=\"https://twitter.com/MateCziner\">Mate Cziner</a>. ",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.116Z",
+            "creator": false,
+            "image": "palette-examples/oil-6-palette-example-example-2-by-mate-cziner-5b4d49.png",
+            "likes": 0,
+            "parent": "5a4ac5415441860b93594c7c",
+            "slug": "oil-6-palette-example-example-2-by-mate-cziner",
+            "title": "oil 6 palette example example 2 by mate cziner",
+            "updatedAt": "2020-07-31T03:56:11.116Z",
+            "user": null,
+            "thumbnailOffset": 25,
+            "descriptionText": "Example by Mate Cziner. "
+        },
+        {
+            "_id": "5f293755a1d8cb0eb3c5f767",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/oil-6-palette-example-by-sasca-cheregi-eusebiu-5f2937.png",
+            "creator": true,
+            "description": "",
+            "title": "Oil 6 Palette Example by Sasca Cheregi Eusebiu",
+            "slug": "oil-6-palette-example-by-sasca-cheregi-eusebiu",
+            "publishedAt": "2020-08-04T12:45:00.054Z",
+            "user": {
+                "name": "Sasca Cheregi Eusebiu",
+                "slug": "sasca-cheregi-eusebiu"
+            },
+            "parent": "5a4ac5415441860b93594c7c",
+            "createdAt": "2020-08-04T10:24:21.331Z",
+            "updatedAt": "2020-08-04T12:45:00.055Z",
+            "__v": 0,
+            "thumbnailOffset": 50,
+            "descriptionText": ""
+        },
+        {
+            "_id": "5f8704a1866da921a444f9bc",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/oil-6-palette-example-by-hector-gonzalez-2-5f8704.png",
+            "creator": true,
+            "description": "\"<a href=\"https://www.gonvalhector.com/gallery/art_gallery/black_knight\" target=\"_blank\">Black Knight</a>\", \"<a href=\"https://www.gonvalhector.com/gallery/art_gallery/ds_hollow\" target=\"_blank\">Hollow</a>\" and \"<a href=\"https://www.gonvalhector.com/gallery/art_gallery/ds_hollow_soldier\" target=\"_blank\">Undead/Hollow Soldier</a>\" from Dark Souls.",
+            "title": "Oil 6 Palette Example",
+            "slug": "oil-6-palette-example-by-hector-gonzalez-2",
+            "publishedAt": "2020-10-14T16:25:00.017Z",
+            "user": {
+                "name": "Hector Gonzalez",
+                "slug": "gonvalhector"
+            },
+            "parent": "5a4ac5415441860b93594c7c",
+            "createdAt": "2020-10-14T14:01:05.030Z",
+            "updatedAt": "2021-01-10T05:39:54.564Z",
+            "__v": 0,
+            "thumbnailOffset": 75,
+            "descriptionText": "\"Black Knight\", \"Hollow\" and \"Undead/Hollow Soldier\" from Dark Souls."
+        },
+        {
+            "_id": "5f96dc2cfb495057b3bfa1f0",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/oil-6-palette-example-by-imreallytuna-5f96dc.png",
+            "creator": true,
+            "description": "this is my first work using paint lol",
+            "title": "Oil 6 Palette Example by imreallytuna",
+            "slug": "oil-6-palette-example-by-imreallytuna",
+            "publishedAt": "2020-10-26T14:40:00.019Z",
+            "user": {
+                "name": "imreallytuna",
+                "slug": "imreallytuna"
+            },
+            "parent": "5a4ac5415441860b93594c7c",
+            "createdAt": "2020-10-26T14:24:44.248Z",
+            "updatedAt": "2020-10-26T14:40:00.020Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": "this is my first work using paint lol"
+        }
+    ],
+    "colorsArray": [
+        "fbf5ef",
+        "f2d3ab",
+        "c69fa5",
+        "8b6d9c",
+        "494d7e",
+        "272744"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5a4ac5415441860b93594c7c",
+        "type": "palettes",
+        "count": 747,
+        "liked": 0
+    },
+    "thumbnailWidth": 20
+}

@@ -1,0 +1,96 @@
+{
+    "_id": "611c2a2ad8f58866ab776d8a",
+    "tags": [
+        "subdued",
+        "paint",
+        "jonk"
+    ],
+    "colors": [
+        "242e36",
+        "455951",
+        "798766",
+        "b7bca2",
+        "d6d6d6",
+        "f4f0ea",
+        "6988a1",
+        "a1b0be",
+        "595b7c",
+        "95819d",
+        "c9a5a9",
+        "f4dec2",
+        "704f4f",
+        "b7635b",
+        "e39669",
+        "ebc790"
+    ],
+    "downloads": "377",
+    "featured": false,
+    "likes": 29,
+    "comments": 1,
+    "slug": "jonk-16",
+    "publishedAt": "2021-08-27T12:00:00.151Z",
+    "user": {
+        "name": "Jonk Make Game",
+        "slug": "jonk-make-game"
+    },
+    "title": "JONK 16",
+    "hashtag": "jonk16",
+    "description": "Collection of subdued colors I sampled from photos of oil paint.\u00a0 Multiple ramps in this small palatte allow for lots of play :)",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2021-08-17T21:29:14.334Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "611c3d2ec1ce8c7067b6205a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "JONK 16 Palette Example by Jonk Make Game",
+            "slug": "jonk-16-palette-example-by-jonk-make-game-2",
+            "publishedAt": "2021-08-22T19:15:00.020Z",
+            "user": {
+                "name": "Jonk Make Game",
+                "slug": "jonk-make-game"
+            },
+            "parent": "611c2a2ad8f58866ab776d8a",
+            "image": "palette-examples/jonk-16-palette-example-by-jonk-make-game-2-611c3d.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-08-17T22:50:22.884Z",
+            "updatedAt": "2021-08-22T19:15:00.020Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "242e36",
+        "455951",
+        "798766",
+        "b7bca2",
+        "d6d6d6",
+        "f4f0ea",
+        "6988a1",
+        "a1b0be",
+        "595b7c",
+        "95819d",
+        "c9a5a9",
+        "f4dec2",
+        "704f4f",
+        "b7635b",
+        "e39669",
+        "ebc790"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "611c2a2ad8f58866ab776d8a",
+        "type": "palettes",
+        "count": 29,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

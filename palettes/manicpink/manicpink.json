@@ -1,0 +1,52 @@
+{
+    "_id": "601d965ea63a5178a242aca7",
+    "tags": [
+        "manic",
+        " pink",
+        " pink",
+        " manic"
+    ],
+    "colors": [
+        "060404",
+        "692022",
+        "be3143",
+        "e7cc99",
+        "daa1a6"
+    ],
+    "downloads": "74",
+    "featured": false,
+    "likes": 11,
+    "comments": 0,
+    "title": "Manic Pink",
+    "hashtag": "manicpink",
+    "description": "Manic Pink",
+    "creator": true,
+    "slug": "manic-pink",
+    "publishedAt": "2021-02-14T14:40:00.019Z",
+    "user": {
+        "name": "Broliant 112",
+        "slug": "broliant-112"
+    },
+    "numberOfColors": 5,
+    "createdAt": "2021-02-05T19:02:54.053Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "060404",
+        "692022",
+        "be3143",
+        "e7cc99",
+        "daa1a6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "601d965ea63a5178a242aca7",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

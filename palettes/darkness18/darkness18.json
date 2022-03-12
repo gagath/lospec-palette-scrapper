@@ -1,0 +1,70 @@
+{
+    "_id": "5ed6f3999a94a556bf31fe28",
+    "tags": [],
+    "colors": [
+        "000000",
+        "323232",
+        "4c4c4c",
+        "320000",
+        "321e00"
+    ],
+    "downloads": "82",
+    "featured": false,
+    "likes": 11,
+    "comments": 2,
+    "title": "Darkness!*18",
+    "hashtag": "darkness18",
+    "description": "Some dark colors<p><br /></p><p><br /></p>",
+    "creator": true,
+    "slug": "darkness18",
+    "publishedAt": "2020-06-24T04:55:00.005Z",
+    "user": {
+        "name": "PulgaPunk",
+        "slug": "pulga-punk"
+    },
+    "numberOfColors": 5,
+    "createdAt": "2020-06-03T00:49:29.298Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f987900a74624726277b85f",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/darkness18-palette-example-by-imreallytuna-5f9879.png",
+            "creator": true,
+            "description": "",
+            "title": "Darkness!*18 Palette Example by imreallytuna",
+            "slug": "darkness18-palette-example-by-imreallytuna",
+            "publishedAt": "2020-10-29T23:25:00.020Z",
+            "user": {
+                "name": "imreallytuna",
+                "slug": "imreallytuna"
+            },
+            "parent": "5ed6f3999a94a556bf31fe28",
+            "createdAt": "2020-10-27T19:46:08.858Z",
+            "updatedAt": "2020-10-29T23:25:00.020Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "323232",
+        "4c4c4c",
+        "320000",
+        "321e00"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5ed6f3999a94a556bf31fe28",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

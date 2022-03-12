@@ -1,0 +1,60 @@
+{
+    "_id": "5fc50d7e69b1720b475d5058",
+    "tags": [
+        "twitter",
+        " circus",
+        " toxic",
+        " stantwitter"
+    ],
+    "colors": [
+        "ffffff",
+        "5b7083",
+        "279ee8",
+        "764cba",
+        "d1285c",
+        "e65f2a",
+        "f7ac2c",
+        "22ba67",
+        "131b23"
+    ],
+    "downloads": "35",
+    "featured": false,
+    "likes": 4,
+    "comments": 3,
+    "title": "CIRCUS TWITTER",
+    "hashtag": "twitter",
+    "description": "All colors from Twitter themes avaliable in one palette. I also added pure white and light theme's grey font color.\u00a0Build your best pixel art and twitter sh*tshow drama with this cohesive, colorful palette!",
+    "creator": true,
+    "slug": "circus-twitter",
+    "publishedAt": "2020-12-07T07:45:00.025Z",
+    "user": {
+        "name": "LKR0.5420820",
+        "slug": "l-k-r-0"
+    },
+    "numberOfColors": 9,
+    "createdAt": "2020-11-30T15:19:26.691Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffffff",
+        "5b7083",
+        "279ee8",
+        "764cba",
+        "d1285c",
+        "e65f2a",
+        "f7ac2c",
+        "22ba67",
+        "131b23"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5fc50d7e69b1720b475d5058",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

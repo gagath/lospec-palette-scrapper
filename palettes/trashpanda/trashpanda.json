@@ -1,0 +1,47 @@
+{
+    "_id": "6193eb4e0a01302600dcbb27",
+    "tags": [],
+    "colors": [
+        "f6c6a8",
+        "d17c7c",
+        "413a42",
+        "1f1f29",
+        "100f13"
+    ],
+    "downloads": "98",
+    "featured": false,
+    "likes": 9,
+    "comments": 1,
+    "slug": "trash-panda",
+    "publishedAt": "2021-11-20T02:10:00.019Z",
+    "user": {
+        "name": "pp nn",
+        "slug": "pp-nn"
+    },
+    "title": "Trash Panda",
+    "hashtag": "trashpanda",
+    "description": "the palette for all your racoons needs.",
+    "creator": true,
+    "numberOfColors": 5,
+    "createdAt": "2021-11-16T17:33:02.944Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "f6c6a8",
+        "d17c7c",
+        "413a42",
+        "1f1f29",
+        "100f13"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "6193eb4e0a01302600dcbb27",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

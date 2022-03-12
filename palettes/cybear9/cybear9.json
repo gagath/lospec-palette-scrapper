@@ -1,0 +1,82 @@
+{
+    "_id": "60ac5112b8ef4f638c5cdd7d",
+    "tags": [
+        "synthwave",
+        "colorful",
+        "vibrant"
+    ],
+    "colors": [
+        "ffdd4e",
+        "ff6e49",
+        "ff0044",
+        "c50044",
+        "800044",
+        "470044",
+        "150044",
+        "090032",
+        "000019"
+    ],
+    "downloads": "450",
+    "featured": false,
+    "likes": 32,
+    "comments": 0,
+    "slug": "cybear9",
+    "publishedAt": "2021-05-26T00:10:00.020Z",
+    "user": {
+        "name": "Ursuh",
+        "slug": "ursuh"
+    },
+    "title": "CYBEAR9",
+    "hashtag": "cybear9",
+    "description": "Yellow, Red, Pink and Purple colors.",
+    "creator": true,
+    "createdAt": "2021-05-25T01:21:22.067Z",
+    "numberOfColors": 9,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60ac55efb8ef4f638c5cddb3",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "CYBEAR9 Palette Example by Ursuh",
+            "slug": "cybear9-palette-example-by-ursuh",
+            "publishedAt": "2021-05-25T18:10:00.023Z",
+            "user": {
+                "name": "Ursuh",
+                "slug": "ursuh"
+            },
+            "parent": "60ac5112b8ef4f638c5cdd7d",
+            "image": "palette-examples/cybear9-palette-example-by-ursuh-60ac55.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-05-25T01:42:07.419Z",
+            "updatedAt": "2021-05-25T18:10:00.023Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "ffdd4e",
+        "ff6e49",
+        "ff0044",
+        "c50044",
+        "800044",
+        "470044",
+        "150044",
+        "090032",
+        "000019"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "60ac5112b8ef4f638c5cdd7d",
+        "type": "palettes",
+        "count": 32,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

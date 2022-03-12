@@ -1,0 +1,45 @@
+{
+    "_id": "5e4f2fa14561f35a3f697d46",
+    "slug": "blueberry-ice-cream",
+    "description": "A blue 4-color palette made by\u00a0<a href=\"https://twitter.com/Dried_Apricots3/status/1016870061192065024\" target=\"_blank\">Dried Apricot</a>.",
+    "colors": [
+        "151b1c",
+        "29464c",
+        "3d8997",
+        "aaf2ff"
+    ],
+    "creator": false,
+    "hashtag": "blueberryicecream",
+    "comments": 0,
+    "likes": 13,
+    "createdAt": "2020-02-21T01:17:21.613Z",
+    "featured": false,
+    "tags": [],
+    "downloads": "248",
+    "numberOfColors": 4,
+    "title": "Blueberry Ice Cream",
+    "user": {
+        "name": "P-Tux7",
+        "slug": "p-tux7"
+    },
+    "publishedAt": "2020-03-22T19:38:17.851Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "151b1c",
+        "29464c",
+        "3d8997",
+        "aaf2ff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5e4f2fa14561f35a3f697d46",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

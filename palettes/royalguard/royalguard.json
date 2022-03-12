@@ -1,0 +1,81 @@
+{
+    "_id": "61c2ea72012043052f08e30d",
+    "tags": [
+        "royalnaym",
+        "6colors",
+        "mechanical",
+        "cyclope",
+        "fantasy",
+        "red",
+        "cyan",
+        "atmospheric"
+    ],
+    "colors": [
+        "423030",
+        "3b3f3f",
+        "365252",
+        "007281",
+        "6f989b",
+        "c0c5c9"
+    ],
+    "downloads": "206",
+    "featured": false,
+    "likes": 21,
+    "comments": 0,
+    "slug": "royalguard",
+    "publishedAt": "2021-12-23T12:30:00.055Z",
+    "user": {
+        "name": "Royal_Naym",
+        "slug": "royalnaym"
+    },
+    "title": "RoyalGuard",
+    "hashtag": "royalguard",
+    "description": "A follow up from Cyclope6, my most downloaded palette yet. RoyalGuard uses a more balanced value ramp, while also merging the colors in a more organic way.",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2021-12-22T09:05:54.360Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61c2ea88012043052f08e30f",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "RoyalGuard Palette Example by Royal_Naym",
+            "slug": "royalguard-palette-example-by-royalnaymvqy4xw",
+            "publishedAt": "2021-12-22T09:10:00.030Z",
+            "user": {
+                "name": "Royal_Naym",
+                "slug": "royalnaym"
+            },
+            "parent": "61c2ea72012043052f08e30d",
+            "image": "palette-examples/royalguard-palette-example-by-royalnaymvqy4xw.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-12-22T09:06:16.925Z",
+            "updatedAt": "2021-12-22T09:10:00.030Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "423030",
+        "3b3f3f",
+        "365252",
+        "007281",
+        "6f989b",
+        "c0c5c9"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "61c2ea72012043052f08e30d",
+        "type": "palettes",
+        "count": 21,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

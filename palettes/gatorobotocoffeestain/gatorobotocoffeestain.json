@@ -1,0 +1,69 @@
+{
+    "_id": "5dc86948e8b5507637cc75ff",
+    "slug": "gato-roboto-coffee-stain",
+    "description": "A palette from the game <i><a href=\"https://gatoroboto.com/\" target=\"_blank\">Gato Roboto</a></i>.",
+    "colors": [
+        "280e0b",
+        "ffecc9"
+    ],
+    "creator": false,
+    "comments": 0,
+    "likes": 12,
+    "createdAt": "2019-11-10T19:47:20.043Z",
+    "featured": false,
+    "tags": [
+        "game",
+        "gatoroboto",
+        "software",
+        "1bit"
+    ],
+    "downloads": "179",
+    "numberOfColors": 2,
+    "hashtag": "gatorobotocoffeestain",
+    "title": "Gato Roboto - Coffee Stain",
+    "user": {
+        "name": "PureAsbestos",
+        "slug": "pureasbestos"
+    },
+    "publishedAt": "2019-11-10T19:47:20.043Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "606e79ecb81b9874a979ce69",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Gato Roboto - Coffee Stain Palette Example by Casei Solus",
+            "slug": "gato-roboto-coffee-stain-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-08T16:10:00.021Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5dc86948e8b5507637cc75ff",
+            "image": "palette-examples/gato-roboto-coffee-stain-palette-example-by-casei-solus-606e79.png",
+            "creator": true,
+            "description": "Coffee stained paper.",
+            "createdAt": "2021-04-08T03:35:08.093Z",
+            "updatedAt": "2021-04-08T16:10:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Coffee stained paper."
+        }
+    ],
+    "colorsArray": [
+        "280e0b",
+        "ffecc9"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "5dc86948e8b5507637cc75ff",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

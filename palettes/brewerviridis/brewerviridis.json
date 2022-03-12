@@ -1,0 +1,90 @@
+{
+    "_id": "6095a68abe9f8e49033832bb",
+    "tags": [
+        "viridis",
+        "breweryellows",
+        "oppositcolours",
+        "contrast",
+        "cycpix"
+    ],
+    "colors": [
+        "000000",
+        "402859",
+        "353763",
+        "275f77",
+        "388771",
+        "5a9e5c",
+        "ffea63",
+        "d89544",
+        "8d844a",
+        "bcb26f",
+        "ffe5bf",
+        "ffffff"
+    ],
+    "downloads": "535",
+    "featured": false,
+    "likes": 55,
+    "comments": 0,
+    "slug": "brewerviridis",
+    "publishedAt": "2021-05-10T19:40:00.029Z",
+    "user": {
+        "name": "Cycpix",
+        "slug": "pan-cyc"
+    },
+    "title": "BREWERVIRIDIS",
+    "hashtag": "brewerviridis",
+    "description": "Palette based on Viridis color maps extended with brewer yellows. I added also black and white for extreme highlights and deep contrast shadows which separate and better expose colours.",
+    "creator": true,
+    "createdAt": "2021-05-07T20:43:54.867Z",
+    "numberOfColors": 12,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6095abd637290032213b4b0c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "BREWERVIRIDIS Palette Example by Cycpix",
+            "slug": "brewerviridis-palette-example-by-cycpix",
+            "publishedAt": "2021-05-10T13:45:00.025Z",
+            "user": {
+                "name": "Cycpix",
+                "slug": "pan-cyc"
+            },
+            "parent": "6095a68abe9f8e49033832bb",
+            "image": "palette-examples/brewerviridis-palette-example-by-cycpix-6095ab.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-05-07T21:06:30.866Z",
+            "updatedAt": "2021-05-10T13:45:00.025Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "402859",
+        "353763",
+        "275f77",
+        "388771",
+        "5a9e5c",
+        "ffea63",
+        "d89544",
+        "8d844a",
+        "bcb26f",
+        "ffe5bf",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "6095a68abe9f8e49033832bb",
+        "type": "palettes",
+        "count": 55,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

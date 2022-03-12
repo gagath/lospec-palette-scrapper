@@ -1,0 +1,91 @@
+{
+    "_id": "5e05563cfe3c391d5e7b0675",
+    "slug": "grape-soda",
+    "description": "",
+    "colors": [
+        "aa81ff",
+        "b837ea",
+        "aa11bb",
+        "90006c",
+        "56002a",
+        "25000d",
+        "000000",
+        "15021e",
+        "47054f",
+        "c9298c",
+        "ee699e",
+        "ffbac0",
+        "fff6f6"
+    ],
+    "creator": "1",
+    "hashtag": "grapesoda13",
+    "comments": 4,
+    "likes": 180,
+    "createdAt": "2019-12-27T00:54:20.965Z",
+    "featured": false,
+    "tags": [
+        "purple",
+        "soda",
+        "13",
+        "bright",
+        "red",
+        "blue",
+        "artist",
+        "braquen"
+    ],
+    "downloads": "2,485",
+    "numberOfColors": 13,
+    "title": "Grape Soda",
+    "user": {
+        "name": "Braquen",
+        "slug": "braquen"
+    },
+    "publishedAt": "2019-12-27T00:54:20.965Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5e1a643313029d40fbe69440",
+            "description": "Palette usage example by Braquen",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.209Z",
+            "creator": false,
+            "image": "palette-examples/grape-soda-palette-example-palette-usage-example-by-braquen-5e1a64.png",
+            "likes": 0,
+            "parent": "5e05563cfe3c391d5e7b0675",
+            "slug": "grape-soda-palette-example-palette-usage-example-by-braquen",
+            "title": "grape soda palette example palette usage example by braquen",
+            "updatedAt": "2020-07-31T03:56:11.209Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Braquen"
+        }
+    ],
+    "colorsArray": [
+        "aa81ff",
+        "b837ea",
+        "aa11bb",
+        "90006c",
+        "56002a",
+        "25000d",
+        "000000",
+        "15021e",
+        "47054f",
+        "c9298c",
+        "ee699e",
+        "ffbac0",
+        "fff6f6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5e05563cfe3c391d5e7b0675",
+        "type": "palettes",
+        "count": 180,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

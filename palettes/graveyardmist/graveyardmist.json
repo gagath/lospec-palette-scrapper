@@ -1,0 +1,98 @@
+{
+    "_id": "61a761af76110f5ce8a689b0",
+    "tags": [
+        "graveyard",
+        "mist",
+        "16",
+        "desaturated",
+        "soundsdotzip"
+    ],
+    "colors": [
+        "0b0d0a",
+        "383730",
+        "665f57",
+        "82857b",
+        "b1b8a9",
+        "dee6b8",
+        "95bdb2",
+        "5a7b85",
+        "273245",
+        "477a5a",
+        "81ba78",
+        "d4ea92",
+        "b59766",
+        "8f5450",
+        "66403c",
+        "40292f"
+    ],
+    "downloads": "417",
+    "featured": false,
+    "likes": 24,
+    "comments": 0,
+    "slug": "graveyard-mist",
+    "publishedAt": "2021-12-05T17:00:00.071Z",
+    "user": {
+        "name": "SoundsDotZip",
+        "slug": "soundsdotzip"
+    },
+    "title": "Graveyard Mist",
+    "hashtag": "graveyardmist",
+    "description": "After making Cheerful-24 and Cheerful-32, I felt like making a darker, less saturated palette next, and here it is! I went with 16 colours this time, because less saturated colours are a lot more versatile. Hope you like it!",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2021-12-01T11:51:11.267Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61a761d076110f5ce8a689b5",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Graveyard Mist Palette Example by SoundsDotZip",
+            "slug": "graveyard-mist-palette-example-by-soundsdotzip",
+            "publishedAt": "2021-12-02T20:15:00.025Z",
+            "user": {
+                "name": "SoundsDotZip",
+                "slug": "soundsdotzip"
+            },
+            "parent": "61a761af76110f5ce8a689b0",
+            "image": "palette-examples/graveyard-mist-palette-example-by-soundsdotzip-61a761.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-12-01T11:51:44.574Z",
+            "updatedAt": "2021-12-02T20:15:00.026Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "0b0d0a",
+        "383730",
+        "665f57",
+        "82857b",
+        "b1b8a9",
+        "dee6b8",
+        "95bdb2",
+        "5a7b85",
+        "273245",
+        "477a5a",
+        "81ba78",
+        "d4ea92",
+        "b59766",
+        "8f5450",
+        "66403c",
+        "40292f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61a761af76110f5ce8a689b0",
+        "type": "palettes",
+        "count": 24,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,79 @@
+{
+    "_id": "5f6b2bc508895951605d3790",
+    "tags": [
+        "colorful",
+        " steampunk"
+    ],
+    "colors": [
+        "1f244b",
+        "654053",
+        "a8605d",
+        "d1a67e",
+        "f6e79c",
+        "b6cf8e",
+        "60ae7b",
+        "3c6b64"
+    ],
+    "downloads": "2,611",
+    "featured": false,
+    "likes": 196,
+    "comments": 2,
+    "title": "Paper 8",
+    "hashtag": "paper8",
+    "description": "",
+    "creator": true,
+    "slug": "paper-8",
+    "publishedAt": "2020-09-25T02:35:00.014Z",
+    "user": {
+        "name": "Frosty Rabbid \ud83d\udc30",
+        "slug": "frostyrabbid"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2020-09-23T11:04:37.297Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f6b449408895951605d389f",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/paper-8-palette-example-by-frosty-rabbid-2-5f6b44.png",
+            "creator": true,
+            "description": "Steampunk laboratory",
+            "title": "Paper 8 Palette Example by Frosty Rabbid \ud83d\udc30",
+            "slug": "paper-8-palette-example-by-frosty-rabbid-2",
+            "publishedAt": "2020-09-23T13:10:00.017Z",
+            "user": {
+                "name": "Frosty Rabbid \ud83d\udc30",
+                "slug": "frostyrabbid"
+            },
+            "parent": "5f6b2bc508895951605d3790",
+            "createdAt": "2020-09-23T12:50:28.901Z",
+            "updatedAt": "2020-09-23T13:10:00.017Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Steampunk laboratory"
+        }
+    ],
+    "colorsArray": [
+        "1f244b",
+        "654053",
+        "a8605d",
+        "d1a67e",
+        "f6e79c",
+        "b6cf8e",
+        "60ae7b",
+        "3c6b64"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5f6b2bc508895951605d3790",
+        "type": "palettes",
+        "count": 196,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

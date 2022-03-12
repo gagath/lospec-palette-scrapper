@@ -1,0 +1,95 @@
+{
+    "_id": "60258ec0d09a3c28c8369378",
+    "tags": [
+        "bubble",
+        "polyphrog"
+    ],
+    "colors": [
+        "9dc1c0",
+        "525b80",
+        "312139",
+        "120e1f",
+        "284646",
+        "62ab46",
+        "95533d",
+        "6a2435",
+        "654147",
+        "fff169",
+        "d7793f",
+        "ab3229",
+        "9e8f84",
+        "ffface",
+        "e0b56d",
+        "f68b69"
+    ],
+    "downloads": "697",
+    "featured": false,
+    "likes": 61,
+    "comments": 0,
+    "title": "retrobubble.",
+    "hashtag": "retrobubble",
+    "description": "",
+    "creator": true,
+    "slug": "retrobubble",
+    "publishedAt": "2021-02-18T02:40:00.045Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2021-02-11T20:08:32.103Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6026c2495a3e6520c790722a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/retrobubble-palette-example-by-polyphorge-6026c2.png",
+            "creator": true,
+            "description": "",
+            "title": "retrobubble. Palette Example by polyphorge",
+            "slug": "retrobubble-palette-example-by-polyphorge",
+            "publishedAt": "2021-02-13T18:00:00.027Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "60258ec0d09a3c28c8369378",
+            "createdAt": "2021-02-12T18:00:41.029Z",
+            "updatedAt": "2021-02-13T18:00:00.027Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "9dc1c0",
+        "525b80",
+        "312139",
+        "120e1f",
+        "284646",
+        "62ab46",
+        "95533d",
+        "6a2435",
+        "654147",
+        "fff169",
+        "d7793f",
+        "ab3229",
+        "9e8f84",
+        "ffface",
+        "e0b56d",
+        "f68b69"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60258ec0d09a3c28c8369378",
+        "type": "palettes",
+        "count": 61,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

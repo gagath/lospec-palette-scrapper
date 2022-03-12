@@ -1,0 +1,62 @@
+{
+    "_id": "5e7d1b3424ecd3525982078e",
+    "title": "Depressed Rainbow",
+    "slug": "depressed-rainbow",
+    "description": "i was observing black and white picture and the green shadows and pink highlights of one of them inspired me! hope you enjoy drawing with this fun pallet!\u00a0",
+    "colors": [
+        "070f00",
+        "2a3330",
+        "485254",
+        "5f7063",
+        "7d9599",
+        "a8a1ab",
+        "c3bbc7",
+        "d3ced6",
+        "e6e6df"
+    ],
+    "user": {
+        "name": "Alpha6",
+        "slug": "max-mandrych"
+    },
+    "creator": true,
+    "hashtag": "depressedrainbow",
+    "publishedAt": "2020-04-02T21:38:38.224Z",
+    "createdAt": "2020-03-26T21:14:28.519Z",
+    "comments": 3,
+    "likes": 13,
+    "featured": false,
+    "tags": [
+        "alphapallet",
+        "sadrainbow",
+        "blackandwhite",
+        "fun",
+        "yay",
+        "sad"
+    ],
+    "downloads": "300",
+    "numberOfColors": 9,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "070f00",
+        "2a3330",
+        "485254",
+        "5f7063",
+        "7d9599",
+        "a8a1ab",
+        "c3bbc7",
+        "d3ced6",
+        "e6e6df"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5e7d1b3424ecd3525982078e",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

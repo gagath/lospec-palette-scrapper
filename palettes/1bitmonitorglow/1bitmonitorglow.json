@@ -1,0 +1,65 @@
+{
+    "_id": "5dc80099e8b5507637cc7492",
+    "slug": "1bit-monitor-glow",
+    "description": "1bit monitor glow - a bold, punchy 1-bit palette by Polyducks for making art with two colours. A mildly cyan black with a mildly green white - the contrast helps the colours ping.<br />",
+    "colors": [
+        "222323",
+        "f0f6f0"
+    ],
+    "creator": true,
+    "comments": 12,
+    "likes": 529,
+    "createdAt": "2019-11-10T12:20:41.037Z",
+    "featured": false,
+    "tags": [
+        "1bit",
+        "black",
+        "white",
+        "polyducks"
+    ],
+    "downloads": "9,922",
+    "numberOfColors": 2,
+    "hashtag": "1bitmonitorglow",
+    "title": "1bit Monitor Glow",
+    "user": {
+        "name": "Polyducks",
+        "slug": "polyducks"
+    },
+    "publishedAt": "2019-11-10T12:20:41.037Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5dc84e70e8b5507637cc75a2",
+            "description": "Palette usage example by Polyducks",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.206Z",
+            "creator": false,
+            "image": "palette-examples/1bit-monitor-glow-palette-example-palette-usage-example-by-polyducks-5dc84e.png",
+            "likes": 0,
+            "parent": "5dc80099e8b5507637cc7492",
+            "slug": "1bit-monitor-glow-palette-example-palette-usage-example-by-polyducks",
+            "title": "1bit monitor glow palette example palette usage example by polyducks",
+            "updatedAt": "2020-07-31T03:56:11.206Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Polyducks"
+        }
+    ],
+    "colorsArray": [
+        "222323",
+        "f0f6f0"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "5dc80099e8b5507637cc7492",
+        "type": "palettes",
+        "count": 529,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

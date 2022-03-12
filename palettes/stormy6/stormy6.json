@@ -1,0 +1,71 @@
+{
+    "_id": "5d55c73a9ecd08396e8346a5",
+    "slug": "stormy-6",
+    "description": "Created by <a target=\"_blank\" href=\"https://twitter.com/Starbound64\">Starlane</a>.",
+    "colors": [
+        "f8eebf",
+        "edbb70",
+        "a95a3f",
+        "242828",
+        "3a5043",
+        "7f9860"
+    ],
+    "likes": 58,
+    "createdAt": "2019-08-15T20:57:30.778Z",
+    "featured": false,
+    "tags": [
+        "artist",
+        "starlane"
+    ],
+    "downloads": "989",
+    "numberOfColors": 6,
+    "comments": 4,
+    "creator": true,
+    "hashtag": "stormy6",
+    "title": "Stormy 6",
+    "user": {
+        "name": "Star",
+        "slug": "starlane"
+    },
+    "publishedAt": "2019-08-15T20:57:30.778Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5d730a2429a793599e71bae6",
+            "description": "Palette usage example by <a target=\"_blank\" href=\"https://twitter.com/Starbound64\">Starlane</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.197Z",
+            "creator": false,
+            "image": "palette-examples/stormy-6-palette-example-palette-usage-example-by-starlane-5d730a.png",
+            "likes": 0,
+            "parent": "5d55c73a9ecd08396e8346a5",
+            "slug": "stormy-6-palette-example-palette-usage-example-by-starlane",
+            "title": "stormy 6 palette example palette usage example by starlane",
+            "updatedAt": "2020-07-31T03:56:11.197Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Starlane"
+        }
+    ],
+    "colorsArray": [
+        "f8eebf",
+        "edbb70",
+        "a95a3f",
+        "242828",
+        "3a5043",
+        "7f9860"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5d55c73a9ecd08396e8346a5",
+        "type": "palettes",
+        "count": 58,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

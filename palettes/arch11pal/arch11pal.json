@@ -1,0 +1,89 @@
+{
+    "_id": "617fecbf32a9894b172c0845",
+    "tags": [
+        "arch",
+        "blurple",
+        "pink",
+        "11colors",
+        "scenic",
+        "art"
+    ],
+    "colors": [
+        "323348",
+        "3f4873",
+        "4c5797",
+        "616fae",
+        "757ab2",
+        "9288bd",
+        "a097c4",
+        "d9b7d8",
+        "fdc5c6",
+        "fee7d5",
+        "fdfdff"
+    ],
+    "downloads": "878",
+    "featured": false,
+    "likes": 53,
+    "comments": 2,
+    "slug": "arch",
+    "publishedAt": "2021-11-05T07:00:00.061Z",
+    "user": {
+        "name": "Poltergasm",
+        "slug": "iampoltergasm"
+    },
+    "title": "Arch",
+    "hashtag": "arch11pal",
+    "description": "After going through some wallpapers on a freshly installed system I came across one in particular with these beautiful purples and pinks. I picked the ones I liked and threw this together. I use arch btw.",
+    "creator": false,
+    "numberOfColors": 11,
+    "createdAt": "2021-11-01T13:33:51.859Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "617fecd432a9894b172c0848",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Arch Palette Example by Poltergasm",
+            "slug": "arch-palette-example-by-poltergasm",
+            "publishedAt": "2021-11-01T14:15:00.013Z",
+            "user": {
+                "name": "Poltergasm",
+                "slug": "iampoltergasm"
+            },
+            "parent": "617fecbf32a9894b172c0845",
+            "image": "palette-examples/arch-palette-example-by-poltergasm-617fec.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-11-01T13:34:12.917Z",
+            "updatedAt": "2021-11-01T14:15:00.013Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "323348",
+        "3f4873",
+        "4c5797",
+        "616fae",
+        "757ab2",
+        "9288bd",
+        "a097c4",
+        "d9b7d8",
+        "fdc5c6",
+        "fee7d5",
+        "fdfdff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "617fecbf32a9894b172c0845",
+        "type": "palettes",
+        "count": 53,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

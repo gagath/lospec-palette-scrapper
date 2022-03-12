@@ -1,0 +1,50 @@
+{
+    "_id": "6130111d6a19694f58738996",
+    "tags": [
+        "slime",
+        "green",
+        "gameboy",
+        "gb"
+    ],
+    "colors": [
+        "1a1a04",
+        "3e3e3d",
+        "31825b",
+        "56e39f"
+    ],
+    "downloads": "85",
+    "featured": false,
+    "likes": 7,
+    "comments": 1,
+    "slug": "shadow-slime",
+    "publishedAt": "2021-10-01T01:55:00.047Z",
+    "user": {
+        "name": "slimysubstance",
+        "slug": "vexatious"
+    },
+    "title": "Shadow Slime",
+    "hashtag": "shadowslime",
+    "description": "It's night time, and you can barely make out something in the corner of your bedroom. It's... slimy?",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-09-01T23:47:41.844Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "1a1a04",
+        "3e3e3d",
+        "31825b",
+        "56e39f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6130111d6a19694f58738996",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

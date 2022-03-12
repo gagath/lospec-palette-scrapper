@@ -1,0 +1,68 @@
+{
+    "_id": "5d5912980b23d373183dbffe",
+    "slug": "muddysand",
+    "description": "Part of the WildLeoKnight Gameboy Palettes Set. Example from <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Wario_Land:_Super_Mario_Land_3\">Wario Land: Super Mario Land 3</a>",
+    "colors": [
+        "e6d69c",
+        "b4a56a",
+        "7b7162",
+        "393829"
+    ],
+    "likes": 44,
+    "createdAt": "2019-08-18T08:55:52.445Z",
+    "featured": false,
+    "tags": [
+        "artist",
+        "wildleoknight",
+        "gameboy"
+    ],
+    "downloads": "1,068",
+    "numberOfColors": 4,
+    "comments": 0,
+    "creator": true,
+    "hashtag": "muddysand",
+    "title": "MuddySand",
+    "user": {
+        "name": "WildLeoKnight",
+        "slug": "wildleoknight"
+    },
+    "publishedAt": "2019-08-18T08:55:52.445Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5d597c7abc76100c65837fa6",
+            "description": "Palette usage example by WildLeoKnight",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.191Z",
+            "creator": false,
+            "image": "palette-examples/muddysand-palette-example-palette-usage-example-by-wildleoknight-5d597c.png",
+            "likes": 0,
+            "parent": "5d5912980b23d373183dbffe",
+            "slug": "muddysand-palette-example-palette-usage-example-by-wildleoknight",
+            "title": "muddysand palette example palette usage example by wildleoknight",
+            "updatedAt": "2020-07-31T03:56:11.191Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by WildLeoKnight"
+        }
+    ],
+    "colorsArray": [
+        "e6d69c",
+        "b4a56a",
+        "7b7162",
+        "393829"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5d5912980b23d373183dbffe",
+        "type": "palettes",
+        "count": 44,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

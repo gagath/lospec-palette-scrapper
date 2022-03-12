@@ -1,0 +1,90 @@
+{
+    "_id": "5fc2b001d3eeec693954c138",
+    "tags": [
+        "halloween",
+        "spooky",
+        "goth",
+        "night",
+        "dark"
+    ],
+    "colors": [
+        "081431",
+        "312441",
+        "6a445a",
+        "523c52",
+        "000000",
+        "5a616a",
+        "9ca1a4",
+        "bdcacd",
+        "b47139",
+        "83854a",
+        "d5ba9c",
+        "bdc6b4"
+    ],
+    "downloads": "521",
+    "featured": false,
+    "likes": 36,
+    "comments": 2,
+    "title": "Jeepers12",
+    "hashtag": "jeepers12",
+    "description": "A 12-colour night themed palette inspired by the Scooby-Doo television series.",
+    "creator": true,
+    "slug": "jeepers12",
+    "publishedAt": "2020-12-05T13:45:00.022Z",
+    "user": {
+        "name": "beachboogeyman",
+        "slug": "beachboogeyman"
+    },
+    "numberOfColors": 12,
+    "createdAt": "2020-11-28T20:16:01.053Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fc2b993d3eeec693954c19c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/jeepers12-palette-example-by-beachboogeyman-5fc2b9.png",
+            "creator": true,
+            "description": "a quick double-wide sequence showcasing everyone's favourite mystery teens.",
+            "title": "Jeepers12 Palette Example by beachboogeyman",
+            "slug": "jeepers12-palette-example-by-beachboogeyman",
+            "publishedAt": "2020-12-03T20:25:00.018Z",
+            "user": {
+                "name": "beachboogeyman",
+                "slug": "beachboogeyman"
+            },
+            "parent": "5fc2b001d3eeec693954c138",
+            "createdAt": "2020-11-28T20:56:51.274Z",
+            "updatedAt": "2020-12-03T20:25:00.018Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "a quick double-wide sequence showcasing everyone's favourite mystery teens."
+        }
+    ],
+    "colorsArray": [
+        "081431",
+        "312441",
+        "6a445a",
+        "523c52",
+        "000000",
+        "5a616a",
+        "9ca1a4",
+        "bdcacd",
+        "b47139",
+        "83854a",
+        "d5ba9c",
+        "bdc6b4"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5fc2b001d3eeec693954c138",
+        "type": "palettes",
+        "count": 36,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,91 @@
+{
+    "_id": "5adf37b3d64cda308df721bb",
+    "createdAt": "2018-04-24T13:57:07.231Z",
+    "slug": "island-joy-16",
+    "description": "",
+    "colors": [
+        "ffffff",
+        "6df7c1",
+        "11adc1",
+        "606c81",
+        "393457",
+        "1e8875",
+        "5bb361",
+        "a1e55a",
+        "f7e476",
+        "f99252",
+        "cb4d68",
+        "6a3771",
+        "c92464",
+        "f48cb6",
+        "f7b69e",
+        "9b9c82"
+    ],
+    "tags": [
+        "kerrielake",
+        "artist"
+    ],
+    "downloads": "9,538",
+    "numberOfColors": 16,
+    "featured": false,
+    "likes": 339,
+    "comments": 7,
+    "creator": true,
+    "hashtag": "islandjoy16",
+    "title": "Island Joy 16",
+    "user": {
+        "name": "Kerrie Lake",
+        "slug": "kerrielake"
+    },
+    "publishedAt": "2018-04-24T13:57:07.231Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5ae4d74b8602ec3a790bcf70",
+            "description": "Palette usage example by <a target=\"_blank\" href=\"https://kerrielakeportfolio.wordpress.com/opensource-assets/\">Kerrie Lake</a>.",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.094Z",
+            "creator": false,
+            "image": "palette-examples/island-joy-16-palette-example-palette-usage-example-by-kerrie-lake-5ae4d7.png",
+            "likes": 0,
+            "parent": "5adf37b3d64cda308df721bb",
+            "slug": "island-joy-16-palette-example-palette-usage-example-by-kerrie-lake",
+            "title": "island joy 16 palette example palette usage example by kerrie lake",
+            "updatedAt": "2020-07-31T03:56:11.094Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Kerrie Lake."
+        }
+    ],
+    "colorsArray": [
+        "ffffff",
+        "6df7c1",
+        "11adc1",
+        "606c81",
+        "393457",
+        "1e8875",
+        "5bb361",
+        "a1e55a",
+        "f7e476",
+        "f99252",
+        "cb4d68",
+        "6a3771",
+        "c92464",
+        "f48cb6",
+        "f7b69e",
+        "9b9c82"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5adf37b3d64cda308df721bb",
+        "type": "palettes",
+        "count": 339,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

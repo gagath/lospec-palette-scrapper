@@ -1,0 +1,70 @@
+{
+    "_id": "6137c8a333ca7d414af7690d",
+    "tags": [
+        "yellow",
+        "three",
+        "soft"
+    ],
+    "colors": [
+        "272946",
+        "eda031",
+        "e7ffee"
+    ],
+    "downloads": "244",
+    "featured": false,
+    "likes": 29,
+    "comments": 1,
+    "slug": "bumblebit",
+    "publishedAt": "2021-10-06T02:45:00.047Z",
+    "user": {
+        "name": "Snowy Owl",
+        "slug": "snowy-owl"
+    },
+    "title": "BumbleBit",
+    "hashtag": "bumblebit",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 3,
+    "createdAt": "2021-09-07T20:16:35.093Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6137c8cb33ca7d414af76910",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "BumbleBit Palette Example by Snowy Owl",
+            "slug": "bumblebit-palette-example-by-snowy-owl",
+            "publishedAt": "2021-09-07T20:25:00.015Z",
+            "user": {
+                "name": "Snowy Owl",
+                "slug": "snowy-owl"
+            },
+            "parent": "6137c8a333ca7d414af7690d",
+            "image": "palette-examples/bumblebit-palette-example-by-snowy-owl-6137c8.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-09-07T20:17:15.881Z",
+            "updatedAt": "2021-09-07T20:25:00.015Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "272946",
+        "eda031",
+        "e7ffee"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 33.333333333333336,
+    "height": 32,
+    "likebutton": {
+        "content": "6137c8a333ca7d414af7690d",
+        "type": "palettes",
+        "count": 29,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

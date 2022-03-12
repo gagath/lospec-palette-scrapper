@@ -1,0 +1,55 @@
+{
+    "_id": "6015bf5ac71ed40f051fb268",
+    "tags": [
+        "arcade",
+        "night",
+        "space",
+        "city",
+        "retro"
+    ],
+    "colors": [
+        "18215d",
+        "503197",
+        "bf53c9",
+        "e17cb7",
+        "efaaa5",
+        "f6e0c8"
+    ],
+    "downloads": "578",
+    "featured": false,
+    "likes": 42,
+    "comments": 0,
+    "title": "Grape Soda Arcade",
+    "hashtag": "arcade",
+    "description": "<a href=\"https://twitter.com/toontanooki/status/1354990160186912768\" target=\"_blank\">https://twitter.com/toontanooki/status/1354990160186912768</a>",
+    "creator": true,
+    "slug": "grape-soda-arcade",
+    "publishedAt": "2021-03-30T17:30:00.051Z",
+    "user": {
+        "name": "Toon ",
+        "slug": "toontanooki"
+    },
+    "numberOfColors": 6,
+    "createdAt": "2021-01-30T20:19:38.951Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "18215d",
+        "503197",
+        "bf53c9",
+        "e17cb7",
+        "efaaa5",
+        "f6e0c8"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "6015bf5ac71ed40f051fb268",
+        "type": "palettes",
+        "count": 42,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

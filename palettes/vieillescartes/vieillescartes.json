@@ -1,0 +1,81 @@
+{
+    "_id": "613d82cd8310f56f1e26fb17",
+    "tags": [
+        "playingcards",
+        "cards",
+        "paper",
+        "primary",
+        "primaries",
+        "3bit"
+    ],
+    "colors": [
+        "170f1f",
+        "c7212b",
+        "257181",
+        "c38165",
+        "859d93",
+        "ffab43",
+        "ffd1d1"
+    ],
+    "downloads": "77",
+    "featured": false,
+    "likes": 17,
+    "comments": 1,
+    "slug": "vieilles-cartes",
+    "publishedAt": "2021-10-08T20:45:00.040Z",
+    "user": {
+        "name": "R3cl41m3r",
+        "slug": "r3cl41m3r"
+    },
+    "title": "Vieilles Cartes",
+    "hashtag": "vieillescartes",
+    "description": "I tried to make a palette that combines colours from several playing card decks, mostly Italian ones. It evolved into something else.",
+    "creator": true,
+    "numberOfColors": 7,
+    "createdAt": "2021-09-12T04:32:13.695Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "613d85a88310f56f1e26fb2f",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Vieilles Cartes Palette Example by R3cl41m3r",
+            "slug": "vieilles-cartes-palette-example-by-r3cl41m3r",
+            "publishedAt": "2021-09-12T16:30:00.039Z",
+            "user": {
+                "name": "R3cl41m3r",
+                "slug": "r3cl41m3r"
+            },
+            "parent": "613d82cd8310f56f1e26fb17",
+            "image": "palette-examples/vieilles-cartes-palette-example-by-r3cl41m3r-613d85.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-09-12T04:44:24.192Z",
+            "updatedAt": "2021-09-12T16:30:00.040Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "170f1f",
+        "c7212b",
+        "257181",
+        "c38165",
+        "859d93",
+        "ffab43",
+        "ffd1d1"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "613d82cd8310f56f1e26fb17",
+        "type": "palettes",
+        "count": 17,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

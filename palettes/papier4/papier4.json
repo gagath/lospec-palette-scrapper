@@ -1,0 +1,52 @@
+{
+    "_id": "5fd5865151937617763bf125",
+    "tags": [
+        "artist",
+        "calmradish",
+        "vintage",
+        "paper",
+        "desaturated",
+        "ink"
+    ],
+    "colors": [
+        "cbba8d",
+        "a59879",
+        "89705b",
+        "5f494d"
+    ],
+    "downloads": "243",
+    "featured": false,
+    "likes": 23,
+    "comments": 1,
+    "title": "Papier 4",
+    "hashtag": "papier4",
+    "description": "A palette imitating old parchments and scrolls",
+    "creator": true,
+    "slug": "papier-4",
+    "publishedAt": "2020-12-17T02:30:00.039Z",
+    "user": {
+        "name": "CalmRadish",
+        "slug": "calmradish"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-12-13T03:11:13.797Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "cbba8d",
+        "a59879",
+        "89705b",
+        "5f494d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5fd5865151937617763bf125",
+        "type": "palettes",
+        "count": 23,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

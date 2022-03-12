@@ -1,0 +1,80 @@
+{
+    "_id": "5fd8ed21a2fa3510e8988a68",
+    "tags": [
+        "purple",
+        " blue",
+        " white"
+    ],
+    "colors": [
+        "f7faea",
+        "ffd2de",
+        "f792e4",
+        "de39e9",
+        "8623ae",
+        "6d4299",
+        "2e1e5c",
+        "120f28"
+    ],
+    "downloads": "771",
+    "featured": false,
+    "likes": 61,
+    "comments": 2,
+    "title": "Submerged Chimera",
+    "hashtag": "submera8",
+    "description": "A tiny purple and blue color, to use with imagination only.",
+    "creator": true,
+    "slug": "submerged-chimera",
+    "publishedAt": "2021-03-21T06:10:00.023Z",
+    "user": {
+        "name": "MagCoin",
+        "slug": "magcoin"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2020-12-15T17:06:41.195Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fd8f398a2fa3510e8988abb",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/submerged-chimera-palette-example-by-magcoin-5fd8f3.png",
+            "creator": true,
+            "description": "",
+            "title": "Submerged Chimera Palette Example by MagCoin",
+            "slug": "submerged-chimera-palette-example-by-magcoin",
+            "publishedAt": "2021-03-27T20:50:00.015Z",
+            "user": {
+                "name": "MagCoin",
+                "slug": "magcoin"
+            },
+            "parent": "5fd8ed21a2fa3510e8988a68",
+            "createdAt": "2020-12-15T17:34:16.065Z",
+            "updatedAt": "2021-03-27T20:50:00.016Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "f7faea",
+        "ffd2de",
+        "f792e4",
+        "de39e9",
+        "8623ae",
+        "6d4299",
+        "2e1e5c",
+        "120f28"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fd8ed21a2fa3510e8988a68",
+        "type": "palettes",
+        "count": 61,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

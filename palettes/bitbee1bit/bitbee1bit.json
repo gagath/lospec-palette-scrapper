@@ -1,0 +1,67 @@
+{
+    "_id": "607692bfa97ddc7281269852",
+    "tags": [
+        "1bit",
+        "2colors"
+    ],
+    "colors": [
+        "292b30",
+        "cfab4a"
+    ],
+    "downloads": "409",
+    "featured": false,
+    "likes": 40,
+    "comments": 2,
+    "slug": "bitbee",
+    "publishedAt": "2021-04-19T06:15:00.029Z",
+    "user": {
+        "name": "Poltergasm",
+        "slug": "iampoltergasm"
+    },
+    "title": "Bitbee",
+    "hashtag": "bitbee1bit",
+    "description": "A warm 1bit color palette consisting of Black/blue and Yellow",
+    "creator": true,
+    "createdAt": "2021-04-14T06:59:11.898Z",
+    "numberOfColors": 2,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607692d2a97ddc7281269854",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Bitbee Palette Example by Poltergasm",
+            "slug": "bitbee-palette-example-by-poltergasm",
+            "publishedAt": "2021-04-17T00:10:00.024Z",
+            "user": {
+                "name": "Poltergasm",
+                "slug": "iampoltergasm"
+            },
+            "parent": "607692bfa97ddc7281269852",
+            "image": "palette-examples/bitbee-palette-example-by-poltergasm-607692.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-04-14T06:59:30.189Z",
+            "updatedAt": "2021-04-17T00:10:00.025Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "292b30",
+        "cfab4a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "607692bfa97ddc7281269852",
+        "type": "palettes",
+        "count": 40,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

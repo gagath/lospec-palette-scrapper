@@ -1,0 +1,80 @@
+{
+    "_id": "5fb2b7271659793338d04916",
+    "tags": [
+        "2bit",
+        " cherry",
+        " pink",
+        " gloss",
+        " feminine",
+        " soft",
+        " grace",
+        " nature",
+        " spring",
+        " gb",
+        " gameboy"
+    ],
+    "colors": [
+        "ffe9fc",
+        "e6cdf7",
+        "dea0d9",
+        "a76e87"
+    ],
+    "downloads": "240",
+    "featured": false,
+    "likes": 31,
+    "comments": 3,
+    "title": "Forgotten Cherry Blossom",
+    "hashtag": "fcb4",
+    "description": "",
+    "creator": true,
+    "slug": "forgotten-cherry-blossom",
+    "publishedAt": "2020-11-21T01:45:00.024Z",
+    "user": {
+        "name": "Cheeseismysoul",
+        "slug": "nomz-toes-420"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-11-16T17:30:15.540Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fb2b7351659793338d04918",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/forgotten-cherry-blossem-palette-example-by-cheeseismysoul-5fb2b7.png",
+            "creator": true,
+            "description": "",
+            "title": "Forgotten Cherry Blossem Palette Example by Cheeseismysoul",
+            "slug": "forgotten-cherry-blossem-palette-example-by-cheeseismysoul",
+            "publishedAt": "2020-11-19T20:05:00.015Z",
+            "user": {
+                "name": "Cheeseismysoul",
+                "slug": "nomz-toes-420"
+            },
+            "parent": "5fb2b7271659793338d04916",
+            "createdAt": "2020-11-16T17:30:29.272Z",
+            "updatedAt": "2020-11-19T20:05:00.015Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "ffe9fc",
+        "e6cdf7",
+        "dea0d9",
+        "a76e87"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5fb2b7271659793338d04916",
+        "type": "palettes",
+        "count": 31,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

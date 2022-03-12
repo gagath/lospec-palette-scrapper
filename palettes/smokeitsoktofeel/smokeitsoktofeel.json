@@ -1,0 +1,53 @@
+{
+    "_id": "5e4b1d52eb80bd32ac8542d1",
+    "slug": "smoke-its-ok-to-feel",
+    "description": "A palette created by\u00a0<a href=\"https://twitter.com/LumpyTouch\" target=\"_blank\">LumpyTouch</a>\u00a0for\u00a0<a href=\"https://fy.do/quilt/23\" target=\"_blank\">a fydoTiles quilt</a>.",
+    "colors": [
+        "3a1220",
+        "532620",
+        "784420",
+        "9f6624",
+        "bc8a45",
+        "d8b686",
+        "efe1cc",
+        "ffffff"
+    ],
+    "creator": false,
+    "hashtag": "smokeitsoktofeel",
+    "comments": 0,
+    "likes": 15,
+    "createdAt": "2020-02-17T23:10:10.291Z",
+    "featured": false,
+    "tags": [],
+    "downloads": "327",
+    "numberOfColors": 8,
+    "title": "Smoke: It's OK to feel",
+    "user": {
+        "name": "P-Tux7",
+        "slug": "p-tux7"
+    },
+    "publishedAt": "2020-04-15T23:20:00.030Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "3a1220",
+        "532620",
+        "784420",
+        "9f6624",
+        "bc8a45",
+        "d8b686",
+        "efe1cc",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5e4b1d52eb80bd32ac8542d1",
+        "type": "palettes",
+        "count": 15,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

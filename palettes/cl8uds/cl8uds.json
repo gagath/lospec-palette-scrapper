@@ -1,0 +1,80 @@
+{
+    "_id": "619ea804a3e3753a4bfb3509",
+    "tags": [
+        "clouds",
+        "sunset",
+        "unsettled"
+    ],
+    "colors": [
+        "fcb08c",
+        "ef9d7f",
+        "d6938a",
+        "b48d92",
+        "a597a1",
+        "8fa0bf",
+        "9aabc9",
+        "a5b7d4"
+    ],
+    "downloads": "854",
+    "featured": false,
+    "likes": 77,
+    "comments": 3,
+    "slug": "cl8uds",
+    "publishedAt": "2021-11-25T22:35:00.029Z",
+    "user": {
+        "name": "_Nicola",
+        "slug": "unsettled"
+    },
+    "title": "CL8UDS",
+    "hashtag": "cl8uds",
+    "description": "This palette is particularly suited for drawing clouds at sunset, but feel free to use it in any way you'd like to :)",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-11-24T21:00:52.433Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "619ea8f0a3e3753a4bfb3513",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "CL8UDS Palette Example by _Nicola",
+            "slug": "cl8uds-palette-example-by-nicola",
+            "publishedAt": "2021-11-24T21:10:00.020Z",
+            "user": {
+                "name": "_Nicola",
+                "slug": "unsettled"
+            },
+            "parent": "619ea804a3e3753a4bfb3509",
+            "image": "palette-examples/cl8uds-palette-example-by-nicola-619ea8.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-11-24T21:04:48.837Z",
+            "updatedAt": "2021-11-24T21:10:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "fcb08c",
+        "ef9d7f",
+        "d6938a",
+        "b48d92",
+        "a597a1",
+        "8fa0bf",
+        "9aabc9",
+        "a5b7d4"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "619ea804a3e3753a4bfb3509",
+        "type": "palettes",
+        "count": 77,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

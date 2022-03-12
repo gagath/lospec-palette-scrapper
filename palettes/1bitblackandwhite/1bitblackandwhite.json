@@ -1,0 +1,72 @@
+{
+    "_id": "5f3751d5964ccc67f9747308",
+    "tags": [
+        "1bitblackandwhite",
+        "1bit",
+        "blackandwhite",
+        "black",
+        "white",
+        "gray",
+        "grey"
+    ],
+    "colors": [
+        "000000",
+        "ffffff"
+    ],
+    "downloads": "274",
+    "featured": false,
+    "likes": 26,
+    "comments": 5,
+    "title": "1bit black and white",
+    "hashtag": "1bitblackandwhite",
+    "description": "The classic 1-bit palette. Pure black and white has been used for art, text, and more since the dawn of graphical computing. ",
+    "creator": false,
+    "slug": "1bit-black-and-white",
+    "publishedAt": "2020-08-16T03:50:00.075Z",
+    "user": {
+        "name": "PureAsbestos",
+        "slug": "pureasbestos"
+    },
+    "numberOfColors": 2,
+    "createdAt": "2020-08-15T03:09:09.384Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "606d4a43af543a28402b1ea7",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "1bit black and white Palette Example by Casei Solus",
+            "slug": "1bit-black-and-white-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-08T16:55:00.291Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5f3751d5964ccc67f9747308",
+            "image": "palette-examples/1bit-black-and-white-palette-example-by-casei-solus-606d4a.png",
+            "creator": true,
+            "description": "A love letter to classic keyboard and mouse.",
+            "createdAt": "2021-04-07T05:59:31.610Z",
+            "updatedAt": "2021-04-08T16:55:00.291Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A love letter to classic keyboard and mouse."
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "5f3751d5964ccc67f9747308",
+        "type": "palettes",
+        "count": 26,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

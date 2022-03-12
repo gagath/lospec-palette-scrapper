@@ -1,0 +1,51 @@
+{
+    "_id": "5fc510e069b1720b475d5077",
+    "tags": [
+        "moonlit",
+        " gb",
+        " gameboy",
+        " retro",
+        " moonlitgb"
+    ],
+    "colors": [
+        "191e33",
+        "392b57",
+        "6759b3",
+        "7378e6"
+    ],
+    "downloads": "272",
+    "featured": false,
+    "likes": 19,
+    "comments": 2,
+    "title": "Moonlit GB",
+    "hashtag": "moonlitgb",
+    "description": "a nice little GameBoy palette for any type of pixel art.\u00a0<img class=\"emoji p12\" src=\"/emoji/pixemoji12/smile.png\" />\u00a0",
+    "creator": true,
+    "slug": "moonlit-gb",
+    "publishedAt": "2020-12-04T07:45:00.021Z",
+    "user": {
+        "name": "Pixel",
+        "slug": "mooncatdog"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-11-30T15:33:52.195Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "191e33",
+        "392b57",
+        "6759b3",
+        "7378e6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5fc510e069b1720b475d5077",
+        "type": "palettes",
+        "count": 19,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,103 @@
+{
+    "_id": "603d49c2df7f245e3b19ef06",
+    "tags": [
+        "warm",
+        " pastel"
+    ],
+    "colors": [
+        "430f43",
+        "472561",
+        "205973",
+        "248077",
+        "2d9a77",
+        "5ec688",
+        "aae68f",
+        "64154d",
+        "8e184b",
+        "ba3155",
+        "d9505e",
+        "e3744f",
+        "f29e64",
+        "ffc477",
+        "ffdd96",
+        "fff4b0",
+        "c22e35",
+        "d24f38",
+        "df6939",
+        "ed9b4a"
+    ],
+    "downloads": "1,094",
+    "featured": false,
+    "likes": 73,
+    "comments": 0,
+    "title": "DAYDREAM 20",
+    "hashtag": "daydream20",
+    "description": "",
+    "creator": true,
+    "slug": "daydream-20",
+    "publishedAt": "2021-03-07T03:40:00.025Z",
+    "user": {
+        "name": "runmry",
+        "slug": "runmry"
+    },
+    "numberOfColors": 20,
+    "createdAt": "2021-03-01T20:08:34.144Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "603d49dcdf7f245e3b19ef0a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/daydream-20-palette-example-by-runmry-603d49.png",
+            "creator": true,
+            "description": "",
+            "title": "DAYDREAM 20 Palette Example by runmry",
+            "slug": "daydream-20-palette-example-by-runmry",
+            "publishedAt": "2021-03-01T22:30:00.027Z",
+            "user": {
+                "name": "runmry",
+                "slug": "runmry"
+            },
+            "parent": "603d49c2df7f245e3b19ef06",
+            "createdAt": "2021-03-01T20:09:00.690Z",
+            "updatedAt": "2021-03-01T22:30:00.027Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "430f43",
+        "472561",
+        "205973",
+        "248077",
+        "2d9a77",
+        "5ec688",
+        "aae68f",
+        "64154d",
+        "8e184b",
+        "ba3155",
+        "d9505e",
+        "e3744f",
+        "f29e64",
+        "ffc477",
+        "ffdd96",
+        "fff4b0",
+        "c22e35",
+        "d24f38",
+        "df6939",
+        "ed9b4a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 10,
+    "height": 32,
+    "likebutton": {
+        "content": "603d49c2df7f245e3b19ef06",
+        "type": "palettes",
+        "count": 73,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

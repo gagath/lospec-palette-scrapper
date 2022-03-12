@@ -1,0 +1,73 @@
+{
+    "_id": "6018aab041653951062cfafd",
+    "tags": [
+        "minijam",
+        "4color",
+        "fourcolor",
+        "gameboy"
+    ],
+    "colors": [
+        "162d28",
+        "b47d20",
+        "abe025",
+        "fafdff"
+    ],
+    "downloads": "62",
+    "featured": false,
+    "likes": 8,
+    "comments": 1,
+    "title": "Mini Jam Power",
+    "hashtag": "minijam",
+    "description": "The four base colors from the <a href=\"https://itch.io/jam/mini-jam-73-power\" target=\"_blank\">73rd Mini Jam</a>, Power. ",
+    "creator": true,
+    "slug": "mini-jam-power",
+    "publishedAt": "2021-02-10T02:40:00.020Z",
+    "user": {
+        "name": "KingW",
+        "slug": "kingworrell"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-02-02T01:28:16.039Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607e9923f9d2ea407c993d2e",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Mini Jam Power Palette Example by Casei Solus",
+            "slug": "mini-jam-power-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-21T16:30:00.060Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "6018aab041653951062cfafd",
+            "image": "palette-examples/mini-jam-power-palette-example-by-casei-solus-607e99.png",
+            "creator": true,
+            "description": "Based on the 73rd Mini Jam, Power.",
+            "createdAt": "2021-04-20T09:04:35.315Z",
+            "updatedAt": "2021-04-21T16:30:00.060Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Based on the 73rd Mini Jam, Power."
+        }
+    ],
+    "colorsArray": [
+        "162d28",
+        "b47d20",
+        "abe025",
+        "fafdff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6018aab041653951062cfafd",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,53 @@
+{
+    "_id": "5f39dffcc476d611b46bc268",
+    "tags": [
+        "pop",
+        " comic",
+        " cover",
+        " ink",
+        " astroboy",
+        " four",
+        " minimal"
+    ],
+    "colors": [
+        "4b476d",
+        "0875ae",
+        "ef3d21",
+        "f2fafe"
+    ],
+    "downloads": "96",
+    "featured": false,
+    "likes": 7,
+    "comments": 0,
+    "title": "Astro Boy ",
+    "hashtag": "astroboy",
+    "description": "High contrast, four color palette that could be used to imitate faded comic-book ink. I did not create this palette, I found it on the following artwork.https://www.deviantart.com/ivan-bliznak/art/Tetsuwan-Atom-41091857",
+    "creator": false,
+    "slug": "astro-boy",
+    "publishedAt": "2020-08-18T17:05:00.021Z",
+    "user": {
+        "name": "aesopod",
+        "slug": "aesopod"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-08-17T01:40:12.631Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "4b476d",
+        "0875ae",
+        "ef3d21",
+        "f2fafe"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f39dffcc476d611b46bc268",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,60 @@
+{
+    "_id": "61c4b648d742664d4bcd7b90",
+    "tags": [
+        "red",
+        "purple",
+        "cyan",
+        "space"
+    ],
+    "colors": [
+        "302c2e",
+        "5a5353",
+        "dff6f5",
+        "8aebf1",
+        "8e478c",
+        "564064",
+        "39314b",
+        "e6482e",
+        "a93b3b"
+    ],
+    "downloads": "64",
+    "featured": false,
+    "likes": 4,
+    "comments": 0,
+    "slug": "space-dust-9",
+    "publishedAt": "2021-12-24T20:30:00.045Z",
+    "user": {
+        "name": "Hana",
+        "slug": "hana"
+    },
+    "title": "SPACE DUST 9",
+    "hashtag": "spdu9",
+    "description": "A palette for space stuff.",
+    "creator": true,
+    "numberOfColors": 9,
+    "createdAt": "2021-12-23T17:47:52.615Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "302c2e",
+        "5a5353",
+        "dff6f5",
+        "8aebf1",
+        "8e478c",
+        "564064",
+        "39314b",
+        "e6482e",
+        "a93b3b"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "61c4b648d742664d4bcd7b90",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

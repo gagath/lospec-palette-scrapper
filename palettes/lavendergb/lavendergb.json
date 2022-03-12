@@ -1,0 +1,48 @@
+{
+    "_id": "5ff3a2a57044a56a88104a5c",
+    "tags": [
+        "ludibrolo",
+        "smooth"
+    ],
+    "colors": [
+        "ffc3f2",
+        "d46eb3",
+        "873e84",
+        "4a3052"
+    ],
+    "downloads": "205",
+    "featured": false,
+    "likes": 23,
+    "comments": 6,
+    "title": "Lavender GB",
+    "hashtag": "lavendergb",
+    "description": "My first palette! #000000 and #ffffff can be added for extra options!<img class=\"emoji p16\" src=\"/emoji/lospec-discord/laughing.png\" />\u00a0",
+    "creator": true,
+    "slug": "lavender-gb",
+    "publishedAt": "2021-01-09T18:20:00.023Z",
+    "user": {
+        "name": "LudiBrolo",
+        "slug": "purple-yoshi"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-01-04T23:20:05.866Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffc3f2",
+        "d46eb3",
+        "873e84",
+        "4a3052"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5ff3a2a57044a56a88104a5c",
+        "type": "palettes",
+        "count": 23,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

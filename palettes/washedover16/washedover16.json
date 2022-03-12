@@ -1,0 +1,72 @@
+{
+    "_id": "608f0140b903d050a7712c80",
+    "tags": [
+        "artist",
+        "linear"
+    ],
+    "colors": [
+        "000000",
+        "555555",
+        "aaaaaa",
+        "ffffff",
+        "aa3344",
+        "773300",
+        "bb7744",
+        "ffbb88",
+        "dddd66",
+        "66dd99",
+        "007733",
+        "003377",
+        "4477bb",
+        "88bbff",
+        "8844bb",
+        "ff88cc"
+    ],
+    "downloads": "65",
+    "featured": false,
+    "likes": 7,
+    "comments": 0,
+    "slug": "washed-over-16",
+    "publishedAt": "2021-05-06T15:45:00.025Z",
+    "user": {
+        "name": "A.J. Otero",
+        "slug": "aj-otero"
+    },
+    "title": "Washed-Over 16",
+    "hashtag": "washedover16",
+    "description": "I wanted to create a 16-color master pallete that was a little less eye-damagingly saturated that my Spiral-16 palette, something like the Commodore 64, so I made this.",
+    "creator": true,
+    "createdAt": "2021-05-02T19:45:04.237Z",
+    "numberOfColors": 16,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "555555",
+        "aaaaaa",
+        "ffffff",
+        "aa3344",
+        "773300",
+        "bb7744",
+        "ffbb88",
+        "dddd66",
+        "66dd99",
+        "007733",
+        "003377",
+        "4477bb",
+        "88bbff",
+        "8844bb",
+        "ff88cc"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "608f0140b903d050a7712c80",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

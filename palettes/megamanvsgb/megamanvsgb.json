@@ -1,0 +1,62 @@
+{
+    "_id": "58f7f1380498757f806462d5",
+    "createdAt": "2017-04-19T23:22:32.473Z",
+    "slug": "megaman-v-sgb",
+    "description": "A palette used by <a href=\"https://en.wikipedia.org/wiki/Mega_Man_V\">Megaman V</a> when played on the <a href=\"https://en.wikipedia.org/wiki/Super_Game_Boy\">Super Gameboy</a>.",
+    "colors": [
+        "102533",
+        "42678e",
+        "6f9edf",
+        "cecece"
+    ],
+    "tags": [
+        "hardware",
+        "gameboy",
+        "supergameboy"
+    ],
+    "downloads": "1,873",
+    "numberOfColors": 4,
+    "likes": 34,
+    "comments": 0,
+    "hashtag": "megamanvsgb",
+    "title": "Megaman V (SGB)",
+    "publishedAt": "2017-04-19T23:22:32.473Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "58f7f1740498757f806462d6",
+            "description": "<a href=\"https://en.wikipedia.org/wiki/Mega_Man_V\">Megaman V</a> Screenshots",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.043Z",
+            "creator": false,
+            "image": "palette-examples/megaman-v-sgb-palette-example-megaman-v-screenshots-58f7f1.png",
+            "likes": 0,
+            "parent": "58f7f1380498757f806462d5",
+            "slug": "megaman-v-sgb-palette-example-megaman-v-screenshots",
+            "title": "megaman v sgb palette example megaman v screenshots",
+            "updatedAt": "2020-07-31T03:56:11.043Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Megaman V Screenshots"
+        }
+    ],
+    "colorsArray": [
+        "102533",
+        "42678e",
+        "6f9edf",
+        "cecece"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "58f7f1380498757f806462d5",
+        "type": "palettes",
+        "count": 34,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

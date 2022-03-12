@@ -1,0 +1,49 @@
+{
+    "_id": "60319683519724514cc2938d",
+    "tags": [
+        "green"
+    ],
+    "colors": [
+        "323c39",
+        "4b692f",
+        "6abe30",
+        "99e550",
+        "ffffff"
+    ],
+    "downloads": "217",
+    "featured": false,
+    "likes": 8,
+    "comments": 0,
+    "title": "GTY-21",
+    "hashtag": "green",
+    "description": "",
+    "creator": true,
+    "slug": "gty-21",
+    "publishedAt": "2021-03-06T03:40:00.021Z",
+    "user": {
+        "name": "\ufe0e\ufe0e \ufe0e\ufe0e",
+        "slug": "4433ggbb"
+    },
+    "numberOfColors": 5,
+    "createdAt": "2021-02-20T23:08:51.599Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "323c39",
+        "4b692f",
+        "6abe30",
+        "99e550",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "60319683519724514cc2938d",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,70 @@
+{
+    "_id": "5ffcb750bc7af119a67e041c",
+    "tags": [
+        "4 12 345 67"
+    ],
+    "colors": [
+        "0f1012",
+        "051349",
+        "008eff",
+        "d5ecff"
+    ],
+    "downloads": "78",
+    "featured": false,
+    "likes": 3,
+    "comments": 0,
+    "title": "GB BLUE JPI",
+    "hashtag": "sonic",
+    "description": "GAMEBOY",
+    "creator": true,
+    "slug": "gb-blue-jpi",
+    "publishedAt": "2021-04-01T05:30:00.026Z",
+    "user": {
+        "name": "Dextina Parrish",
+        "slug": "dextina-parrish"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-01-11T20:38:40.988Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "606c320b98f2200ac1ea66e8",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "GB BLUE JPI Palette Example by Casei Solus",
+            "slug": "gb-blue-jpi-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-06T19:35:00.020Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5ffcb750bc7af119a67e041c",
+            "image": "palette-examples/gb-blue-jpi-palette-example-by-casei-solus-606c32.png",
+            "creator": true,
+            "description": "Sonic speeding to get rings.",
+            "createdAt": "2021-04-06T10:03:55.422Z",
+            "updatedAt": "2021-04-06T19:35:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Sonic speeding to get rings."
+        }
+    ],
+    "colorsArray": [
+        "0f1012",
+        "051349",
+        "008eff",
+        "d5ecff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5ffcb750bc7af119a67e041c",
+        "type": "palettes",
+        "count": 3,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

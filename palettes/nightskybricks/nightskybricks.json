@@ -1,0 +1,63 @@
+{
+    "_id": "618d178b5c80ec1a194ec0f4",
+    "tags": [
+        "night",
+        "dark",
+        "mystic",
+        "desaturated",
+        "grey"
+    ],
+    "colors": [
+        "040412",
+        "0e0c15",
+        "1b1c19",
+        "242034",
+        "343a41",
+        "4d3c4e",
+        "524f5e",
+        "6a6a61",
+        "77667f",
+        "a28b86"
+    ],
+    "downloads": "537",
+    "featured": false,
+    "likes": 7,
+    "comments": 1,
+    "slug": "nightsky-bricks",
+    "publishedAt": "2021-11-14T10:10:00.021Z",
+    "user": {
+        "name": "Mememellow",
+        "slug": "mememellowa"
+    },
+    "title": "Nightsky Bricks",
+    "hashtag": "nightskybricks",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 10,
+    "createdAt": "2021-11-11T13:15:55.319Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "040412",
+        "0e0c15",
+        "1b1c19",
+        "242034",
+        "343a41",
+        "4d3c4e",
+        "524f5e",
+        "6a6a61",
+        "77667f",
+        "a28b86"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "618d178b5c80ec1a194ec0f4",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

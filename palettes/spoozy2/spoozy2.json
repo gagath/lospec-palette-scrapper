@@ -1,0 +1,80 @@
+{
+    "_id": "6169f60dce903a2bcfb240bd",
+    "tags": [
+        "halloween"
+    ],
+    "colors": [
+        "3a1d4e",
+        "34122d",
+        "2b0c17",
+        "230806",
+        "7098ff",
+        "3d3ba9",
+        "25154c",
+        "1a0f34",
+        "0b0818"
+    ],
+    "downloads": "195",
+    "featured": false,
+    "likes": 12,
+    "comments": 3,
+    "slug": "spoozy2",
+    "publishedAt": "2021-10-18T21:45:00.027Z",
+    "user": {
+        "name": "ItzFred",
+        "slug": "itzfred"
+    },
+    "title": "Spoozy2",
+    "hashtag": "spoozy2",
+    "description": "A Spooky Spook-tober Palette, A mix of Spooky and Cozy, Spoozy",
+    "creator": true,
+    "numberOfColors": 9,
+    "createdAt": "2021-10-15T21:43:41.556Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6169f733ce903a2bcfb240db",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Spoozy2 Palette Example by ItzFred",
+            "slug": "spoozy2-palette-example-by-itzfred",
+            "publishedAt": "2021-10-16T07:50:00.021Z",
+            "user": {
+                "name": "ItzFred",
+                "slug": "itzfred"
+            },
+            "parent": "6169f60dce903a2bcfb240bd",
+            "image": "palette-examples/spoozy2-palette-example-by-itzfred-6169f7.png",
+            "creator": true,
+            "description": "SpoozyTower",
+            "createdAt": "2021-10-15T21:48:35.113Z",
+            "updatedAt": "2021-10-16T07:50:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "SpoozyTower"
+        }
+    ],
+    "colorsArray": [
+        "3a1d4e",
+        "34122d",
+        "2b0c17",
+        "230806",
+        "7098ff",
+        "3d3ba9",
+        "25154c",
+        "1a0f34",
+        "0b0818"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "6169f60dce903a2bcfb240bd",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

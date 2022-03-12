@@ -1,0 +1,67 @@
+{
+    "_id": "60237cac8c4eaf7be46d27cc",
+    "tags": [
+        "versatile blue green brown"
+    ],
+    "colors": [
+        "4ec7ff",
+        "1696e0",
+        "0b69ad",
+        "003b60",
+        "031f1a",
+        "1c3e26",
+        "3c6431",
+        "709e3c",
+        "97c04f",
+        "f0c058",
+        "d69046",
+        "bb6133",
+        "833d35",
+        "562f34"
+    ],
+    "downloads": "123",
+    "featured": false,
+    "likes": 11,
+    "comments": 1,
+    "title": "GoGreen",
+    "hashtag": "tree14",
+    "description": "",
+    "creator": true,
+    "slug": "gogreen",
+    "publishedAt": "2021-02-16T08:40:00.018Z",
+    "user": {
+        "name": "Joe",
+        "slug": "joe1"
+    },
+    "numberOfColors": 14,
+    "createdAt": "2021-02-10T06:26:52.777Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "4ec7ff",
+        "1696e0",
+        "0b69ad",
+        "003b60",
+        "031f1a",
+        "1c3e26",
+        "3c6431",
+        "709e3c",
+        "97c04f",
+        "f0c058",
+        "d69046",
+        "bb6133",
+        "833d35",
+        "562f34"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "60237cac8c4eaf7be46d27cc",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

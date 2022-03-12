@@ -1,0 +1,72 @@
+{
+    "_id": "5f31980d2879965191059184",
+    "tags": [
+        "4",
+        " mint",
+        " sk3ll"
+    ],
+    "colors": [
+        "15170b",
+        "1e4530",
+        "db8888",
+        "fae8ec"
+    ],
+    "downloads": "253",
+    "featured": false,
+    "likes": 54,
+    "comments": 0,
+    "title": "Minty 4",
+    "hashtag": "minty4",
+    "description": "",
+    "creator": true,
+    "slug": "minty-4",
+    "publishedAt": "2020-08-11T19:15:00.018Z",
+    "user": {
+        "name": "Sk3ll Sk3ll",
+        "slug": "sk3ll2"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-08-10T18:55:09.434Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f31b777287996519105937f",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/minty-4-palette-example-by-sk3ll-sk3ll-5f31b7.png",
+            "creator": "1",
+            "description": "Kind of made a bedroom of sorts with this palette",
+            "title": "Minty 4 Palette Example by Sk3ll Sk3ll",
+            "slug": "minty-4-palette-example-by-sk3ll-sk3ll",
+            "publishedAt": "2020-08-11T19:15:00.011Z",
+            "user": {
+                "name": "Sk3ll Sk3ll",
+                "slug": "sk3ll2"
+            },
+            "parent": "5f31980d2879965191059184",
+            "createdAt": "2020-08-10T21:09:11.209Z",
+            "updatedAt": "2020-08-11T19:15:00.011Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Kind of made a bedroom of sorts with this palette"
+        }
+    ],
+    "colorsArray": [
+        "15170b",
+        "1e4530",
+        "db8888",
+        "fae8ec"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f31980d2879965191059184",
+        "type": "palettes",
+        "count": 54,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,72 @@
+{
+    "_id": "6046d17da6229316ae2918ab",
+    "tags": [
+        "2bit",
+        " 4 colors",
+        " bright"
+    ],
+    "colors": [
+        "b03e80",
+        "ff8acd",
+        "4aedff",
+        "ffffff"
+    ],
+    "downloads": "315",
+    "featured": false,
+    "likes": 37,
+    "comments": 2,
+    "title": "Mangavania",
+    "hashtag": "mangavania",
+    "description": "This testosterone fueled palette, while looks strange, is actually rather flexible. I received the inspiration after seeing a japanese drawing in this strange palette where the colors made no sense together, yet it somehow worked.",
+    "creator": true,
+    "slug": "mangavania",
+    "publishedAt": "2021-03-12T23:40:00.026Z",
+    "user": {
+        "name": "Poltergasm",
+        "slug": "iampoltergasm"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-03-09T01:38:05.192Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6046d191a6229316ae2918ae",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/mangavania-palette-example-by-poltergasm-6046d1.png",
+            "creator": true,
+            "description": "",
+            "title": "Mangavania Palette Example by Poltergasm",
+            "slug": "mangavania-palette-example-by-poltergasm",
+            "publishedAt": "2021-03-10T18:10:00.010Z",
+            "user": {
+                "name": "Poltergasm",
+                "slug": "iampoltergasm"
+            },
+            "parent": "6046d17da6229316ae2918ab",
+            "createdAt": "2021-03-09T01:38:25.721Z",
+            "updatedAt": "2021-03-10T18:10:00.011Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "b03e80",
+        "ff8acd",
+        "4aedff",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6046d17da6229316ae2918ab",
+        "type": "palettes",
+        "count": 37,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

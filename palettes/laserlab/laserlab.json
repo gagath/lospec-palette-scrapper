@@ -1,0 +1,96 @@
+{
+    "_id": "600c614568aa1b79075548c5",
+    "tags": [
+        "laser",
+        "lab",
+        "metal",
+        "gb",
+        "polyphrog"
+    ],
+    "colors": [
+        "e01f3f",
+        "fff8ed",
+        "7b6960",
+        "271d2c"
+    ],
+    "downloads": "690",
+    "featured": false,
+    "likes": 58,
+    "comments": 2,
+    "title": "laser lab",
+    "hashtag": "laserlab",
+    "description": "gb palette for making games from my\u00a0Laser Lab.\u00a0asset pack",
+    "creator": true,
+    "slug": "laser-lab",
+    "publishedAt": "2021-01-23T18:25:00.033Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-01-23T17:47:49.723Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "600c617368aa1b79075548ca",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/laser-lab-palette-example-by-polyphorge-600c61.png",
+            "creator": true,
+            "description": "",
+            "title": "laser lab Palette Example by polyphorge",
+            "slug": "laser-lab-palette-example-by-polyphorge",
+            "publishedAt": "2021-01-23T18:25:00.017Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "600c614568aa1b79075548c5",
+            "createdAt": "2021-01-23T17:48:35.833Z",
+            "updatedAt": "2021-01-23T18:25:00.018Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "60e0b95091e49e5df1eab931",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "laser lab Palette Example by nkoder",
+            "slug": "laser-lab-palette-example-by-nkoder",
+            "publishedAt": "2021-07-22T12:45:00.018Z",
+            "user": {
+                "name": "Beetroot Paul",
+                "slug": "beetrootpaul"
+            },
+            "parent": "600c614568aa1b79075548c5",
+            "image": "palette-examples/laser-lab-palette-example-by-nkoder-60e0b9.png",
+            "creator": true,
+            "description": "Minesweeper Demake",
+            "createdAt": "2021-07-03T19:24:00.487Z",
+            "updatedAt": "2021-07-22T12:45:00.019Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": "Minesweeper Demake"
+        }
+    ],
+    "colorsArray": [
+        "e01f3f",
+        "fff8ed",
+        "7b6960",
+        "271d2c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "600c614568aa1b79075548c5",
+        "type": "palettes",
+        "count": 58,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

@@ -1,0 +1,99 @@
+{
+    "_id": "608afa700d1db76d90595c0c",
+    "tags": [
+        "clouds",
+        "pink",
+        "green",
+        "blue",
+        "paper",
+        "japanese"
+    ],
+    "colors": [
+        "dee3e2",
+        "fccbcb",
+        "78b3d6",
+        "d86969",
+        "4f7969"
+    ],
+    "downloads": "579",
+    "featured": false,
+    "likes": 69,
+    "comments": 7,
+    "slug": "origami-clouds",
+    "publishedAt": "2021-05-31T18:40:00.023Z",
+    "user": {
+        "name": "TheArtisan",
+        "slug": "theartisan"
+    },
+    "title": "Origami Clouds",
+    "hashtag": "origamiclouds",
+    "description": "",
+    "creator": true,
+    "createdAt": "2021-04-29T18:26:56.987Z",
+    "numberOfColors": 5,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "608afb350d1db76d90595c14",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Origami Clouds Palette Example by TheArtisan",
+            "slug": "origami-clouds-palette-example-by-theartisan",
+            "publishedAt": "2021-05-30T22:40:00.040Z",
+            "user": {
+                "name": "TheArtisan",
+                "slug": "theartisan"
+            },
+            "parent": "608afa700d1db76d90595c0c",
+            "image": "palette-examples/origami-clouds-palette-example-by-theartisan-608afb.png",
+            "creator": true,
+            "description": "Paper flowing from between a gap in the veil of colorful clouds- the symmetry and palette of the drawing brought origami to mind (hence the name)",
+            "createdAt": "2021-04-29T18:30:13.623Z",
+            "updatedAt": "2021-05-30T22:40:00.041Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Paper flowing from between a gap in the veil of colorful clouds- the symmetry and palette of the drawing brought origami to mind (hence the name)"
+        },
+        {
+            "_id": "608b149ad49b546fe2ff053a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Origami Clouds Palette Example by TheArtisan",
+            "slug": "origami-clouds-palette-example-by-theartisan-2",
+            "publishedAt": "2021-05-02T16:00:00.043Z",
+            "user": {
+                "name": "TheArtisan",
+                "slug": "theartisan"
+            },
+            "parent": "608afa700d1db76d90595c0c",
+            "image": "palette-examples/origami-clouds-palette-example-by-theartisan-2-608b14.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-04-29T20:18:34.273Z",
+            "updatedAt": "2021-05-02T16:00:00.044Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "dee3e2",
+        "fccbcb",
+        "78b3d6",
+        "d86969",
+        "4f7969"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "608afa700d1db76d90595c0c",
+        "type": "palettes",
+        "count": 69,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

@@ -1,0 +1,82 @@
+{
+    "_id": "6158f6376325056fc2e08425",
+    "tags": [
+        "halloween",
+        "spooky",
+        "bright",
+        "saturated",
+        "vibrant"
+    ],
+    "colors": [
+        "fffddc",
+        "c7a7ce",
+        "8b3ec9",
+        "192662",
+        "167268",
+        "2ebe00",
+        "ffd300",
+        "e4782b"
+    ],
+    "downloads": "212",
+    "featured": false,
+    "likes": 16,
+    "comments": 0,
+    "slug": "trick-or-treat-8",
+    "publishedAt": "2021-10-14T05:45:00.030Z",
+    "user": {
+        "name": "Yousurname",
+        "slug": "yousurname"
+    },
+    "title": "Trick-or-Treat 8",
+    "hashtag": "trickortreat8",
+    "description": "Colors inspired by Halloween.",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-10-03T00:15:51.572Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61590699c3b3ac7c4c06deb0",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Trick-or-Treat 8 Palette Example by Yousurname",
+            "slug": "trick-or-treat-8-palette-example-by-yousurname",
+            "publishedAt": "2021-10-03T21:10:00.017Z",
+            "user": {
+                "name": "Yousurname",
+                "slug": "yousurname"
+            },
+            "parent": "6158f6376325056fc2e08425",
+            "image": "palette-examples/trick-or-treat-8-palette-example-by-yousurname-615906.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-10-03T01:25:45.407Z",
+            "updatedAt": "2021-10-03T21:10:00.017Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "fffddc",
+        "c7a7ce",
+        "8b3ec9",
+        "192662",
+        "167268",
+        "2ebe00",
+        "ffd300",
+        "e4782b"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6158f6376325056fc2e08425",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

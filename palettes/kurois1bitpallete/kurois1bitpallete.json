@@ -1,0 +1,73 @@
+{
+    "_id": "601634ef4029eb12821bc70e",
+    "tags": [
+        "manga",
+        "manga",
+        "anime",
+        "anime",
+        "1bit",
+        "kuroi",
+        "black",
+        "white"
+    ],
+    "colors": [
+        "171219",
+        "f2fbeb"
+    ],
+    "downloads": "380",
+    "featured": false,
+    "likes": 37,
+    "comments": 56,
+    "title": "Manga pallete",
+    "hashtag": "kurois1bitpallete",
+    "description": "so this palete was inspired by PAPERBACK-2 pallete\u00a0 but theirs a twist this pallete is based on alcahol markers the thing that manga artist use for their covers",
+    "creator": true,
+    "slug": "manga-pallete",
+    "publishedAt": "2021-02-07T01:50:00.018Z",
+    "user": {
+        "name": "Kuroi",
+        "slug": "kuroi"
+    },
+    "numberOfColors": 2,
+    "createdAt": "2021-01-31T04:41:19.339Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "606d55dcaf543a28402b1f22",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Manga pallete Palette Example by Casei Solus",
+            "slug": "manga-pallete-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-08T16:45:00.016Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "601634ef4029eb12821bc70e",
+            "image": "palette-examples/manga-pallete-palette-example-by-casei-solus-606d55.png",
+            "creator": true,
+            "description": "Anime eyes.",
+            "createdAt": "2021-04-07T06:49:00.624Z",
+            "updatedAt": "2021-04-08T16:45:00.016Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Anime eyes."
+        }
+    ],
+    "colorsArray": [
+        "171219",
+        "f2fbeb"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "601634ef4029eb12821bc70e",
+        "type": "palettes",
+        "count": 37,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

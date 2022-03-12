@@ -1,0 +1,74 @@
+{
+    "_id": "61a9edb4f49a3262f95183f4",
+    "tags": [
+        "cave",
+        "moss",
+        "cavemoss",
+        "2bit",
+        "soundsdotzip"
+    ],
+    "colors": [
+        "1a1714",
+        "38403a",
+        "617851",
+        "b3b282"
+    ],
+    "downloads": "295",
+    "featured": false,
+    "likes": 29,
+    "comments": 0,
+    "slug": "cave-moss",
+    "publishedAt": "2021-12-06T17:00:00.163Z",
+    "user": {
+        "name": "SoundsDotZip",
+        "slug": "soundsdotzip"
+    },
+    "title": "Cave Moss",
+    "hashtag": "cavemoss",
+    "description": "This palette was made for one of my friends, who saw my previous palettes and wanted me to make one for them. He wanted something dark, with moss green as its main colour. This is what I came up with. Hope you like it!",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-12-03T10:13:08.613Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61a9edd3f49a3262f95183f6",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Cave Moss Palette Example by SoundsDotZip",
+            "slug": "cave-moss-palette-example-by-soundsdotzip",
+            "publishedAt": "2021-12-03T15:55:00.027Z",
+            "user": {
+                "name": "SoundsDotZip",
+                "slug": "soundsdotzip"
+            },
+            "parent": "61a9edb4f49a3262f95183f4",
+            "image": "palette-examples/cave-moss-palette-example-by-soundsdotzip-61a9ed.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-12-03T10:13:39.164Z",
+            "updatedAt": "2021-12-03T15:55:00.027Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "1a1714",
+        "38403a",
+        "617851",
+        "b3b282"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61a9edb4f49a3262f95183f4",
+        "type": "palettes",
+        "count": 29,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

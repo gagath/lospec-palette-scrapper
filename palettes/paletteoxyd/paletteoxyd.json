@@ -1,0 +1,55 @@
+{
+    "_id": "618aa8418a5f494ab62b36d8",
+    "tags": [
+        "copper"
+    ],
+    "colors": [
+        "9d9d6b",
+        "9f7249",
+        "3b6e64",
+        "375769",
+        "323e59",
+        "253051",
+        "292543",
+        "321937"
+    ],
+    "downloads": "104",
+    "featured": false,
+    "likes": 10,
+    "comments": 0,
+    "slug": "oxyd",
+    "publishedAt": "2021-11-12T02:10:00.024Z",
+    "user": {
+        "name": "ItzFred",
+        "slug": "itzfred"
+    },
+    "title": "OXYD",
+    "hashtag": "paletteoxyd",
+    "description": "Put some green, put some blue and put some yellow together.",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-11-09T16:56:33.034Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "9d9d6b",
+        "9f7249",
+        "3b6e64",
+        "375769",
+        "323e59",
+        "253051",
+        "292543",
+        "321937"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "618aa8418a5f494ab62b36d8",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

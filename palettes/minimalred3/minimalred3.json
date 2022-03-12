@@ -1,0 +1,66 @@
+{
+    "_id": "5e1b2a143d00d43f24a7484c",
+    "slug": "minimal-red-3",
+    "description": "",
+    "colors": [
+        "fefefe",
+        "ed3237",
+        "373435"
+    ],
+    "creator": true,
+    "hashtag": "minimalred3",
+    "comments": 1,
+    "likes": 24,
+    "createdAt": "2020-01-12T14:15:48.805Z",
+    "featured": false,
+    "tags": [],
+    "downloads": "467",
+    "numberOfColors": 3,
+    "title": "Minimal-Red-3",
+    "user": {
+        "name": "Drag109",
+        "slug": "drag109"
+    },
+    "publishedAt": "2020-01-12T14:15:48.805Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6077ce1f16f8450fae0b8232",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Minimal-Red-3 Palette Example by Casei Solus",
+            "slug": "minimal-red-3-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-16T23:55:00.020Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5e1b2a143d00d43f24a7484c",
+            "image": "palette-examples/minimal-red-3-palette-example-by-casei-solus-6077ce.png",
+            "creator": true,
+            "description": "A shoe and symbols.",
+            "createdAt": "2021-04-15T05:24:47.932Z",
+            "updatedAt": "2021-04-16T23:55:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A shoe and symbols."
+        }
+    ],
+    "colorsArray": [
+        "fefefe",
+        "ed3237",
+        "373435"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 33.333333333333336,
+    "height": 32,
+    "likebutton": {
+        "content": "5e1b2a143d00d43f24a7484c",
+        "type": "palettes",
+        "count": 24,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

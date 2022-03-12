@@ -1,0 +1,69 @@
+{
+    "_id": "60992ac23443ca45c725395a",
+    "tags": [
+        "1bit",
+        "sunset",
+        "purple",
+        "orange"
+    ],
+    "colors": [
+        "1d0f44",
+        "f44e38"
+    ],
+    "downloads": "59",
+    "featured": false,
+    "likes": 9,
+    "comments": 0,
+    "slug": "ys-postapocalyptic-sunset",
+    "publishedAt": "2021-05-10T13:40:00.035Z",
+    "user": {
+        "name": "Yelta",
+        "slug": "yelta8"
+    },
+    "title": "Y's Postapocalyptic Sunset",
+    "hashtag": "yssunset",
+    "description": "In the last light of the evening sun you notice that Color/Color palettes are not as ugly as you thought. Used in \"Heaven?\" by Yelta (me).",
+    "creator": true,
+    "createdAt": "2021-05-10T12:44:50.415Z",
+    "numberOfColors": 2,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60992b613443ca45c725395e",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Y's Postapocalyptic Sunset Palette Example by Yelta",
+            "slug": "ys-postapocalyptic-sunset-palette-example-by-yelta",
+            "publishedAt": "2021-05-10T13:40:00.013Z",
+            "user": {
+                "name": "Yelta",
+                "slug": "yelta8"
+            },
+            "parent": "60992ac23443ca45c725395a",
+            "image": "palette-examples/ys-postapocalyptic-sunset-palette-example-by-yelta-60992b.png",
+            "creator": true,
+            "description": "Cutout of \"Heaven?\" by Yelta (me)",
+            "createdAt": "2021-05-10T12:47:29.658Z",
+            "updatedAt": "2021-05-10T13:40:00.014Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Cutout of \"Heaven?\" by Yelta (me)"
+        }
+    ],
+    "colorsArray": [
+        "1d0f44",
+        "f44e38"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "60992ac23443ca45c725395a",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

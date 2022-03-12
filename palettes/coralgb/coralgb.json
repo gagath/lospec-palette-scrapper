@@ -1,0 +1,47 @@
+{
+    "_id": "5f11dfc4f9544b677fa1e26e",
+    "tags": [
+        "gb"
+    ],
+    "colors": [
+        "6c6f7d",
+        "ff6b6c",
+        "ffc145",
+        "f0eff4"
+    ],
+    "downloads": "162",
+    "featured": false,
+    "likes": 20,
+    "comments": 2,
+    "title": "CORAL GB",
+    "hashtag": "coralgb",
+    "description": "my first palette :)",
+    "creator": true,
+    "slug": "coral-gb",
+    "publishedAt": "2020-07-19T16:55:00.006Z",
+    "user": {
+        "name": "GB bro",
+        "slug": "gbbro"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-07-17T17:28:36.269Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "6c6f7d",
+        "ff6b6c",
+        "ffc145",
+        "f0eff4"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f11dfc4f9544b677fa1e26e",
+        "type": "palettes",
+        "count": 20,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

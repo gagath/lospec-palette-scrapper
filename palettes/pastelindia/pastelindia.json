@@ -1,0 +1,69 @@
+{
+    "_id": "60350091a2827e28c0e307cd",
+    "tags": [
+        "pastel",
+        "3colors"
+    ],
+    "colors": [
+        "f69e7b",
+        "f0ece3",
+        "70af85"
+    ],
+    "downloads": "43",
+    "featured": false,
+    "likes": 11,
+    "comments": 0,
+    "title": "Pastel-India",
+    "hashtag": "pastelindia",
+    "description": "I made a pastel version of the colors seen in the Indian [and Irish :)] flag. Feel free to use it how you want\u00a0",
+    "creator": true,
+    "slug": "pastel-india",
+    "publishedAt": "2021-03-02T09:40:00.015Z",
+    "user": {
+        "name": "Sumedh Natu",
+        "slug": "sumedh-natu"
+    },
+    "numberOfColors": 3,
+    "createdAt": "2021-02-23T13:18:09.721Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6076795804e19427839732c1",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Pastel-India Palette Example by Casei Solus",
+            "slug": "pastel-india-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-17T00:15:00.025Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "60350091a2827e28c0e307cd",
+            "image": "palette-examples/pastel-india-palette-example-by-casei-solus-607679.png",
+            "creator": true,
+            "description": "The Indian flag and country name.",
+            "createdAt": "2021-04-14T05:10:48.538Z",
+            "updatedAt": "2021-04-17T00:15:00.025Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "The Indian flag and country name."
+        }
+    ],
+    "colorsArray": [
+        "f69e7b",
+        "f0ece3",
+        "70af85"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 33.333333333333336,
+    "height": 32,
+    "likebutton": {
+        "content": "60350091a2827e28c0e307cd",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

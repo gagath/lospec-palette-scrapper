@@ -1,0 +1,97 @@
+{
+    "_id": "6184d2a0e0decb7bc368a595",
+    "tags": [
+        "lowsaturation",
+        "sand",
+        "old",
+        "deteriore"
+    ],
+    "colors": [
+        "b4c9d8",
+        "a5a3b3",
+        "7e8e99",
+        "4e5d66",
+        "b0c09a",
+        "8f9f91",
+        "7a885e",
+        "525747",
+        "ddb9a1",
+        "a0a294",
+        "a3856d",
+        "6f5f52",
+        "d29a8d",
+        "a0949a",
+        "a06b63",
+        "6e504d"
+    ],
+    "downloads": "267",
+    "featured": false,
+    "likes": 24,
+    "comments": 0,
+    "slug": "oldsand-16",
+    "publishedAt": "2021-11-07T18:10:00.046Z",
+    "user": {
+        "name": "Blylzz",
+        "slug": "blylzz"
+    },
+    "title": "OLDSAND-16",
+    "hashtag": "oldsand16",
+    "description": "low saturation color palette ideal for painting sandstone or sand with color",
+    "creator": true,
+    "numberOfColors": 16,
+    "createdAt": "2021-11-05T06:43:44.677Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6184d9a2d7c840061a124caa",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "OLDSAND-16 Palette Example by Blylzz",
+            "slug": "oldsand-16-palette-example-by-blylzz",
+            "publishedAt": "2021-11-05T17:05:00.031Z",
+            "user": {
+                "name": "Blylzz",
+                "slug": "blylzz"
+            },
+            "parent": "6184d2a0e0decb7bc368a595",
+            "image": "palette-examples/oldsand-16-palette-example-by-blylzz-6184d9.png",
+            "creator": true,
+            "description": "Simple example of color scheme",
+            "createdAt": "2021-11-05T07:13:38.796Z",
+            "updatedAt": "2021-11-05T17:05:00.032Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Simple example of color scheme"
+        }
+    ],
+    "colorsArray": [
+        "b4c9d8",
+        "a5a3b3",
+        "7e8e99",
+        "4e5d66",
+        "b0c09a",
+        "8f9f91",
+        "7a885e",
+        "525747",
+        "ddb9a1",
+        "a0a294",
+        "a3856d",
+        "6f5f52",
+        "d29a8d",
+        "a0949a",
+        "a06b63",
+        "6e504d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6184d2a0e0decb7bc368a595",
+        "type": "palettes",
+        "count": 24,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

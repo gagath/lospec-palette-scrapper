@@ -1,0 +1,49 @@
+{
+    "_id": "5f1f36d9933a24422e92f98d",
+    "tags": [
+        "blue"
+    ],
+    "colors": [
+        "fafdff",
+        "cbe3f1",
+        "68aed4",
+        "305881",
+        "15263a"
+    ],
+    "downloads": "247",
+    "featured": false,
+    "likes": 13,
+    "comments": 1,
+    "title": "azul 5",
+    "hashtag": "azul5",
+    "description": "a blue 5 color palette",
+    "creator": true,
+    "slug": "azul-5",
+    "publishedAt": "2020-07-29T12:00:00.021Z",
+    "user": {
+        "name": "GB bro",
+        "slug": "gbbro"
+    },
+    "numberOfColors": 5,
+    "createdAt": "2020-07-27T20:19:37.597Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "fafdff",
+        "cbe3f1",
+        "68aed4",
+        "305881",
+        "15263a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5f1f36d9933a24422e92f98d",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

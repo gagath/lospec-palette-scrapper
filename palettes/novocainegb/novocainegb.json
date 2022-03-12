@@ -1,0 +1,54 @@
+{
+    "_id": "5df3e8e4c5c8b60e9076ac18",
+    "slug": "novocaine-gb",
+    "description": "",
+    "colors": [
+        "052227",
+        "1d6763",
+        "6fb8ad",
+        "a1ffe1"
+    ],
+    "creator": "1",
+    "hashtag": "novocainegb",
+    "comments": 1,
+    "likes": 23,
+    "createdAt": "2019-12-13T19:39:16.888Z",
+    "featured": false,
+    "tags": [
+        "novocaine",
+        "gb",
+        "gameboy",
+        "blue",
+        "teal",
+        "cold",
+        "braquen",
+        "artist"
+    ],
+    "downloads": "440",
+    "numberOfColors": 4,
+    "title": "Novocaine GB",
+    "user": {
+        "name": "Braquen",
+        "slug": "braquen"
+    },
+    "publishedAt": "2019-12-13T19:39:16.888Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "052227",
+        "1d6763",
+        "6fb8ad",
+        "a1ffe1"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5df3e8e4c5c8b60e9076ac18",
+        "type": "palettes",
+        "count": 23,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

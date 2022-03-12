@@ -1,0 +1,86 @@
+{
+    "_id": "5fdb7205f2bcbc157cea9fe4",
+    "tags": [
+        "still life"
+    ],
+    "colors": [
+        "7bdce4",
+        "dabe7b",
+        "ff8e65",
+        "cd7a3f",
+        "815934",
+        "cd5c5c",
+        "883434",
+        "551b1b",
+        "402715",
+        "32122d",
+        "202215",
+        "0a1c19"
+    ],
+    "downloads": "405",
+    "featured": false,
+    "likes": 44,
+    "comments": 1,
+    "title": "Sin",
+    "hashtag": "sin",
+    "description": "<i>noun</i>. an immoral act considered to be a transgression against divine law.\r\nLike the definition, this palette can be considered a crime against traditional color theories: the highlights are bright cyan and the shadows come from the green and yellow family, with a tint of purple. Even the number of colors is cabalistic: Jesus had 12 apostoles, the Pantheon is composed by 12 Olympian Gods, the Sun god Surya has 12 names and the human body has twelve cranial nerves, etc. By using this palette, you may be getting closer to a more solid truth, who knows. It may be worth trying, because most things in life can serve as a valid experience, even falling from grace.",
+    "creator": true,
+    "slug": "sin",
+    "publishedAt": "2020-12-18T08:30:00.036Z",
+    "user": {
+        "name": "\u307e\u308b\u304d",
+        "slug": "marukihurakami"
+    },
+    "numberOfColors": 12,
+    "createdAt": "2020-12-17T14:58:13.636Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fdb7211f2bcbc157cea9fe6",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/sin-palette-example-by-5fdb72.png",
+            "creator": true,
+            "description": "",
+            "title": "Sin Palette Example by \u307e\u308b\u304d",
+            "slug": "sin-palette-example-by",
+            "publishedAt": "2020-12-17T18:45:00.019Z",
+            "user": {
+                "name": "\u307e\u308b\u304d",
+                "slug": "marukihurakami"
+            },
+            "parent": "5fdb7205f2bcbc157cea9fe4",
+            "createdAt": "2020-12-17T14:58:25.144Z",
+            "updatedAt": "2020-12-17T18:45:00.019Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "7bdce4",
+        "dabe7b",
+        "ff8e65",
+        "cd7a3f",
+        "815934",
+        "cd5c5c",
+        "883434",
+        "551b1b",
+        "402715",
+        "32122d",
+        "202215",
+        "0a1c19"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5fdb7205f2bcbc157cea9fe4",
+        "type": "palettes",
+        "count": 44,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,94 @@
+{
+    "_id": "5f16c1a82de9125be03ce4c9",
+    "tags": [
+        "old",
+        " 90s",
+        " 90",
+        " old90",
+        " old90s"
+    ],
+    "colors": [
+        "312031",
+        "6d2d4a",
+        "be2e30",
+        "e96045",
+        "fea352",
+        "ffe15d",
+        "f9fe71",
+        "4b3561",
+        "426291",
+        "3596ba",
+        "48d7b3",
+        "5fea7f",
+        "b0ff89",
+        "e5ffb4"
+    ],
+    "downloads": "714",
+    "featured": false,
+    "likes": 42,
+    "comments": 0,
+    "title": "Old90's",
+    "hashtag": "old90s",
+    "description": "My new palette! Hope you guys will like it!",
+    "creator": true,
+    "slug": "old90s",
+    "publishedAt": "2020-07-31T12:00:00.054Z",
+    "user": {
+        "name": "Astroan",
+        "slug": "pillowboi"
+    },
+    "numberOfColors": 14,
+    "createdAt": "2020-07-21T10:21:28.221Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60746c0f88a97b3333db5ba5",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Old90's Palette Example by tjeeper",
+            "slug": "old90s-palette-example-by-tjeeper",
+            "publishedAt": "2021-04-12T16:35:00.012Z",
+            "user": {
+                "name": "tjeeper",
+                "slug": "tjeeper"
+            },
+            "parent": "5f16c1a82de9125be03ce4c9",
+            "image": "palette-examples/old90s-palette-example-by-tjeeper-60746c.png",
+            "creator": false,
+            "description": "This was made by Buttermilch, Nura and myself",
+            "createdAt": "2021-04-12T15:49:35.691Z",
+            "updatedAt": "2021-04-12T16:35:00.012Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "This was made by Buttermilch, Nura and myself"
+        }
+    ],
+    "colorsArray": [
+        "312031",
+        "6d2d4a",
+        "be2e30",
+        "e96045",
+        "fea352",
+        "ffe15d",
+        "f9fe71",
+        "4b3561",
+        "426291",
+        "3596ba",
+        "48d7b3",
+        "5fea7f",
+        "b0ff89",
+        "e5ffb4"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5f16c1a82de9125be03ce4c9",
+        "type": "palettes",
+        "count": 42,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

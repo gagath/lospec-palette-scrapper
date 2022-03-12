@@ -1,0 +1,46 @@
+{
+    "_id": "60f9c349329c2414590e52d2",
+    "tags": [
+        "1bit",
+        "pepper",
+        "red",
+        "warm"
+    ],
+    "colors": [
+        "100101",
+        "ebb5b5"
+    ],
+    "downloads": "64",
+    "featured": false,
+    "likes": 22,
+    "comments": 0,
+    "slug": "1-bit-pepper",
+    "publishedAt": "2021-07-24T03:05:00.013Z",
+    "user": {
+        "name": "Waldo San",
+        "slug": "waldo-san"
+    },
+    "title": "1 Bit - Pepper",
+    "hashtag": "1bitpepper",
+    "description": "Easy to use 1 bit pallete based on warm tones for different moods, even when working 1 bit!",
+    "creator": true,
+    "numberOfColors": 2,
+    "createdAt": "2021-07-22T19:13:13.005Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "100101",
+        "ebb5b5"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "60f9c349329c2414590e52d2",
+        "type": "palettes",
+        "count": 22,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

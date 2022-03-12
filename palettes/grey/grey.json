@@ -1,0 +1,47 @@
+{
+    "_id": "61e9529d81f6a2652cdc27eb",
+    "tags": [],
+    "colors": [
+        "423629",
+        "4f5d2f",
+        "7d7e75",
+        "b0b2b8",
+        "cfd6ea"
+    ],
+    "downloads": "49",
+    "featured": false,
+    "likes": 6,
+    "comments": 1,
+    "slug": "calming-grey",
+    "publishedAt": "2022-01-22T03:45:00.041Z",
+    "user": {
+        "name": "wermz",
+        "slug": "thor-erland-sluik"
+    },
+    "title": "calming grey",
+    "hashtag": "grey",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 5,
+    "createdAt": "2022-01-20T12:16:29.591Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "423629",
+        "4f5d2f",
+        "7d7e75",
+        "b0b2b8",
+        "cfd6ea"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "61e9529d81f6a2652cdc27eb",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

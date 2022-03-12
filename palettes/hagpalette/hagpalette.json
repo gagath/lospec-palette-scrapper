@@ -1,0 +1,53 @@
+{
+    "_id": "5e4f30ea4561f35a3f697d4a",
+    "slug": "hag",
+    "description": "A versatile, \"dated and warm\" 8-color palette made by\u00a0<a href=\"https://www.deviantart.com/wyvy\" target=\"_blank\">wyvy</a>.",
+    "colors": [
+        "10101f",
+        "193a3b",
+        "10634f",
+        "51849c",
+        "e5dcd3",
+        "c7bf2a",
+        "8a4d24",
+        "92072e"
+    ],
+    "creator": false,
+    "hashtag": "hagpalette",
+    "comments": 0,
+    "likes": 10,
+    "createdAt": "2020-02-21T01:22:50.015Z",
+    "featured": false,
+    "tags": [],
+    "downloads": "101",
+    "numberOfColors": 8,
+    "title": "HAG",
+    "user": {
+        "name": "P-Tux7",
+        "slug": "p-tux7"
+    },
+    "publishedAt": "2020-03-24T00:46:00.588Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "10101f",
+        "193a3b",
+        "10634f",
+        "51849c",
+        "e5dcd3",
+        "c7bf2a",
+        "8a4d24",
+        "92072e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5e4f30ea4561f35a3f697d4a",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

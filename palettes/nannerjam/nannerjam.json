@@ -1,0 +1,92 @@
+{
+    "_id": "605a4e1daa08805fc0929456",
+    "tags": [],
+    "colors": [
+        "352b40",
+        "653d48",
+        "933f45",
+        "b25e46",
+        "cc925e",
+        "dacb80",
+        "f0e9c9",
+        "76c379",
+        "508d76",
+        "535c89",
+        "7b99c8",
+        "99d4e6",
+        "be7979",
+        "d8b1a1",
+        "7d6e6e",
+        "c2b5a9"
+    ],
+    "downloads": "1,121",
+    "featured": false,
+    "likes": 65,
+    "comments": 0,
+    "title": "Nanner Jam",
+    "hashtag": "nannerjam",
+    "description": "",
+    "creator": true,
+    "slug": "nanner-jam",
+    "publishedAt": "2021-03-27T17:30:00.060Z",
+    "user": {
+        "name": "Nanner",
+        "slug": "nanner"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2021-03-23T20:22:53.157Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "605a50eeaa08805fc0929487",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/nanner-jam-palette-example-by-nannerman-605a50.png",
+            "creator": true,
+            "description": "",
+            "title": "Nanner Jam Palette Example by Nannerman",
+            "slug": "nanner-jam-palette-example-by-nannerman",
+            "publishedAt": "2021-03-27T17:35:00.135Z",
+            "user": {
+                "name": "Nanner",
+                "slug": "nanner"
+            },
+            "parent": "605a4e1daa08805fc0929456",
+            "createdAt": "2021-03-23T20:34:54.154Z",
+            "updatedAt": "2021-03-27T17:35:00.135Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "352b40",
+        "653d48",
+        "933f45",
+        "b25e46",
+        "cc925e",
+        "dacb80",
+        "f0e9c9",
+        "76c379",
+        "508d76",
+        "535c89",
+        "7b99c8",
+        "99d4e6",
+        "be7979",
+        "d8b1a1",
+        "7d6e6e",
+        "c2b5a9"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "605a4e1daa08805fc0929456",
+        "type": "palettes",
+        "count": 65,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

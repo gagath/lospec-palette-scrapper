@@ -1,0 +1,70 @@
+{
+    "_id": "5d597ea3bc76100c65837faf",
+    "slug": "cn-intro-2013",
+    "description": "A close approximation of the colors used in the Cartoon Network 2013 intro video.",
+    "colors": [
+        "0b0b0b",
+        "de27b0",
+        "4d99f4",
+        "e1ed39",
+        "e9e9e2"
+    ],
+    "likes": 11,
+    "createdAt": "2019-08-18T16:36:51.214Z",
+    "featured": false,
+    "tags": [
+        "JWPH",
+        "cartoonnetwork",
+        "cartoon"
+    ],
+    "downloads": "156",
+    "numberOfColors": 5,
+    "comments": 0,
+    "creator": true,
+    "hashtag": "cnintro2013",
+    "title": "CN INTRO 2013",
+    "user": {
+        "name": "JWPH",
+        "slug": "thejwphter88"
+    },
+    "publishedAt": "2019-08-18T16:36:51.214Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5d597f24bc76100c65837fb0",
+            "description": "Palette usage example by JWPH",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.193Z",
+            "creator": false,
+            "image": "palette-examples/cn-intro-2013-palette-example-palette-usage-example-by-jwph-5d597f.png",
+            "likes": 0,
+            "parent": "5d597ea3bc76100c65837faf",
+            "slug": "cn-intro-2013-palette-example-palette-usage-example-by-jwph",
+            "title": "cn intro 2013 palette example palette usage example by jwph",
+            "updatedAt": "2020-07-31T03:56:11.193Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by JWPH"
+        }
+    ],
+    "colorsArray": [
+        "0b0b0b",
+        "de27b0",
+        "4d99f4",
+        "e1ed39",
+        "e9e9e2"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5d597ea3bc76100c65837faf",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

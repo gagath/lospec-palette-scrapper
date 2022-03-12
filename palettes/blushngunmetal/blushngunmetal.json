@@ -1,0 +1,55 @@
+{
+    "_id": "6204ab0a1e26b3106005697b",
+    "tags": [],
+    "colors": [
+        "321e28",
+        "492b3a",
+        "9f3d6b",
+        "e06f8b",
+        "ffaaae",
+        "557083",
+        "2f3e4e",
+        "1b2632",
+        "000000"
+    ],
+    "downloads": "208",
+    "featured": false,
+    "likes": 15,
+    "comments": 0,
+    "slug": "blush-n-gunmetal",
+    "publishedAt": "2022-02-10T21:50:00.057Z",
+    "user": {
+        "name": "Aureum \u25c4",
+        "slug": "cradle-of-the-sun"
+    },
+    "title": "Blush N' Gunmetal",
+    "hashtag": "blushngunmetal",
+    "description": "Pink, blush, charcoal, and gunmetal, what's not to love?\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Originally inspired by\u00a0one of @Inkplasm's drawings on twitter\u00a0(follow them btw!)",
+    "creator": true,
+    "numberOfColors": 9,
+    "createdAt": "2022-02-10T06:04:58.946Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "321e28",
+        "492b3a",
+        "9f3d6b",
+        "e06f8b",
+        "ffaaae",
+        "557083",
+        "2f3e4e",
+        "1b2632",
+        "000000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "6204ab0a1e26b3106005697b",
+        "type": "palettes",
+        "count": 15,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,79 @@
+{
+    "_id": "5f2d904dcf85b252c289df1b",
+    "tags": [
+        "5colors",
+        " limited palette",
+        " nature",
+        " leaf",
+        " green",
+        " grass",
+        " mysticaldrop",
+        " gameboy"
+    ],
+    "colors": [
+        "f9e6cf",
+        "5ac54f",
+        "33984b",
+        "134c4c",
+        "0c2e44"
+    ],
+    "downloads": "341",
+    "featured": false,
+    "likes": 17,
+    "comments": 0,
+    "title": "Mystical Leaf",
+    "hashtag": "mysticalleaf",
+    "description": "",
+    "creator": "1",
+    "slug": "mystical-leaf",
+    "publishedAt": "2020-08-14T14:35:00.031Z",
+    "user": {
+        "name": "Mystical Drop",
+        "slug": "mysticaldrop"
+    },
+    "numberOfColors": 5,
+    "createdAt": "2020-08-07T17:33:01.088Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f533d42366427588242b792",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/mystical-leaf-palette-example-by-sk3ll-sk3ll-5f533d.png",
+            "creator": false,
+            "description": "Example created by sk3ll, Gors, Isa and Grunion",
+            "title": "Mystical Leaf Palette Example",
+            "slug": "mystical-leaf-palette-example-by-sk3ll-sk3ll",
+            "publishedAt": "2020-09-05T09:50:00.019Z",
+            "user": {
+                "name": "Sk3ll Sk3ll",
+                "slug": "sk3ll2"
+            },
+            "parent": "5f2d904dcf85b252c289df1b",
+            "createdAt": "2020-09-05T07:24:50.421Z",
+            "updatedAt": "2020-09-14T05:59:05.478Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Example created by sk3ll, Gors, Isa and Grunion"
+        }
+    ],
+    "colorsArray": [
+        "f9e6cf",
+        "5ac54f",
+        "33984b",
+        "134c4c",
+        "0c2e44"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5f2d904dcf85b252c289df1b",
+        "type": "palettes",
+        "count": 17,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

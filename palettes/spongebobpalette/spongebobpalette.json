@@ -1,0 +1,55 @@
+{
+    "_id": "5f4818ff4f61051477570349",
+    "tags": [],
+    "colors": [
+        "000000",
+        "f0ec09",
+        "4ba619",
+        "8fcc11",
+        "ffffff",
+        "2ae3ed",
+        "ff0324",
+        "783200",
+        "4d0900"
+    ],
+    "downloads": "32",
+    "featured": false,
+    "likes": 4,
+    "comments": 3,
+    "title": "Spongebob palette",
+    "hashtag": "spongebobpalette",
+    "description": "",
+    "creator": true,
+    "slug": "spongebob-palette",
+    "publishedAt": "2020-09-06T15:55:00.019Z",
+    "user": {
+        "name": "ARTBOY",
+        "slug": "emeekae-plummer"
+    },
+    "numberOfColors": 9,
+    "createdAt": "2020-08-27T20:35:11.955Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "f0ec09",
+        "4ba619",
+        "8fcc11",
+        "ffffff",
+        "2ae3ed",
+        "ff0324",
+        "783200",
+        "4d0900"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5f4818ff4f61051477570349",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

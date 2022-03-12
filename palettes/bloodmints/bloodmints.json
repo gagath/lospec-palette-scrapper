@@ -1,0 +1,72 @@
+{
+    "_id": "6117520b54fda651c40e06f0",
+    "tags": [
+        "blood",
+        "mint",
+        "polyphrog"
+    ],
+    "colors": [
+        "281b3a",
+        "c9643c",
+        "67aa92",
+        "feff94"
+    ],
+    "downloads": "150",
+    "featured": false,
+    "likes": 31,
+    "comments": 0,
+    "slug": "blood-mints",
+    "publishedAt": "2021-08-24T00:15:00.043Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "blood mints",
+    "hashtag": "bloodmints",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-08-14T05:18:03.028Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6124d244bc538b5d3764caf5",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "blood mints Palette Example by polyphorge",
+            "slug": "blood-mints-palette-example-by-polyphorge-2",
+            "publishedAt": "2021-08-24T14:35:00.024Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "6117520b54fda651c40e06f0",
+            "image": "palette-examples/blood-mints-palette-example-by-polyphorge-2-6124d2.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-08-24T11:04:36.945Z",
+            "updatedAt": "2021-08-24T14:35:00.024Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "281b3a",
+        "c9643c",
+        "67aa92",
+        "feff94"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6117520b54fda651c40e06f0",
+        "type": "palettes",
+        "count": 31,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,96 @@
+{
+    "_id": "607dee3468bf7d3600426bd0",
+    "tags": [
+        "gameboy",
+        "gb",
+        "4",
+        "wheat",
+        "orangehairboi"
+    ],
+    "colors": [
+        "240024",
+        "7a3921",
+        "e6c12b",
+        "fffad6"
+    ],
+    "downloads": "189",
+    "featured": false,
+    "likes": 23,
+    "comments": 2,
+    "slug": "wheat-gb",
+    "publishedAt": "2021-04-21T17:05:00.037Z",
+    "user": {
+        "name": "orange hair boi",
+        "slug": "orange-hair-boi"
+    },
+    "title": "wheat gb",
+    "hashtag": "wheatgb",
+    "description": "another gb palette i tried to make it good",
+    "creator": true,
+    "createdAt": "2021-04-19T20:55:16.402Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6080123ebbdc1c10302b4d48",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "weat gb Palette Example by polyphorge",
+            "slug": "weat-gb-palette-example-by-polyphorge",
+            "publishedAt": "2021-04-21T17:40:00.036Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "607dee3468bf7d3600426bd0",
+            "image": "palette-examples/weat-gb-palette-example-by-polyphorge-608012.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-04-21T11:53:34.873Z",
+            "updatedAt": "2021-04-21T17:40:00.036Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "60882d374b27a5069fd2dfa4",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "wheat gb Palette Example by orange hair boi",
+            "slug": "wheat-gb-palette-example-by-orange-hair-boi-2",
+            "publishedAt": "2021-04-27T15:55:00.030Z",
+            "user": {
+                "name": "orange hair boi",
+                "slug": "orange-hair-boi"
+            },
+            "parent": "607dee3468bf7d3600426bd0",
+            "image": "palette-examples/wheat-gb-palette-example-by-orange-hair-boi-2-60882d.png",
+            "creator": false,
+            "description": "screenshots from pokemon red verson",
+            "createdAt": "2021-04-27T15:26:47.775Z",
+            "updatedAt": "2021-04-27T15:55:00.030Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": "screenshots from pokemon red verson"
+        }
+    ],
+    "colorsArray": [
+        "240024",
+        "7a3921",
+        "e6c12b",
+        "fffad6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "607dee3468bf7d3600426bd0",
+        "type": "palettes",
+        "count": 23,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

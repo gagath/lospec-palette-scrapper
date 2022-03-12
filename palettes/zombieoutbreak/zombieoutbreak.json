@@ -1,0 +1,53 @@
+{
+    "_id": "5eb59e3f241f264c8ec0c507",
+    "tags": [],
+    "colors": [
+        "dc549e",
+        "972582",
+        "5f2c83",
+        "a1dbe8",
+        "9bd08d",
+        "168788",
+        "4c4c4c",
+        "333333"
+    ],
+    "downloads": "239",
+    "featured": false,
+    "likes": 20,
+    "comments": 0,
+    "title": "Zombie Outbreak",
+    "hashtag": "zombieoutbreak",
+    "description": "",
+    "creator": true,
+    "slug": "zombie-outbreak",
+    "publishedAt": "2020-05-10T22:10:00.015Z",
+    "user": {
+        "name": "tdriling",
+        "slug": "tdriling"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2020-05-08T18:00:31.764Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "dc549e",
+        "972582",
+        "5f2c83",
+        "a1dbe8",
+        "9bd08d",
+        "168788",
+        "4c4c4c",
+        "333333"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5eb59e3f241f264c8ec0c507",
+        "type": "palettes",
+        "count": 20,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

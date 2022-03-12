@@ -1,0 +1,50 @@
+{
+    "_id": "5ffb59d192a64f5a85e50ff6",
+    "tags": [
+        "froeu",
+        " pink",
+        " cool",
+        " purple"
+    ],
+    "colors": [
+        "e76d8a",
+        "914b72",
+        "4c3b5c",
+        "172746"
+    ],
+    "downloads": "262",
+    "featured": false,
+    "likes": 29,
+    "comments": 3,
+    "title": "nebula",
+    "hashtag": "nebula4",
+    "description": "critiques welcome and encouraged, im pretty new to making color schemes \":-]",
+    "creator": true,
+    "slug": "nebula",
+    "publishedAt": "2021-01-10T20:20:00.028Z",
+    "user": {
+        "name": "finn",
+        "slug": "cuk"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-01-10T19:47:29.347Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "e76d8a",
+        "914b72",
+        "4c3b5c",
+        "172746"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5ffb59d192a64f5a85e50ff6",
+        "type": "palettes",
+        "count": 29,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

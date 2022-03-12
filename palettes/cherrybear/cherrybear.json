@@ -1,0 +1,53 @@
+{
+    "_id": "5ddff045a1e2c20d12424f6f",
+    "slug": "cherry-bear",
+    "description": "Uhh, my first palette!\u00a0\u00a0<img class=\"emoji p16\" src=\"/emoji/shibmoji/happy.png\" />\u00a0",
+    "colors": [
+        "0d0c11",
+        "472a36",
+        "7d3b48",
+        "a35454",
+        "bc6a6a",
+        "d58a78",
+        "fbb396"
+    ],
+    "creator": true,
+    "hashtag": "cherrybear",
+    "comments": 0,
+    "likes": 44,
+    "createdAt": "2019-11-28T16:05:25.308Z",
+    "featured": false,
+    "tags": [
+        "monoramp"
+    ],
+    "downloads": "578",
+    "numberOfColors": 7,
+    "title": "Cherry Bear ",
+    "user": {
+        "name": "belyash",
+        "slug": "clovtheflow"
+    },
+    "publishedAt": "2019-11-28T16:05:25.308Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "0d0c11",
+        "472a36",
+        "7d3b48",
+        "a35454",
+        "bc6a6a",
+        "d58a78",
+        "fbb396"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5ddff045a1e2c20d12424f6f",
+        "type": "palettes",
+        "count": 44,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

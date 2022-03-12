@@ -1,0 +1,111 @@
+{
+    "_id": "6134fd0689ea284ab1ff034c",
+    "tags": [
+        "wheat",
+        "field",
+        "wheatfield",
+        "nature",
+        "soft",
+        "warm",
+        "cozy",
+        "bess"
+    ],
+    "colors": [
+        "97c89b",
+        "3e8e92",
+        "305472",
+        "1c1f2b",
+        "2c313c",
+        "625e60",
+        "999172",
+        "dfcd6d",
+        "b78f43",
+        "895c35"
+    ],
+    "downloads": "538",
+    "featured": false,
+    "likes": 46,
+    "comments": 0,
+    "slug": "wheat-field",
+    "publishedAt": "2021-10-03T02:40:00.054Z",
+    "user": {
+        "name": "bess",
+        "slug": "bess"
+    },
+    "title": "Wheat Field",
+    "hashtag": "wheatfield",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 10,
+    "createdAt": "2021-09-05T17:23:18.470Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6134fd2a89ea284ab1ff034f",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Wheat Field Palette Example by bess",
+            "slug": "wheat-field-palette-example-by-bess",
+            "publishedAt": "2021-09-05T18:15:00.012Z",
+            "user": {
+                "name": "bess",
+                "slug": "bess"
+            },
+            "parent": "6134fd0689ea284ab1ff034c",
+            "image": "palette-examples/wheat-field-palette-example-by-bess-6134fd.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-09-05T17:23:54.480Z",
+            "updatedAt": "2021-09-05T18:15:00.012Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "61725ce70f8be20b5636c0e3",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Wheat Field Palette Example by Davin Creed",
+            "slug": "wheat-field-palette-example-by-davin-creed",
+            "publishedAt": "2021-10-22T15:50:00.033Z",
+            "user": {
+                "name": "Davin Creed",
+                "slug": "davin-creed"
+            },
+            "parent": "6134fd0689ea284ab1ff034c",
+            "image": "palette-examples/wheat-field-palette-example-by-davin-creed-61725c.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-10-22T06:40:39.287Z",
+            "updatedAt": "2021-10-22T15:50:00.033Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "97c89b",
+        "3e8e92",
+        "305472",
+        "1c1f2b",
+        "2c313c",
+        "625e60",
+        "999172",
+        "dfcd6d",
+        "b78f43",
+        "895c35"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "6134fd0689ea284ab1ff034c",
+        "type": "palettes",
+        "count": 46,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

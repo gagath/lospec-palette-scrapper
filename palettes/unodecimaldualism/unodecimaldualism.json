@@ -1,0 +1,87 @@
+{
+    "_id": "5dd313f412c2f51fd2e60728",
+    "slug": "unodecimaldualism",
+    "description": "A pal I worked on over night using grayscale to match the color values.In my opinion not one of my best, but it seemed too interesting to keep it hidden.It encourages mixing of hue ramps greately and no B&amp;W.<img class=\"emoji p16\" src=\"/emoji/lospec-discord/nothing.png\" /> ",
+    "colors": [
+        "200124",
+        "054503",
+        "7a0d18",
+        "0a6d6e",
+        "807906",
+        "7277b8",
+        "d055de",
+        "48d145",
+        "eb9da4",
+        "85e4e6",
+        "f5ef9d"
+    ],
+    "creator": true,
+    "comments": 5,
+    "likes": 7,
+    "createdAt": "2019-11-18T21:58:12.247Z",
+    "featured": false,
+    "tags": [
+        "odd",
+        "bizzare",
+        "noblackandwhite",
+        "pychedellic"
+    ],
+    "downloads": "33",
+    "numberOfColors": 11,
+    "hashtag": "unodecimaldualism",
+    "title": "unoDecimalDualism",
+    "user": {
+        "name": "Kattman",
+        "slug": "kattman"
+    },
+    "publishedAt": "2019-11-18T21:58:12.247Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60871ba57339f968fd1fe98a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "unoDecimalDualism Palette Example by polyphorge",
+            "slug": "unodecimaldualism-palette-example-by-polyphorge",
+            "publishedAt": "2021-04-27T16:05:00.028Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "5dd313f412c2f51fd2e60728",
+            "image": "palette-examples/unodecimaldualism-palette-example-by-polyphorge-60871b.png",
+            "creator": true,
+            "description": "i like the palette :)",
+            "createdAt": "2021-04-26T19:59:33.468Z",
+            "updatedAt": "2021-04-27T16:05:00.028Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "i like the palette :)"
+        }
+    ],
+    "colorsArray": [
+        "200124",
+        "054503",
+        "7a0d18",
+        "0a6d6e",
+        "807906",
+        "7277b8",
+        "d055de",
+        "48d145",
+        "eb9da4",
+        "85e4e6",
+        "f5ef9d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5dd313f412c2f51fd2e60728",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

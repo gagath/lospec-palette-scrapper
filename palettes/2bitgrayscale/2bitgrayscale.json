@@ -1,0 +1,84 @@
+{
+    "_id": "58ebf8ca0ccc891b2bbe384d",
+    "createdAt": "2017-04-10T21:27:38.329Z",
+    "slug": "2-bit-grayscale",
+    "description": "A grayscale palette calculated using 2-bits per color. It was used by the original <a href=\"https://en.wikipedia.org/wiki/Game_Boy\">gameboy</a> and <a href=\"https://en.wikipedia.org/wiki/List_of_monochrome_and_RGB_palettes#2-bit_Grayscale\">a few other computer systems</a>.",
+    "colors": [
+        "000000",
+        "676767",
+        "b6b6b6",
+        "ffffff"
+    ],
+    "tags": [
+        "calculated",
+        "hardware",
+        "gameboy"
+    ],
+    "downloads": "7,273",
+    "numberOfColors": 4,
+    "likes": 96,
+    "comments": 0,
+    "hashtag": "2bitgrayscale",
+    "title": "2-bit Grayscale",
+    "publishedAt": "2017-04-10T21:27:38.329Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "58ffbebfe15f242214faf18c",
+            "description": "<a href=\"https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_2_(1992_video_game)\">The Amazing Spiderman 2</a> downtown level map.",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.050Z",
+            "creator": false,
+            "image": "palette-examples/2-bit-grayscale-palette-example-the-amazing-spiderman-2-downtown-level-map-58ffbe.png",
+            "likes": 0,
+            "parent": "58ebf8ca0ccc891b2bbe384d",
+            "slug": "2-bit-grayscale-palette-example-the-amazing-spiderman-2-downtown-level-map",
+            "title": "2 bit grayscale palette example the amazing spiderman 2 downtown level map",
+            "updatedAt": "2020-07-31T03:56:11.050Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "The Amazing Spiderman 2 downtown level map."
+        },
+        {
+            "_id": "614fc225698cc43c6337dd8a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "2-bit Grayscale Palette Example by nkoder",
+            "slug": "2-bit-grayscale-palette-example-by-nkoder",
+            "publishedAt": "2021-09-27T07:50:00.016Z",
+            "user": {
+                "name": "Beetroot Paul",
+                "slug": "beetrootpaul"
+            },
+            "parent": "58ebf8ca0ccc891b2bbe384d",
+            "image": "palette-examples/2-bit-grayscale-palette-example-by-nkoder-614fc2.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-09-26T00:43:17.516Z",
+            "updatedAt": "2021-09-27T07:50:00.016Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "676767",
+        "b6b6b6",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "58ebf8ca0ccc891b2bbe384d",
+        "type": "palettes",
+        "count": 96,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

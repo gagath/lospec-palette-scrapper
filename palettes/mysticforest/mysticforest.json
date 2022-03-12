@@ -1,0 +1,57 @@
+{
+    "_id": "5fef9b4ee510d97703130cc5",
+    "tags": [
+        "forest",
+        "mistic",
+        "7",
+        "colors",
+        "colours"
+    ],
+    "colors": [
+        "023c40",
+        "885053",
+        "6b7fd7",
+        "9dacff",
+        "94c9a9",
+        "c6ecae",
+        "ededf4"
+    ],
+    "downloads": "158",
+    "featured": false,
+    "likes": 15,
+    "comments": 0,
+    "title": "Mystic Forest",
+    "hashtag": "mysticforest",
+    "description": "",
+    "creator": true,
+    "slug": "mystic-forest",
+    "publishedAt": "2021-01-02T06:25:00.021Z",
+    "user": {
+        "name": "Orbitron",
+        "slug": "orbitron"
+    },
+    "numberOfColors": 7,
+    "createdAt": "2021-01-01T21:59:42.154Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "023c40",
+        "885053",
+        "6b7fd7",
+        "9dacff",
+        "94c9a9",
+        "c6ecae",
+        "ededf4"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5fef9b4ee510d97703130cc5",
+        "type": "palettes",
+        "count": 15,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

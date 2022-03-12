@@ -1,0 +1,52 @@
+{
+    "_id": "60a539dc3168d34d461d001c",
+    "tags": [
+        "sea",
+        "seaside",
+        "water",
+        "beach"
+    ],
+    "colors": [
+        "efc7c2",
+        "ffe5d4",
+        "bfd3c1",
+        "68a691",
+        "694f5d"
+    ],
+    "downloads": "138",
+    "featured": false,
+    "likes": 8,
+    "comments": 0,
+    "slug": "seaside-5",
+    "publishedAt": "2021-09-07T15:20:00.490Z",
+    "user": {
+        "name": "Broliant 112",
+        "slug": "broliant-112"
+    },
+    "title": "Seaside 5",
+    "hashtag": "seaside",
+    "description": "A quick palette for a seaside-themed art!",
+    "creator": true,
+    "createdAt": "2021-05-19T16:16:28.634Z",
+    "numberOfColors": 5,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "efc7c2",
+        "ffe5d4",
+        "bfd3c1",
+        "68a691",
+        "694f5d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "60a539dc3168d34d461d001c",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

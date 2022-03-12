@@ -1,0 +1,71 @@
+{
+    "_id": "6047ef7d3871d070a47d8dc9",
+    "tags": [
+        "minecraft"
+    ],
+    "colors": [
+        "ffffff",
+        "999999",
+        "4c4c4c",
+        "191919",
+        "664c33",
+        "993333",
+        "d87f33",
+        "e5e533",
+        "7fcc19",
+        "667f33",
+        "4c7f99",
+        "6699d8",
+        "334cb2",
+        "7f3fb2",
+        "b24cd8",
+        "f27fa5"
+    ],
+    "downloads": "100",
+    "featured": false,
+    "likes": 5,
+    "comments": 0,
+    "title": "Minecraft Dyes",
+    "hashtag": "minecraftdyecolors",
+    "description": "These are the 16 dye colors that are used to color things like wool, concrete, banners, and glass in Minecraft. This palette is for people like me who like using pixel art apps to plan their Minecraft art projects (I have a stained glass gallery).",
+    "creator": false,
+    "slug": "minecraft-dyes",
+    "publishedAt": "2021-04-01T23:30:00.031Z",
+    "user": {
+        "name": "Christopher",
+        "slug": "cholericnorth"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2021-03-09T21:58:21.211Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffffff",
+        "999999",
+        "4c4c4c",
+        "191919",
+        "664c33",
+        "993333",
+        "d87f33",
+        "e5e533",
+        "7fcc19",
+        "667f33",
+        "4c7f99",
+        "6699d8",
+        "334cb2",
+        "7f3fb2",
+        "b24cd8",
+        "f27fa5"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6047ef7d3871d070a47d8dc9",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

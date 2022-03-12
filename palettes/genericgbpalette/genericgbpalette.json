@@ -1,0 +1,74 @@
+{
+    "_id": "6036399c2c1f71699170c11d",
+    "tags": [
+        "gameboy",
+        " gb",
+        " 2bit",
+        " generic",
+        " green"
+    ],
+    "colors": [
+        "006636",
+        "579938",
+        "8dcc30",
+        "e1ff5b"
+    ],
+    "downloads": "238",
+    "featured": false,
+    "likes": 15,
+    "comments": 2,
+    "title": "GenericGB",
+    "hashtag": "genericgbpalette",
+    "description": "Needed a Gameboy palette, and since I was insanely bored, I created one as opposed to using one.",
+    "creator": true,
+    "slug": "genericgb",
+    "publishedAt": "2021-03-01T21:40:00.012Z",
+    "user": {
+        "name": "_sedona",
+        "slug": "sedona76"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-02-24T11:33:48.652Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60363a4f2c1f71699170c126",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/genericgb-palette-example-by-sedona-60363a.png",
+            "creator": true,
+            "description": "Mario 3 inspired landscape with Yoshi. Feel free to use this if you need an example for your own palette, just remember to credit me.",
+            "title": "GenericGB Palette Example by _sedona",
+            "slug": "genericgb-palette-example-by-sedona",
+            "publishedAt": "2021-02-28T16:10:00.017Z",
+            "user": {
+                "name": "_sedona",
+                "slug": "sedona76"
+            },
+            "parent": "6036399c2c1f71699170c11d",
+            "createdAt": "2021-02-24T11:36:47.329Z",
+            "updatedAt": "2021-02-28T16:10:00.017Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Mario 3 inspired landscape with Yoshi. Feel free to use this if you need an example for your own palette, just remember to credit me."
+        }
+    ],
+    "colorsArray": [
+        "006636",
+        "579938",
+        "8dcc30",
+        "e1ff5b"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6036399c2c1f71699170c11d",
+        "type": "palettes",
+        "count": 15,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

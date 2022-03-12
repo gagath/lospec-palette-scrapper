@@ -1,0 +1,72 @@
+{
+    "_id": "6032255dc5202c1249e5ac98",
+    "tags": [
+        "tar",
+        "polyphrog",
+        "gb"
+    ],
+    "colors": [
+        "843c35",
+        "ffeb94",
+        "398a75",
+        "26153a"
+    ],
+    "downloads": "313",
+    "featured": false,
+    "likes": 38,
+    "comments": 3,
+    "title": "black tar",
+    "hashtag": "blacktar",
+    "description": "i dunno...",
+    "creator": true,
+    "slug": "black-tar",
+    "publishedAt": "2021-03-01T03:40:00.030Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-02-21T09:18:21.413Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60322570c5202c1249e5ac9a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/black-tar-palette-example-by-polyphorge-603225.png",
+            "creator": true,
+            "description": "",
+            "title": "black tar Palette Example by polyphorge",
+            "slug": "black-tar-palette-example-by-polyphorge",
+            "publishedAt": "2021-02-28T16:00:00.024Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "6032255dc5202c1249e5ac98",
+            "createdAt": "2021-02-21T09:18:40.421Z",
+            "updatedAt": "2021-02-28T16:00:00.024Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "843c35",
+        "ffeb94",
+        "398a75",
+        "26153a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6032255dc5202c1249e5ac98",
+        "type": "palettes",
+        "count": 38,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

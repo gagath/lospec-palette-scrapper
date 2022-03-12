@@ -1,0 +1,58 @@
+{
+    "_id": "609d8262cd2cc942245f42ab",
+    "tags": [
+        "green",
+        "alligator07",
+        "fartgator",
+        "fartgator07",
+        "artists",
+        "7"
+    ],
+    "colors": [
+        "141214",
+        "33402e",
+        "4d5e5e",
+        "488463",
+        "9fb846",
+        "eabf5b",
+        "ffffe0"
+    ],
+    "downloads": "76",
+    "featured": false,
+    "likes": 8,
+    "comments": 8,
+    "slug": "fartgator-07",
+    "publishedAt": "2021-09-13T21:20:00.046Z",
+    "user": {
+        "name": "Alligator07",
+        "slug": "alligator07"
+    },
+    "title": "fartgator-07",
+    "hashtag": "fartgator07",
+    "description": "credit to @cheesefritters on pixilart.com for the name",
+    "creator": true,
+    "createdAt": "2021-05-13T19:47:46.652Z",
+    "numberOfColors": 7,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "141214",
+        "33402e",
+        "4d5e5e",
+        "488463",
+        "9fb846",
+        "eabf5b",
+        "ffffe0"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "609d8262cd2cc942245f42ab",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

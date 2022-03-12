@@ -1,0 +1,56 @@
+{
+    "_id": "5fba2002eb0630284bc7c392",
+    "tags": [
+        "melon",
+        " watermelon"
+    ],
+    "colors": [
+        "231f20",
+        "6f3228",
+        "bb4430",
+        "d59587",
+        "efe6dd",
+        "adc79a",
+        "6aa856",
+        "47643b"
+    ],
+    "downloads": "93",
+    "featured": false,
+    "likes": 10,
+    "comments": 1,
+    "title": "Melon 8",
+    "hashtag": "watermelon",
+    "description": "",
+    "creator": true,
+    "slug": "melon-8",
+    "publishedAt": "2020-11-24T14:35:00.021Z",
+    "user": {
+        "name": "Inconsistency",
+        "slug": "inconsistency"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2020-11-22T08:23:30.685Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "231f20",
+        "6f3228",
+        "bb4430",
+        "d59587",
+        "efe6dd",
+        "adc79a",
+        "6aa856",
+        "47643b"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fba2002eb0630284bc7c392",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

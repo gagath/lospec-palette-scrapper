@@ -1,0 +1,48 @@
+{
+    "_id": "6140dfa528cef42bea26dc8c",
+    "tags": [
+        "green",
+        "red",
+        "frog",
+        "gabs"
+    ],
+    "colors": [
+        "e3e8c9",
+        "7da257",
+        "ab4949"
+    ],
+    "downloads": "64",
+    "featured": false,
+    "likes": 11,
+    "comments": 0,
+    "slug": "tree-frog",
+    "publishedAt": "2021-09-19T09:20:00.023Z",
+    "user": {
+        "name": "gabs",
+        "slug": "gabs"
+    },
+    "title": "Tree Frog",
+    "hashtag": "treefrogpal",
+    "description": "Inspired by the beauty of frogs",
+    "creator": true,
+    "numberOfColors": 3,
+    "createdAt": "2021-09-14T17:45:09.479Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "e3e8c9",
+        "7da257",
+        "ab4949"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 33.333333333333336,
+    "height": 32,
+    "likebutton": {
+        "content": "6140dfa528cef42bea26dc8c",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

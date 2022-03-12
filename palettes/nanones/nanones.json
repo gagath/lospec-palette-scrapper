@@ -1,0 +1,98 @@
+{
+    "_id": "61e2c55974201b43621ffc5a",
+    "tags": [
+        "nes"
+    ],
+    "colors": [
+        "000000",
+        "043d46",
+        "179785",
+        "624500",
+        "006421",
+        "97b516",
+        "bd3506",
+        "e18734",
+        "f7d39c",
+        "970e48",
+        "d350eb",
+        "f7adea",
+        "4819ad",
+        "617ff8",
+        "a0e0fa",
+        "626262",
+        "bdb7bd",
+        "fcfcfc"
+    ],
+    "downloads": "322",
+    "featured": false,
+    "likes": 36,
+    "comments": 1,
+    "slug": "nanones",
+    "publishedAt": "2022-01-16T00:45:00.045Z",
+    "user": {
+        "name": "Space Sandwich",
+        "slug": "spacesandwich"
+    },
+    "title": "NaNoNES",
+    "hashtag": "nanones",
+    "description": "Do you like the NES aesthetic but think the pallete is too big an inefficient? Well this 18 colour palette collects the most common colours and colour combinations removing too similar colours, and it still looks like NES if you don't think about it too much!",
+    "creator": true,
+    "numberOfColors": 18,
+    "createdAt": "2022-01-15T13:00:09.065Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61e2dd51c8f0664d58d65d1c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "NaNoNES Palette Example by Space Sandwich",
+            "slug": "nanones-palette-example-by-space-sandwichinxiyv",
+            "publishedAt": "2022-01-15T15:45:00.036Z",
+            "user": {
+                "name": "Space Sandwich",
+                "slug": "spacesandwich"
+            },
+            "parent": "61e2c55974201b43621ffc5a",
+            "image": "palette-examples/nanones-palette-example-by-space-sandwichinxiyv.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-01-15T14:42:25.958Z",
+            "updatedAt": "2022-01-15T15:45:00.037Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "043d46",
+        "179785",
+        "624500",
+        "006421",
+        "97b516",
+        "bd3506",
+        "e18734",
+        "f7d39c",
+        "970e48",
+        "d350eb",
+        "f7adea",
+        "4819ad",
+        "617ff8",
+        "a0e0fa",
+        "626262",
+        "bdb7bd",
+        "fcfcfc"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 11.11111111111111,
+    "height": 32,
+    "likebutton": {
+        "content": "61e2c55974201b43621ffc5a",
+        "type": "palettes",
+        "count": 36,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

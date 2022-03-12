@@ -1,0 +1,77 @@
+{
+    "_id": "60903c29cf82266bed8a299c",
+    "tags": [
+        "complimentary",
+        "6color",
+        "soft",
+        "saturated"
+    ],
+    "colors": [
+        "1d2b21",
+        "3d315d",
+        "774126",
+        "4a7383",
+        "bb863c",
+        "d2bdbd"
+    ],
+    "downloads": "345",
+    "featured": false,
+    "likes": 33,
+    "comments": 3,
+    "slug": "compliment6",
+    "publishedAt": "2021-05-05T03:45:00.027Z",
+    "user": {
+        "name": "Royal_Naym",
+        "slug": "royalnaym"
+    },
+    "title": "Compliment6",
+    "hashtag": "compliment6",
+    "description": "A 6 color palette based on the\u00a0CVD6\u00a0palette by\u00a0\u00c1d\u00e1m Szieberth. I have not only brought their values closer together and modified their saturations, but also replaced the pure black and white by a deep green and a soft, pinkish white.",
+    "creator": true,
+    "createdAt": "2021-05-03T18:08:41.994Z",
+    "numberOfColors": 6,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60903d4ecf82266bed8a29a6",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Compliment6 Palette Example by Royal_Naym",
+            "slug": "compliment6-palette-example-by-royalnaym",
+            "publishedAt": "2021-05-04T14:20:00.017Z",
+            "user": {
+                "name": "Royal_Naym",
+                "slug": "royalnaym"
+            },
+            "parent": "60903c29cf82266bed8a299c",
+            "image": "palette-examples/compliment6-palette-example-by-royalnaym-60903d.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-05-03T18:13:34.815Z",
+            "updatedAt": "2021-05-04T14:20:00.018Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "1d2b21",
+        "3d315d",
+        "774126",
+        "4a7383",
+        "bb863c",
+        "d2bdbd"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "60903c29cf82266bed8a299c",
+        "type": "palettes",
+        "count": 33,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,67 @@
+{
+    "_id": "5ec2d46ecf4f74069365da3b",
+    "tags": [
+        "pastel"
+    ],
+    "colors": [
+        "b9f261",
+        "99b851",
+        "61f2ca",
+        "51b892",
+        "fae058",
+        "ffbf54",
+        "f76865",
+        "bf585e",
+        "875e9a",
+        "53476c",
+        "f4fdff",
+        "9b9197",
+        "543c45",
+        "14111f"
+    ],
+    "downloads": "295",
+    "featured": false,
+    "likes": 17,
+    "comments": 1,
+    "title": "Pastel - Vivid",
+    "hashtag": "vipas",
+    "description": "<p>Pastels at the limit of brilliance, ideal for striking and colorful drawings</p>",
+    "creator": true,
+    "slug": "pastel-vivid",
+    "publishedAt": "2020-05-19T03:50:00.012Z",
+    "user": {
+        "name": "Paulina Riva",
+        "slug": "paulina-riva"
+    },
+    "numberOfColors": 14,
+    "createdAt": "2020-05-18T18:31:10.723Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "b9f261",
+        "99b851",
+        "61f2ca",
+        "51b892",
+        "fae058",
+        "ffbf54",
+        "f76865",
+        "bf585e",
+        "875e9a",
+        "53476c",
+        "f4fdff",
+        "9b9197",
+        "543c45",
+        "14111f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5ec2d46ecf4f74069365da3b",
+        "type": "palettes",
+        "count": 17,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

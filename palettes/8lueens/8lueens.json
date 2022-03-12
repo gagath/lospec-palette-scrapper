@@ -1,0 +1,81 @@
+{
+    "_id": "5fb2b5ea1659793338d048fd",
+    "tags": [
+        "sk3ll",
+        " blues",
+        " greens",
+        " 8"
+    ],
+    "colors": [
+        "9fb9cc",
+        "679e9c",
+        "2e868c",
+        "006e42",
+        "173957",
+        "072927",
+        "08102e",
+        "060f0d"
+    ],
+    "downloads": "339",
+    "featured": false,
+    "likes": 31,
+    "comments": 2,
+    "title": "8lueens",
+    "hashtag": "8lueens",
+    "description": "",
+    "creator": true,
+    "slug": "8lueens",
+    "publishedAt": "2020-11-18T01:10:00.022Z",
+    "user": {
+        "name": "Sk3ll Sk3ll",
+        "slug": "sk3ll2"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2020-11-16T17:24:58.176Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fb2cdcf1659793338d04a59",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/8lueens-palette-example-by-sk3ll-sk3ll-5fb2cd.png",
+            "creator": false,
+            "description": "Some big boys sleepy",
+            "title": "8lueens Palette Example by Sk3ll Sk3ll",
+            "slug": "8lueens-palette-example-by-sk3ll-sk3ll",
+            "publishedAt": "2020-11-16T19:35:00.021Z",
+            "user": {
+                "name": "Sk3ll Sk3ll",
+                "slug": "sk3ll2"
+            },
+            "parent": "5fb2b5ea1659793338d048fd",
+            "createdAt": "2020-11-16T19:06:55.262Z",
+            "updatedAt": "2020-11-16T19:35:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Some big boys sleepy"
+        }
+    ],
+    "colorsArray": [
+        "9fb9cc",
+        "679e9c",
+        "2e868c",
+        "006e42",
+        "173957",
+        "072927",
+        "08102e",
+        "060f0d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fb2b5ea1659793338d048fd",
+        "type": "palettes",
+        "count": 31,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

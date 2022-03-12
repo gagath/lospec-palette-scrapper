@@ -1,0 +1,48 @@
+{
+    "_id": "613dc042924a5f27c85a89f2",
+    "tags": [
+        "gb",
+        "gameboy"
+    ],
+    "colors": [
+        "000000",
+        "222034",
+        "5b6ee1",
+        "cbdbfc"
+    ],
+    "downloads": "38",
+    "featured": false,
+    "likes": 2,
+    "comments": 0,
+    "slug": "4seas",
+    "publishedAt": "2021-10-08T14:45:00.039Z",
+    "user": {
+        "name": "Septic Swag",
+        "slug": "septic-swag"
+    },
+    "title": "4Seas",
+    "hashtag": "4seas",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-09-12T08:54:26.032Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "222034",
+        "5b6ee1",
+        "cbdbfc"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "613dc042924a5f27c85a89f2",
+        "type": "palettes",
+        "count": 2,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

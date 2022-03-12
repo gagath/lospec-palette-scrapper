@@ -1,0 +1,78 @@
+{
+    "_id": "6142781c936ff26ef045968b",
+    "tags": [
+        "queer",
+        "lgbt",
+        "flag",
+        "purple",
+        "green"
+    ],
+    "colors": [
+        "714675",
+        "a37acc",
+        "fcf5eb",
+        "214d27",
+        "48821e",
+        "e8d5ba"
+    ],
+    "downloads": "58",
+    "featured": false,
+    "likes": 16,
+    "comments": 0,
+    "slug": "gender-queer-6",
+    "publishedAt": "2021-10-09T21:45:00.035Z",
+    "user": {
+        "name": "River",
+        "slug": "witchy-rhisa"
+    },
+    "title": "Gender Queer 6",
+    "hashtag": "gq6palette",
+    "description": "Gender Queer 6 (GQ6) is a 6 color palette inspired by the genderqueer and queer chevron flags. Don't be fooled by the limited and strange array of colors, GQ6 is surprisingly flexible, vibrant, and fun to work with. If you're looking for a bit of a challenge and a unique flair, this palette is definitely for you. ",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2021-09-15T22:47:56.416Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61427860936ff26ef0459692",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Gender Queer 6 Palette Example by River",
+            "slug": "gender-queer-6-palette-example-by-river",
+            "publishedAt": "2021-09-16T06:40:00.022Z",
+            "user": {
+                "name": "River",
+                "slug": "witchy-rhisa"
+            },
+            "parent": "6142781c936ff26ef045968b",
+            "image": "palette-examples/gender-queer-6-palette-example-by-river-614278.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-09-15T22:49:04.960Z",
+            "updatedAt": "2021-09-16T06:40:00.022Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "714675",
+        "a37acc",
+        "fcf5eb",
+        "214d27",
+        "48821e",
+        "e8d5ba"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "6142781c936ff26ef045968b",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

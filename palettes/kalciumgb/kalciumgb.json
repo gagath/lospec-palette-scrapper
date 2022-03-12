@@ -1,0 +1,47 @@
+{
+    "_id": "5fa6993b12135177b5add6ec",
+    "tags": [
+        "4colorsredreddownbelowrdb"
+    ],
+    "colors": [
+        "e29a9a",
+        "bd4035",
+        "73263d",
+        "26091a"
+    ],
+    "downloads": "79",
+    "featured": false,
+    "likes": 11,
+    "comments": 1,
+    "title": "Kalcium Gameboy",
+    "hashtag": "kalciumgb",
+    "description": "",
+    "creator": true,
+    "slug": "kalcium-gameboy",
+    "publishedAt": "2020-11-09T21:35:00.023Z",
+    "user": {
+        "name": "VivaThis",
+        "slug": "viva-this"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-11-07T12:55:23.105Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "e29a9a",
+        "bd4035",
+        "73263d",
+        "26091a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5fa6993b12135177b5add6ec",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

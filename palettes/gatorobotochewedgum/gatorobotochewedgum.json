@@ -1,0 +1,69 @@
+{
+    "_id": "5dc8704ca5731c47cdeef339",
+    "slug": "gato-roboto-chewed-gum",
+    "description": "A palette from the game <i><a href=\"https://gatoroboto.com/\" target=\"_blank\">Gato Roboto</a></i>.",
+    "colors": [
+        "29161d",
+        "fa9495"
+    ],
+    "creator": false,
+    "comments": 0,
+    "likes": 10,
+    "createdAt": "2019-11-10T20:17:16.744Z",
+    "featured": false,
+    "tags": [
+        "game",
+        "gatoroboto",
+        "software",
+        "1bit"
+    ],
+    "downloads": "135",
+    "numberOfColors": 2,
+    "hashtag": "gatorobotochewedgum",
+    "title": "Gato Roboto - Chewed Gum",
+    "user": {
+        "name": "PureAsbestos",
+        "slug": "pureasbestos"
+    },
+    "publishedAt": "2019-11-10T20:17:16.744Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6072437308afae7f3097f27a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Gato Roboto - Chewed Gum Palette Example by Casei Solus",
+            "slug": "gato-roboto-chewed-gum-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-12T16:00:00.084Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5dc8704ca5731c47cdeef339",
+            "image": "palette-examples/gato-roboto-chewed-gum-palette-example-by-casei-solus-607243.png",
+            "creator": true,
+            "description": "A candy bar.",
+            "createdAt": "2021-04-11T00:31:47.116Z",
+            "updatedAt": "2021-04-12T16:00:00.085Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A candy bar."
+        }
+    ],
+    "colorsArray": [
+        "29161d",
+        "fa9495"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "5dc8704ca5731c47cdeef339",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,72 @@
+{
+    "_id": "5fb6e6fe2005144adafd4c1b",
+    "tags": [
+        "pastel",
+        "desaturated"
+    ],
+    "colors": [
+        "151515",
+        "666666",
+        "bbbbbb",
+        "eeeeee",
+        "a34c4c",
+        "c76c6c",
+        "be966b",
+        "e2c68a",
+        "506942",
+        "6d976c",
+        "5e7d9d",
+        "92b5d9",
+        "534c3f",
+        "a69d8c",
+        "d1c7b2",
+        "6d5f7f"
+    ],
+    "downloads": "189",
+    "featured": false,
+    "likes": 9,
+    "comments": 0,
+    "title": "Astro16-v2",
+    "hashtag": "astro16v2",
+    "description": "",
+    "creator": true,
+    "slug": "astro16-v2",
+    "publishedAt": "2020-11-22T19:45:00.023Z",
+    "user": {
+        "name": "FrostLace",
+        "slug": "frostlace"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-11-19T21:43:26.629Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "151515",
+        "666666",
+        "bbbbbb",
+        "eeeeee",
+        "a34c4c",
+        "c76c6c",
+        "be966b",
+        "e2c68a",
+        "506942",
+        "6d976c",
+        "5e7d9d",
+        "92b5d9",
+        "534c3f",
+        "a69d8c",
+        "d1c7b2",
+        "6d5f7f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fb6e6fe2005144adafd4c1b",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

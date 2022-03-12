@@ -1,0 +1,118 @@
+{
+    "_id": "5f6b60c508895951605d39ee",
+    "tags": [
+        "love",
+        " warm",
+        " pastel"
+    ],
+    "colors": [
+        "631616",
+        "260b1e",
+        "343b22",
+        "7b6d32",
+        "af4d4d",
+        "631d84",
+        "306843",
+        "cbaf6b",
+        "deac96",
+        "8f6ab8",
+        "77b391",
+        "b1c276",
+        "dec4dc",
+        "9ea9cb",
+        "5880b3",
+        "38557b"
+    ],
+    "downloads": "84",
+    "featured": false,
+    "likes": 10,
+    "comments": 0,
+    "title": "Pastel Love",
+    "hashtag": "pastellove",
+    "description": "A palette for a warm and pastel aesthetic",
+    "creator": true,
+    "slug": "pastel-love",
+    "publishedAt": "2020-09-26T22:05:00.017Z",
+    "user": {
+        "name": "Cheeseismysoul",
+        "slug": "nomz-toes-420"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-09-23T14:50:45.617Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f6cb4c0e4c8a22f67158372",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/pastel-love-palette-example-by-cheeseismysoul-3-5f6cb4.png",
+            "creator": true,
+            "description": "",
+            "title": "Pastel Love Palette Example by Cheeseismysoul",
+            "slug": "pastel-love-palette-example-by-cheeseismysoul-3",
+            "publishedAt": "2020-10-06T06:40:00.018Z",
+            "user": {
+                "name": "Cheeseismysoul",
+                "slug": "nomz-toes-420"
+            },
+            "parent": "5f6b60c508895951605d39ee",
+            "createdAt": "2020-09-24T15:01:20.153Z",
+            "updatedAt": "2020-10-06T06:40:00.018Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        },
+        {
+            "_id": "5f6ce62ee4c8a22f671585b8",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/pastel-love-palette-example-by-cheeseismysoul-4-5f6ce6.png",
+            "creator": true,
+            "description": "",
+            "title": "Pastel Love Palette Example by Cheeseismysoul",
+            "slug": "pastel-love-palette-example-by-cheeseismysoul-4",
+            "publishedAt": "2020-09-26T16:25:00.017Z",
+            "user": {
+                "name": "Cheeseismysoul",
+                "slug": "nomz-toes-420"
+            },
+            "parent": "5f6b60c508895951605d39ee",
+            "createdAt": "2020-09-24T18:32:14.796Z",
+            "updatedAt": "2020-09-26T16:25:00.018Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "631616",
+        "260b1e",
+        "343b22",
+        "7b6d32",
+        "af4d4d",
+        "631d84",
+        "306843",
+        "cbaf6b",
+        "deac96",
+        "8f6ab8",
+        "77b391",
+        "b1c276",
+        "dec4dc",
+        "9ea9cb",
+        "5880b3",
+        "38557b"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5f6b60c508895951605d39ee",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

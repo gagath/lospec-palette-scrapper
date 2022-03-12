@@ -1,0 +1,84 @@
+{
+    "_id": "60d1173ac13c0f69c62e600a",
+    "tags": [
+        "klafooty",
+        "artist",
+        "6colors",
+        "6",
+        "cold",
+        "deep",
+        "purple",
+        "blue",
+        "mint",
+        "scifi",
+        "fantasy"
+    ],
+    "colors": [
+        "2a173b",
+        "3f2c5f",
+        "443f7b",
+        "4c5c87",
+        "69809e",
+        "95c5ac"
+    ],
+    "downloads": "2,174",
+    "featured": false,
+    "likes": 121,
+    "comments": 10,
+    "slug": "cryptic-ocean",
+    "publishedAt": "2021-06-24T22:45:00.042Z",
+    "user": {
+        "name": "Klafooty",
+        "slug": "mallory"
+    },
+    "title": "Cryptic Ocean",
+    "hashtag": "crypticocean",
+    "description": "A 6 colors deep palette, ranging from a deep purple to blue, with a bit of a green to it.",
+    "creator": true,
+    "createdAt": "2021-06-21T22:48:26.775Z",
+    "numberOfColors": 6,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60d124075da05c6cf00216c1",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Cryptic Ocean Palette Example by Klafooty",
+            "slug": "cryptic-ocean-palette-example-by-klafooty",
+            "publishedAt": "2021-06-24T22:50:00.022Z",
+            "user": {
+                "name": "Klafooty",
+                "slug": "mallory"
+            },
+            "parent": "60d1173ac13c0f69c62e600a",
+            "image": "palette-examples/cryptic-ocean-palette-example-by-klafooty-60d124.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-06-21T23:43:03.385Z",
+            "updatedAt": "2021-06-24T22:50:00.023Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "2a173b",
+        "3f2c5f",
+        "443f7b",
+        "4c5c87",
+        "69809e",
+        "95c5ac"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "60d1173ac13c0f69c62e600a",
+        "type": "palettes",
+        "count": 121,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

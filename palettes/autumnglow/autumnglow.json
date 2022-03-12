@@ -1,0 +1,103 @@
+{
+    "_id": "5fc0c2d4c2028345be9d6311",
+    "tags": [
+        "warm",
+        "fantasy"
+    ],
+    "colors": [
+        "ffffe1",
+        "ffd8a9",
+        "ffb366",
+        "ff5b4f",
+        "f2af92",
+        "f39d91",
+        "d38e84",
+        "c37289",
+        "ad82cf",
+        "8455a9",
+        "794d81",
+        "4a3778",
+        "a9548a",
+        "814d6e",
+        "c92e70",
+        "9e2081",
+        "7e9770",
+        "5d7668",
+        "235a63",
+        "533a44"
+    ],
+    "downloads": "473",
+    "featured": false,
+    "likes": 34,
+    "comments": 0,
+    "title": "Autumn glow",
+    "hashtag": "autumnglow",
+    "description": "",
+    "creator": true,
+    "slug": "autumn-glow",
+    "publishedAt": "2020-12-06T01:45:00.032Z",
+    "user": {
+        "name": "Sonnenstein",
+        "slug": "sonnenstein"
+    },
+    "numberOfColors": 20,
+    "createdAt": "2020-11-27T09:11:48.366Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fc1739cd3eeec693954b254",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/autumn-glow-palette-example-by-sonnenstein-5fc173.png",
+            "creator": true,
+            "description": "",
+            "title": "Autumn glow Palette Example by Sonnenstein",
+            "slug": "autumn-glow-palette-example-by-sonnenstein",
+            "publishedAt": "2020-12-03T20:35:00.014Z",
+            "user": {
+                "name": "Sonnenstein",
+                "slug": "sonnenstein"
+            },
+            "parent": "5fc0c2d4c2028345be9d6311",
+            "createdAt": "2020-11-27T21:46:04.608Z",
+            "updatedAt": "2020-12-03T20:35:00.014Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "ffffe1",
+        "ffd8a9",
+        "ffb366",
+        "ff5b4f",
+        "f2af92",
+        "f39d91",
+        "d38e84",
+        "c37289",
+        "ad82cf",
+        "8455a9",
+        "794d81",
+        "4a3778",
+        "a9548a",
+        "814d6e",
+        "c92e70",
+        "9e2081",
+        "7e9770",
+        "5d7668",
+        "235a63",
+        "533a44"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 10,
+    "height": 32,
+    "likebutton": {
+        "content": "5fc0c2d4c2028345be9d6311",
+        "type": "palettes",
+        "count": 34,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

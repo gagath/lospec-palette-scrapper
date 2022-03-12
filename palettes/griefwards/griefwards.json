@@ -1,0 +1,92 @@
+{
+    "_id": "601eba31a234ad210fe313ae",
+    "tags": [],
+    "colors": [
+        "a60241",
+        "ff621a",
+        "cf8d00",
+        "e3d800",
+        "ebdc9b",
+        "523c40",
+        "9e6771",
+        "cfa7ad",
+        "5861a1",
+        "290091",
+        "004a54",
+        "00ba4e",
+        "f2efeb",
+        "959d9e",
+        "00c7b3",
+        "212621"
+    ],
+    "downloads": "113",
+    "featured": false,
+    "likes": 15,
+    "comments": 0,
+    "title": "Griefwards and through",
+    "hashtag": "griefwards",
+    "description": "Recommended for dim pictures with smaller bright elements, yet may be fit in other circumstances. It is not an universal palette so make sure its advantages and disadvantages will serve your needs.",
+    "creator": true,
+    "slug": "griefwards-and-through",
+    "publishedAt": "2021-02-17T20:40:00.270Z",
+    "user": {
+        "name": "Quickmarble",
+        "slug": "quickmarble"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2021-02-06T15:48:01.793Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6023cee28c4eaf7be46d2bb4",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/griefwards-and-through-palette-example-by-quickmarble-6023ce.png",
+            "creator": true,
+            "description": "",
+            "title": "Griefwards and through Palette Example by Quickmarble",
+            "slug": "griefwards-and-through-palette-example-by-quickmarble",
+            "publishedAt": "2021-02-11T19:55:00.010Z",
+            "user": {
+                "name": "Quickmarble",
+                "slug": "quickmarble"
+            },
+            "parent": "601eba31a234ad210fe313ae",
+            "createdAt": "2021-02-10T12:17:38.645Z",
+            "updatedAt": "2021-02-11T19:55:00.010Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "a60241",
+        "ff621a",
+        "cf8d00",
+        "e3d800",
+        "ebdc9b",
+        "523c40",
+        "9e6771",
+        "cfa7ad",
+        "5861a1",
+        "290091",
+        "004a54",
+        "00ba4e",
+        "f2efeb",
+        "959d9e",
+        "00c7b3",
+        "212621"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "601eba31a234ad210fe313ae",
+        "type": "palettes",
+        "count": 15,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

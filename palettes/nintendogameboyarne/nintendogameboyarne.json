@@ -1,0 +1,62 @@
+{
+    "_id": "58ff8285e15f242214faf189",
+    "createdAt": "2017-04-25T17:08:21.620Z",
+    "slug": "nintendo-gameboy-arne",
+    "description": "Custom Gameboy alternative made by <a href=\"http://androidarts.com/palette/16pal.htm\">Arne</a>.",
+    "colors": [
+        "243137",
+        "3f503f",
+        "768448",
+        "acb56b"
+    ],
+    "tags": [
+        "artist",
+        "gameboy",
+        "arne"
+    ],
+    "downloads": "1,094",
+    "numberOfColors": 4,
+    "likes": 15,
+    "comments": 0,
+    "hashtag": "nintendogameboyarne",
+    "title": "Nintendo Gameboy (Arne)",
+    "publishedAt": "2017-04-25T17:08:21.620Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "58ffbd14e15f242214faf18a",
+            "description": "Jade City Map from <a href=\"https://en.wikipedia.org/wiki/Final_Fantasy_Adventure\">Final Fantasy Adventure</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.049Z",
+            "creator": false,
+            "image": "palette-examples/nintendo-gameboy-arne-palette-example-jade-city-map-from-final-fantasy-adventure-58ffbd.png",
+            "likes": 0,
+            "parent": "58ff8285e15f242214faf189",
+            "slug": "nintendo-gameboy-arne-palette-example-jade-city-map-from-final-fantasy-adventure",
+            "title": "nintendo gameboy arne palette example jade city map from final fantasy adventure",
+            "updatedAt": "2020-07-31T03:56:11.049Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Jade City Map from Final Fantasy Adventure"
+        }
+    ],
+    "colorsArray": [
+        "243137",
+        "3f503f",
+        "768448",
+        "acb56b"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "58ff8285e15f242214faf189",
+        "type": "palettes",
+        "count": 15,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

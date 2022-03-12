@@ -1,0 +1,67 @@
+{
+    "_id": "5f3d43d48346b17bdc5dc40d",
+    "tags": [
+        "simple"
+    ],
+    "colors": [
+        "000000",
+        "e3dac9",
+        "318ce7",
+        "0b486b",
+        "272941",
+        "1cceb7",
+        "008080",
+        "1b4d3e",
+        "2c9c38",
+        "f0a830",
+        "ffa4e9",
+        "e95081",
+        "7b1e7a",
+        "841b2d"
+    ],
+    "downloads": "80",
+    "featured": false,
+    "likes": 7,
+    "comments": 0,
+    "title": "Simple-14",
+    "hashtag": "simple14",
+    "description": "This is a simple color palette. It has 14 colors.",
+    "creator": true,
+    "slug": "simple-14",
+    "publishedAt": "2020-09-08T13:15:00.025Z",
+    "user": {
+        "name": "Cile",
+        "slug": "cile"
+    },
+    "numberOfColors": 14,
+    "createdAt": "2020-08-19T15:23:00.711Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "e3dac9",
+        "318ce7",
+        "0b486b",
+        "272941",
+        "1cceb7",
+        "008080",
+        "1b4d3e",
+        "2c9c38",
+        "f0a830",
+        "ffa4e9",
+        "e95081",
+        "7b1e7a",
+        "841b2d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5f3d43d48346b17bdc5dc40d",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,77 @@
+{
+    "_id": "5f849fd3d58e4448cf919221",
+    "tags": [
+        "gameboy",
+        " 2bit",
+        " halloween",
+        " creepy",
+        " spooky",
+        " barbie",
+        " purple",
+        " pink"
+    ],
+    "colors": [
+        "000000",
+        "6e1fb1",
+        "cc3385",
+        "f8fbf3"
+    ],
+    "downloads": "424",
+    "featured": false,
+    "likes": 50,
+    "comments": 0,
+    "title": "Barbie: The Slasher Movie",
+    "hashtag": "barbieslasher",
+    "description": "",
+    "creator": true,
+    "slug": "barbie-the-slasher-movie",
+    "publishedAt": "2020-10-14T16:20:00.039Z",
+    "user": {
+        "name": "obliviiist",
+        "slug": "obliviiist"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-10-12T18:26:27.828Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f84a157d58e4448cf919230",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/barbie-the-slasher-movie-palette-example-by-obliviiist-5f84a1.png",
+            "creator": true,
+            "description": "Screenshot from UNHHHBOUND: Tabitha's Awakening",
+            "title": "Barbie: The Slasher Movie Palette Example",
+            "slug": "barbie-the-slasher-movie-palette-example-by-obliviiist",
+            "publishedAt": "2020-10-14T16:35:00.013Z",
+            "user": {
+                "name": "obliviiist",
+                "slug": "obliviiist"
+            },
+            "parent": "5f849fd3d58e4448cf919221",
+            "createdAt": "2020-10-12T18:32:55.569Z",
+            "updatedAt": "2021-05-28T18:19:39.571Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Screenshot from UNHHHBOUND: Tabitha's Awakening"
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "6e1fb1",
+        "cc3385",
+        "f8fbf3"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f849fd3d58e4448cf919221",
+        "type": "palettes",
+        "count": 50,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

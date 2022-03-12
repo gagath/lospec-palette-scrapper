@@ -1,0 +1,49 @@
+{
+    "_id": "61eafbb4f6205903719afab0",
+    "tags": [
+        "tears",
+        "sand",
+        "melancholic"
+    ],
+    "colors": [
+        "2a2829",
+        "87bcce",
+        "4f3f30",
+        "adac8d"
+    ],
+    "downloads": "50",
+    "featured": false,
+    "likes": 4,
+    "comments": 0,
+    "slug": "tears-on-the-sand",
+    "publishedAt": "2022-01-23T01:20:00.042Z",
+    "user": {
+        "name": "Gors",
+        "slug": "spritergors"
+    },
+    "title": "Tears on the sand",
+    "hashtag": "tearsonthesand",
+    "description": "Tears on the sand, can it erase the pain in my heart just like it dries away?",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2022-01-21T18:30:12.539Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "2a2829",
+        "87bcce",
+        "4f3f30",
+        "adac8d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61eafbb4f6205903719afab0",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

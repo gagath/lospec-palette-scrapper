@@ -1,0 +1,47 @@
+{
+    "_id": "6140e05128cef42bea26dc92",
+    "tags": [
+        "red",
+        "blue",
+        "gabs"
+    ],
+    "colors": [
+        "ffffd9",
+        "00334d",
+        "bf0a0d"
+    ],
+    "downloads": "80",
+    "featured": false,
+    "likes": 7,
+    "comments": 3,
+    "slug": "denim",
+    "publishedAt": "2021-09-21T19:55:00.062Z",
+    "user": {
+        "name": "gabs",
+        "slug": "gabs"
+    },
+    "title": "Denim",
+    "hashtag": "denimpal",
+    "description": "Not Jeans\u2122",
+    "creator": true,
+    "numberOfColors": 3,
+    "createdAt": "2021-09-14T17:48:01.499Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffffd9",
+        "00334d",
+        "bf0a0d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 33.333333333333336,
+    "height": 32,
+    "likebutton": {
+        "content": "6140e05128cef42bea26dc92",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

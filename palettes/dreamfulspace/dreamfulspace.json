@@ -1,0 +1,74 @@
+{
+    "_id": "617171a43b50f01f76ae851c",
+    "tags": [
+        "2bit",
+        "space",
+        "dream",
+        "4color",
+        "soft"
+    ],
+    "colors": [
+        "21193c",
+        "932f7b",
+        "e67b8b",
+        "f5d2b8"
+    ],
+    "downloads": "547",
+    "featured": false,
+    "likes": 30,
+    "comments": 0,
+    "slug": "dreamful-space",
+    "publishedAt": "2021-10-22T15:45:00.049Z",
+    "user": {
+        "name": "PowerAV",
+        "slug": "powerav"
+    },
+    "title": "Dreamful Space",
+    "hashtag": "dreamfulspace",
+    "description": "A sweet space palette that mainly uses purple and yellow.",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-10-21T13:56:52.804Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6171d0edb4f20476f4f6bf16",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Dreamful Space Palette Example by PowerAV",
+            "slug": "dreamful-space-palette-example-by-powerav-2",
+            "publishedAt": "2021-10-22T15:55:00.032Z",
+            "user": {
+                "name": "PowerAV",
+                "slug": "powerav"
+            },
+            "parent": "617171a43b50f01f76ae851c",
+            "image": "palette-examples/dreamful-space-palette-example-by-powerav-2-6171d0.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-10-21T20:43:25.247Z",
+            "updatedAt": "2021-10-22T15:55:00.032Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "21193c",
+        "932f7b",
+        "e67b8b",
+        "f5d2b8"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "617171a43b50f01f76ae851c",
+        "type": "palettes",
+        "count": 30,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

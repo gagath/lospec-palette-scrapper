@@ -1,0 +1,57 @@
+{
+    "_id": "5f1a44c2e24f9550bee9ccfa",
+    "tags": [
+        "hypocrite"
+    ],
+    "colors": [
+        "000000",
+        "b80049",
+        "ea569e",
+        "ffa653",
+        "fbe7b5",
+        "ff89dc",
+        "bb19e1",
+        "4a17a1",
+        "071c5a"
+    ],
+    "downloads": "69",
+    "featured": false,
+    "likes": 9,
+    "comments": 0,
+    "title": "Hypocrites",
+    "hashtag": "hypocrite",
+    "description": "",
+    "creator": true,
+    "slug": "hypocrites",
+    "publishedAt": "2020-07-28T00:00:00.021Z",
+    "user": {
+        "name": "Grunion",
+        "slug": "kinggrunion"
+    },
+    "numberOfColors": 9,
+    "createdAt": "2020-07-24T02:17:38.364Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "b80049",
+        "ea569e",
+        "ffa653",
+        "fbe7b5",
+        "ff89dc",
+        "bb19e1",
+        "4a17a1",
+        "071c5a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5f1a44c2e24f9550bee9ccfa",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

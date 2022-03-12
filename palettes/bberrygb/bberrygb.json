@@ -1,0 +1,72 @@
+{
+    "_id": "612821d0c55d515f21d31726",
+    "tags": [
+        "isasstudio",
+        "gameboy",
+        "gb"
+    ],
+    "colors": [
+        "280b0b",
+        "6c2e53",
+        "aa73e0",
+        "b0ecf9"
+    ],
+    "downloads": "368",
+    "featured": false,
+    "likes": 39,
+    "comments": 1,
+    "slug": "blueberry-gb",
+    "publishedAt": "2021-09-26T19:55:00.047Z",
+    "user": {
+        "name": "Isa",
+        "slug": "isas-studio"
+    },
+    "title": "Blueberry GB",
+    "hashtag": "bberrygb",
+    "description": "a gameboy palette i made ig",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-08-26T23:20:48.842Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "612827bcc55d515f21d31750",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Blueberry GB Palette Example by Isa",
+            "slug": "blueberry-gb-palette-example-by-isa",
+            "publishedAt": "2021-08-27T01:25:00.015Z",
+            "user": {
+                "name": "Isa",
+                "slug": "isas-studio"
+            },
+            "parent": "612821d0c55d515f21d31726",
+            "image": "palette-examples/blueberry-gb-palette-example-by-isa-612827.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-08-26T23:46:04.182Z",
+            "updatedAt": "2021-08-27T01:25:00.015Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "280b0b",
+        "6c2e53",
+        "aa73e0",
+        "b0ecf9"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "612821d0c55d515f21d31726",
+        "type": "palettes",
+        "count": 39,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

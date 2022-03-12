@@ -1,0 +1,50 @@
+{
+    "_id": "5f96e4d9fb495057b3bfa285",
+    "tags": [
+        "gameboy",
+        "4colors",
+        "2bit",
+        "warm"
+    ],
+    "colors": [
+        "fbde34",
+        "b68158",
+        "5b4561",
+        "150007"
+    ],
+    "downloads": "97",
+    "featured": false,
+    "likes": 12,
+    "comments": 0,
+    "title": "La Bruja 4",
+    "hashtag": "labruja",
+    "description": "A simple and high contrast 4 color palette made for a 2bit art collab",
+    "creator": true,
+    "slug": "la-bruja-4",
+    "publishedAt": "2020-10-27T14:00:00.040Z",
+    "user": {
+        "name": "KingW",
+        "slug": "kingworrell"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-10-26T15:01:45.826Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "fbde34",
+        "b68158",
+        "5b4561",
+        "150007"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f96e4d9fb495057b3bfa285",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

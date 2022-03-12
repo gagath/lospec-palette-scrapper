@@ -1,0 +1,56 @@
+{
+    "_id": "61f2d5657e64cf4225bb56e5",
+    "tags": [
+        "sunset",
+        "sweetdusk",
+        "dusk",
+        "5",
+        "pink",
+        "purple",
+        "palette",
+        "heycanyougivemeanicecolorpaletteplease"
+    ],
+    "colors": [
+        "fcbbab",
+        "b96889",
+        "583163",
+        "19112b",
+        "000000"
+    ],
+    "downloads": "137",
+    "featured": false,
+    "likes": 18,
+    "comments": 0,
+    "slug": "sweet-dusk",
+    "publishedAt": "2022-02-04T02:10:00.037Z",
+    "user": {
+        "name": "Walking",
+        "slug": "nell"
+    },
+    "title": "Sweet Dusk",
+    "hashtag": "sweetdusk",
+    "description": "5 color palette that smells like pink.",
+    "creator": true,
+    "numberOfColors": 5,
+    "createdAt": "2022-01-27T17:24:53.022Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "fcbbab",
+        "b96889",
+        "583163",
+        "19112b",
+        "000000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "61f2d5657e64cf4225bb56e5",
+        "type": "palettes",
+        "count": 18,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

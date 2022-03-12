@@ -1,0 +1,108 @@
+{
+    "_id": "61f20f626425280765d46a96",
+    "tags": [
+        "10colors",
+        "10",
+        "red",
+        "blue",
+        "10"
+    ],
+    "colors": [
+        "e4e4e4",
+        "8cbda9",
+        "507ca2",
+        "41118b",
+        "3b1249",
+        "100819",
+        "4f1633",
+        "99323f",
+        "a54b4a",
+        "bd8d7a"
+    ],
+    "downloads": "132",
+    "featured": false,
+    "likes": 14,
+    "comments": 0,
+    "slug": "lowcolors",
+    "publishedAt": "2022-01-27T09:15:00.051Z",
+    "user": {
+        "name": "Cabezinu",
+        "slug": "cabezinu"
+    },
+    "title": "[ Low_Colors ]",
+    "hashtag": "lowcolors",
+    "description": "10 colors",
+    "creator": true,
+    "numberOfColors": 10,
+    "createdAt": "2022-01-27T03:20:02.618Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61f210d56425280765d46aa2",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Low Colors Palette Example by Cabezinu",
+            "slug": "low-colors-palette-example-by-cabezinuk6mgs9",
+            "publishedAt": "2022-02-02T15:00:00.045Z",
+            "user": {
+                "name": "Cabezinu",
+                "slug": "cabezinu"
+            },
+            "parent": "61f20f626425280765d46a96",
+            "image": "palette-examples/low-colors-palette-example-by-cabezinuk6mgs9.png",
+            "creator": true,
+            "description": "Cabezinu...",
+            "createdAt": "2022-01-27T03:26:13.056Z",
+            "updatedAt": "2022-02-02T15:00:00.046Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Cabezinu..."
+        },
+        {
+            "_id": "61f213926425280765d46ac5",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Low Colors Palette Example by Cabezinu",
+            "slug": "low-colors-palette-example-by-cabezinu59jffp",
+            "publishedAt": "2022-02-02T15:05:00.042Z",
+            "user": {
+                "name": "Cabezinu",
+                "slug": "cabezinu"
+            },
+            "parent": "61f20f626425280765d46a96",
+            "image": "palette-examples/low-colors-palette-example-by-cabezinu59jffp.png",
+            "creator": true,
+            "description": "Example...",
+            "createdAt": "2022-01-27T03:37:54.992Z",
+            "updatedAt": "2022-02-02T15:05:00.042Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": "Example..."
+        }
+    ],
+    "colorsArray": [
+        "e4e4e4",
+        "8cbda9",
+        "507ca2",
+        "41118b",
+        "3b1249",
+        "100819",
+        "4f1633",
+        "99323f",
+        "a54b4a",
+        "bd8d7a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "61f20f626425280765d46a96",
+        "type": "palettes",
+        "count": 14,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

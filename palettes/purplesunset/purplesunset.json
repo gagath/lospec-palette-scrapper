@@ -1,0 +1,88 @@
+{
+    "_id": "61e4cf522bd61f3e23e99d41",
+    "tags": [
+        "yellow",
+        "purple",
+        "purplesunset",
+        "sunset",
+        "gladiator"
+    ],
+    "colors": [
+        "e6ed66",
+        "e3e97d",
+        "e0e594",
+        "dee1ab",
+        "dbddc2",
+        "d9d9d9",
+        "b7b0b7",
+        "958895",
+        "735f73",
+        "513751",
+        "300f30"
+    ],
+    "downloads": "108",
+    "featured": false,
+    "likes": 7,
+    "comments": 0,
+    "slug": "purple-sunset",
+    "publishedAt": "2022-01-23T21:20:00.042Z",
+    "user": {
+        "name": "Gladiator",
+        "slug": "gladiator-art"
+    },
+    "title": "Purple Sunset",
+    "hashtag": "purplesunset",
+    "description": "This is a small 11 color pallette made based on a simplisstic light/shadow pattern using the purple to yellow spectrum.\u00a0 The yellow tones act more as a kind of highlight color, while the majority of the pallette is based upon the purple hues.\u00a0 I also found this really helpful for getting into pixel art again, since it makes the basic sunlight to shadow ratio really easy to replicate.",
+    "creator": true,
+    "numberOfColors": 11,
+    "createdAt": "2022-01-17T02:07:14.077Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61e4e37608cf3a491f71bf3c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Purple Sunset Palette Example by Gladiator",
+            "slug": "purple-sunset-palette-example-by-gladiatorqgxn5d",
+            "publishedAt": "2022-01-22T09:30:00.040Z",
+            "user": {
+                "name": "Gladiator",
+                "slug": "gladiator-art"
+            },
+            "parent": "61e4cf522bd61f3e23e99d41",
+            "image": "palette-examples/purple-sunset-palette-example-by-gladiatorqgxn5d.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-01-17T03:33:10.548Z",
+            "updatedAt": "2022-01-22T09:30:00.041Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "e6ed66",
+        "e3e97d",
+        "e0e594",
+        "dee1ab",
+        "dbddc2",
+        "d9d9d9",
+        "b7b0b7",
+        "958895",
+        "735f73",
+        "513751",
+        "300f30"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "61e4cf522bd61f3e23e99d41",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

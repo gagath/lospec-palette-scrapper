@@ -1,0 +1,70 @@
+{
+    "_id": "6102784305dbd233771e4f0d",
+    "tags": [
+        "sand",
+        "polyphrog",
+        "red"
+    ],
+    "colors": [
+        "ffff89",
+        "e3331e",
+        "120a02"
+    ],
+    "downloads": "147",
+    "featured": false,
+    "likes": 18,
+    "comments": 0,
+    "slug": "red-sand",
+    "publishedAt": "2021-07-31T22:25:00.028Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "title": "red sand",
+    "hashtag": "redsand",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 3,
+    "createdAt": "2021-07-29T09:43:31.507Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6102784f05dbd233771e4f25",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "red sand Palette Example by polyphorge",
+            "slug": "red-sand-palette-example-by-polyphorge",
+            "publishedAt": "2021-07-29T21:35:00.024Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "6102784305dbd233771e4f0d",
+            "image": "palette-examples/red-sand-palette-example-by-polyphorge-610278.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-07-29T09:43:43.376Z",
+            "updatedAt": "2021-07-29T21:35:00.024Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "ffff89",
+        "e3331e",
+        "120a02"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 33.333333333333336,
+    "height": 32,
+    "likebutton": {
+        "content": "6102784305dbd233771e4f0d",
+        "type": "palettes",
+        "count": 18,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

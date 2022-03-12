@@ -1,0 +1,59 @@
+{
+    "_id": "5ecff40980f38b0c5591e330",
+    "tags": [],
+    "colors": [
+        "ffffff",
+        "959595",
+        "3e3e3e",
+        "000000",
+        "ffe100",
+        "d3353c",
+        "6a162c",
+        "56cd45",
+        "528358",
+        "2783ff",
+        "353376"
+    ],
+    "downloads": "26",
+    "featured": false,
+    "likes": 2,
+    "comments": 0,
+    "title": "Vexio 11",
+    "hashtag": "vexio11",
+    "description": "A minimal palette optimised for vexiliography.<br />",
+    "creator": true,
+    "slug": "vexio-11",
+    "publishedAt": "2020-06-06T04:45:00.067Z",
+    "user": {
+        "name": "GooGroker",
+        "slug": "googroker"
+    },
+    "numberOfColors": 11,
+    "createdAt": "2020-05-28T17:25:29.097Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffffff",
+        "959595",
+        "3e3e3e",
+        "000000",
+        "ffe100",
+        "d3353c",
+        "6a162c",
+        "56cd45",
+        "528358",
+        "2783ff",
+        "353376"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5ecff40980f38b0c5591e330",
+        "type": "palettes",
+        "count": 2,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

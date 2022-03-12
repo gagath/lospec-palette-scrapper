@@ -1,0 +1,87 @@
+{
+    "_id": "608c663ad2dc7f0a700ef58d",
+    "tags": [
+        "cmy",
+        "cmyk",
+        "printing",
+        "print",
+        "comics",
+        "3bit",
+        "bd",
+        "superhero",
+        "book",
+        "paper"
+    ],
+    "colors": [
+        "fcfcfc",
+        "fcfc00",
+        "007efc",
+        "fc007e",
+        "007e00",
+        "fc0000",
+        "00007e",
+        "000000"
+    ],
+    "downloads": "89",
+    "featured": false,
+    "likes": 6,
+    "comments": 0,
+    "slug": "3-bit-cmy",
+    "publishedAt": "2021-05-02T21:45:00.029Z",
+    "user": {
+        "name": "R3cl41m3r",
+        "slug": "r3cl41m3r"
+    },
+    "title": "3-Bit CMY",
+    "hashtag": "3bitcmy",
+    "description": "A palette inspired by CMYK colouring. It uses printing cyan &amp; magenta to form a CMY(K) counterpart to the standard 3-bit RGB palette.",
+    "creator": true,
+    "createdAt": "2021-04-30T20:19:06.224Z",
+    "numberOfColors": 8,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "608c6695d2dc7f0a700ef594",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "3-Bit CMY Palette Example by R3cl41m3r",
+            "slug": "3-bit-cmy-palette-example-by-r3cl41m3r",
+            "publishedAt": "2021-05-02T22:40:00.022Z",
+            "user": {
+                "name": "R3cl41m3r",
+                "slug": "r3cl41m3r"
+            },
+            "parent": "608c663ad2dc7f0a700ef58d",
+            "image": "palette-examples/3-bit-cmy-palette-example-by-r3cl41m3r-608c66.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-04-30T20:20:37.040Z",
+            "updatedAt": "2021-05-02T22:40:00.022Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "fcfcfc",
+        "fcfc00",
+        "007efc",
+        "fc007e",
+        "007e00",
+        "fc0000",
+        "00007e",
+        "000000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "608c663ad2dc7f0a700ef58d",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

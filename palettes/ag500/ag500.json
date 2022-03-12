@@ -1,0 +1,54 @@
+{
+    "_id": "60959530be9f8e4903383124",
+    "tags": [
+        "80s",
+        "retro",
+        "limited",
+        "panasonic"
+    ],
+    "colors": [
+        "f3f3ee",
+        "c0c2bb",
+        "1cb9b5",
+        "4c8ed2",
+        "636572",
+        "111111"
+    ],
+    "downloads": "60",
+    "featured": false,
+    "likes": 3,
+    "comments": 0,
+    "slug": "ag-500",
+    "publishedAt": "2021-09-14T09:20:00.045Z",
+    "user": {
+        "name": "John Riggles",
+        "slug": "jriggles1"
+    },
+    "title": "AG-500",
+    "hashtag": "ag500",
+    "description": "A limited color palette inspired by the design of the Panasonic AG-500",
+    "creator": true,
+    "createdAt": "2021-05-07T19:29:52.079Z",
+    "numberOfColors": 6,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "f3f3ee",
+        "c0c2bb",
+        "1cb9b5",
+        "4c8ed2",
+        "636572",
+        "111111"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "60959530be9f8e4903383124",
+        "type": "palettes",
+        "count": 3,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

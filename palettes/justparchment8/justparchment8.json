@@ -1,0 +1,83 @@
+{
+    "_id": "5e1601b25481ff691bfa33f7",
+    "slug": "justparchment8",
+    "description": "This is my first palette and it is a small 8 colour palette I've made for paper and ink / parchment style designs. To be used for things like old scrolls and maps and to give the feel of old fasioned ink on parchment drawings.\u00a0<p>I made it by taking various stock images of old scrolls and maps and condencing the colours down then tweaking them to work with my sprites.</p><p>Any comments or suggestions for improvment would be greatly appriciated.</p><p></p>",
+    "colors": [
+        "292418",
+        "524839",
+        "73654a",
+        "8b7d62",
+        "a48d6a",
+        "bda583",
+        "cdba94",
+        "e6ceac"
+    ],
+    "creator": true,
+    "hashtag": "justparchment8",
+    "comments": 5,
+    "likes": 265,
+    "createdAt": "2020-01-08T16:22:10.909Z",
+    "featured": false,
+    "tags": [
+        "parchment",
+        "paper",
+        "ink",
+        "old",
+        "drawing",
+        "map",
+        "scroll",
+        "page",
+        "book",
+        "monoramp"
+    ],
+    "downloads": "5,029",
+    "numberOfColors": 8,
+    "title": "JustParchment8",
+    "user": {
+        "name": "JustJimmy",
+        "slug": "just-jimmy"
+    },
+    "publishedAt": "2020-01-08T16:22:10.909Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5e1a644f13029d40fbe69441",
+            "description": "Palette usage example by JustJimmy",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.210Z",
+            "creator": false,
+            "image": "palette-examples/justparchment8-palette-example-palette-usage-example-by-justjimmy-5e1a64.png",
+            "likes": 0,
+            "parent": "5e1601b25481ff691bfa33f7",
+            "slug": "justparchment8-palette-example-palette-usage-example-by-justjimmy",
+            "title": "justparchment8 palette example palette usage example by justjimmy",
+            "updatedAt": "2020-07-31T03:56:11.210Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by JustJimmy"
+        }
+    ],
+    "colorsArray": [
+        "292418",
+        "524839",
+        "73654a",
+        "8b7d62",
+        "a48d6a",
+        "bda583",
+        "cdba94",
+        "e6ceac"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5e1601b25481ff691bfa33f7",
+        "type": "palettes",
+        "count": 265,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

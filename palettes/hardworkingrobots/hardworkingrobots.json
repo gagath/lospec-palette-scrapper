@@ -1,0 +1,93 @@
+{
+    "_id": "60455af4cc5fcf3a5fc9d408",
+    "tags": [
+        "artist",
+        " vanity"
+    ],
+    "colors": [
+        "fff3eb",
+        "fedac0",
+        "aa4d66",
+        "fd7a81",
+        "ee394b",
+        "ffad60",
+        "c1d451",
+        "9b9c4d",
+        "3e694f",
+        "91e0ad",
+        "63ad9b",
+        "448b89",
+        "3e6469",
+        "243744",
+        "142130"
+    ],
+    "downloads": "174",
+    "featured": false,
+    "likes": 18,
+    "comments": 0,
+    "title": "hard working robots",
+    "hashtag": "hardworkingrobots",
+    "description": "",
+    "creator": true,
+    "slug": "hard-working-robots",
+    "publishedAt": "2021-03-12T05:40:00.029Z",
+    "user": {
+        "name": "vanity",
+        "slug": "demetrivanity"
+    },
+    "numberOfColors": 15,
+    "createdAt": "2021-03-07T23:00:05.002Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "604568e8cc5fcf3a5fc9d4e9",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/hard-working-robots-palette-example-by-vanity-604568.png",
+            "creator": true,
+            "description": "",
+            "title": "hard working robots Palette Example by vanity",
+            "slug": "hard-working-robots-palette-example-by-vanity",
+            "publishedAt": "2021-03-08T14:15:00.015Z",
+            "user": {
+                "name": "vanity",
+                "slug": "demetrivanity"
+            },
+            "parent": "60455af4cc5fcf3a5fc9d408",
+            "createdAt": "2021-03-07T23:59:36.303Z",
+            "updatedAt": "2021-03-08T14:15:00.015Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "fff3eb",
+        "fedac0",
+        "aa4d66",
+        "fd7a81",
+        "ee394b",
+        "ffad60",
+        "c1d451",
+        "9b9c4d",
+        "3e694f",
+        "91e0ad",
+        "63ad9b",
+        "448b89",
+        "3e6469",
+        "243744",
+        "142130"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60455af4cc5fcf3a5fc9d408",
+        "type": "palettes",
+        "count": 18,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

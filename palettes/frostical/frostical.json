@@ -1,0 +1,102 @@
+{
+    "_id": "61a975f920d3327cf9e7b59d",
+    "tags": [
+        "cold",
+        "frostical",
+        "lowsaturated",
+        "desaturated",
+        "yedamameday"
+    ],
+    "colors": [
+        "588484",
+        "385560",
+        "233543",
+        "101929",
+        "020107",
+        "2f3262",
+        "68789c",
+        "889fb3",
+        "b0c0c9",
+        "d7dddf",
+        "464654",
+        "60697b",
+        "8292a5",
+        "98b0c1",
+        "211538",
+        "422c5b",
+        "876090",
+        "a885a8"
+    ],
+    "downloads": "366",
+    "featured": false,
+    "likes": 16,
+    "comments": 4,
+    "slug": "frostical",
+    "publishedAt": "2021-12-07T17:00:00.060Z",
+    "user": {
+        "name": "yedamameday",
+        "slug": "yedamameday"
+    },
+    "title": "Frostical",
+    "hashtag": "frostical",
+    "description": "A cold, desaturated dungeon pallete",
+    "creator": true,
+    "numberOfColors": 18,
+    "createdAt": "2021-12-03T01:42:17.754Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61b323289d82004e0833de70",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Frostical Palette Example by yedamameday",
+            "slug": "frostical-palette-example-by-yedamameday",
+            "publishedAt": "2021-12-10T12:20:00.027Z",
+            "user": {
+                "name": "yedamameday",
+                "slug": "yedamameday"
+            },
+            "parent": "61a975f920d3327cf9e7b59d",
+            "image": "palette-examples/frostical-palette-example-by-yedamameday-61b323.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-12-10T09:51:36.323Z",
+            "updatedAt": "2021-12-10T12:20:00.027Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "588484",
+        "385560",
+        "233543",
+        "101929",
+        "020107",
+        "2f3262",
+        "68789c",
+        "889fb3",
+        "b0c0c9",
+        "d7dddf",
+        "464654",
+        "60697b",
+        "8292a5",
+        "98b0c1",
+        "211538",
+        "422c5b",
+        "876090",
+        "a885a8"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 11.11111111111111,
+    "height": 32,
+    "likebutton": {
+        "content": "61a975f920d3327cf9e7b59d",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

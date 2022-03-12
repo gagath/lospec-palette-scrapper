@@ -1,0 +1,67 @@
+{
+    "_id": "5ae5cfb0dfcc7e58c8d5f19d",
+    "createdAt": "2018-04-29T13:59:12.361Z",
+    "slug": "en4",
+    "description": "",
+    "colors": [
+        "fbf7f3",
+        "e5b083",
+        "426e5d",
+        "20283d"
+    ],
+    "tags": [
+        "artist",
+        "endesga"
+    ],
+    "downloads": "2,861",
+    "numberOfColors": 4,
+    "featured": false,
+    "likes": 147,
+    "comments": 1,
+    "creator": true,
+    "hashtag": "en4",
+    "title": "EN4",
+    "user": {
+        "name": "ENDESGA",
+        "slug": "endesga"
+    },
+    "publishedAt": "2018-04-29T13:59:12.361Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5c06b84856dc7d3e6258abd5",
+            "description": "<a target=\"_blank\" href=\"https://twitter.com/bhagat_nagi/status/1066276886806843394\">Fossil</a> by <a target=\"_blank\" href=\"https://twitter.com/bhagat_nagi\">BHGT</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.159Z",
+            "creator": false,
+            "image": "palette-examples/en4-palette-example-fossil-by-bhgt-5c06b8.png",
+            "likes": 0,
+            "parent": "5ae5cfb0dfcc7e58c8d5f19d",
+            "slug": "en4-palette-example-fossil-by-bhgt",
+            "title": "en4 palette example fossil by bhgt",
+            "updatedAt": "2020-07-31T03:56:11.159Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Fossil by BHGT"
+        }
+    ],
+    "colorsArray": [
+        "fbf7f3",
+        "e5b083",
+        "426e5d",
+        "20283d"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5ae5cfb0dfcc7e58c8d5f19d",
+        "type": "palettes",
+        "count": 147,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

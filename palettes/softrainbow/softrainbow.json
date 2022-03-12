@@ -1,0 +1,53 @@
+{
+    "_id": "5fd76bfee9822575a638144f",
+    "tags": [],
+    "colors": [
+        "a085ab",
+        "c7453e",
+        "e57445",
+        "ffedb2",
+        "bcd65e",
+        "77bab4",
+        "257d8f",
+        "383431"
+    ],
+    "downloads": "157",
+    "featured": false,
+    "likes": 24,
+    "comments": 0,
+    "title": "Soft rainbow ",
+    "hashtag": "softrainbow",
+    "description": "",
+    "creator": true,
+    "slug": "soft-rainbow",
+    "publishedAt": "2020-12-17T08:30:00.032Z",
+    "user": {
+        "name": "Sk3ll Sk3ll",
+        "slug": "sk3ll2"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2020-12-14T13:43:26.285Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "a085ab",
+        "c7453e",
+        "e57445",
+        "ffedb2",
+        "bcd65e",
+        "77bab4",
+        "257d8f",
+        "383431"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fd76bfee9822575a638144f",
+        "type": "palettes",
+        "count": 24,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,56 @@
+{
+    "_id": "5bb53b26d8f5345a507022b3",
+    "slug": "polar11",
+    "description": "Created by <a target=\"_blank\" href=\"https://twitter.com/Smallpryv\">Smalls</a>, based off <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Polaroid_Corporation\">Polaroid</a> logo colors.",
+    "colors": [
+        "0a0a0a",
+        "ab2929",
+        "d1691f",
+        "f5ca2f",
+        "f5f1ed",
+        "878c81",
+        "99c24e",
+        "5f9448",
+        "339db5",
+        "2d6296",
+        "2f2b6b"
+    ],
+    "tags": [
+        "artist",
+        "smalls"
+    ],
+    "downloads": "128",
+    "numberOfColors": 11,
+    "createdAt": "2018-10-03T21:56:54.549Z",
+    "comments": 0,
+    "likes": 5,
+    "hashtag": "polar11",
+    "title": "Polar11",
+    "publishedAt": "2018-10-03T21:56:54.549Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "0a0a0a",
+        "ab2929",
+        "d1691f",
+        "f5ca2f",
+        "f5f1ed",
+        "878c81",
+        "99c24e",
+        "5f9448",
+        "339db5",
+        "2d6296",
+        "2f2b6b"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5bb53b26d8f5345a507022b3",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

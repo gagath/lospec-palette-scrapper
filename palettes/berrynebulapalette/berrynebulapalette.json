@@ -1,0 +1,91 @@
+{
+    "_id": "61c243041be8e710b1c94bf5",
+    "tags": [
+        "lostinindigo",
+        "blue",
+        "purple",
+        "violet",
+        "blueraspberry",
+        "grape",
+        "nebula",
+        "stars",
+        "cool",
+        "cooltone",
+        "glow",
+        "otherworldy",
+        "space",
+        "undergound"
+    ],
+    "colors": [
+        "6ceded",
+        "6cb9c9",
+        "6d85a5",
+        "6e5181",
+        "6f1d5c",
+        "4f1446",
+        "2e0a30",
+        "0d001a"
+    ],
+    "downloads": "900",
+    "featured": false,
+    "likes": 56,
+    "comments": 1,
+    "slug": "berry-nebula",
+    "publishedAt": "2021-12-23T20:30:00.044Z",
+    "user": {
+        "name": "LostInIndigo",
+        "slug": "lostinindigo"
+    },
+    "title": "Berry Nebula",
+    "hashtag": "berrynebulapalette",
+    "description": "An 8-color palette ranging from neon blue raspberry to a deep grape-y purple. Great for space and underground scenes where you need a little bit of otherworldly glow.",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-12-21T21:11:32.223Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61c35e55579ea405958993a9",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Berry Nebula Palette Example by LostInIndigo",
+            "slug": "berry-nebula-palette-example-by-lostinindigo6yk9la",
+            "publishedAt": "2021-12-22T20:45:00.041Z",
+            "user": {
+                "name": "LostInIndigo",
+                "slug": "lostinindigo"
+            },
+            "parent": "61c243041be8e710b1c94bf5",
+            "image": "palette-examples/berry-nebula-palette-example-by-lostinindigo6yk9la.png",
+            "creator": true,
+            "description": "A neon blue, misty lavender, red-violet, and deep purple image of celestial clouds, shimmery stars, swirly galaxies, and delicious berries floating through the void of space. Delicious. (This almost sounds like a cereal description. Now I'm hungry)",
+            "createdAt": "2021-12-22T17:20:21.264Z",
+            "updatedAt": "2021-12-22T20:45:00.041Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A neon blue, misty lavender, red-violet, and deep purple image of celestial clouds, shimmery stars, swirly galaxies, and delicious berries floating through the void of space. Delicious. (This almost sounds like a cereal description. Now I'm hungry)"
+        }
+    ],
+    "colorsArray": [
+        "6ceded",
+        "6cb9c9",
+        "6d85a5",
+        "6e5181",
+        "6f1d5c",
+        "4f1446",
+        "2e0a30",
+        "0d001a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61c243041be8e710b1c94bf5",
+        "type": "palettes",
+        "count": 56,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

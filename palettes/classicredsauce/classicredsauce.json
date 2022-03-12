@@ -1,0 +1,74 @@
+{
+    "_id": "6009fc563174333e961bd02d",
+    "tags": [
+        "4",
+        " warm",
+        " red",
+        " classicredsauce",
+        " 2bit"
+    ],
+    "colors": [
+        "20181c",
+        "d84444",
+        "a23039",
+        "792336"
+    ],
+    "downloads": "395",
+    "featured": false,
+    "likes": 33,
+    "comments": 1,
+    "title": "Classic Red Sauce ",
+    "hashtag": "classicredsauce",
+    "description": "",
+    "creator": true,
+    "slug": "classic-red-sauce",
+    "publishedAt": "2021-01-29T12:25:00.041Z",
+    "user": {
+        "name": "Mustard",
+        "slug": "mustard"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-01-21T22:12:38.003Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6009fde83174333e961bd044",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/classic-red-sauce-palette-example-by-mustard-6009fd.png",
+            "creator": true,
+            "description": "",
+            "title": "Classic Red Sauce  Palette Example by Mustard",
+            "slug": "classic-red-sauce-palette-example-by-mustard",
+            "publishedAt": "2021-01-23T18:45:00.015Z",
+            "user": {
+                "name": "Mustard",
+                "slug": "mustard"
+            },
+            "parent": "6009fc563174333e961bd02d",
+            "createdAt": "2021-01-21T22:19:20.794Z",
+            "updatedAt": "2021-01-23T18:45:00.015Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "20181c",
+        "d84444",
+        "a23039",
+        "792336"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6009fc563174333e961bd02d",
+        "type": "palettes",
+        "count": 33,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

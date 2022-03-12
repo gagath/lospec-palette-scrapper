@@ -1,0 +1,49 @@
+{
+    "_id": "5f3833de964ccc67f97483ea",
+    "tags": [
+        "micro86",
+        "m86",
+        "gb"
+    ],
+    "colors": [
+        "26000e",
+        "ff0000",
+        "ff7b30",
+        "ffd9b2"
+    ],
+    "downloads": "103",
+    "featured": false,
+    "likes": 8,
+    "comments": 0,
+    "title": "Micro 86",
+    "hashtag": "m86",
+    "description": "Four colour pallete for my WIP Fantasy Computer, the Micro 86!",
+    "creator": true,
+    "slug": "micro-86",
+    "publishedAt": "2020-08-18T11:05:00.029Z",
+    "user": {
+        "name": "RingFire Miko",
+        "slug": "ringfire-miko"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-08-15T19:13:34.490Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "26000e",
+        "ff0000",
+        "ff7b30",
+        "ffd9b2"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f3833de964ccc67f97483ea",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

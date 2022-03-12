@@ -1,0 +1,87 @@
+{
+    "_id": "619b3763c12732301d956440",
+    "tags": [
+        "erie",
+        "spooky"
+    ],
+    "colors": [
+        "2f325d",
+        "39456d",
+        "425879",
+        "496b83",
+        "517d91",
+        "528c9f",
+        "54a295",
+        "70bc93",
+        "8cd589",
+        "b7e097",
+        "daefab",
+        "f1f2b6"
+    ],
+    "downloads": "733",
+    "featured": false,
+    "likes": 50,
+    "comments": 1,
+    "slug": "ghost-town",
+    "publishedAt": "2021-11-26T22:35:00.036Z",
+    "user": {
+        "name": "Kaiburn",
+        "slug": "kaiburn"
+    },
+    "title": "Ghost Town",
+    "hashtag": "ghosttownpalette",
+    "description": "A green, Erie and ghostly palette.",
+    "creator": true,
+    "numberOfColors": 12,
+    "createdAt": "2021-11-22T06:23:31.762Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "619b39acc12732301d956451",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Ghost Town Palette Example by Kaiburn",
+            "slug": "ghost-town-palette-example-by-kaiburn",
+            "publishedAt": "2021-11-22T08:05:00.035Z",
+            "user": {
+                "name": "Kaiburn",
+                "slug": "kaiburn"
+            },
+            "parent": "619b3763c12732301d956440",
+            "image": "palette-examples/ghost-town-palette-example-by-kaiburn-619b39.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-11-22T06:33:16.376Z",
+            "updatedAt": "2021-11-22T08:05:00.036Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "2f325d",
+        "39456d",
+        "425879",
+        "496b83",
+        "517d91",
+        "528c9f",
+        "54a295",
+        "70bc93",
+        "8cd589",
+        "b7e097",
+        "daefab",
+        "f1f2b6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "619b3763c12732301d956440",
+        "type": "palettes",
+        "count": 50,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,97 @@
+{
+    "_id": "603d35df2d30625bc61cf1ed",
+    "tags": [
+        "bike",
+        "akira",
+        "tech",
+        "cyberpunk",
+        "techno",
+        "4color"
+    ],
+    "colors": [
+        "1d2938",
+        "2a616e",
+        "13b37e",
+        "07ef5c"
+    ],
+    "downloads": "360",
+    "featured": false,
+    "likes": 31,
+    "comments": 2,
+    "title": "Technobike",
+    "hashtag": "technobikefloatingtable",
+    "description": "A Gameboy-inspired four-color palette designed for futuristic art.",
+    "creator": true,
+    "slug": "technobike",
+    "publishedAt": "2021-03-06T21:40:00.012Z",
+    "user": {
+        "name": "Floatingtable Studios",
+        "slug": "floatingtable-studios"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-03-01T18:43:43.799Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "603d35f02d30625bc61cf1f1",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/technobike-palette-example-by-floatingtable-studios-603d35.png",
+            "creator": true,
+            "description": "Inspired by the bike from Akira",
+            "title": "Technobike Palette Example by Floatingtable Studios",
+            "slug": "technobike-palette-example-by-floatingtable-studios",
+            "publishedAt": "2021-03-01T22:35:00.016Z",
+            "user": {
+                "name": "Floatingtable Studios",
+                "slug": "floatingtable-studios"
+            },
+            "parent": "603d35df2d30625bc61cf1ed",
+            "createdAt": "2021-03-01T18:44:00.372Z",
+            "updatedAt": "2021-03-01T22:35:00.016Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Inspired by the bike from Akira"
+        },
+        {
+            "_id": "603d49e3df7f245e3b19ef0c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/technobike-palette-example-by-floatingtable-studios-2-603d49.png",
+            "creator": true,
+            "description": "Bike from Akira",
+            "title": "Technobike Palette Example by Floatingtable Studios",
+            "slug": "technobike-palette-example-by-floatingtable-studios-2",
+            "publishedAt": "2021-03-01T22:25:00.023Z",
+            "user": {
+                "name": "Floatingtable Studios",
+                "slug": "floatingtable-studios"
+            },
+            "parent": "603d35df2d30625bc61cf1ed",
+            "createdAt": "2021-03-01T20:09:07.439Z",
+            "updatedAt": "2021-03-01T22:25:00.023Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": "Bike from Akira"
+        }
+    ],
+    "colorsArray": [
+        "1d2938",
+        "2a616e",
+        "13b37e",
+        "07ef5c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "603d35df2d30625bc61cf1ed",
+        "type": "palettes",
+        "count": 31,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

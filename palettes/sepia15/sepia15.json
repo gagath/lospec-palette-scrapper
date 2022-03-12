@@ -1,0 +1,72 @@
+{
+    "_id": "5fda7a6eb6c4d258cb152572",
+    "tags": [
+        "brown",
+        " odd",
+        " ambient",
+        " rust"
+    ],
+    "colors": [
+        "000000",
+        "570101",
+        "711b06",
+        "954000",
+        "bb8804",
+        "d2d411",
+        "c3f564",
+        "eaf5d7",
+        "82ef4f",
+        "21db2d",
+        "00bb78",
+        "29779a",
+        "202787",
+        "350c6f",
+        "47062b"
+    ],
+    "downloads": "52",
+    "featured": false,
+    "likes": 6,
+    "comments": 0,
+    "title": "Sepia 15",
+    "hashtag": "sepia15",
+    "description": "<b>a reddish-brown color associated particularly with monochrome photographs of the 19th and early 20th centuries.</b>",
+    "creator": true,
+    "slug": "sepia-15",
+    "publishedAt": "2020-12-27T18:50:00.018Z",
+    "user": {
+        "name": "Pit",
+        "slug": "pixelbits4"
+    },
+    "numberOfColors": 15,
+    "createdAt": "2020-12-16T21:21:50.087Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "570101",
+        "711b06",
+        "954000",
+        "bb8804",
+        "d2d411",
+        "c3f564",
+        "eaf5d7",
+        "82ef4f",
+        "21db2d",
+        "00bb78",
+        "29779a",
+        "202787",
+        "350c6f",
+        "47062b"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fda7a6eb6c4d258cb152572",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

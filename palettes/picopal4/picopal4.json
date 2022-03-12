@@ -1,0 +1,79 @@
+{
+    "_id": "60457746cc5fcf3a5fc9d5a3",
+    "tags": [
+        "pico8",
+        "polyphrog"
+    ],
+    "colors": [
+        "180c21",
+        "859999",
+        "3a4a54",
+        "49ab3f",
+        "fff4b0",
+        "ce6b40",
+        "6f324e",
+        "e75e5e"
+    ],
+    "downloads": "506",
+    "featured": false,
+    "likes": 39,
+    "comments": 2,
+    "title": "pico-4",
+    "hashtag": "picopal4",
+    "description": "",
+    "creator": true,
+    "slug": "pico-4",
+    "publishedAt": "2021-03-11T05:40:00.020Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2021-03-08T01:00:54.039Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6045777acc5fcf3a5fc9d5a6",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/pico-4-palette-example-by-polyphorge-604577.png",
+            "creator": false,
+            "description": "recolored version of the pico8 banner",
+            "title": "pico-4 Palette Example by polyphorge",
+            "slug": "pico-4-palette-example-by-polyphorge",
+            "publishedAt": "2021-03-08T14:05:00.039Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "60457746cc5fcf3a5fc9d5a3",
+            "createdAt": "2021-03-08T01:01:46.197Z",
+            "updatedAt": "2021-03-08T14:05:00.039Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "recolored version of the pico8 banner"
+        }
+    ],
+    "colorsArray": [
+        "180c21",
+        "859999",
+        "3a4a54",
+        "49ab3f",
+        "fff4b0",
+        "ce6b40",
+        "6f324e",
+        "e75e5e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60457746cc5fcf3a5fc9d5a3",
+        "type": "palettes",
+        "count": 39,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

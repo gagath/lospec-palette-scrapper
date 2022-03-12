@@ -1,0 +1,62 @@
+{
+    "_id": "58f7ec980498757f806462d3",
+    "createdAt": "2017-04-19T23:02:48.801Z",
+    "slug": "super-mario-land-2-sgb",
+    "description": "A palette used by <a href=\"https://en.wikipedia.org/wiki/Super_Mario_Land_2:_6_Golden_Coins\">Super Mario Land 2</a> when played on the <a href=\"https://en.wikipedia.org/wiki/Super_Game_Boy\">Super Gameboy</a>.",
+    "colors": [
+        "000000",
+        "11c600",
+        "dfa677",
+        "eff7b6"
+    ],
+    "tags": [
+        "hardware",
+        "gameboy",
+        "supergameboy"
+    ],
+    "downloads": "539",
+    "numberOfColors": 4,
+    "likes": 15,
+    "comments": 0,
+    "hashtag": "supermarioland2sgb",
+    "title": "Super Mario Land 2 (SGB)",
+    "publishedAt": "2017-04-19T23:02:48.801Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "58f7ecc90498757f806462d4",
+            "description": "<a href=\"https://en.wikipedia.org/wiki/Super_Mario_Land_2:_6_Golden_Coins\">Super Mario Land 2</a> Screenshots",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.042Z",
+            "creator": false,
+            "image": "palette-examples/super-mario-land-2-sgb-palette-example-super-mario-land-2-screenshots-58f7ec.png",
+            "likes": 0,
+            "parent": "58f7ec980498757f806462d3",
+            "slug": "super-mario-land-2-sgb-palette-example-super-mario-land-2-screenshots",
+            "title": "super mario land 2 sgb palette example super mario land 2 screenshots",
+            "updatedAt": "2020-07-31T03:56:11.042Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Super Mario Land 2 Screenshots"
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "11c600",
+        "dfa677",
+        "eff7b6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "58f7ec980498757f806462d3",
+        "type": "palettes",
+        "count": 15,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

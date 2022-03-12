@@ -1,0 +1,53 @@
+{
+    "_id": "5f7c72d0f82d116f183622ee",
+    "tags": [
+        "simple"
+    ],
+    "colors": [
+        "16044c",
+        "3ffc4a",
+        "1d7cf9",
+        "f9355a",
+        "fef15e",
+        "808080",
+        "fefefe"
+    ],
+    "downloads": "47",
+    "featured": false,
+    "likes": 9,
+    "comments": 3,
+    "title": "Simple64",
+    "hashtag": "simple",
+    "description": "Haha yesSorry if this is a disappointment\u00a0But it's my first colour palletHaha yes",
+    "creator": true,
+    "slug": "simple64",
+    "publishedAt": "2020-10-09T12:10:00.787Z",
+    "user": {
+        "name": "doodle dude gaming",
+        "slug": "doodle-dude-gaming"
+    },
+    "numberOfColors": 7,
+    "createdAt": "2020-10-06T13:36:16.173Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "16044c",
+        "3ffc4a",
+        "1d7cf9",
+        "f9355a",
+        "fef15e",
+        "808080",
+        "fefefe"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5f7c72d0f82d116f183622ee",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

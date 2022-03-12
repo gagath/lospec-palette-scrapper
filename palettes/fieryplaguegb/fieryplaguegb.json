@@ -1,0 +1,76 @@
+{
+    "_id": "6080a74389730e508ccb9487",
+    "tags": [
+        "klafooty",
+        "artist",
+        "gameboy",
+        "4colors",
+        "4",
+        "fiery",
+        "spooky"
+    ],
+    "colors": [
+        "1a2129",
+        "312137",
+        "512839",
+        "713141"
+    ],
+    "downloads": "946",
+    "featured": false,
+    "likes": 63,
+    "comments": 1,
+    "slug": "fiery-plague-gb",
+    "publishedAt": "2021-04-24T05:05:00.028Z",
+    "user": {
+        "name": "Klafooty",
+        "slug": "mallory"
+    },
+    "title": "Fiery Plague GB",
+    "hashtag": "fieryplaguegb",
+    "description": "A vibrant and spooky 4 colors palette.",
+    "creator": true,
+    "createdAt": "2021-04-21T22:29:23.272Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6080ab4d89730e508ccb94ae",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Fiery Plague GB Palette Example by Klafooty",
+            "slug": "fiery-plague-gb-palette-example-by-klafooty",
+            "publishedAt": "2021-04-22T00:05:00.068Z",
+            "user": {
+                "name": "Klafooty",
+                "slug": "mallory"
+            },
+            "parent": "6080a74389730e508ccb9487",
+            "image": "palette-examples/fiery-plague-gb-palette-example-by-klafooty-6080ab.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-04-21T22:46:37.966Z",
+            "updatedAt": "2021-04-22T00:05:00.069Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "1a2129",
+        "312137",
+        "512839",
+        "713141"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6080a74389730e508ccb9487",
+        "type": "palettes",
+        "count": 63,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

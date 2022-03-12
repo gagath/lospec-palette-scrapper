@@ -1,0 +1,74 @@
+{
+    "_id": "605ee5658e39787ef68c9109",
+    "tags": [
+        "artist",
+        "gameboy",
+        "thest1076",
+        "purple",
+        "gb"
+    ],
+    "colors": [
+        "141433",
+        "1f1466",
+        "4a24b3",
+        "8f66cc"
+    ],
+    "downloads": "246",
+    "featured": false,
+    "likes": 13,
+    "comments": 2,
+    "slug": "st-gameboy",
+    "publishedAt": "2021-04-02T17:30:00.040Z",
+    "user": {
+        "name": "Skiller Thomson",
+        "slug": "thest1076"
+    },
+    "title": "ST GameBoy",
+    "hashtag": "stgameboy",
+    "description": "My first palette in Lospec, if you liked it? Then like or write in the comments.",
+    "creator": true,
+    "createdAt": "2021-03-27T07:57:25.811Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60601fe1cb5eaa2ca0ab8661",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "ST-GameBoy Palette Example by Skiller Thomson",
+            "slug": "st-gameboy-palette-example-by-skiller-thomson-4",
+            "publishedAt": "2021-03-29T15:30:00.025Z",
+            "user": {
+                "name": "Skiller Thomson",
+                "slug": "thest1076"
+            },
+            "parent": "605ee5658e39787ef68c9109",
+            "image": "palette-examples/st-gameboy-palette-example-by-skiller-thomson-4-60601f.png",
+            "creator": true,
+            "description": "My painting, in my palette",
+            "createdAt": "2021-03-28T06:19:13.489Z",
+            "updatedAt": "2021-03-29T15:30:00.025Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "My painting, in my palette"
+        }
+    ],
+    "colorsArray": [
+        "141433",
+        "1f1466",
+        "4a24b3",
+        "8f66cc"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "605ee5658e39787ef68c9109",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

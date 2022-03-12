@@ -1,0 +1,68 @@
+{
+    "_id": "5f183942300e3d0891f8edbc",
+    "tags": [
+        "note2",
+        "note",
+        "note2c"
+    ],
+    "colors": [
+        "222a3d",
+        "edf2e2"
+    ],
+    "downloads": "576",
+    "featured": false,
+    "likes": 35,
+    "comments": 0,
+    "title": "NOTE-2C",
+    "hashtag": "note2c",
+    "description": "",
+    "creator": true,
+    "slug": "note-2c",
+    "publishedAt": "2020-07-31T18:00:00.033Z",
+    "user": {
+        "name": "Rytzi",
+        "slug": "rytzi"
+    },
+    "numberOfColors": 2,
+    "createdAt": "2020-07-22T13:04:02.082Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f27a8e8a529646f7845075c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/note-2c-palette-example-by-rytzi-5f27a8.png",
+            "creator": true,
+            "description": "",
+            "title": "NOTE-2C Palette Example by Rytzi",
+            "slug": "note-2c-palette-example-by-rytzi",
+            "publishedAt": "2020-08-04T12:55:00.033Z",
+            "user": {
+                "name": "Rytzi",
+                "slug": "rytzi"
+            },
+            "parent": "5f183942300e3d0891f8edbc",
+            "createdAt": "2020-08-03T06:04:24.941Z",
+            "updatedAt": "2020-08-04T12:55:00.033Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "222a3d",
+        "edf2e2"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "5f183942300e3d0891f8edbc",
+        "type": "palettes",
+        "count": 35,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

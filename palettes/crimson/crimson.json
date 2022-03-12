@@ -1,0 +1,69 @@
+{
+    "_id": "5ccdb302763a4a5e61845fa4",
+    "createdAt": "2019-05-04T15:42:58.693Z",
+    "slug": "crimson",
+    "description": "Part of the <a target=\"_blank\" href=\"https://lospec.com/palette-list/tag/wildleoknightgameboy\">WildLeoKnight Gameboy Palettes Set</a>",
+    "colors": [
+        "eff9d6",
+        "ba5044",
+        "7a1c4b",
+        "1b0326"
+    ],
+    "featured": false,
+    "tags": [
+        "artist",
+        "wildleoknight",
+        "gameboy",
+        "wildleoknightgameboy"
+    ],
+    "downloads": "4,179",
+    "numberOfColors": 4,
+    "likes": 224,
+    "comments": 8,
+    "creator": true,
+    "hashtag": "crimson",
+    "title": "Crimson",
+    "user": {
+        "name": "WildLeoKnight",
+        "slug": "wildleoknight"
+    },
+    "publishedAt": "2019-05-04T15:42:58.693Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5d8a8e7d36adf31d093c6d0f",
+            "description": "Palette usage example by <a target=\"_blank\" href=\"https://lospec.com/rhoq\">Rhoq</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.200Z",
+            "creator": false,
+            "image": "palette-examples/crimson-palette-example-palette-usage-example-by-5d8a8e.png",
+            "likes": 0,
+            "parent": "5ccdb302763a4a5e61845fa4",
+            "slug": "crimson-palette-example-palette-usage-example-by",
+            "title": "crimson palette example palette usage example by",
+            "updatedAt": "2020-07-31T03:56:11.200Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Rhoq"
+        }
+    ],
+    "colorsArray": [
+        "eff9d6",
+        "ba5044",
+        "7a1c4b",
+        "1b0326"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5ccdb302763a4a5e61845fa4",
+        "type": "palettes",
+        "count": 224,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

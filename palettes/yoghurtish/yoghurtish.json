@@ -1,0 +1,50 @@
+{
+    "_id": "61ae229086b1873cedc0ca03",
+    "tags": [
+        "soft",
+        "pastel",
+        "pink",
+        "cold"
+    ],
+    "colors": [
+        "39254e",
+        "5951bb",
+        "d765bf",
+        "d5a2e2"
+    ],
+    "downloads": "97",
+    "featured": false,
+    "likes": 11,
+    "comments": 0,
+    "slug": "yoghurtish",
+    "publishedAt": "2021-12-11T01:00:00.078Z",
+    "user": {
+        "name": "Space Sandwich",
+        "slug": "spacesandwich"
+    },
+    "title": "Yoghurtish",
+    "hashtag": "yoghurtish",
+    "description": "I decided to post this one I made a while back",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-12-06T14:47:44.855Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "39254e",
+        "5951bb",
+        "d765bf",
+        "d5a2e2"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "61ae229086b1873cedc0ca03",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

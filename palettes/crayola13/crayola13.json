@@ -1,0 +1,88 @@
+{
+    "_id": "5f66bf86dcf4af246c9716b3",
+    "tags": [
+        "isasstudio"
+    ],
+    "colors": [
+        "171719",
+        "752f25",
+        "e40301",
+        "ff890b",
+        "ffe524",
+        "0fb569",
+        "316ad5",
+        "6de0ff",
+        "929197",
+        "5a3690",
+        "ff6ead",
+        "fed2a3",
+        "ffffff"
+    ],
+    "downloads": "152",
+    "featured": false,
+    "likes": 20,
+    "comments": 1,
+    "title": "Crayola 13",
+    "hashtag": "crayola13",
+    "description": "",
+    "creator": true,
+    "slug": "crayola-13",
+    "publishedAt": "2020-10-02T22:20:00.021Z",
+    "user": {
+        "name": "Isa",
+        "slug": "isas-studio"
+    },
+    "numberOfColors": 13,
+    "createdAt": "2020-09-20T02:33:42.834Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f67b06eda5a5a0437075051",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/crayola-13-palette-example-by-isagamer-5f67b0.png",
+            "creator": true,
+            "description": "",
+            "title": "Crayola 13 Palette Example by IsaGamer",
+            "slug": "crayola-13-palette-example-by-isagamer",
+            "publishedAt": "2020-09-29T18:00:00.022Z",
+            "user": {
+                "name": "Isa",
+                "slug": "isas-studio"
+            },
+            "parent": "5f66bf86dcf4af246c9716b3",
+            "createdAt": "2020-09-20T19:41:34.357Z",
+            "updatedAt": "2020-09-29T18:00:00.022Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "171719",
+        "752f25",
+        "e40301",
+        "ff890b",
+        "ffe524",
+        "0fb569",
+        "316ad5",
+        "6de0ff",
+        "929197",
+        "5a3690",
+        "ff6ead",
+        "fed2a3",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5f66bf86dcf4af246c9716b3",
+        "type": "palettes",
+        "count": 20,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

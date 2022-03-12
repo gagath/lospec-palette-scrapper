@@ -1,0 +1,90 @@
+{
+    "_id": "6130cb5d774683506dc3f242",
+    "tags": [],
+    "colors": [
+        "181824",
+        "17252e",
+        "223438",
+        "26452e",
+        "406b3e",
+        "5f874c",
+        "99a867",
+        "bdbd6a",
+        "e0d9ac",
+        "a69c53",
+        "8c6c35",
+        "6e462a",
+        "4f291b",
+        "4a1728",
+        "2d1d3b"
+    ],
+    "downloads": "148",
+    "featured": false,
+    "likes": 15,
+    "comments": 2,
+    "slug": "lowlands15",
+    "publishedAt": "2021-10-01T07:55:00.060Z",
+    "user": {
+        "name": "Zant",
+        "slug": "zant"
+    },
+    "title": "Lowlands15",
+    "hashtag": "lowlands15",
+    "description": "A nice pal.\u00a0",
+    "creator": true,
+    "numberOfColors": 15,
+    "createdAt": "2021-09-02T13:02:21.468Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61fff0093205302e14125921",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Lowlands15 Palette Example by Punoli",
+            "slug": "lowlands15-palette-example-by-punolixkk8wu",
+            "publishedAt": "2022-02-09T18:10:00.057Z",
+            "user": {
+                "name": "Punoli",
+                "slug": "punoli"
+            },
+            "parent": "6130cb5d774683506dc3f242",
+            "image": "palette-examples/lowlands15-palette-example-by-punolixkk8wu.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-02-06T15:58:01.953Z",
+            "updatedAt": "2022-02-09T18:10:00.058Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "181824",
+        "17252e",
+        "223438",
+        "26452e",
+        "406b3e",
+        "5f874c",
+        "99a867",
+        "bdbd6a",
+        "e0d9ac",
+        "a69c53",
+        "8c6c35",
+        "6e462a",
+        "4f291b",
+        "4a1728",
+        "2d1d3b"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6130cb5d774683506dc3f242",
+        "type": "palettes",
+        "count": 15,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

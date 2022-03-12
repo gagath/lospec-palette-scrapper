@@ -1,0 +1,73 @@
+{
+    "_id": "5f643699c537ff5d68a1717f",
+    "tags": [
+        "blitheful",
+        "demo",
+        "gb",
+        "2bit"
+    ],
+    "colors": [
+        "f8f3fd",
+        "97cb1d",
+        "0b8633",
+        "2e2b12"
+    ],
+    "downloads": "117",
+    "featured": false,
+    "likes": 15,
+    "comments": 2,
+    "title": "Blitheful Demo",
+    "hashtag": "blithefuldemo",
+    "description": "At first, I felt a blitheful sense of wonder...",
+    "creator": true,
+    "slug": "blitheful-demo",
+    "publishedAt": "2020-09-18T06:20:00.031Z",
+    "user": {
+        "name": "Kattman",
+        "slug": "kattman"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-09-18T04:24:57.912Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f823928793bd20249cf3517",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/blitheful-demo-palette-example-by-kattman-3-5f8239.png",
+            "creator": true,
+            "description": "Tweaked*",
+            "title": "Blitheful Demo Palette Example by Kattman",
+            "slug": "blitheful-demo-palette-example-by-kattman-3",
+            "publishedAt": "2020-10-12T16:50:00.024Z",
+            "user": {
+                "name": "Kattman",
+                "slug": "kattman"
+            },
+            "parent": "5f643699c537ff5d68a1717f",
+            "createdAt": "2020-10-10T22:43:52.870Z",
+            "updatedAt": "2020-10-12T16:50:00.025Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Tweaked*"
+        }
+    ],
+    "colorsArray": [
+        "f8f3fd",
+        "97cb1d",
+        "0b8633",
+        "2e2b12"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f643699c537ff5d68a1717f",
+        "type": "palettes",
+        "count": 15,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,72 @@
+{
+    "_id": "5ae5d011dfcc7e58c8d5f19e",
+    "createdAt": "2018-04-29T14:00:49.273Z",
+    "slug": "enos16",
+    "description": "ENOS16 can be used with simple Anti-Aliasing. The soft colours work best on a white background! This would be the palette I'd use if I was to design a Computer OS.",
+    "colors": [
+        "fafafa",
+        "d4d4d4",
+        "9d9d9d",
+        "4b4b4b",
+        "f9d381",
+        "eaaf4d",
+        "f9938a",
+        "e75952",
+        "9ad1f9",
+        "58aeee",
+        "8deda7",
+        "44c55b",
+        "c3a7e1",
+        "9569c8",
+        "bab5aa",
+        "948e82"
+    ],
+    "tags": [
+        "artist",
+        "endesga"
+    ],
+    "downloads": "748",
+    "numberOfColors": 16,
+    "featured": false,
+    "likes": 16,
+    "comments": 1,
+    "creator": true,
+    "hashtag": "enos16",
+    "title": "ENOS16",
+    "user": {
+        "name": "ENDESGA",
+        "slug": "endesga"
+    },
+    "publishedAt": "2018-04-29T14:00:49.273Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "fafafa",
+        "d4d4d4",
+        "9d9d9d",
+        "4b4b4b",
+        "f9d381",
+        "eaaf4d",
+        "f9938a",
+        "e75952",
+        "9ad1f9",
+        "58aeee",
+        "8deda7",
+        "44c55b",
+        "c3a7e1",
+        "9569c8",
+        "bab5aa",
+        "948e82"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5ae5d011dfcc7e58c8d5f19e",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

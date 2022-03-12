@@ -1,0 +1,71 @@
+{
+    "_id": "5de40ce1c62c7b5f2f6f093b",
+    "slug": "proto-64",
+    "description": "The C64 just got different<img class=\"emoji p12\" src=\"/emoji/pixemoji12/invader.png\" />\u00a0, No true B&amp;W",
+    "colors": [
+        "002d15",
+        "246040",
+        "51a59e",
+        "c1fff9",
+        "8e493a",
+        "e0a598",
+        "2f88d9",
+        "2d337a",
+        "7eb779",
+        "2d8225",
+        "c6b10f",
+        "726713",
+        "724713",
+        "9d59b7",
+        "57246b",
+        "b2e4ff"
+    ],
+    "creator": true,
+    "hashtag": "p64",
+    "comments": 3,
+    "likes": 4,
+    "createdAt": "2019-12-01T18:56:33.346Z",
+    "featured": false,
+    "tags": [
+        "purplespalletes"
+    ],
+    "downloads": "64",
+    "numberOfColors": 16,
+    "title": "Proto 64",
+    "user": {
+        "name": "Purple Bandit",
+        "slug": "purple-bandit"
+    },
+    "publishedAt": "2019-12-01T18:56:33.346Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "002d15",
+        "246040",
+        "51a59e",
+        "c1fff9",
+        "8e493a",
+        "e0a598",
+        "2f88d9",
+        "2d337a",
+        "7eb779",
+        "2d8225",
+        "c6b10f",
+        "726713",
+        "724713",
+        "9d59b7",
+        "57246b",
+        "b2e4ff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5de40ce1c62c7b5f2f6f093b",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

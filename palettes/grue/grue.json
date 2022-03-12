@@ -1,0 +1,74 @@
+{
+    "_id": "61f097608518bf160964b085",
+    "tags": [
+        "gameboy",
+        "5",
+        "monochrome"
+    ],
+    "colors": [
+        "0e0c1f",
+        "2f323e",
+        "4d5964",
+        "748380",
+        "b8c7bf"
+    ],
+    "downloads": "310",
+    "featured": false,
+    "likes": 27,
+    "comments": 2,
+    "slug": "grue",
+    "publishedAt": "2022-01-26T13:20:00.067Z",
+    "user": {
+        "name": "Fractured Polygon",
+        "slug": "dominic-monn"
+    },
+    "title": "Grue",
+    "hashtag": "grue",
+    "description": "This palette uses very desaturated blues that slowly transition to a very desaturated green to add gameboy feels. This palette uses 5 colors instead of the usual 4 to allow for more interesting uses. Grue is a strange name, but it is a combination of the words \"green\" and \"blue\".",
+    "creator": true,
+    "numberOfColors": 5,
+    "createdAt": "2022-01-26T00:35:44.220Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61f0a3a5a1a7742028163e32",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Grue Palette Example by Fractured Polygon",
+            "slug": "grue-palette-example-by-fractured-polygonmwfleg",
+            "publishedAt": "2022-01-26T17:25:00.030Z",
+            "user": {
+                "name": "Fractured Polygon",
+                "slug": "dominic-monn"
+            },
+            "parent": "61f097608518bf160964b085",
+            "image": "palette-examples/grue-palette-example-by-fractured-polygonmwfleg.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-01-26T01:28:05.783Z",
+            "updatedAt": "2022-01-26T17:25:00.030Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "0e0c1f",
+        "2f323e",
+        "4d5964",
+        "748380",
+        "b8c7bf"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "61f097608518bf160964b085",
+        "type": "palettes",
+        "count": 27,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

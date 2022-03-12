@@ -1,0 +1,100 @@
+{
+    "_id": "6168735040b493443b1929c7",
+    "tags": [
+        "halloween",
+        "17",
+        "dark",
+        "game",
+        "warm"
+    ],
+    "colors": [
+        "382c40",
+        "725a70",
+        "5d4b63",
+        "5b1f1e",
+        "cc5f24",
+        "a96735",
+        "9b7d37",
+        "ceab47",
+        "f6b53d",
+        "fff578",
+        "dae597",
+        "fffee0",
+        "a6a549",
+        "9b9c70",
+        "6d6c5a",
+        "61553b",
+        "4d4835"
+    ],
+    "downloads": "127",
+    "featured": false,
+    "likes": 8,
+    "comments": 0,
+    "slug": "bulb-orb-17",
+    "publishedAt": "2021-10-17T23:45:00.020Z",
+    "user": {
+        "name": "Mob154",
+        "slug": "h-lol154"
+    },
+    "title": "bulb-orb-17",
+    "hashtag": "deleted",
+    "description": "Spooky looking Halloween pallatte From screenshot \"IMG of bulborb\" hope u like it",
+    "creator": true,
+    "numberOfColors": 17,
+    "createdAt": "2021-10-14T18:13:36.514Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "616cbb308030850eb21ee23c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "bulb-orb-17 Palette Example by Mob154",
+            "slug": "bulb-orb-17-palette-example-by-mob154",
+            "publishedAt": "2021-10-18T06:45:00.027Z",
+            "user": {
+                "name": "Mob154",
+                "slug": "h-lol154"
+            },
+            "parent": "6168735040b493443b1929c7",
+            "image": "palette-examples/bulb-orb-17-palette-example-by-mob154-616cbb.png",
+            "creator": true,
+            "description": "Just a quick explanation",
+            "createdAt": "2021-10-18T00:09:20.496Z",
+            "updatedAt": "2021-10-18T06:45:00.027Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Just a quick explanation"
+        }
+    ],
+    "colorsArray": [
+        "382c40",
+        "725a70",
+        "5d4b63",
+        "5b1f1e",
+        "cc5f24",
+        "a96735",
+        "9b7d37",
+        "ceab47",
+        "f6b53d",
+        "fff578",
+        "dae597",
+        "fffee0",
+        "a6a549",
+        "9b9c70",
+        "6d6c5a",
+        "61553b",
+        "4d4835"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 11.11111111111111,
+    "height": 32,
+    "likebutton": {
+        "content": "6168735040b493443b1929c7",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

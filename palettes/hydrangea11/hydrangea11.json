@@ -1,0 +1,87 @@
+{
+    "_id": "604f8bec549ac4028c87364f",
+    "tags": [
+        "pastel",
+        " pink",
+        " green",
+        " soft"
+    ],
+    "colors": [
+        "413652",
+        "6f577e",
+        "986f9c",
+        "c090a7",
+        "d4beb8",
+        "eae4dd",
+        "c9d4b8",
+        "90c0a0",
+        "6f919c",
+        "62778c",
+        "575f7e"
+    ],
+    "downloads": "1,178",
+    "featured": false,
+    "likes": 103,
+    "comments": 0,
+    "title": "Hydrangea 11",
+    "hashtag": "hydrangea11",
+    "description": "A pastel palette inspired by hydrangea flowers.",
+    "creator": true,
+    "slug": "hydrangea-11",
+    "publishedAt": "2021-03-18T00:10:00.025Z",
+    "user": {
+        "name": "Dinchen's Art \ud83c\udf3f\ud83c\udf1e",
+        "slug": "dinchensart"
+    },
+    "numberOfColors": 11,
+    "createdAt": "2021-03-15T16:31:40.097Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "604f8c08549ac4028c873654",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/hydrangea-11-palette-example-by-dinchens-art-604f8c.png",
+            "creator": true,
+            "description": "",
+            "title": "Hydrangea 11 Palette Example by Dinchen's Art \ud83c\udf3f\ud83c\udf1e",
+            "slug": "hydrangea-11-palette-example-by-dinchens-art",
+            "publishedAt": "2021-03-17T18:10:00.011Z",
+            "user": {
+                "name": "Dinchen's Art \ud83c\udf3f\ud83c\udf1e",
+                "slug": "dinchensart"
+            },
+            "parent": "604f8bec549ac4028c87364f",
+            "createdAt": "2021-03-15T16:32:08.758Z",
+            "updatedAt": "2021-03-17T18:10:00.011Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "413652",
+        "6f577e",
+        "986f9c",
+        "c090a7",
+        "d4beb8",
+        "eae4dd",
+        "c9d4b8",
+        "90c0a0",
+        "6f919c",
+        "62778c",
+        "575f7e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "604f8bec549ac4028c87364f",
+        "type": "palettes",
+        "count": 103,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

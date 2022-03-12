@@ -1,0 +1,74 @@
+{
+    "_id": "5ee173392083bb7b8b8f75f8",
+    "tags": [
+        "spongebob",
+        "sea",
+        "crab",
+        "krabs",
+        "6"
+    ],
+    "colors": [
+        "93c7e3",
+        "5672e1",
+        "3a159c",
+        "0f0d11",
+        "d85452",
+        "eeb8b4"
+    ],
+    "downloads": "608",
+    "featured": false,
+    "likes": 71,
+    "comments": 0,
+    "title": "Sailers Friday",
+    "hashtag": "sailersfriday",
+    "description": "Sailers Friday originates from the prestige meme \"<b>Congratulations Sailer you made to Friday</b>\". In this meme, Mr.Krabs congratulate you on making it to Friday.\u00a0",
+    "creator": "1",
+    "slug": "sailers-friday",
+    "publishedAt": "2020-06-28T22:15:00.017Z",
+    "user": {
+        "name": "Grunion",
+        "slug": "kinggrunion"
+    },
+    "numberOfColors": 6,
+    "createdAt": "2020-06-10T23:56:41.882Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5ef91a2602e98838af508c01",
+            "description": "Palette usage example by GRINEN",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.227Z",
+            "creator": false,
+            "image": "palette-examples/sailers-friday-palette-example-palette-usage-example-by-grinen-5ef91a.png",
+            "likes": 0,
+            "parent": "5ee173392083bb7b8b8f75f8",
+            "slug": "sailers-friday-palette-example-palette-usage-example-by-grinen",
+            "title": "sailers friday palette example palette usage example by grinen",
+            "updatedAt": "2020-07-31T03:56:11.227Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by GRINEN"
+        }
+    ],
+    "colorsArray": [
+        "93c7e3",
+        "5672e1",
+        "3a159c",
+        "0f0d11",
+        "d85452",
+        "eeb8b4"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5ee173392083bb7b8b8f75f8",
+        "type": "palettes",
+        "count": 71,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,82 @@
+{
+    "_id": "61b55835a6557d47e6583cba",
+    "tags": [
+        "pink",
+        "green",
+        "brown",
+        "natural",
+        "warm"
+    ],
+    "colors": [
+        "451c22",
+        "61342b",
+        "4b7332",
+        "799e51",
+        "f02259",
+        "ff5c7c",
+        "f78fa5",
+        "ffdae7"
+    ],
+    "downloads": "115",
+    "featured": false,
+    "likes": 10,
+    "comments": 0,
+    "slug": "melon-tree",
+    "publishedAt": "2021-12-17T01:00:00.071Z",
+    "user": {
+        "name": "Kikasuru",
+        "slug": "kikasurupizza"
+    },
+    "title": "Melon Tree",
+    "hashtag": "melontreepalette",
+    "description": "First pixel art palette, yay!\u00a0 Something I tried doing is having every color go down in luminance, so you have this sort of gradiant effect to it.\u00a0 Please do give constructive criticism on anything I should improve!",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-12-12T02:02:29.028Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61b55872a6557d47e6583cbc",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Melon Tree Palette Example by Kikasuru",
+            "slug": "melon-tree-palette-example-by-kikasuru",
+            "publishedAt": "2021-12-12T15:35:00.020Z",
+            "user": {
+                "name": "Kikasuru",
+                "slug": "kikasurupizza"
+            },
+            "parent": "61b55835a6557d47e6583cba",
+            "image": "palette-examples/melon-tree-palette-example-by-kikasuru-61b558.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-12-12T02:03:30.587Z",
+            "updatedAt": "2021-12-12T15:35:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "451c22",
+        "61342b",
+        "4b7332",
+        "799e51",
+        "f02259",
+        "ff5c7c",
+        "f78fa5",
+        "ffdae7"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61b55835a6557d47e6583cba",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

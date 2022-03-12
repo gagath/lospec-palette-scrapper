@@ -1,0 +1,73 @@
+{
+    "_id": "5e246db49a1ed02c6cc9d9f2",
+    "slug": "pixel-ink",
+    "description": "A 1bit palette for old-looking games etched onto pixellated parchment<br />",
+    "colors": [
+        "3e232c",
+        "edf6d6"
+    ],
+    "creator": true,
+    "hashtag": "pixelinkpalette",
+    "comments": 3,
+    "likes": 84,
+    "createdAt": "2020-01-19T14:54:44.869Z",
+    "featured": false,
+    "tags": [
+        "1bit",
+        "two",
+        "polyducks",
+        "ink",
+        "pixel",
+        "simple",
+        "black",
+        "white"
+    ],
+    "downloads": "1,157",
+    "numberOfColors": 2,
+    "title": "Pixel Ink",
+    "user": {
+        "name": "Polyducks",
+        "slug": "polyducks"
+    },
+    "publishedAt": "2020-01-19T14:54:44.869Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f63dad74450ff69f32a0ab9",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/pixel-ink-palette-example-by-mig-5f63da.png",
+            "creator": true,
+            "description": "",
+            "title": "Pixel Ink Palette Example by Mig",
+            "slug": "pixel-ink-palette-example-by-mig",
+            "publishedAt": "2020-09-19T17:15:00.016Z",
+            "user": {
+                "name": "Mig Moog",
+                "slug": "migmoog"
+            },
+            "parent": "5e246db49a1ed02c6cc9d9f2",
+            "createdAt": "2020-09-17T21:53:27.031Z",
+            "updatedAt": "2020-09-19T17:15:00.017Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "3e232c",
+        "edf6d6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "5e246db49a1ed02c6cc9d9f2",
+        "type": "palettes",
+        "count": 84,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

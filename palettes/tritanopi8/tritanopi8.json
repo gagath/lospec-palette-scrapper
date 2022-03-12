@@ -1,0 +1,56 @@
+{
+    "_id": "5fcc23d79a756949d75ecb8b",
+    "tags": [
+        "colourblindness",
+        " tritanopia"
+    ],
+    "colors": [
+        "000000",
+        "555555",
+        "aaaaaa",
+        "ffffff",
+        "00aa7f",
+        "55ffd0",
+        "aa0020",
+        "ff557f"
+    ],
+    "downloads": "35",
+    "featured": false,
+    "likes": 6,
+    "comments": 0,
+    "title": "Tritanopi8",
+    "hashtag": "tritanopi8",
+    "description": "8 colour palette based on Tritanopian vision",
+    "creator": true,
+    "slug": "tritanopi8",
+    "publishedAt": "2020-12-14T14:30:00.031Z",
+    "user": {
+        "name": "Space Sandwich",
+        "slug": "spacesandwich"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2020-12-06T00:20:39.406Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "555555",
+        "aaaaaa",
+        "ffffff",
+        "00aa7f",
+        "55ffd0",
+        "aa0020",
+        "ff557f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fcc23d79a756949d75ecb8b",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

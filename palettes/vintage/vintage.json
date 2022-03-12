@@ -1,0 +1,43 @@
+{
+    "_id": "61b44c164191d7731720c7f8",
+    "tags": [],
+    "colors": [
+        "ccc7c0",
+        "322c2a",
+        "665e5c"
+    ],
+    "downloads": "52",
+    "featured": false,
+    "likes": 6,
+    "comments": 0,
+    "slug": "vintagedalsy",
+    "publishedAt": "2021-12-14T01:00:00.120Z",
+    "user": {
+        "name": "Maximiliano Lazcano olvera",
+        "slug": "maximiliano-lazcano-olvera"
+    },
+    "title": "VINTAGE_DALSY",
+    "hashtag": "vintage",
+    "description": "FANSO",
+    "creator": true,
+    "numberOfColors": 3,
+    "createdAt": "2021-12-11T06:58:30.619Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ccc7c0",
+        "322c2a",
+        "665e5c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 33.333333333333336,
+    "height": 32,
+    "likebutton": {
+        "content": "61b44c164191d7731720c7f8",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,49 @@
+{
+    "_id": "61980faf5ed8685cedb707af",
+    "tags": [],
+    "colors": [
+        "469c58",
+        "3a875e",
+        "417070",
+        "3f5b69",
+        "3c4c63",
+        "39425c"
+    ],
+    "downloads": "155",
+    "featured": false,
+    "likes": 9,
+    "comments": 1,
+    "slug": "lush-green",
+    "publishedAt": "2021-11-23T14:35:00.024Z",
+    "user": {
+        "name": "EerieJam",
+        "slug": "discussioncareless10"
+    },
+    "title": "lush green",
+    "hashtag": "lushgreen",
+    "description": "a leafy color palette!",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2021-11-19T20:57:19.362Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "469c58",
+        "3a875e",
+        "417070",
+        "3f5b69",
+        "3c4c63",
+        "39425c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "61980faf5ed8685cedb707af",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,75 @@
+{
+    "_id": "604c13996014c7407c7c38ab",
+    "tags": [
+        "monochrome",
+        "gameboy",
+        "gb",
+        "artist",
+        "kuroi",
+        "8bit"
+    ],
+    "colors": [
+        "d6c894",
+        "b59070",
+        "875d51",
+        "422e31"
+    ],
+    "downloads": "276",
+    "featured": false,
+    "likes": 12,
+    "comments": 0,
+    "title": "Tea gb ",
+    "hashtag": "frenchteapixart",
+    "description": "",
+    "creator": true,
+    "slug": "tea-gb",
+    "publishedAt": "2021-03-16T09:25:00.017Z",
+    "user": {
+        "name": "Kuroi",
+        "slug": "kuroi"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-03-13T01:21:29.744Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607f9b629227cd7cfff62719",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Tea gb pallete Palette Example by Casei Solus",
+            "slug": "tea-gb-pallete-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-21T17:15:00.021Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "604c13996014c7407c7c38ab",
+            "image": "palette-examples/tea-gb-pallete-palette-example-by-casei-solus-607f9b.png",
+            "creator": true,
+            "description": "Boba tea.",
+            "createdAt": "2021-04-21T03:26:26.304Z",
+            "updatedAt": "2021-04-21T17:15:00.021Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Boba tea."
+        }
+    ],
+    "colorsArray": [
+        "d6c894",
+        "b59070",
+        "875d51",
+        "422e31"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "604c13996014c7407c7c38ab",
+        "type": "palettes",
+        "count": 12,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

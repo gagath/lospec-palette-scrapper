@@ -1,0 +1,71 @@
+{
+    "_id": "5d1a4f6b96c57b14c72d0ec3",
+    "slug": "rube-goldberg",
+    "description": "For PixelJoint Challenge <a target=\"_blank\" href=\"http://pixeljoint.com/2019/07/01/6015/Pixel_Art_Challenge-_Master_of_Gadgets.htm\">Master of Gadgets</a>",
+    "colors": [
+        "e1e1df",
+        "f3d754",
+        "cbbead",
+        "f0bd8a",
+        "ce6c37",
+        "f03428",
+        "04b0d8",
+        "54a04f",
+        "232722"
+    ],
+    "likes": 5,
+    "createdAt": "2019-07-01T18:22:35.255Z",
+    "featured": false,
+    "tags": [
+        "pixeljoint"
+    ],
+    "downloads": "88",
+    "numberOfColors": 9,
+    "comments": 0,
+    "hashtag": "rubegoldberg",
+    "title": "Rube Goldberg",
+    "publishedAt": "2019-07-01T18:22:35.255Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5d3256a4fd7db279ec15534b",
+            "description": "Palette usage example by <a target=\"_blank\" href=\"https://twitter.com/miriedagirb\">Brigadeiro</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.190Z",
+            "creator": false,
+            "image": "palette-examples/rube-goldberg-palette-example-palette-usage-example-by-brigadeiro-5d3256.png",
+            "likes": 0,
+            "parent": "5d1a4f6b96c57b14c72d0ec3",
+            "slug": "rube-goldberg-palette-example-palette-usage-example-by-brigadeiro",
+            "title": "rube goldberg palette example palette usage example by brigadeiro",
+            "updatedAt": "2020-07-31T03:56:11.190Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Brigadeiro"
+        }
+    ],
+    "colorsArray": [
+        "e1e1df",
+        "f3d754",
+        "cbbead",
+        "f0bd8a",
+        "ce6c37",
+        "f03428",
+        "04b0d8",
+        "54a04f",
+        "232722"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5d1a4f6b96c57b14c72d0ec3",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

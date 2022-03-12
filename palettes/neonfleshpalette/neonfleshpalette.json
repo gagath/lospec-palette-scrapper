@@ -1,0 +1,100 @@
+{
+    "_id": "61672908a774001b5a0ad93d",
+    "tags": [
+        "red",
+        "yellow",
+        "teal",
+        "pink",
+        "neon",
+        "flesh",
+        "lostinindigo",
+        "primarycolors",
+        "teeth",
+        "pastel",
+        "brown",
+        "bright",
+        "light",
+        "meat",
+        "gore"
+    ],
+    "colors": [
+        "2d6778",
+        "ada98e",
+        "73464c",
+        "ec96a2",
+        "34acba",
+        "f1ebb5",
+        "c44a5b",
+        "f5bebc",
+        "acdbe0",
+        "fefad9",
+        "ee6a7c",
+        "ffe7d6"
+    ],
+    "downloads": "215",
+    "featured": false,
+    "likes": 20,
+    "comments": 0,
+    "slug": "neon-flesh",
+    "publishedAt": "2021-10-17T09:45:00.036Z",
+    "user": {
+        "name": "LostInIndigo",
+        "slug": "lostinindigo"
+    },
+    "title": "Neon Flesh",
+    "hashtag": "neonfleshpalette",
+    "description": "A 12-color palette consisting of bright tints and shades of red, yellow, and teal. The yellows are particularly gross.",
+    "creator": true,
+    "numberOfColors": 12,
+    "createdAt": "2021-10-13T18:44:24.223Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61672abefbb69f1cc44f4c85",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Neon Flesh Palette Example by LostInIndigo",
+            "slug": "neon-flesh-palette-example-by-lostinindigo",
+            "publishedAt": "2021-10-14T15:15:00.024Z",
+            "user": {
+                "name": "LostInIndigo",
+                "slug": "lostinindigo"
+            },
+            "parent": "61672908a774001b5a0ad93d",
+            "image": "palette-examples/neon-flesh-palette-example-by-lostinindigo-61672a.png",
+            "creator": true,
+            "description": "Ewwwwwwwww. A creepy image of slimy flesh, yellowed teeth, and disembodied eyes made using the bright primary hues of the Neon Flesh palette, with a nice dithered gradient in the background. This makes me uncomfortable, I don't know why I made it.",
+            "createdAt": "2021-10-13T18:51:42.011Z",
+            "updatedAt": "2021-10-14T15:15:00.025Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Ewwwwwwwww. A creepy image of slimy flesh, yellowed teeth, and disembodied eyes made using the bright primary hues of the Neon Flesh palette, with a nice dithered gradient in the background. This makes me uncomfortable, I don't know why I made it."
+        }
+    ],
+    "colorsArray": [
+        "2d6778",
+        "ada98e",
+        "73464c",
+        "ec96a2",
+        "34acba",
+        "f1ebb5",
+        "c44a5b",
+        "f5bebc",
+        "acdbe0",
+        "fefad9",
+        "ee6a7c",
+        "ffe7d6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "61672908a774001b5a0ad93d",
+        "type": "palettes",
+        "count": 20,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

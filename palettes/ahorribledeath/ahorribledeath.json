@@ -1,0 +1,53 @@
+{
+    "_id": "61fbdca2b49bcf0b9721947f",
+    "tags": [],
+    "colors": [
+        "241623",
+        "820933",
+        "e36397",
+        "ffe5f5",
+        "eae6ff",
+        "76e7cd",
+        "3c787e",
+        "023a52"
+    ],
+    "downloads": "73",
+    "featured": false,
+    "likes": 13,
+    "comments": 0,
+    "slug": "a-horrible-death",
+    "publishedAt": "2022-02-03T18:10:00.589Z",
+    "user": {
+        "name": "Endme",
+        "slug": "nothing-you-could-do"
+    },
+    "title": "A horrible death",
+    "hashtag": "ahorribledeath",
+    "description": "I wanted to make a pallet to convey that feeling of cute but slightly off.",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2022-02-03T13:46:10.273Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "241623",
+        "820933",
+        "e36397",
+        "ffe5f5",
+        "eae6ff",
+        "76e7cd",
+        "3c787e",
+        "023a52"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61fbdca2b49bcf0b9721947f",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

@@ -1,0 +1,77 @@
+{
+    "_id": "605546db8353f65b2ec2862e",
+    "tags": [
+        "2bit",
+        "monoramp",
+        "lowsaturation",
+        "glacier",
+        "windfallapples",
+        "pastel",
+        "soft",
+        "monochrome"
+    ],
+    "colors": [
+        "f7f6e2",
+        "ffd7c1",
+        "af9170",
+        "5f4b1f"
+    ],
+    "downloads": "98",
+    "featured": false,
+    "likes": 10,
+    "comments": 0,
+    "title": "Naples-2bit",
+    "hashtag": "naples2bit",
+    "description": "Four soft tones, reminiscent of Neapolitan ice cream. A fun little something when you need a fluffy not-quite monoramp!",
+    "creator": true,
+    "slug": "naples-2bit",
+    "publishedAt": "2021-04-06T23:30:00.059Z",
+    "user": {
+        "name": "windfallapples (glacier)",
+        "slug": "windfallapples"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-03-20T00:50:35.397Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "606e6b20b81b9874a979cdea",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Naples-2bit Palette Example by Casei Solus",
+            "slug": "naples-2bit-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-08T16:00:00.052Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "605546db8353f65b2ec2862e",
+            "image": "palette-examples/naples-2bit-palette-example-by-casei-solus-606e6b.png",
+            "creator": true,
+            "description": "A bowl of Neopolitan ice cream.",
+            "createdAt": "2021-04-08T02:32:00.006Z",
+            "updatedAt": "2021-04-08T16:00:00.053Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A bowl of Neopolitan ice cream."
+        }
+    ],
+    "colorsArray": [
+        "f7f6e2",
+        "ffd7c1",
+        "af9170",
+        "5f4b1f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "605546db8353f65b2ec2862e",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

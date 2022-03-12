@@ -1,0 +1,72 @@
+{
+    "_id": "60317161519724514cc29119",
+    "tags": [
+        "artist",
+        " soft"
+    ],
+    "colors": [
+        "1d1b20",
+        "392e3c",
+        "3d3c58",
+        "643a40",
+        "46543e",
+        "505f93",
+        "517852",
+        "a05372",
+        "886659",
+        "b972a4",
+        "9e8d80",
+        "bca766",
+        "d1a2b9",
+        "c0c783",
+        "c5d1b4",
+        "c4ccbd"
+    ],
+    "downloads": "82",
+    "featured": false,
+    "likes": 10,
+    "comments": 6,
+    "title": "king-16",
+    "hashtag": "king16",
+    "description": "smooth dark and bright palette inspired by the c64\u00a0",
+    "creator": true,
+    "slug": "king-16",
+    "publishedAt": "2021-03-06T09:40:00.020Z",
+    "user": {
+        "name": "orange hair boi",
+        "slug": "orange-hair-boi"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2021-02-20T20:30:25.678Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "1d1b20",
+        "392e3c",
+        "3d3c58",
+        "643a40",
+        "46543e",
+        "505f93",
+        "517852",
+        "a05372",
+        "886659",
+        "b972a4",
+        "9e8d80",
+        "bca766",
+        "d1a2b9",
+        "c0c783",
+        "c5d1b4",
+        "c4ccbd"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60317161519724514cc29119",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

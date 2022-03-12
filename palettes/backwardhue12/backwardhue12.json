@@ -1,0 +1,86 @@
+{
+    "_id": "5f960a7c1381417b4479bb1c",
+    "tags": [
+        "isasstudio"
+    ],
+    "colors": [
+        "318f9c",
+        "c8e7ff",
+        "59a868",
+        "405533",
+        "242216",
+        "656317",
+        "bebb40",
+        "fffec8",
+        "f3b9ff",
+        "c05a99",
+        "803016",
+        "f53a43"
+    ],
+    "downloads": "66",
+    "featured": false,
+    "likes": 8,
+    "comments": 2,
+    "title": "Backward 12",
+    "hashtag": "backwardhue12",
+    "description": "5 ramps with backwards hue-shift",
+    "creator": true,
+    "slug": "backward-12",
+    "publishedAt": "2020-10-26T14:00:00.063Z",
+    "user": {
+        "name": "Isa",
+        "slug": "isas-studio"
+    },
+    "numberOfColors": 12,
+    "createdAt": "2020-10-25T23:30:04.143Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f960a9c1381417b4479bb1e",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/backward-12-palette-example-by-isagamer-5f960a.png",
+            "creator": true,
+            "description": "",
+            "title": "Backward 12 Palette Example by IsaGamer",
+            "slug": "backward-12-palette-example-by-isagamer",
+            "publishedAt": "2020-10-26T14:05:00.020Z",
+            "user": {
+                "name": "Isa",
+                "slug": "isas-studio"
+            },
+            "parent": "5f960a7c1381417b4479bb1c",
+            "createdAt": "2020-10-25T23:30:36.628Z",
+            "updatedAt": "2020-10-26T14:05:00.020Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "318f9c",
+        "c8e7ff",
+        "59a868",
+        "405533",
+        "242216",
+        "656317",
+        "bebb40",
+        "fffec8",
+        "f3b9ff",
+        "c05a99",
+        "803016",
+        "f53a43"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5f960a7c1381417b4479bb1c",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

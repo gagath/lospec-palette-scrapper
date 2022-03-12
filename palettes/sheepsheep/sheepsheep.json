@@ -1,0 +1,74 @@
+{
+    "_id": "6022f17c79b7dc658643a89b",
+    "tags": [
+        "sheep",
+        " farm",
+        " brown",
+        " yellow",
+        " "
+    ],
+    "colors": [
+        "292039",
+        "bc7967",
+        "e4c179",
+        "f9fbf3"
+    ],
+    "downloads": "283",
+    "featured": false,
+    "likes": 38,
+    "comments": 4,
+    "title": "SheepSheep",
+    "hashtag": "sheepsheep",
+    "description": "Retro-Brown and vintage-yellow. Farm vibes for your farm needs.",
+    "creator": true,
+    "slug": "sheepsheep",
+    "publishedAt": "2021-02-17T02:40:00.014Z",
+    "user": {
+        "name": "lmk.dots",
+        "slug": "lmkdots"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-02-09T20:33:00.304Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6022f49a79b7dc658643a8cb",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/sheepsheep-palette-example-by-lmkdots-6022f4.png",
+            "creator": true,
+            "description": "",
+            "title": "SheepSheep Palette Example by lmk.dots",
+            "slug": "sheepsheep-palette-example-by-lmkdots",
+            "publishedAt": "2021-02-11T20:10:00.012Z",
+            "user": {
+                "name": "lmk.dots",
+                "slug": "lmkdots"
+            },
+            "parent": "6022f17c79b7dc658643a89b",
+            "createdAt": "2021-02-09T20:46:18.675Z",
+            "updatedAt": "2021-02-11T20:10:00.012Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "292039",
+        "bc7967",
+        "e4c179",
+        "f9fbf3"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "6022f17c79b7dc658643a89b",
+        "type": "palettes",
+        "count": 38,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

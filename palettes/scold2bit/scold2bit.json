@@ -1,0 +1,47 @@
+{
+    "_id": "5f9c67ea86cc8b4879008fbe",
+    "tags": [
+        "2bit"
+    ],
+    "colors": [
+        "101c56",
+        "ce0094",
+        "0fb700",
+        "d3d3d3"
+    ],
+    "downloads": "43",
+    "featured": false,
+    "likes": 8,
+    "comments": 2,
+    "title": "Scold 2-Bit",
+    "hashtag": "scold2bit",
+    "description": "A custom palette made for the 2 bit waifu collab held by glacier (windfallapples)",
+    "creator": true,
+    "slug": "scold-2-bit",
+    "publishedAt": "2020-10-31T08:15:00.019Z",
+    "user": {
+        "name": "Red Penguin",
+        "slug": "red-penguin"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-10-30T19:22:18.061Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "101c56",
+        "ce0094",
+        "0fb700",
+        "d3d3d3"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f9c67ea86cc8b4879008fbe",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

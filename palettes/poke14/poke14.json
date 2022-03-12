@@ -1,0 +1,81 @@
+{
+    "_id": "5ba7fdc5d8f5345a507022a5",
+    "slug": "poke14",
+    "description": "Created by <a target=\"_blank\" href=\"https://twitter.com/Smallpryv\">Smalls</a>.",
+    "colors": [
+        "ffffff",
+        "e8958b",
+        "d45362",
+        "612431",
+        "f5dc8c",
+        "cc8945",
+        "8f3f29",
+        "c0fac2",
+        "5dd48f",
+        "417d53",
+        "6cadeb",
+        "5162c2",
+        "24325e",
+        "1b1221"
+    ],
+    "tags": [
+        "artist",
+        "smalls"
+    ],
+    "downloads": "559",
+    "numberOfColors": 14,
+    "createdAt": "2018-09-23T20:55:33.638Z",
+    "likes": 18,
+    "comments": 1,
+    "hashtag": "poke14",
+    "title": "Poke14",
+    "publishedAt": "2018-09-23T20:55:33.638Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5baa713ad8f5345a507022b0",
+            "description": "Palette usage example by <a target=\"_blank\" href=\"https://twitter.com/Smallpryv\">Smalls</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.143Z",
+            "creator": false,
+            "image": "palette-examples/poke14-palette-example-palette-usage-example-by-smalls-5baa71.png",
+            "likes": 0,
+            "parent": "5ba7fdc5d8f5345a507022a5",
+            "slug": "poke14-palette-example-palette-usage-example-by-smalls",
+            "title": "poke14 palette example palette usage example by smalls",
+            "updatedAt": "2020-07-31T03:56:11.143Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Smalls"
+        }
+    ],
+    "colorsArray": [
+        "ffffff",
+        "e8958b",
+        "d45362",
+        "612431",
+        "f5dc8c",
+        "cc8945",
+        "8f3f29",
+        "c0fac2",
+        "5dd48f",
+        "417d53",
+        "6cadeb",
+        "5162c2",
+        "24325e",
+        "1b1221"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5ba7fdc5d8f5345a507022a5",
+        "type": "palettes",
+        "count": 18,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

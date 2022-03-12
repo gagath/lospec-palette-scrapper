@@ -1,0 +1,94 @@
+{
+    "_id": "61df8a6c52f26b5d30a9ab91",
+    "tags": [
+        "moody",
+        "contrast",
+        "hueshift"
+    ],
+    "colors": [
+        "272139",
+        "4a2b61",
+        "6d5f7f",
+        "909bac",
+        "faf9ef",
+        "953d43",
+        "84504d",
+        "cb8d6d",
+        "b06a87",
+        "2b646e",
+        "3e8eb2",
+        "65cec4",
+        "447f50",
+        "a5ad31",
+        "dad78f"
+    ],
+    "downloads": "150",
+    "featured": false,
+    "likes": 15,
+    "comments": 0,
+    "slug": "lns15",
+    "publishedAt": "2022-01-15T08:45:00.034Z",
+    "user": {
+        "name": "LNS",
+        "slug": "lainsce"
+    },
+    "title": "LNS15",
+    "hashtag": "lns15",
+    "description": "Can be used for some pretty moody pieces, this palette contains a very yellow white, and a very purple black.",
+    "creator": true,
+    "numberOfColors": 15,
+    "createdAt": "2022-01-13T02:11:56.530Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "61e02eb5de05335d5bd27284",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "LNS15 Palette Example by LNS",
+            "slug": "lns15-palette-example-by-lnsphflt7",
+            "publishedAt": "2022-01-15T05:00:00.051Z",
+            "user": {
+                "name": "LNS",
+                "slug": "lainsce"
+            },
+            "parent": "61df8a6c52f26b5d30a9ab91",
+            "image": "palette-examples/lns15-palette-example-by-lnsphflt7.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2022-01-13T13:52:53.337Z",
+            "updatedAt": "2022-01-15T05:00:00.052Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "272139",
+        "4a2b61",
+        "6d5f7f",
+        "909bac",
+        "faf9ef",
+        "953d43",
+        "84504d",
+        "cb8d6d",
+        "b06a87",
+        "2b646e",
+        "3e8eb2",
+        "65cec4",
+        "447f50",
+        "a5ad31",
+        "dad78f"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61df8a6c52f26b5d30a9ab91",
+        "type": "palettes",
+        "count": 15,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

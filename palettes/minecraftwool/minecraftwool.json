@@ -1,0 +1,72 @@
+{
+    "_id": "5ebac97ac73c067754dd8032",
+    "tags": [
+        "minecraft",
+        " wool"
+    ],
+    "colors": [
+        "e9ecec",
+        "8e8e86",
+        "f07613",
+        "158991",
+        "bd44b3",
+        "792aac",
+        "3aafd9",
+        "35399d",
+        "f8c527",
+        "724728",
+        "70b919",
+        "546d1b",
+        "ed8dac",
+        "a02722",
+        "3e4447",
+        "141519"
+    ],
+    "downloads": "309",
+    "featured": false,
+    "likes": 13,
+    "comments": 2,
+    "title": "Minecraft Wool",
+    "hashtag": "minecraftwool",
+    "description": "The 16 colours of wool in Minecraft Java Edition, as of 1.15.2",
+    "creator": false,
+    "slug": "minecraft-wool",
+    "publishedAt": "2020-06-24T10:55:00.012Z",
+    "user": {
+        "name": "Moses Ng",
+        "slug": "moses-ng"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-05-12T16:06:18.099Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "e9ecec",
+        "8e8e86",
+        "f07613",
+        "158991",
+        "bd44b3",
+        "792aac",
+        "3aafd9",
+        "35399d",
+        "f8c527",
+        "724728",
+        "70b919",
+        "546d1b",
+        "ed8dac",
+        "a02722",
+        "3e4447",
+        "141519"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5ebac97ac73c067754dd8032",
+        "type": "palettes",
+        "count": 13,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

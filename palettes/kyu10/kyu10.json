@@ -1,0 +1,59 @@
+{
+    "_id": "5fe7d2917518691b57c79e99",
+    "tags": [
+        "froeu"
+    ],
+    "colors": [
+        "01060f",
+        "3e2e2f",
+        "5a5475",
+        "837a7c",
+        "d5917d",
+        "f1b674",
+        "f5bca4",
+        "bdb1c2",
+        "eb83a0",
+        "b67995"
+    ],
+    "downloads": "62",
+    "featured": false,
+    "likes": 7,
+    "comments": 0,
+    "title": "kyu",
+    "hashtag": "kyu10",
+    "description": "a pallete for a character of mine, thought it might be good for pixel art idk",
+    "creator": true,
+    "slug": "kyu",
+    "publishedAt": "2021-03-22T00:10:00.024Z",
+    "user": {
+        "name": "finn",
+        "slug": "cuk"
+    },
+    "numberOfColors": 10,
+    "createdAt": "2020-12-27T00:17:21.939Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "01060f",
+        "3e2e2f",
+        "5a5475",
+        "837a7c",
+        "d5917d",
+        "f1b674",
+        "f5bca4",
+        "bdb1c2",
+        "eb83a0",
+        "b67995"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5fe7d2917518691b57c79e99",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

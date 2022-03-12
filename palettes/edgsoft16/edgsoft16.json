@@ -1,0 +1,72 @@
+{
+    "_id": "5a3aaa6b5441860b93594c78",
+    "createdAt": "2017-12-20T18:22:35.872Z",
+    "slug": "endesga-soft-16",
+    "description": "",
+    "colors": [
+        "fefed7",
+        "dbbc96",
+        "ddac46",
+        "c25940",
+        "683d64",
+        "9c6659",
+        "88434f",
+        "4d2831",
+        "a9aba3",
+        "666869",
+        "51b1ca",
+        "1773b8",
+        "639f5b",
+        "376e49",
+        "323441",
+        "161323"
+    ],
+    "tags": [
+        "artist",
+        "endesga"
+    ],
+    "downloads": "1,274",
+    "numberOfColors": 16,
+    "featured": false,
+    "likes": 34,
+    "comments": 0,
+    "creator": true,
+    "hashtag": "edgsoft16",
+    "title": "Endesga Soft 16",
+    "user": {
+        "name": "ENDESGA",
+        "slug": "endesga"
+    },
+    "publishedAt": "2017-12-20T18:22:35.872Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "fefed7",
+        "dbbc96",
+        "ddac46",
+        "c25940",
+        "683d64",
+        "9c6659",
+        "88434f",
+        "4d2831",
+        "a9aba3",
+        "666869",
+        "51b1ca",
+        "1773b8",
+        "639f5b",
+        "376e49",
+        "323441",
+        "161323"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5a3aaa6b5441860b93594c78",
+        "type": "palettes",
+        "count": 34,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

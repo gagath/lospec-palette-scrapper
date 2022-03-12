@@ -1,0 +1,48 @@
+{
+    "_id": "5c8fd154658b237f43d13dd9",
+    "createdAt": "2019-03-18T17:11:48.214Z",
+    "slug": "grand-dad-4",
+    "description": "Created by <a target=\"_blank\" href=\"https://twitter.com/Starbound64\">Starlane</a>",
+    "colors": [
+        "4c1c2d",
+        "d23c4e",
+        "5fb1f5",
+        "eaf5fa"
+    ],
+    "featured": false,
+    "tags": [
+        "artist",
+        "starlane"
+    ],
+    "downloads": "458",
+    "numberOfColors": 4,
+    "likes": 14,
+    "comments": 2,
+    "creator": true,
+    "hashtag": "granddad4",
+    "title": "Grand Dad 4",
+    "user": {
+        "name": "Star",
+        "slug": "starlane"
+    },
+    "publishedAt": "2019-03-18T17:11:48.214Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "4c1c2d",
+        "d23c4e",
+        "5fb1f5",
+        "eaf5fa"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5c8fd154658b237f43d13dd9",
+        "type": "palettes",
+        "count": 14,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

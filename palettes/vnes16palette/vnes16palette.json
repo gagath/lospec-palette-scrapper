@@ -1,0 +1,71 @@
+{
+    "_id": "5fd53c9b51937617763bed97",
+    "tags": [
+        "emeekaeplummer"
+    ],
+    "colors": [
+        "ffffff",
+        "45c1ff",
+        "0057fa",
+        "4300a8",
+        "fa0f0f",
+        "fa5300",
+        "fa992a",
+        "fae769",
+        "acacac",
+        "000000",
+        "1b001f",
+        "350057",
+        "b3003b",
+        "007d4f",
+        "27b500",
+        "b0eb0e"
+    ],
+    "downloads": "211",
+    "featured": false,
+    "likes": 5,
+    "comments": 0,
+    "title": "VNES-16 PALETTE",
+    "hashtag": "vnes16palette",
+    "description": "",
+    "creator": true,
+    "slug": "vnes-16-palette",
+    "publishedAt": "2020-12-16T20:30:00.035Z",
+    "user": {
+        "name": "ARTBOY",
+        "slug": "emeekae-plummer"
+    },
+    "numberOfColors": 16,
+    "createdAt": "2020-12-12T21:56:43.046Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffffff",
+        "45c1ff",
+        "0057fa",
+        "4300a8",
+        "fa0f0f",
+        "fa5300",
+        "fa992a",
+        "fae769",
+        "acacac",
+        "000000",
+        "1b001f",
+        "350057",
+        "b3003b",
+        "007d4f",
+        "27b500",
+        "b0eb0e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5fd53c9b51937617763bed97",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

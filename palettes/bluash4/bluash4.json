@@ -1,0 +1,73 @@
+{
+    "_id": "60213759d9eb210e5655dcb9",
+    "tags": [
+        "bluash",
+        " blue",
+        " palette",
+        " 4"
+    ],
+    "colors": [
+        "29c4ea",
+        "005a92",
+        "00196b",
+        "000000"
+    ],
+    "downloads": "57",
+    "featured": false,
+    "likes": 0,
+    "comments": 0,
+    "title": "Bluash 4",
+    "hashtag": "bluash4",
+    "description": "A blue 4-colored palette.",
+    "creator": true,
+    "slug": "bluash-4",
+    "publishedAt": "2021-02-12T14:40:00.038Z",
+    "user": {
+        "name": "The Pixel Man",
+        "slug": "thepixelman"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-02-08T13:06:33.976Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607ea1f5f9d2ea407c993d6d",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Bluash 4 Palette Example by Casei Solus",
+            "slug": "bluash-4-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-21T00:05:00.024Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "60213759d9eb210e5655dcb9",
+            "image": "palette-examples/bluash-4-palette-example-by-casei-solus-607ea1.png",
+            "creator": true,
+            "description": "A wave shape.",
+            "createdAt": "2021-04-20T09:42:13.644Z",
+            "updatedAt": "2021-04-21T00:05:00.024Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A wave shape."
+        }
+    ],
+    "colorsArray": [
+        "29c4ea",
+        "005a92",
+        "00196b",
+        "000000"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60213759d9eb210e5655dcb9",
+        "type": "palettes",
+        "count": 0,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

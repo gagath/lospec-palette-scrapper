@@ -1,0 +1,60 @@
+{
+    "_id": "60e9c45b29e00e15d31799a7",
+    "tags": [
+        "console",
+        "retro"
+    ],
+    "colors": [
+        "eae1f0",
+        "7e7185",
+        "37313b",
+        "1d1c1f",
+        "89423f",
+        "f63f4c",
+        "fdbb27",
+        "8d902e",
+        "4159cb",
+        "59a7af"
+    ],
+    "downloads": "412",
+    "featured": false,
+    "likes": 17,
+    "comments": 11,
+    "slug": "ltro-1",
+    "publishedAt": "2021-07-10T16:02:01.067Z",
+    "user": {
+        "name": "skeddles",
+        "slug": "skeddles"
+    },
+    "title": "LTRO-1",
+    "hashtag": "ltro1",
+    "description": "Palette for LospecJam1 https://itch.io/jam/lospec-jam-1, and the imaginary console the LTRO-1 ",
+    "creator": true,
+    "numberOfColors": 10,
+    "createdAt": "2021-07-10T16:01:31.179Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "eae1f0",
+        "7e7185",
+        "37313b",
+        "1d1c1f",
+        "89423f",
+        "f63f4c",
+        "fdbb27",
+        "8d902e",
+        "4159cb",
+        "59a7af"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "60e9c45b29e00e15d31799a7",
+        "type": "palettes",
+        "count": 17,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

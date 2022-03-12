@@ -1,0 +1,67 @@
+{
+    "_id": "5f401f6a1ee9863104835971",
+    "tags": [
+        "markmp",
+        " vibrant",
+        " catchy",
+        " artist",
+        " twelve"
+    ],
+    "colors": [
+        "ffffff",
+        "7efc80",
+        "1c945e",
+        "2c1c94",
+        "3e73cf",
+        "5ef7ef",
+        "7a84f5",
+        "8236cf",
+        "800a5d",
+        "b53f8c",
+        "f77b7b",
+        "2a0554"
+    ],
+    "downloads": "63",
+    "featured": false,
+    "likes": 9,
+    "comments": 0,
+    "title": "twelve period",
+    "hashtag": "twelveperiod",
+    "description": "",
+    "creator": true,
+    "slug": "twelve-period",
+    "publishedAt": "2020-09-07T19:15:00.014Z",
+    "user": {
+        "name": "Mark-MP",
+        "slug": "mark-mp"
+    },
+    "numberOfColors": 12,
+    "createdAt": "2020-08-21T19:24:26.529Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "ffffff",
+        "7efc80",
+        "1c945e",
+        "2c1c94",
+        "3e73cf",
+        "5ef7ef",
+        "7a84f5",
+        "8236cf",
+        "800a5d",
+        "b53f8c",
+        "f77b7b",
+        "2a0554"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5f401f6a1ee9863104835971",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

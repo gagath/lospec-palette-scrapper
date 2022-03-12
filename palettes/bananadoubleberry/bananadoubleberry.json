@@ -1,0 +1,76 @@
+{
+    "_id": "5f9736a7fb495057b3bfa6ee",
+    "tags": [
+        "glacier",
+        "windfallapples",
+        "tripleberry",
+        "banana",
+        "berry",
+        "3colour",
+        "highsaturation",
+        "midcontrast",
+        "experimental"
+    ],
+    "colors": [
+        "ffeebb",
+        "ff66cc",
+        "773366"
+    ],
+    "downloads": "118",
+    "featured": false,
+    "likes": 16,
+    "comments": 2,
+    "title": "Banana Doubleberry",
+    "hashtag": "bananadoubleberry",
+    "description": "A bright and simple ramp featuring the mellow colours of three berries~",
+    "creator": true,
+    "slug": "banana-doubleberry",
+    "publishedAt": "2020-10-27T22:05:00.030Z",
+    "user": {
+        "name": "windfallapples (glacier)",
+        "slug": "windfallapples"
+    },
+    "numberOfColors": 3,
+    "createdAt": "2020-10-26T20:50:47.432Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60777b9816f8450fae0b7fa4",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Banana Doubleberry Palette Example by Casei Solus",
+            "slug": "banana-doubleberry-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-16T23:40:00.014Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5f9736a7fb495057b3bfa6ee",
+            "image": "palette-examples/banana-doubleberry-palette-example-by-casei-solus-60777b.png",
+            "creator": true,
+            "description": "A banana berry smoothie.",
+            "createdAt": "2021-04-14T23:32:40.115Z",
+            "updatedAt": "2021-04-16T23:40:00.014Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A banana berry smoothie."
+        }
+    ],
+    "colorsArray": [
+        "ffeebb",
+        "ff66cc",
+        "773366"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 33.333333333333336,
+    "height": 32,
+    "likebutton": {
+        "content": "5f9736a7fb495057b3bfa6ee",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

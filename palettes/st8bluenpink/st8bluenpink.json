@@ -1,0 +1,83 @@
+{
+    "_id": "614705d9d14776127e0b5d33",
+    "tags": [
+        "artist",
+        "blue",
+        "purple",
+        "pink",
+        "thest1076",
+        "st8"
+    ],
+    "colors": [
+        "141433",
+        "17174d",
+        "281d73",
+        "3e2680",
+        "6c29a6",
+        "ba41d9",
+        "de73e5",
+        "ed9df2"
+    ],
+    "downloads": "270",
+    "featured": false,
+    "likes": 17,
+    "comments": 2,
+    "slug": "st-8-blue-n-pink",
+    "publishedAt": "2021-10-11T07:45:00.039Z",
+    "user": {
+        "name": "Skiller Thomson",
+        "slug": "thest1076"
+    },
+    "title": "ST 8 Blue n' Pink",
+    "hashtag": "st8bluenpink",
+    "description": "Okay, level up (again)",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2021-09-19T09:41:45.243Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "614705f4d14776127e0b5d35",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "ST 8 Blue n' Pink Palette Example by Skiller Thomson",
+            "slug": "st-8-blue-n-pink-palette-example-by-skiller-thomson-2",
+            "publishedAt": "2021-09-27T20:50:00.018Z",
+            "user": {
+                "name": "Skiller Thomson",
+                "slug": "thest1076"
+            },
+            "parent": "614705d9d14776127e0b5d33",
+            "image": "palette-examples/st-8-blue-n-pink-palette-example-by-skiller-thomson-2-614705.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-09-19T09:42:12.955Z",
+            "updatedAt": "2021-09-27T20:50:00.018Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "141433",
+        "17174d",
+        "281d73",
+        "3e2680",
+        "6c29a6",
+        "ba41d9",
+        "de73e5",
+        "ed9df2"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "614705d9d14776127e0b5d33",
+        "type": "palettes",
+        "count": 17,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

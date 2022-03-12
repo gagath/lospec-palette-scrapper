@@ -1,0 +1,81 @@
+{
+    "_id": "6001de9df95cc245d3ea8e73",
+    "tags": [
+        "jungle",
+        "candy",
+        "plant",
+        "polyphrog"
+    ],
+    "colors": [
+        "3e1a23",
+        "7b5332",
+        "f69b3a",
+        "d72836",
+        "25392e",
+        "338433",
+        "f6f68f",
+        "3f9e70"
+    ],
+    "downloads": "317",
+    "featured": false,
+    "likes": 33,
+    "comments": 0,
+    "title": "jungle_candy-8",
+    "hashtag": "jc8",
+    "description": "",
+    "creator": true,
+    "slug": "junglecandy-8",
+    "publishedAt": "2021-01-28T00:25:00.026Z",
+    "user": {
+        "name": "polyphrog",
+        "slug": "poly-phrog"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2021-01-15T18:27:41.565Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6001dec4f95cc245d3ea8e76",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/junglecandy-8-palette-example-by-polyphorge-6001de.png",
+            "creator": true,
+            "description": "",
+            "title": "jungle_candy-8 Palette Example by polyphorge",
+            "slug": "junglecandy-8-palette-example-by-polyphorge",
+            "publishedAt": "2021-01-23T19:15:00.025Z",
+            "user": {
+                "name": "polyphrog",
+                "slug": "poly-phrog"
+            },
+            "parent": "6001de9df95cc245d3ea8e73",
+            "createdAt": "2021-01-15T18:28:20.625Z",
+            "updatedAt": "2021-01-23T19:15:00.025Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "3e1a23",
+        "7b5332",
+        "f69b3a",
+        "d72836",
+        "25392e",
+        "338433",
+        "f6f68f",
+        "3f9e70"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6001de9df95cc245d3ea8e73",
+        "type": "palettes",
+        "count": 33,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

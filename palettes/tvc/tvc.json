@@ -1,0 +1,71 @@
+{
+    "_id": "5f9c321de7a17126ed223531",
+    "tags": [
+        "tvc",
+        "8 bit",
+        "hungarian"
+    ],
+    "colors": [
+        "000000",
+        "000093",
+        "930000",
+        "930093",
+        "009300",
+        "009393",
+        "939300",
+        "939393",
+        "0000ff",
+        "ff0000",
+        "ff00ff",
+        "00ff00",
+        "00ffff",
+        "ffff00",
+        "ffffff"
+    ],
+    "downloads": "39",
+    "featured": false,
+    "likes": 6,
+    "comments": 0,
+    "title": "TVC",
+    "hashtag": "tvc",
+    "description": "Hungarian 8 bit computer Videoton TV Computer palette",
+    "creator": true,
+    "slug": "tvc",
+    "publishedAt": "2021-04-05T11:30:00.199Z",
+    "user": {
+        "name": "Kiss K\u00e1roly",
+        "slug": "kiss-karoly"
+    },
+    "numberOfColors": 15,
+    "createdAt": "2020-10-30T15:32:45.432Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "000093",
+        "930000",
+        "930093",
+        "009300",
+        "009393",
+        "939300",
+        "939393",
+        "0000ff",
+        "ff0000",
+        "ff00ff",
+        "00ff00",
+        "00ffff",
+        "ffff00",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5f9c321de7a17126ed223531",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

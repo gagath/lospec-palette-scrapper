@@ -1,0 +1,78 @@
+{
+    "_id": "5ff1863c0eecbe1b3b9976ab",
+    "tags": [],
+    "colors": [
+        "d82943",
+        "e2d51b",
+        "ff933a",
+        "fff9bf",
+        "1930ff",
+        "161cbd",
+        "01ff59",
+        "7a1546",
+        "28271e"
+    ],
+    "downloads": "52",
+    "featured": false,
+    "likes": 7,
+    "comments": 0,
+    "title": "Vibrant09",
+    "hashtag": "vibrant09",
+    "description": "my first color pallete",
+    "creator": true,
+    "slug": "vibrant09",
+    "publishedAt": "2021-04-11T17:30:00.061Z",
+    "user": {
+        "name": "TonkoBanjo",
+        "slug": "banjotonko"
+    },
+    "numberOfColors": 9,
+    "createdAt": "2021-01-03T08:54:20.848Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "607415c698a3c71c067ef90b",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Vibrant09 Palette Example by Casei Solus",
+            "slug": "vibrant09-palette-example-by-casei-solus",
+            "publishedAt": "2021-04-12T16:30:00.100Z",
+            "user": {
+                "name": "Casei Solus",
+                "slug": "casei-solus"
+            },
+            "parent": "5ff1863c0eecbe1b3b9976ab",
+            "image": "palette-examples/vibrant09-palette-example-by-casei-solus-607415.png",
+            "creator": true,
+            "description": "A neon sign.",
+            "createdAt": "2021-04-12T09:41:26.578Z",
+            "updatedAt": "2021-04-12T16:30:00.101Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "A neon sign."
+        }
+    ],
+    "colorsArray": [
+        "d82943",
+        "e2d51b",
+        "ff933a",
+        "fff9bf",
+        "1930ff",
+        "161cbd",
+        "01ff59",
+        "7a1546",
+        "28271e"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "5ff1863c0eecbe1b3b9976ab",
+        "type": "palettes",
+        "count": 7,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

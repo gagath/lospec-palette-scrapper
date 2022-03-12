@@ -1,0 +1,80 @@
+{
+    "_id": "611b812ed89d3856c7d7ebc2",
+    "tags": [
+        "cyberpunk",
+        "cyber",
+        "gum",
+        "pink",
+        "teal",
+        "6color",
+        "night"
+    ],
+    "colors": [
+        "3a2b3b",
+        "2d4a54",
+        "0c7475",
+        "bc4a9b",
+        "eb8d9c",
+        "ffd8ba"
+    ],
+    "downloads": "804",
+    "featured": false,
+    "likes": 60,
+    "comments": 2,
+    "slug": "cybergum6",
+    "publishedAt": "2021-08-23T18:15:00.054Z",
+    "user": {
+        "name": "Royal_Naym",
+        "slug": "royalnaym"
+    },
+    "title": "CyberGum6",
+    "hashtag": "cybergum6",
+    "description": "CyberGum6 is a personal attempt at a palette combining teal and pink. This resulted in some great colors for cyberpunk enviroments.",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2021-08-17T09:28:14.213Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "611b8152d89d3856c7d7ebc6",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "CyberGum6 Palette Example by Royal_Naym",
+            "slug": "cybergum6-palette-example-by-royalnaym",
+            "publishedAt": "2021-08-22T18:35:00.022Z",
+            "user": {
+                "name": "Royal_Naym",
+                "slug": "royalnaym"
+            },
+            "parent": "611b812ed89d3856c7d7ebc2",
+            "image": "palette-examples/cybergum6-palette-example-by-royalnaym-611b81.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-08-17T09:28:50.477Z",
+            "updatedAt": "2021-08-22T18:35:00.023Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "3a2b3b",
+        "2d4a54",
+        "0c7475",
+        "bc4a9b",
+        "eb8d9c",
+        "ffd8ba"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "611b812ed89d3856c7d7ebc2",
+        "type": "palettes",
+        "count": 60,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

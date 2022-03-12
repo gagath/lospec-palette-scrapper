@@ -1,0 +1,102 @@
+{
+    "_id": "604b925d79e6443005a19b63",
+    "tags": [
+        "nes"
+    ],
+    "colors": [
+        "0f0d1c",
+        "7b86a9",
+        "bbd1d3",
+        "ffffff",
+        "62e0f9",
+        "5575c7",
+        "4a3571",
+        "8d5fb3",
+        "9cbcff",
+        "723a84",
+        "e955ae",
+        "ffc7a2",
+        "e86262",
+        "943c59",
+        "e88a4c",
+        "ffed6b",
+        "67d758",
+        "3b786c",
+        "4db8af",
+        "a1ffce"
+    ],
+    "downloads": "410",
+    "featured": false,
+    "likes": 29,
+    "comments": 0,
+    "title": "Shortened NES",
+    "hashtag": "shortenednes",
+    "description": "It's the NES palette, but vastly simplified",
+    "creator": true,
+    "slug": "shortened-nes",
+    "publishedAt": "2021-03-16T03:25:00.017Z",
+    "user": {
+        "name": "Adam Barrett",
+        "slug": "adam-barrett"
+    },
+    "numberOfColors": 20,
+    "createdAt": "2021-03-12T16:10:05.091Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "604bb707887d6902dec26f1a",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/shortened-nes-palette-example-by-adam-barrett-604bb7.png",
+            "creator": true,
+            "description": "",
+            "title": "Shortened NES Palette Example by Adam Barrett",
+            "slug": "shortened-nes-palette-example-by-adam-barrett",
+            "publishedAt": "2021-03-15T15:35:00.017Z",
+            "user": {
+                "name": "Adam Barrett",
+                "slug": "adam-barrett"
+            },
+            "parent": "604b925d79e6443005a19b63",
+            "createdAt": "2021-03-12T18:46:31.485Z",
+            "updatedAt": "2021-03-15T15:35:00.017Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "0f0d1c",
+        "7b86a9",
+        "bbd1d3",
+        "ffffff",
+        "62e0f9",
+        "5575c7",
+        "4a3571",
+        "8d5fb3",
+        "9cbcff",
+        "723a84",
+        "e955ae",
+        "ffc7a2",
+        "e86262",
+        "943c59",
+        "e88a4c",
+        "ffed6b",
+        "67d758",
+        "3b786c",
+        "4db8af",
+        "a1ffce"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 10,
+    "height": 32,
+    "likebutton": {
+        "content": "604b925d79e6443005a19b63",
+        "type": "palettes",
+        "count": 29,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,53 @@
+{
+    "_id": "601d490ca63a5178a242a86a",
+    "tags": [],
+    "colors": [
+        "98c1d9",
+        "06aed5",
+        "086788",
+        "1b4353",
+        "48233c",
+        "31081f",
+        "4b644a",
+        "26413c"
+    ],
+    "downloads": "125",
+    "featured": false,
+    "likes": 16,
+    "comments": 0,
+    "title": "Sea & Seaweed",
+    "hashtag": "seaseaweed",
+    "description": "I wanted to make pixelart of an ocean, but I couldn't find a good 8 colour pallette for it, so I made one. I hope this can be useful to other people!",
+    "creator": true,
+    "slug": "sea-seaweed",
+    "publishedAt": "2021-02-14T20:40:00.017Z",
+    "user": {
+        "name": "D Araj",
+        "slug": "d-araj"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2021-02-05T13:33:00.556Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "98c1d9",
+        "06aed5",
+        "086788",
+        "1b4353",
+        "48233c",
+        "31081f",
+        "4b644a",
+        "26413c"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "601d490ca63a5178a242a86a",
+        "type": "palettes",
+        "count": 16,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

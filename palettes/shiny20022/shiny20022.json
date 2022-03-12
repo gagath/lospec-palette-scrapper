@@ -1,0 +1,76 @@
+{
+    "_id": "5ffd66111a614d34696c9440",
+    "tags": [
+        "pokemon",
+        " shiny",
+        " red",
+        " cyan",
+        " white",
+        " zigzagoon",
+        " phanpy"
+    ],
+    "colors": [
+        "a00000",
+        "fff7ef",
+        "2d2a01",
+        "00ccc1"
+    ],
+    "downloads": "93",
+    "featured": false,
+    "likes": 10,
+    "comments": 1,
+    "title": "Shiny-2002-2",
+    "hashtag": "shiny20022",
+    "description": "A 4-color color scheme based on a shiny zigzagoon from pokemon.",
+    "creator": true,
+    "slug": "shiny-2002-2",
+    "publishedAt": "2021-02-18T20:40:00.025Z",
+    "user": {
+        "name": "Phanpy100",
+        "slug": "phanpy100"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-01-12T09:04:17.358Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5ffd67d31a614d34696c9459",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/shiny-2002-2-palette-example-by-phanpy100-5ffd67.png",
+            "creator": true,
+            "description": "Little pokemon battle scene with a phanpy and a shiny zigzagoon",
+            "title": "Shiny-2002-2 Palette Example by Phanpy100",
+            "slug": "shiny-2002-2-palette-example-by-phanpy100",
+            "publishedAt": "2021-02-12T01:00:00.011Z",
+            "user": {
+                "name": "Phanpy100",
+                "slug": "phanpy100"
+            },
+            "parent": "5ffd66111a614d34696c9440",
+            "createdAt": "2021-01-12T09:11:47.380Z",
+            "updatedAt": "2021-02-12T01:00:00.011Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Little pokemon battle scene with a phanpy and a shiny zigzagoon"
+        }
+    ],
+    "colorsArray": [
+        "a00000",
+        "fff7ef",
+        "2d2a01",
+        "00ccc1"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5ffd66111a614d34696c9440",
+        "type": "palettes",
+        "count": 10,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

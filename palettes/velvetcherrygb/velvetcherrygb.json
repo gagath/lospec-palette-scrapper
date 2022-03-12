@@ -1,0 +1,77 @@
+{
+    "_id": "607119ecda554726aff06cbb",
+    "tags": [
+        "klafooty",
+        "artist",
+        "gameboy",
+        "4colors",
+        "4",
+        "purple",
+        "cherry",
+        "velvet"
+    ],
+    "colors": [
+        "2d162c",
+        "412752",
+        "683a68",
+        "9775a6"
+    ],
+    "downloads": "1,064",
+    "featured": false,
+    "likes": 75,
+    "comments": 0,
+    "slug": "velvet-cherry-gb",
+    "publishedAt": "2021-04-15T23:30:00.067Z",
+    "user": {
+        "name": "Klafooty",
+        "slug": "mallory"
+    },
+    "title": "Velvet Cherry GB",
+    "hashtag": "velvetcherrygb",
+    "description": "A deep and passionate purple looking 4 colors palette.\u00a0",
+    "creator": true,
+    "createdAt": "2021-04-10T03:22:20.564Z",
+    "numberOfColors": 4,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6071cf64d5b2231315e50ffa",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Velvet Cherry GB Palette Example by Klafooty",
+            "slug": "velvet-cherry-gb-palette-example-by-klafooty-2",
+            "publishedAt": "2021-04-12T15:45:00.023Z",
+            "user": {
+                "name": "Klafooty",
+                "slug": "mallory"
+            },
+            "parent": "607119ecda554726aff06cbb",
+            "image": "palette-examples/velvet-cherry-gb-palette-example-by-klafooty-2-6071cf.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-04-10T16:16:36.568Z",
+            "updatedAt": "2021-04-12T15:45:00.024Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "2d162c",
+        "412752",
+        "683a68",
+        "9775a6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "607119ecda554726aff06cbb",
+        "type": "palettes",
+        "count": 75,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

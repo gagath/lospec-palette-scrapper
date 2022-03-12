@@ -1,0 +1,78 @@
+{
+    "_id": "5fc2be31d3eeec693954c1cf",
+    "tags": [
+        "halloween",
+        "gothic",
+        "night",
+        "dark",
+        "pumpkin"
+    ],
+    "colors": [
+        "000000",
+        "402e20",
+        "815b3f",
+        "ffb77d",
+        "ff5900",
+        "892d00"
+    ],
+    "downloads": "309",
+    "featured": false,
+    "likes": 20,
+    "comments": 0,
+    "title": "Carver6",
+    "hashtag": "carver6",
+    "description": "A palette perfect for carving pumpkins on an October night.",
+    "creator": true,
+    "slug": "carver6",
+    "publishedAt": "2020-12-05T07:45:00.024Z",
+    "user": {
+        "name": "beachboogeyman",
+        "slug": "beachboogeyman"
+    },
+    "numberOfColors": 6,
+    "createdAt": "2020-11-28T21:16:33.035Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5fc2c15ad3eeec693954c1f3",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/carver6-palette-example-by-beachboogeyman-5fc2c1.png",
+            "creator": true,
+            "description": "various assets made for different prototypes",
+            "title": "Carver6 Palette Example by beachboogeyman",
+            "slug": "carver6-palette-example-by-beachboogeyman",
+            "publishedAt": "2020-12-03T20:20:00.015Z",
+            "user": {
+                "name": "beachboogeyman",
+                "slug": "beachboogeyman"
+            },
+            "parent": "5fc2be31d3eeec693954c1cf",
+            "createdAt": "2020-11-28T21:30:02.702Z",
+            "updatedAt": "2020-12-03T20:20:00.016Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "various assets made for different prototypes"
+        }
+    ],
+    "colorsArray": [
+        "000000",
+        "402e20",
+        "815b3f",
+        "ffb77d",
+        "ff5900",
+        "892d00"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5fc2be31d3eeec693954c1cf",
+        "type": "palettes",
+        "count": 20,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,69 @@
+{
+    "_id": "6168177610cc13340efb176c",
+    "tags": [
+        "1bit",
+        "yelta",
+        "concrete",
+        "dark"
+    ],
+    "colors": [
+        "121216",
+        "e8e6e1"
+    ],
+    "downloads": "170",
+    "featured": false,
+    "likes": 21,
+    "comments": 0,
+    "slug": "ys-concrete-jungle",
+    "publishedAt": "2021-10-18T03:45:00.036Z",
+    "user": {
+        "name": "Yelta",
+        "slug": "yelta8"
+    },
+    "title": "Y's Concrete Jungle",
+    "hashtag": "ysconcretejungle",
+    "description": "A fine-tuned Dark/Light palette for dark art and brutalist architecture.",
+    "creator": true,
+    "numberOfColors": 2,
+    "createdAt": "2021-10-14T11:41:42.260Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "616818ae10cc13340efb1780",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Concrete Jungle Palette Example by Yelta",
+            "slug": "concrete-jungle-palette-example-by-yelta",
+            "publishedAt": "2021-10-14T15:00:00.067Z",
+            "user": {
+                "name": "Yelta",
+                "slug": "yelta8"
+            },
+            "parent": "6168177610cc13340efb176c",
+            "image": "palette-examples/concrete-jungle-palette-example-by-yelta-616818.png",
+            "creator": true,
+            "description": "Some of my artworks with the Concrete Jungle palette applied to them",
+            "createdAt": "2021-10-14T11:46:54.327Z",
+            "updatedAt": "2021-10-14T15:00:00.067Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Some of my artworks with the Concrete Jungle palette applied to them"
+        }
+    ],
+    "colorsArray": [
+        "121216",
+        "e8e6e1"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "6168177610cc13340efb176c",
+        "type": "palettes",
+        "count": 21,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

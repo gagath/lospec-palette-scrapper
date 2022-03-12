@@ -1,0 +1,49 @@
+{
+    "_id": "614e405d8375a714d868e319",
+    "tags": [],
+    "colors": [
+        "09031c",
+        "6e0a32",
+        "a33e3e",
+        "db8f6b",
+        "ffe185",
+        "fff2e8"
+    ],
+    "downloads": "68",
+    "featured": false,
+    "likes": 5,
+    "comments": 0,
+    "slug": "sunny-valley-6",
+    "publishedAt": "2021-10-11T13:45:00.037Z",
+    "user": {
+        "name": "Valerie Lynn",
+        "slug": "weulkin"
+    },
+    "title": "Sunny-Valley-6",
+    "hashtag": "sunnyvalley6",
+    "description": "",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2021-09-24T21:17:17.653Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "09031c",
+        "6e0a32",
+        "a33e3e",
+        "db8f6b",
+        "ffe185",
+        "fff2e8"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "614e405d8375a714d868e319",
+        "type": "palettes",
+        "count": 5,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

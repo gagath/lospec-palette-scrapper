@@ -1,0 +1,66 @@
+{
+    "_id": "61e9796692120c0851ef756d",
+    "tags": [
+        "monoramp",
+        "green",
+        "blue",
+        "simple",
+        "artist",
+        "izk",
+        "oasis",
+        "beach",
+        "water",
+        "nature",
+        "cold",
+        "3bit"
+    ],
+    "colors": [
+        "000000",
+        "2c293d",
+        "1f5c7a",
+        "0ac266",
+        "a5e085",
+        "e2d48d",
+        "ede0de",
+        "ffffff"
+    ],
+    "downloads": "79",
+    "featured": false,
+    "likes": 11,
+    "comments": 0,
+    "slug": "izk-oasis-8",
+    "publishedAt": "2022-01-21T23:45:00.052Z",
+    "user": {
+        "name": "iceZeeKay",
+        "slug": "icezeekay"
+    },
+    "title": "IZK OASIS-8",
+    "hashtag": "izkoasis8",
+    "description": "With hues of blue-violet, green, yellow, and pink, this 8-color tetradic palette is simple yet versatile.\u00a0",
+    "creator": true,
+    "numberOfColors": 8,
+    "createdAt": "2022-01-20T15:01:58.717Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "000000",
+        "2c293d",
+        "1f5c7a",
+        "0ac266",
+        "a5e085",
+        "e2d48d",
+        "ede0de",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "61e9796692120c0851ef756d",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

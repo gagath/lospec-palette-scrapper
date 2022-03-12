@@ -1,0 +1,73 @@
+{
+    "_id": "5e260277b21860641769f308",
+    "slug": "arctic-level",
+    "description": "Created for a <a href=\"http://pixeljoint.com/2020/01/20/6112/Pixel_Art_Challenge-_The_Arctic_Level.htm\" target=\"_blank\">PixelJoint Weekly Challenge</a> for creating an arctic level game mockup. <br />",
+    "colors": [
+        "1f1a1d",
+        "323b95",
+        "44582c",
+        "6b6556",
+        "3968bb",
+        "947d4c",
+        "9366b5",
+        "8a80a3",
+        "648440",
+        "bd9b56",
+        "96c359",
+        "73b4f9",
+        "9fa7b5",
+        "bdc8c0",
+        "c0edde",
+        "f2f1d6"
+    ],
+    "creator": false,
+    "hashtag": "arcticlevel",
+    "comments": 0,
+    "likes": 8,
+    "createdAt": "2020-01-20T19:41:43.807Z",
+    "featured": false,
+    "tags": [
+        "artist",
+        "pixeljoint",
+        "challenge"
+    ],
+    "downloads": "125",
+    "numberOfColors": 16,
+    "title": "Arctic Level",
+    "user": {
+        "name": "skeddles",
+        "slug": "skeddles"
+    },
+    "publishedAt": "2020-01-20T19:41:43.807Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "1f1a1d",
+        "323b95",
+        "44582c",
+        "6b6556",
+        "3968bb",
+        "947d4c",
+        "9366b5",
+        "8a80a3",
+        "648440",
+        "bd9b56",
+        "96c359",
+        "73b4f9",
+        "9fa7b5",
+        "bdc8c0",
+        "c0edde",
+        "f2f1d6"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5e260277b21860641769f308",
+        "type": "palettes",
+        "count": 8,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

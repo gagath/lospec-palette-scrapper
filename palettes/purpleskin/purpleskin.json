@@ -1,0 +1,65 @@
+{
+    "_id": "6129101e821d240692a4920b",
+    "tags": [
+        "anime",
+        "purple",
+        "skin",
+        "lightskin",
+        "aesthetic"
+    ],
+    "colors": [
+        "4a2643",
+        "6a3d74",
+        "7b5996",
+        "876696",
+        "b5b5cf",
+        "e6e3e8",
+        "c7b7c3",
+        "f5dad3",
+        "ffdbd3",
+        "cc9c8d",
+        "ab8376"
+    ],
+    "downloads": "300",
+    "featured": false,
+    "likes": 6,
+    "comments": 0,
+    "slug": "purpleskin",
+    "publishedAt": "2021-09-27T13:55:00.041Z",
+    "user": {
+        "name": "rehhouari",
+        "slug": "rehhouari"
+    },
+    "title": "Purple+Skin",
+    "hashtag": "purpleskin",
+    "description": "My first palette! I used to this pallete to recreate an Anime image using pixel art, and gave it a purple-ish feel. It's ideal for creating a character with light skin and purple hair and/or clothes.",
+    "creator": true,
+    "numberOfColors": 11,
+    "createdAt": "2021-08-27T16:17:34.985Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "4a2643",
+        "6a3d74",
+        "7b5996",
+        "876696",
+        "b5b5cf",
+        "e6e3e8",
+        "c7b7c3",
+        "f5dad3",
+        "ffdbd3",
+        "cc9c8d",
+        "ab8376"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "6129101e821d240692a4920b",
+        "type": "palettes",
+        "count": 6,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

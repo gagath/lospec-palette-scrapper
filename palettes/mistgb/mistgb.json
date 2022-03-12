@@ -1,0 +1,112 @@
+{
+    "_id": "5adf35bcd64cda308df721b5",
+    "createdAt": "2018-04-24T13:48:44.907Z",
+    "slug": "mist-gb",
+    "description": "",
+    "colors": [
+        "2d1b00",
+        "1e606e",
+        "5ab9a8",
+        "c4f0c2"
+    ],
+    "tags": [
+        "kerrielake",
+        "artist",
+        "gameboy"
+    ],
+    "downloads": "7,578",
+    "numberOfColors": 4,
+    "featured": false,
+    "likes": 312,
+    "comments": 5,
+    "creator": true,
+    "hashtag": "mistgb",
+    "title": "Mist GB",
+    "user": {
+        "name": "Kerrie Lake",
+        "slug": "kerrielake"
+    },
+    "publishedAt": "2018-04-24T13:48:44.907Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5ae4d66e8602ec3a790bcf6e",
+            "description": "Palette usage example by <a target=\"_blank\" href=\"https://kerrielakeportfolio.wordpress.com/opensource-assets/\">Kerrie Lake</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.093Z",
+            "creator": false,
+            "image": "palette-examples/mist-gb-palette-example-palette-usage-example-by-kerrie-lake-5ae4d6.png",
+            "likes": 0,
+            "parent": "5adf35bcd64cda308df721b5",
+            "slug": "mist-gb-palette-example-palette-usage-example-by-kerrie-lake",
+            "title": "mist gb palette example palette usage example by kerrie lake",
+            "updatedAt": "2020-07-31T03:56:11.093Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Kerrie Lake"
+        },
+        {
+            "_id": "5fcfc42143b2e81a9a0ba3dd",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/mist-gb-palette-example-by-elbulbasaur-retro-5fcfc4.png",
+            "creator": true,
+            "description": "",
+            "title": "Mist GB Palette Example by ElBulbasaur Retro",
+            "slug": "mist-gb-palette-example-by-elbulbasaur-retro",
+            "publishedAt": "2020-12-11T19:40:00.024Z",
+            "user": {
+                "name": "ElBulbasaur Retro",
+                "slug": "elbulbasaur-retro"
+            },
+            "parent": "5adf35bcd64cda308df721b5",
+            "createdAt": "2020-12-08T18:21:21.552Z",
+            "updatedAt": "2020-12-11T19:40:00.024Z",
+            "__v": 0,
+            "thumbnailOffset": 50,
+            "descriptionText": ""
+        },
+        {
+            "_id": "610541772b2c813e9f06c0e9",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Mist GB Palette Example by PRINCESS INTERNET CAF\u00e9",
+            "slug": "mist-gb-palette-example-by-princess-internet-cafe",
+            "publishedAt": "2021-07-31T14:25:00.012Z",
+            "user": {
+                "name": "PRINCESS INTERNET CAF\u00e9",
+                "slug": "hrhinternetcafe"
+            },
+            "parent": "5adf35bcd64cda308df721b5",
+            "image": "palette-examples/mist-gb-palette-example-by-princess-internet-cafe-610541.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-07-31T12:26:31.069Z",
+            "updatedAt": "2021-07-31T14:25:00.012Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "2d1b00",
+        "1e606e",
+        "5ab9a8",
+        "c4f0c2"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5adf35bcd64cda308df721b5",
+        "type": "palettes",
+        "count": 312,
+        "liked": 0
+    },
+    "thumbnailWidth": 33.333333333333336
+}

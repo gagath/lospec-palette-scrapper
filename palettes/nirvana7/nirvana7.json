@@ -1,0 +1,76 @@
+{
+    "_id": "5f600f4eb2589679e35bfbfb",
+    "tags": [
+        "nirvana7 mirrutatep purple 7color"
+    ],
+    "colors": [
+        "1e0b37",
+        "45176e",
+        "8e20a7",
+        "d53be3",
+        "ef7bdd",
+        "f6b7d6",
+        "fcf2de"
+    ],
+    "downloads": "852",
+    "featured": false,
+    "likes": 53,
+    "comments": 0,
+    "title": "Nirvana 7",
+    "hashtag": "nirvana7",
+    "description": "",
+    "creator": true,
+    "slug": "nirvana-7",
+    "publishedAt": "2020-09-25T14:40:00.025Z",
+    "user": {
+        "name": "MirruTatep \ud83e\udda9",
+        "slug": "mirrutatep"
+    },
+    "numberOfColors": 7,
+    "createdAt": "2020-09-15T00:48:14.061Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f6d42a3b7743f672006f3cf",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/nirvana-7-palette-example-by-mirrutatep-2-5f6d42.png",
+            "creator": true,
+            "description": "",
+            "title": "Nirvana 7 Palette Example by MirruTatep \ud83e\udda9",
+            "slug": "nirvana-7-palette-example-by-mirrutatep-2",
+            "publishedAt": "2020-09-26T16:15:00.016Z",
+            "user": {
+                "name": "MirruTatep \ud83e\udda9",
+                "slug": "mirrutatep"
+            },
+            "parent": "5f600f4eb2589679e35bfbfb",
+            "createdAt": "2020-09-25T01:06:43.410Z",
+            "updatedAt": "2020-09-26T16:15:00.017Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "1e0b37",
+        "45176e",
+        "8e20a7",
+        "d53be3",
+        "ef7bdd",
+        "f6b7d6",
+        "fcf2de"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 14.285714285714286,
+    "height": 32,
+    "likebutton": {
+        "content": "5f600f4eb2589679e35bfbfb",
+        "type": "palettes",
+        "count": 53,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

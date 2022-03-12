@@ -1,0 +1,41 @@
+{
+    "_id": "61e970afcc21ad288e8e4edd",
+    "tags": [],
+    "colors": [
+        "c93c20",
+        "ffffff"
+    ],
+    "downloads": "31",
+    "featured": false,
+    "likes": 4,
+    "comments": 1,
+    "slug": "stop",
+    "publishedAt": "2022-01-23T09:20:00.045Z",
+    "user": {
+        "name": "Fridolin M\u00fcller",
+        "slug": "fridolin-muller"
+    },
+    "title": "Stop",
+    "hashtag": "stop",
+    "description": "",
+    "creator": false,
+    "numberOfColors": 2,
+    "createdAt": "2022-01-20T14:24:47.019Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "c93c20",
+        "ffffff"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 50,
+    "height": 32,
+    "likebutton": {
+        "content": "61e970afcc21ad288e8e4edd",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

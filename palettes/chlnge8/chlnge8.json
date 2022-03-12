@@ -1,0 +1,80 @@
+{
+    "_id": "6026acd207ae8901ea9fd48e",
+    "tags": [
+        "highsaturation",
+        "challenge",
+        "small"
+    ],
+    "colors": [
+        "141013",
+        "580909",
+        "910c5c",
+        "7c34ad",
+        "537cda",
+        "27d5b2",
+        "54f044",
+        "eeda28"
+    ],
+    "downloads": "321",
+    "featured": false,
+    "likes": 45,
+    "comments": 1,
+    "title": "CHLNGE8",
+    "hashtag": "chlnge8",
+    "description": "Made as a challenge for @NArtTorpedia",
+    "creator": true,
+    "slug": "chlnge8",
+    "publishedAt": "2021-02-20T02:40:00.016Z",
+    "user": {
+        "name": "Kieron - Commissions Reopened",
+        "slug": "twatofalltrades"
+    },
+    "numberOfColors": 8,
+    "createdAt": "2021-02-12T16:29:06.912Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6026d6d95a3e6520c7907369",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/chlnge8-palette-example-by-kieron-commissions-reopened-6026d6.png",
+            "creator": true,
+            "description": "Sword created by NArtTorpedia ",
+            "title": "CHLNGE8 Palette Example by Kieron - Commissions Reopened",
+            "slug": "chlnge8-palette-example-by-kieron-commissions-reopened",
+            "publishedAt": "2021-02-13T17:55:00.012Z",
+            "user": {
+                "name": "Kieron - Commissions Reopened",
+                "slug": "twatofalltrades"
+            },
+            "parent": "6026acd207ae8901ea9fd48e",
+            "createdAt": "2021-02-12T19:28:25.245Z",
+            "updatedAt": "2021-02-13T17:55:00.013Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Sword created by NArtTorpedia "
+        }
+    ],
+    "colorsArray": [
+        "141013",
+        "580909",
+        "910c5c",
+        "7c34ad",
+        "537cda",
+        "27d5b2",
+        "54f044",
+        "eeda28"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "6026acd207ae8901ea9fd48e",
+        "type": "palettes",
+        "count": 45,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

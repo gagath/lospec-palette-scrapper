@@ -1,0 +1,79 @@
+{
+    "_id": "60f3486961e34b10f67f7b1f",
+    "tags": [
+        "br",
+        "brazil",
+        "brasil",
+        "flag",
+        "nored",
+        "6"
+    ],
+    "colors": [
+        "272135",
+        "425e9a",
+        "39a441",
+        "de9139",
+        "e6cb47",
+        "e0e8cd"
+    ],
+    "downloads": "204",
+    "featured": false,
+    "likes": 23,
+    "comments": 6,
+    "slug": "brazil-flag",
+    "publishedAt": "2021-07-20T01:55:00.031Z",
+    "user": {
+        "name": "epic0_0",
+        "slug": "epico"
+    },
+    "title": "Brazil Flag++",
+    "hashtag": "brflagpp",
+    "description": "brazil flag with black and orange.",
+    "creator": true,
+    "numberOfColors": 6,
+    "createdAt": "2021-07-17T21:15:21.232Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60f494810192ee030781d1bd",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Brazil Flag++ Palette Example by Ep!cO",
+            "slug": "brazil-flag-palette-example-by-epco",
+            "publishedAt": "2021-07-19T20:00:00.039Z",
+            "user": {
+                "name": "epic0_0",
+                "slug": "epico"
+            },
+            "parent": "60f3486961e34b10f67f7b1f",
+            "image": "palette-examples/brazil-flag-palette-example-by-epco-60f494.png",
+            "creator": true,
+            "description": "a minecraft / terraria / starbound -like blocky world ... some items and a little face",
+            "createdAt": "2021-07-18T20:52:17.919Z",
+            "updatedAt": "2021-07-19T20:00:00.039Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "a minecraft / terraria / starbound -like blocky world ... some items and a little face"
+        }
+    ],
+    "colorsArray": [
+        "272135",
+        "425e9a",
+        "39a441",
+        "de9139",
+        "e6cb47",
+        "e0e8cd"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "60f3486961e34b10f67f7b1f",
+        "type": "palettes",
+        "count": 23,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

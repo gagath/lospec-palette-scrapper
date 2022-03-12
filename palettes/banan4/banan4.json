@@ -1,0 +1,49 @@
+{
+    "_id": "619c6e7f35be0d23d99c0169",
+    "tags": [
+        "banana",
+        "banan",
+        "umbl"
+    ],
+    "colors": [
+        "fff749",
+        "fff516",
+        "924826",
+        "773314"
+    ],
+    "downloads": "37",
+    "featured": false,
+    "likes": 2,
+    "comments": 0,
+    "slug": "banan4",
+    "publishedAt": "2021-11-28T22:35:00.029Z",
+    "user": {
+        "name": "Umbl",
+        "slug": "umbl"
+    },
+    "title": "Banan4",
+    "hashtag": "banan4",
+    "description": "Just a banana colored pallete.\u00a0",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-11-23T04:30:55.117Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "fff749",
+        "fff516",
+        "924826",
+        "773314"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "619c6e7f35be0d23d99c0169",
+        "type": "palettes",
+        "count": 2,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

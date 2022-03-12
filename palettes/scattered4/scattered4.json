@@ -1,0 +1,45 @@
+{
+    "_id": "60d686280f57cc067c268a47",
+    "tags": [],
+    "colors": [
+        "220044",
+        "cc4400",
+        "00cc88",
+        "ffffdd"
+    ],
+    "downloads": "42",
+    "featured": false,
+    "likes": 4,
+    "comments": 6,
+    "slug": "scattered4",
+    "publishedAt": "2021-07-10T16:02:03.119Z",
+    "user": {
+        "name": "A.J. Otero",
+        "slug": "aj-otero"
+    },
+    "title": "Scattered4",
+    "hashtag": "scattered4",
+    "description": "I tried to make a 4-color palette that strayed from the common monoramp format as much as possible, to try to have as much functionality as say, DB8, which may be a bit overly ambitious for 4 colors. \u00a0Still, I tried to make the best use of them by scattering them out across the color space while also keeping them as balanced as I could. \u00a0Hopefully people find this palette useful for overcoming the 4-color limitations!",
+    "creator": true,
+    "numberOfColors": 4,
+    "createdAt": "2021-06-26T01:43:04.502Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "220044",
+        "cc4400",
+        "00cc88",
+        "ffffdd"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "60d686280f57cc067c268a47",
+        "type": "palettes",
+        "count": 4,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

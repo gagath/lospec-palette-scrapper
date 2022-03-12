@@ -1,0 +1,97 @@
+{
+    "_id": "5c8fce73658b237f43d13dd3",
+    "createdAt": "2019-03-18T16:59:31.236Z",
+    "slug": "pollen8",
+    "description": "",
+    "colors": [
+        "73464c",
+        "ab5675",
+        "ee6a7c",
+        "ffa7a5",
+        "ffe07e",
+        "ffe7d6",
+        "72dcbb",
+        "34acba"
+    ],
+    "featured": false,
+    "tags": [
+        "artist",
+        "conker"
+    ],
+    "downloads": "6,849",
+    "numberOfColors": 8,
+    "likes": 350,
+    "comments": 16,
+    "creator": true,
+    "hashtag": "pollen8",
+    "title": "Pollen8",
+    "user": {
+        "name": "Conker",
+        "slug": "cdecn"
+    },
+    "publishedAt": "2019-03-18T16:59:31.236Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5c8fcec7658b237f43d13dd4",
+            "description": "Palette usage example by <a target=\"_blank\" href=\"https://twitter.com/ConkerPixels\">Conker</a>",
+            "__v": 0,
+            "approval": "approved",
+            "comments": 0,
+            "createdAt": "2020-07-31T03:56:11.168Z",
+            "creator": false,
+            "image": "palette-examples/pollen8-palette-example-palette-usage-example-by-conker-5c8fce.png",
+            "likes": 0,
+            "parent": "5c8fce73658b237f43d13dd3",
+            "slug": "pollen8-palette-example-palette-usage-example-by-conker",
+            "title": "pollen8 palette example palette usage example by conker",
+            "updatedAt": "2020-07-31T03:56:11.168Z",
+            "user": null,
+            "thumbnailOffset": 0,
+            "descriptionText": "Palette usage example by Conker"
+        },
+        {
+            "_id": "62194b034bd98476881db079",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Pollen8 Palette Example by DDRKirby(ISQ)",
+            "slug": "pollen8-palette-example-by-ddrkirbyisqrhczbp",
+            "publishedAt": "2022-02-26T16:25:00.028Z",
+            "user": {
+                "name": "DDRKirby(ISQ)",
+                "slug": "ddrkirbyisq"
+            },
+            "parent": "5c8fce73658b237f43d13dd3",
+            "image": "palette-examples/pollen8-palette-example-by-ddrkirbyisqrhczbp.png",
+            "creator": true,
+            "description": "\"Sayuri\" original character design by <a href=\"https://ddrkirby.com/\" target=\"_blank\">DDRKirby(ISQ)</a>",
+            "createdAt": "2022-02-25T21:32:51.502Z",
+            "updatedAt": "2022-02-26T16:25:00.029Z",
+            "__v": 0,
+            "thumbnailOffset": 100,
+            "descriptionText": "\"Sayuri\" original character design by DDRKirby(ISQ)"
+        }
+    ],
+    "colorsArray": [
+        "73464c",
+        "ab5675",
+        "ee6a7c",
+        "ffa7a5",
+        "ffe07e",
+        "ffe7d6",
+        "72dcbb",
+        "34acba"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "5c8fce73658b237f43d13dd3",
+        "type": "palettes",
+        "count": 350,
+        "liked": 0
+    },
+    "thumbnailWidth": 50
+}

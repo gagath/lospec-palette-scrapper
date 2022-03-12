@@ -1,0 +1,72 @@
+{
+    "_id": "603fcff42f524d179fffb453",
+    "tags": [
+        "kankei",
+        " vibrant",
+        " saturated"
+    ],
+    "colors": [
+        "ffffff",
+        "f42e1f",
+        "2f256b",
+        "060608"
+    ],
+    "downloads": "624",
+    "featured": false,
+    "likes": 85,
+    "comments": 2,
+    "title": "kankei4",
+    "hashtag": "kankei4",
+    "description": "A vibrant 4-colour palette sampled from the cover art for haircuts for men's \" \u9003\u3057\u3066\u3057\u307e\u3063\u305f\u95a2\u4fc2\" album, which is where the inspiration for the name comes from.\u00a0I'd appreciate if you mention it or me if you use it, thanks.",
+    "creator": true,
+    "slug": "kankei4",
+    "publishedAt": "2021-03-10T11:40:00.015Z",
+    "user": {
+        "name": "un_deady",
+        "slug": "undeady"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2021-03-03T18:05:40.350Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "603fd07e2f524d179fffb459",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/kankei4-palette-example-by-undeady-603fd0.png",
+            "creator": true,
+            "description": "Hope these upside down kanji don't spell something silly or inappropriate. I have no idea how to use them.",
+            "title": "kankei4 Palette Example by un_deady",
+            "slug": "kankei4-palette-example-by-undeady",
+            "publishedAt": "2021-03-05T01:30:00.033Z",
+            "user": {
+                "name": "un_deady",
+                "slug": "undeady"
+            },
+            "parent": "603fcff42f524d179fffb453",
+            "createdAt": "2021-03-03T18:07:58.519Z",
+            "updatedAt": "2021-03-05T01:30:00.034Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Hope these upside down kanji don't spell something silly or inappropriate. I have no idea how to use them."
+        }
+    ],
+    "colorsArray": [
+        "ffffff",
+        "f42e1f",
+        "2f256b",
+        "060608"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "603fcff42f524d179fffb453",
+        "type": "palettes",
+        "count": 85,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

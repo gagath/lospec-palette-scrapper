@@ -1,0 +1,64 @@
+{
+    "_id": "5fd20e0547cf800f31c77414",
+    "tags": [
+        "saturated",
+        " 12"
+    ],
+    "colors": [
+        "16171a",
+        "36354d",
+        "566c86",
+        "430067",
+        "5d275d",
+        "3f48c2",
+        "448de7",
+        "10d275",
+        "a7f547",
+        "d62411",
+        "ff8426",
+        "ffeb33"
+    ],
+    "downloads": "58",
+    "featured": false,
+    "likes": 3,
+    "comments": 0,
+    "title": "Fluffy",
+    "hashtag": "fluf16",
+    "description": "",
+    "creator": true,
+    "slug": "fluffy",
+    "publishedAt": "2020-12-14T02:30:00.040Z",
+    "user": {
+        "name": "Xobile",
+        "slug": "xobile"
+    },
+    "numberOfColors": 12,
+    "createdAt": "2020-12-10T12:01:09.182Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [],
+    "colorsArray": [
+        "16171a",
+        "36354d",
+        "566c86",
+        "430067",
+        "5d275d",
+        "3f48c2",
+        "448de7",
+        "10d275",
+        "a7f547",
+        "d62411",
+        "ff8426",
+        "ffeb33"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "5fd20e0547cf800f31c77414",
+        "type": "palettes",
+        "count": 3,
+        "liked": 0
+    },
+    "thumbnailWidth": null
+}

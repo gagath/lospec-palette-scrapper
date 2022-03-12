@@ -1,0 +1,94 @@
+{
+    "_id": "60606ecdc9430b326e88a4be",
+    "tags": [
+        "eclipse89"
+    ],
+    "colors": [
+        "64988e",
+        "3d7085",
+        "0f2c2e",
+        "345644",
+        "6b7f5c",
+        "b0b17c",
+        "e1c584",
+        "c89660",
+        "ad5f52",
+        "913636",
+        "692f11",
+        "89542f",
+        "796e63",
+        "a17d5e",
+        "b4a18f",
+        "ecddba"
+    ],
+    "downloads": "764",
+    "featured": false,
+    "likes": 58,
+    "comments": 2,
+    "slug": "forest-16",
+    "publishedAt": "2021-04-03T23:30:00.073Z",
+    "user": {
+        "name": "Eclipse89",
+        "slug": "eclipse89"
+    },
+    "title": "Forest-16",
+    "hashtag": "forest16",
+    "description": "Small palette on the desaturated side, especially good for foliage and nature",
+    "creator": true,
+    "createdAt": "2021-03-28T11:55:57.493Z",
+    "numberOfColors": 16,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60610d9324944543b49a3830",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Forest-16 Palette Example by Eclipse89",
+            "slug": "forest-16-palette-example-by-eclipse89",
+            "publishedAt": "2021-03-29T15:35:00.022Z",
+            "user": {
+                "name": "Eclipse89",
+                "slug": "eclipse89"
+            },
+            "parent": "60606ecdc9430b326e88a4be",
+            "image": "palette-examples/forest-16-palette-example-by-eclipse89-60610d.png",
+            "creator": true,
+            "description": "",
+            "createdAt": "2021-03-28T23:13:23.997Z",
+            "updatedAt": "2021-03-29T15:35:00.022Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "64988e",
+        "3d7085",
+        "0f2c2e",
+        "345644",
+        "6b7f5c",
+        "b0b17c",
+        "e1c584",
+        "c89660",
+        "ad5f52",
+        "913636",
+        "692f11",
+        "89542f",
+        "796e63",
+        "a17d5e",
+        "b4a18f",
+        "ecddba"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 12.5,
+    "height": 32,
+    "likebutton": {
+        "content": "60606ecdc9430b326e88a4be",
+        "type": "palettes",
+        "count": 58,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

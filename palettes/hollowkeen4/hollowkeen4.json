@@ -1,0 +1,72 @@
+{
+    "_id": "60d642620f57cc067c26285b",
+    "tags": [
+        "5color"
+    ],
+    "colors": [
+        "190e0e",
+        "a15815",
+        "cda908",
+        "b4cd06",
+        "d6d6ce"
+    ],
+    "downloads": "75",
+    "featured": false,
+    "likes": 9,
+    "comments": 5,
+    "slug": "hollowkeen4",
+    "publishedAt": "2021-07-10T16:02:39.732Z",
+    "user": {
+        "name": "P0kePengin",
+        "slug": "p0kepengin"
+    },
+    "title": "Hollowkeen4",
+    "hashtag": "hollowkeen4",
+    "description": "A cute hollowweeny themed color palette.\u00a0",
+    "creator": true,
+    "numberOfColors": 5,
+    "createdAt": "2021-06-25T20:53:54.860Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "60d648af0f57cc067c26320c",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Hollowkeen4 Palette Example by P0kePengin",
+            "slug": "hollowkeen4-palette-example-by-p0kepengin",
+            "publishedAt": "2021-07-05T23:15:00.024Z",
+            "user": {
+                "name": "P0kePengin",
+                "slug": "p0kepengin"
+            },
+            "parent": "60d642620f57cc067c26285b",
+            "image": "palette-examples/hollowkeen4-palette-example-by-p0kepengin-60d648.png",
+            "creator": true,
+            "description": "image by me https://twitter.com/PenginP0ke",
+            "createdAt": "2021-06-25T21:20:47.205Z",
+            "updatedAt": "2021-07-05T23:15:00.024Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "image by me https://twitter.com/PenginP0ke"
+        }
+    ],
+    "colorsArray": [
+        "190e0e",
+        "a15815",
+        "cda908",
+        "b4cd06",
+        "d6d6ce"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 20,
+    "height": 32,
+    "likebutton": {
+        "content": "60d642620f57cc067c26285b",
+        "type": "palettes",
+        "count": 9,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,89 @@
+{
+    "_id": "6185fd22f795e91dea98d330",
+    "tags": [
+        "blue",
+        "sky",
+        "fresh",
+        "ment"
+    ],
+    "colors": [
+        "eef3f7",
+        "b2d6f7",
+        "b2bef7",
+        "deb2f7",
+        "00ffd8",
+        "00c9ff",
+        "00a4ff",
+        "0072ff",
+        "8cb28c",
+        "7b9490",
+        "71828b",
+        "71718a"
+    ],
+    "downloads": "153",
+    "featured": false,
+    "likes": 11,
+    "comments": 0,
+    "slug": "skyline-12",
+    "publishedAt": "2021-11-10T10:10:00.015Z",
+    "user": {
+        "name": "Blylzz",
+        "slug": "blylzz"
+    },
+    "title": "SKYLINE-12",
+    "hashtag": "skyline12",
+    "description": "paleta de color con tonos frios",
+    "creator": true,
+    "numberOfColors": 12,
+    "createdAt": "2021-11-06T03:57:22.541Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "6186cec97e41335001d40a85",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "SKYLINE-12 Palette Example by Blylzz",
+            "slug": "skyline-12-palette-example-by-blylzz-2",
+            "publishedAt": "2021-11-06T19:05:00.024Z",
+            "user": {
+                "name": "Blylzz",
+                "slug": "blylzz"
+            },
+            "parent": "6185fd22f795e91dea98d330",
+            "image": "palette-examples/skyline-12-palette-example-by-blylzz-2-6186ce.png",
+            "creator": false,
+            "description": "Lindo ejemplo de combinaci\u00f3n de la paleta y sus respectivos colores",
+            "createdAt": "2021-11-06T18:51:53.199Z",
+            "updatedAt": "2021-11-06T19:05:00.025Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Lindo ejemplo de combinaci\u00f3n de la paleta y sus respectivos colores"
+        }
+    ],
+    "colorsArray": [
+        "eef3f7",
+        "b2d6f7",
+        "b2bef7",
+        "deb2f7",
+        "00ffd8",
+        "00c9ff",
+        "00a4ff",
+        "0072ff",
+        "8cb28c",
+        "7b9490",
+        "71828b",
+        "71718a"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "6185fd22f795e91dea98d330",
+        "type": "palettes",
+        "count": 11,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

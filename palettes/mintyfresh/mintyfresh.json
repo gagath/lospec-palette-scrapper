@@ -1,0 +1,75 @@
+{
+    "_id": "5f96dffbfb495057b3bfa220",
+    "tags": [
+        "mintyfresh",
+        "minty",
+        "mint",
+        "gb",
+        "gameboy",
+        "archera"
+    ],
+    "colors": [
+        "40332f",
+        "856d52",
+        "95c798",
+        "fbffe0"
+    ],
+    "downloads": "714",
+    "featured": false,
+    "likes": 79,
+    "comments": 1,
+    "title": "minty fresh",
+    "hashtag": "mintyfresh",
+    "description": "nice minty chocolate chip colors",
+    "creator": true,
+    "slug": "minty-fresh",
+    "publishedAt": "2020-10-27T08:00:00.034Z",
+    "user": {
+        "name": "archer",
+        "slug": "archer-a"
+    },
+    "numberOfColors": 4,
+    "createdAt": "2020-10-26T14:40:59.604Z",
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "5f96e091fb495057b3bfa22b",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "image": "palette-examples/minty-fresh-palette-example-by-archer-a-5f96e0.png",
+            "creator": true,
+            "description": "",
+            "title": "minty fresh Palette Example by archer-a",
+            "slug": "minty-fresh-palette-example-by-archer-a",
+            "publishedAt": "2020-10-26T14:50:00.028Z",
+            "user": {
+                "name": "archer",
+                "slug": "archer-a"
+            },
+            "parent": "5f96dffbfb495057b3bfa220",
+            "createdAt": "2020-10-26T14:43:29.440Z",
+            "updatedAt": "2020-10-26T14:50:00.028Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": ""
+        }
+    ],
+    "colorsArray": [
+        "40332f",
+        "856d52",
+        "95c798",
+        "fbffe0"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 25,
+    "height": 32,
+    "likebutton": {
+        "content": "5f96dffbfb495057b3bfa220",
+        "type": "palettes",
+        "count": 79,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}

@@ -1,0 +1,78 @@
+{
+    "_id": "608f07c3b903d050a7712cc4",
+    "tags": [
+        "ciboulette",
+        "green",
+        "blue",
+        "pink",
+        "natural"
+    ],
+    "colors": [
+        "ffffff",
+        "f7c8dd",
+        "b5c4c4",
+        "599b86",
+        "6868ac",
+        "552f30"
+    ],
+    "downloads": "258",
+    "featured": false,
+    "likes": 34,
+    "comments": 0,
+    "slug": "ciboulette-6",
+    "publishedAt": "2021-05-04T21:45:00.018Z",
+    "user": {
+        "name": "Gors",
+        "slug": "spritergors"
+    },
+    "title": "Ciboulette 6",
+    "hashtag": "ciboulette",
+    "description": "Ciboulette (French chives) are known in culinary for its fresh, mild onion-like flavor and are employed in many dishes throughout the world. This palette captures the greenery of the leaves, the brown dirt and the delicate pink flowers to compose a pastel-like, well-rounded palette which goes well with mellow, natural compositions but will also work for slimes and grime.",
+    "creator": true,
+    "createdAt": "2021-05-02T20:12:51.779Z",
+    "numberOfColors": 6,
+    "isNew": false,
+    "sortNewest": false,
+    "examples": [
+        {
+            "_id": "608f081ab903d050a7712ccb",
+            "likes": 0,
+            "comments": 0,
+            "approval": "approved",
+            "title": "Ciboulette 6 Palette Example by Gors",
+            "slug": "ciboulette-6-palette-example-by-gors",
+            "publishedAt": "2021-05-02T22:20:00.019Z",
+            "user": {
+                "name": "Gors",
+                "slug": "spritergors"
+            },
+            "parent": "608f07c3b903d050a7712cc4",
+            "image": "palette-examples/ciboulette-6-palette-example-by-gors-608f08.png",
+            "creator": true,
+            "description": "Created by several TSR members: Diogalesu, E-man, epicebilninja, Mighty Jetters, Kitsu, Phantom K, Ploaj, Recolorme, Sevenstitch, Terminal, Zadaben and me.",
+            "createdAt": "2021-05-02T20:14:18.893Z",
+            "updatedAt": "2021-05-02T22:20:00.020Z",
+            "__v": 0,
+            "thumbnailOffset": 0,
+            "descriptionText": "Created by several TSR members: Diogalesu, E-man, epicebilninja, Mighty Jetters, Kitsu, Phantom K, Ploaj, Recolorme, Sevenstitch, Terminal, Zadaben and me."
+        }
+    ],
+    "colorsArray": [
+        "ffffff",
+        "f7c8dd",
+        "b5c4c4",
+        "599b86",
+        "6868ac",
+        "552f30"
+    ],
+    "totalPalettes": 2151,
+    "minWidth": 16.666666666666668,
+    "height": 32,
+    "likebutton": {
+        "content": "608f07c3b903d050a7712cc4",
+        "type": "palettes",
+        "count": 34,
+        "liked": 0
+    },
+    "thumbnailWidth": 100
+}
