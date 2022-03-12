@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: lospec-palette-scrapper
+Upstream-Contact: Agathe Porte <microjoe@microjoe.org>
+Source: https://github.com/MicroJoe/lospec-palette-scrapper
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
