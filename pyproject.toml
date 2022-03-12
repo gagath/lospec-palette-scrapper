@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "lospec-palette-scrapper"
 version = "0.1.0"
-description = "A web scrapper for the LOSPEC color palettes. "
+description = "A web scrapper for the Lospec color palettes."
 authors = ["Agathe Porte <microjoe@microjoe.org>"]
 readme = "README.md"
 
