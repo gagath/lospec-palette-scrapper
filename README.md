@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2022 Agathe Porte <microjoe@microjoe.org>
+
+SPDX-License-Identifier: MIT
+-->
+
 <p align="center">
   <img alt="Logo" src="docs/logo.png">
 </p>

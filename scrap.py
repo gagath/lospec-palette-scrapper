@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+# SPDX-FileCopyrightText: 2022 Agathe Porte <microjoe@microjoe.org>
+#
+# SPDX-License-Identifier: MIT
+
 from pathlib import Path
 import asyncio
 import json

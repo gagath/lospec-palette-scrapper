@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2022 Agathe Porte <microjoe@microjoe.org>
+#
+# SPDX-License-Identifier: MIT
+
 [tool.poetry]
 name = "lospec-palette-scrapper"
 version = "0.1.0"
