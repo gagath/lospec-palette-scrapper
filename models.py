@@ -36,6 +36,7 @@ class Palette:
     # examples = relationship(...)
 
     tags = relationship("Tag", back_populates="palette")
+    colors = relationship("Color", back_populates="palette")
 
 
 @mapper_registry.mapped
@@ -47,6 +48,17 @@ class Tag:
     name = Column(String)
 
     palette = relationship("Palette", back_populates="tags")
+
+
+@mapper_registry.mapped
+class Color:
+    __tablename__ = "color"
+
+    id = Column(Integer, primary_key=True)
+    palette_hashtag = Column(String, ForeignKey("palette.hashtag"))
+    value = Column(String)
+
+    palette = relationship("Palette", back_populates="colors")
 
 
 def create_db_memory(echo=False):
@@ -102,6 +114,8 @@ def import_palette(session, path):
 
         for t in doc["tags"]:
             obj.tags.append(Tag(name=t))
+        for c in doc["colors"]:
+            obj.colors.append(Color(value=c))
 
         session.merge(obj)
     except sqlalchemy.exc.StatementError:
