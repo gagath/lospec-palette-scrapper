@@ -99,6 +99,10 @@ def import_palette(session, path):
 
     try:
         obj = Palette(**tmp)
+
+        for t in doc["tags"]:
+            obj.tags.append(Tag(name=t))
+
         session.merge(obj)
     except sqlalchemy.exc.StatementError:
         import pprint
