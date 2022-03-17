@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2022 Agathe Porte <microjoe@microjoe.org>
+#
+# SPDX-License-Identifier: MIT
+
 """${message}
 
 Revision ID: ${up_revision}
