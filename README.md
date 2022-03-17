@@ -14,7 +14,7 @@ A web scrapper for the [Lospec color palettes](https://lospec.com/palette-list).
 
 ## Rationale
 
-The [palettes](https://lospec.com/palette-list) on [Lospec](https://lospec.com/) are a great resource for pixel artists to use. However, one may not want to have all of the other bells of whistles of the Lospec website ([tutorials](https://lospec.com/pixel-art-tutorials), [jobs (??)](https://lospec.com/jobs)…). The goal of this software is to make all of the listed palettes on Lospec available offline for users. They may even be able to reuse the data and make nice software to browse the data, without all of the *web cr\*p*.
+The [palettes](https://lospec.com/palette-list) on [Lospec](https://lospec.com/) are a great resource for pixel artists to use. However, one may not want to have all of the other bells of whistles of the Lospec website ([tutorials](https://lospec.com/pixel-art-tutorials), [jobs (??)](https://lospec.com/jobs)…). The goal of this software is to make all of the listed palettes on Lospec available offline for users. They may even be able to reuse the data and make nice software to browse it offline.
 
 ## SQLite DB
 
@@ -46,7 +46,7 @@ This can usually be done using the `poetry run ./scrap.py` command.
 
 ### Rate-limit
 
-The implementation has been written in a fully-[async](https://docs.python.org/3/library/asyncio.html) way. This was initially done because the web server took almost one second to answer every palette page request. However, it turned out that sending many requests in parallel to the web server would almost *bring it down* (*web cr\*p*, remember?). So, a **rate-limit** mechanism has been implemented in order to not make the server crash.
+The implementation has been written in a fully-[async](https://docs.python.org/3/library/asyncio.html) way. This was initially done because the web server took almost one second to answer every palette page request. However, it turned out that sending many requests in parallel to the web server would almost *bring it down*. So, a **rate-limit** mechanism (1 request every 10 seconds) has been implemented in order to protect the server.
 
 ## License
 
