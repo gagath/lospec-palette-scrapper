@@ -13,6 +13,8 @@ readme = "README.md"
 python = "^3.9"
 aiohttp = "^3.8.1"
 SQLAlchemy = "^1.4.31"
+alembic = "^1.7.7"
+python-dateutil = "^2.8.2"
 
 [tool.poetry.group.dev.dependencies]
 black = "^22.1.0"
