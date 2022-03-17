@@ -16,6 +16,10 @@ A web scrapper for the [Lospec color palettes](https://lospec.com/palette-list).
 
 The [palettes](https://lospec.com/palette-list) on [Lospec](https://lospec.com/) are a great resource for pixel artists to use. However, one may not want to have all of the other bells of whistles of the Lospec website ([tutorials](https://lospec.com/pixel-art-tutorials), [jobs (??)](https://lospec.com/jobs)…). The goal of this software is to make all of the listed palettes on Lospec available offline for users. They may even be able to reuse the data and make nice software to browse the data, without all of the *web cr\*p*.
 
+## SQLite DB
+
+A SQLite database generated from the scrapped data [is available](lospec-palettes.sqlite).
+
 ## Data
 
 To mitigate possible future scrapping blocking policy, the scrapped data is available in the `palettes/` directory.
@@ -49,3 +53,5 @@ The implementation has been written in a fully-[async](https://docs.python.org/3
 This software is licensed under the [MIT license](LICENSES/MIT.txt).
 
 The provided scrapped data is placed under [CC0-1.0 license](LICENSES/CC0-1.0.txt).
+
+The generated SQLite database is placed under [ODbL-1.0 license](LICENSES/ODbL-1.0.txt).
