@@ -50,7 +50,7 @@ This can usually be done using the `poetry run ./scrap.py` command.
 
 The implementation has been written in a fully-[async](https://docs.python.org/3/library/asyncio.html) way. This was initially done because the web server took almost one second to answer every palette page request. However, it turned out that sending many requests in parallel to the web server would almost *bring it down*. So, a **rate-limit** mechanism (1 request every 10 seconds) has been implemented in order to protect the server.
 
-## License
+## Licenses
 
 This project is [REUSE-compliant](https://reuse.software/).
 
