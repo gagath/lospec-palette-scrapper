@@ -20,6 +20,8 @@ The [palettes](https://lospec.com/palette-list) on [Lospec](https://lospec.com/)
 
 A SQLite database generated from the scrapped data [is available](lospec-palettes.sqlite).
 
+![First 16 rows of the 'palette' SQL table](docs/sql-entries.png)
+
 ## Data
 
 To mitigate possible future scrapping blocking policy, the scrapped data is available in the `palettes/` directory.
