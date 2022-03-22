@@ -10,6 +10,8 @@ SPDX-License-Identifier: MIT
 
 # Lospec palette scrapper
 
+[![REUSE status](https://api.reuse.software/badge/github.com/MicroJoe/lospec-palette-scrapper)](https://api.reuse.software/info/github.com/MicroJoe/lospec-palette-scrapper)
+
 A web scrapper for the [Lospec color palettes](https://lospec.com/palette-list).
 
 ## Rationale
