@@ -52,8 +52,10 @@ The implementation has been written in a fully-[async](https://docs.python.org/3
 
 ## License
 
-This software is licensed under the [MIT license](LICENSES/MIT.txt).
+This project is [REUSE-compliant](https://reuse.software/).
 
-The provided scrapped data is placed under [CC0-1.0 license](LICENSES/CC0-1.0.txt).
-
-The generated SQLite database is placed under [ODbL-1.0 license](LICENSES/ODbL-1.0.txt).
+| Component | License                           |
+|-----------|-----------------------------------|
+| Software  | [MIT](LICENSES/MIT.txt)           |
+| Data      | [CC0-1.0](LICENSES/CC0-1.0.txt)   |
+| Database  | [ODbL-1.0](LICENSES/ODbL-1.0.txt) |
