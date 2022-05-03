@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2022 Agathe Porte <microjoe@microjoe.org>
+#
+# SPDX-License-Identifier: MIT
+
 [[package]]
 name = "aiohttp"
 version = "3.8.1"
